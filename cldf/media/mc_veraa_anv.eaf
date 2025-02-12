@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-06-16T02:50:30+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2021-03-07T14:26:43+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_veraa_anv.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:467666cb-037c-44c1-b7d6-8cf6f02ad6db</PROPERTY>
@@ -1318,8 +1318,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14695" ANNOTATION_REF="a14573">
-                <ANNOTATION_VALUE>#
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8381,9 +8380,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16105" ANNOTATION_REF="a14710">
-                <ANNOTATION_VALUE>POSS.GEN-CS
-
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>POSS.GEN-CS</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8968,8 +8965,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16221" ANNOTATION_REF="a14826">
-                <ANNOTATION_VALUE>POSS.GEN-CS
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>POSS.GEN-CS</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10659,8 +10655,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16559" ANNOTATION_REF="a15164">
-                <ANNOTATION_VALUE>PRO.OBL
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PRO.OBL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10850,8 +10845,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16597" ANNOTATION_REF="a15202">
-                <ANNOTATION_VALUE>people
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>people</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10956,8 +10950,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16618" ANNOTATION_REF="a15223">
-                <ANNOTATION_VALUE>QUOT
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>QUOT</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14242,8 +14235,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17274" ANNOTATION_REF="a15879">
-                <ANNOTATION_VALUE>CC
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>CC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15300,8 +15292,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17485" ANNOTATION_REF="a16090">
-                <ANNOTATION_VALUE>#nc
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

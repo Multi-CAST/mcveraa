@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-06-18T21:48:59+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2021-03-07T14:27:18+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_veraa_gabg.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ee8aa9d4-a960-4196-9220-1889e93944ef</PROPERTY>
@@ -1417,8 +1417,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8672" ANNOTATION_REF="a4389">
-                <ANNOTATION_VALUE>gil ēn qaran̄a ne vōwal kēnē'
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>gil ēn qaran̄a ne vōwal kēnē'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1478,8 +1477,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8684" ANNOTATION_REF="a4401">
-                <ANNOTATION_VALUE>si nikē 'ēn'ēn menteg qiri 'enei
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>si nikē 'ēn'ēn menteg qiri 'enei</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8718,8 +8716,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10121" ANNOTATION_REF="a8890">
-                <ANNOTATION_VALUE>good
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>good</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9779,8 +9776,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10332" ANNOTATION_REF="a9101">
-                <ANNOTATION_VALUE>good
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>good</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10040,8 +10036,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10384" ANNOTATION_REF="a9153">
-                <ANNOTATION_VALUE>NUM-one
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>NUM-one</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11836,8 +11831,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10740" ANNOTATION_REF="a9509">
-                <ANNOTATION_VALUE>know
-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>know</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21815,8 +21809,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13200" ANNOTATION_REF="a8590">
-                <ANNOTATION_VALUE>If I see that the reef is getting flooded, I will ... 
-I will tell you immediately."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>If I see that the reef is getting flooded, I will ... I will tell you immediately."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21976,8 +21969,7 @@ I will tell you immediately."</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13232" ANNOTATION_REF="a8622">
-                <ANNOTATION_VALUE>"Oh, over there &lt;wōl&gt; is 
-my garden.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh, over there &lt;wōl&gt; is my garden.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
