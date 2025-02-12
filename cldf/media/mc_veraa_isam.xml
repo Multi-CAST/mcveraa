@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="1907">
     <corpus c_name="veraa">
         <text t_name="isam" annotators="Stefan Schnell" speaker="VR06">
             <file f_name="mc_veraa_isam" audio="mc_veraa_isam.wav" updated="2019-05-08">

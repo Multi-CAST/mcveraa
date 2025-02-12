@@ -328,8 +328,8 @@ veraa	pala	0035	ZERO	ZERO	0.h:s	0	h	s	10005
 veraa	pala	0035	van	go	v:pred	v		pred		
 veraa	pala	0035	van	go	nc	nc				
 veraa	pala	0035	va-van	RED-go	other	other				
-veraa	pala	0036	#	#	##	##			10005	
-veraa	pala	0036	duru	3DL	pro.h:s	pro	h	s		
+veraa	pala	0036	#	#	##	##				
+veraa	pala	0036	duru	3DL	pro.h:s	pro	h	s	10005	
 veraa	pala	0036	=m	=TAM1	=lv	=lv				
 veraa	pala	0036	va-van	RED-go	v:pred	v		pred		
 veraa	pala	0036	ma	hither	rv	rv				

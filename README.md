@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Schnell, Stefan. 2019. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)
+  > Schnell, Stefan. 2019. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
