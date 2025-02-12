@@ -1,316 +1,307 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
-veraa	hhak	0001	##		##	##				
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+veraa	hhak	0001	#	#	##	##				
 veraa	hhak	0001	qōn̄	night	np:other	np		other		
 veraa	hhak	0001	ne	NUM.ART	rn	rn				
 veraa	hhak	0001	vōwal	NUM-one	rn	rn				
-veraa	hhak	0001	'ama'	devil	np.d:pred	np	d	pred		
+veraa	hhak	0001	'ama'	devil	np.d:pred	np	d	pred	5001	new
 veraa	hhak	0001	kurkur	RED:devour	rn	rn				
-veraa	hhak	0002	##		##	##				
-veraa	hhak	0002	di	3SG	pro.d:a	pro	d	a		
+veraa	hhak	0002	#	#	##	##				
+veraa	hhak	0002	di	3SG	pro.d:a	pro	d	a	5001	
 veraa	hhak	0002	ga	STAT	lv	lv				
 veraa	hhak	0002	kurkur	RED:devour	v:pred	v		pred		
 veraa	hhak	0002	ēn	ART	ln	ln				
 veraa	hhak	0002	'erē	PL	ln	ln				
 veraa	hhak	0002	'an̄sara	person	np.h:p	np	h	p		
-veraa	hhak	0002	##		##	##				
-veraa	hhak	0002	di	3SG	pro.d:a	pro	d	a		
+veraa	hhak	0002	#	#	##	##				
+veraa	hhak	0002	di	3SG	pro.d:a	pro	d	a	5001	
 veraa	hhak	0002	ga	STAT	lv	lv				
 veraa	hhak	0002	kur	devour	v:pred	v		pred		
 veraa	hhak	0002	ēn	ART	ln	ln				
-veraa	hhak	0002	'an̄sara	person	np.h:p	np	h	p		
+veraa	hhak	0002	'an̄sara	person	np.h:p	np	h	p	5002	new
 veraa	hhak	0002	deln̄e	around	adp	adp				
 veraa	hhak	0002	=n	=ART	=ln	=ln				
-veraa	hhak	0002	Vunu	Vunu	np:l	np		l		
+veraa	hhak	0002	Vunu	Vunu	np:l	np		l	5003	unused
 veraa	hhak	0002	Lava	Lava	rn	rn				
-veraa	hhak	0003	##		##	##				
-veraa	hhak	0003	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0003	#	#	##	##				
+veraa	hhak	0003	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0003	=m	=TAM1	=lv	=lv				
 veraa	hhak	0003	kur	devour	v:pred	v		pred		
-veraa	hhak	0003	...	...	x	x				
-veraa	hhak	0003	##		##	##				
-veraa	hhak	0003	di	3SG	pro.d:a	pro	d	a		
+veraa	hhak	0003	#	#	##	##				
+veraa	hhak	0003	di	3SG	pro.d:a	pro	d	a	5001	
 veraa	hhak	0003	=m	=TAM1	=lv	=lv				
 veraa	hhak	0003	qē'ēg	begin	v:pred	v		pred		
 veraa	hhak	0003	kur	devour	rv	rv				
 veraa	hhak	0003	ēn	ART	ln	ln				
-veraa	hhak	0003	'a...	HES	nc	nc				
+veraa	hhak	0003	'a	HES	nc	nc				
 veraa	hhak	0003	ēn	ART	nc	nc				
 veraa	hhak	0003	'erē	PL	ln	ln				
-veraa	hhak	0003	'an̄sara	person	np.h:p	np	h	p		
+veraa	hhak	0003	'an̄sara	person	np.h:p	np	h	p	5004	new
 veraa	hhak	0003	lē	LOC	adp	adp				
 veraa	hhak	0003	=n	=ART	=ln	=ln				
-veraa	hhak	0003	mē'ē	eye	np:l	np		l		
+veraa	hhak	0003	mē'ē	eye	np:l	np		l	5005	unused
 veraa	hhak	0003	lōo	sun	rn	rn				
-veraa	hhak	0003	##		##	##				
-veraa	hhak	0003	di	3SG	pro.d:a	pro	d	a		
+veraa	hhak	0003	#	#	##	##				
+veraa	hhak	0003	di	3SG	pro.d:a	pro	d	a	5001	
 veraa	hhak	0003	=m	=TAM1	=lv	=lv				
 veraa	hhak	0003	kur	devour	v:pred	v		pred		
 veraa	hhak	0003	kur	devour	nc	nc				
 veraa	hhak	0003	kur	devour	nc	nc				
-veraa	hhak	0003	ZERO		0.h:p	0	h	p		
+veraa	hhak	0003	ZERO	ZERO	0.h:p	0	h	p	5004	
 veraa	hhak	0003	vavavan	go	other	other				
-veraa	hhak	0004	##		##	##				
-veraa	hhak	0004	ZERO		0.d:s	0	d	s		
-veraa	hhak	0004	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0004	#	#	##	##				
+veraa	hhak	0004	ZERO	ZERO	0.d:s	0	d	s	5001	
+veraa	hhak	0004	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0004	din̄	reach	v:pred	v		pred		
 veraa	hhak	0004	ma	hither	rv	rv				
 veraa	hhak	0004	lē	LOC	adp	adp				
 veraa	hhak	0004	=n	=ART	=ln	=ln				
-veraa	hhak	0004	'ōnō	place	np:g	np		g		
+veraa	hhak	0004	'ōnō	place	np:g	np		g	5006	unused
 veraa	hhak	0004	'ul	drown	rn	rn				
 veraa	hhak	0004	nō	POSS.DOM	rn	rn				
 veraa	hhak	0004	lō	sun	rn	rn				
 veraa	hhak	0004	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0004	##		##	##				
+veraa	hhak	0004	#	#	##	##				
 veraa	hhak	0004	n	ART	ln	ln				
-veraa	hhak	0004	vunu	village	np:dt	np		dt		
+veraa	hhak	0004	vunu	village	np:dt	np		dt	5007	new
 veraa	hhak	0004	ne	NUM.ART	rn	rn				
 veraa	hhak	0004	vōwal	NUM-one	rn	rn				
 veraa	hhak	0004	rak	out	rn	rn				
 veraa	hhak	0004	suwēn	DIR<suw>	rn	rn				
-veraa	hhak	0004	di	3SG	pro.d:dt_s	pro	d	dt_s		
+veraa	hhak	0004	di	3SG	pro.d:dt_s	pro	d	dt_s	5001	
 veraa	hhak	0004	rekso	like	other	other				
-veraa	hhak	0004	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0004	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0004	=m	=TAM1	=lv	=lv				
 veraa	hhak	0004	kurkur	RED:devour	v:pred	v		pred		
 veraa	hhak	0004	vavan	RED:go	other	other				
-veraa	hhak	0004	##		##neg	##neg				
+veraa	hhak	0004	#	#	##neg	##neg				
 veraa	hhak	0004	ba	but	other	other				
-veraa	hhak	0004	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0004	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0004	din̄	reach	v:pred	v		pred		
 veraa	hhak	0004	rakrak	out	rv	rv				
 veraa	hhak	0004	'ēn	NY.NEG2	rv	rv				
 veraa	hhak	0004	suwō	DIR<suw>	rv	rv				
-veraa	hhak	0004	lēn...	LOC...	nc	nc				
-veraa	hhak	0004	##		##	##				
+veraa	hhak	0004	lēn	LOC	nc	nc				
+veraa	hhak	0004	#	#	##	##				
 veraa	hhak	0004	qōn	night	np:other	np		other		
 veraa	hhak	0004	ne	NUM.ART	rn	rn				
 veraa	hhak	0004	vōwal	NUM-one	rn	rn				
-veraa	hhak	0005	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0005	dir	3PL	pro.h:s	pro	h	s	5008	new
 veraa	hhak	0005	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0005	mi-mi'ir	RED-sleep	v:pred	v		pred		
 veraa	hhak	0005	'i	DEL	rv	rv				
-veraa	hhak	0005	##		##	##				
+veraa	hhak	0005	#	#	##	##				
 veraa	hhak	0005	n	ART	ln	ln				
-veraa	hhak	0005	'ama'	devil	np.d:s	np	d	s		
+veraa	hhak	0005	'ama'	devil	np.d:s	np	d	s	5001	
 veraa	hhak	0005	kurkur	RED:devour	rn	rn				
-veraa	hhak	0005	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0005	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0005	van	go	v:pred	v		pred		
 veraa	hhak	0005	ma	hither	rv	rv				
 veraa	hhak	0005	sir	for	adp	adp				
-veraa	hhak	0005	dirē	3PL	pl_pro.h:g	pl_pro	h	g		
-veraa	hhak	0006	##		##	##				
-veraa	hhak	0006	ZERO		0.d:s	0	d	s		
+veraa	hhak	0005	dirē	3PL	pro.h:g	pro	h	g	5008	
+veraa	hhak	0006	#	#	##	##				
+veraa	hhak	0006	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0006	van	go	v:pred	v		pred		
 veraa	hhak	0006	ma	hither	rv	rv				
-veraa	hhak	0006	##		##	##				
-veraa	hhak	0006	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0006	#	#	##	##				
+veraa	hhak	0006	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0006	=m	=TAM1	=lv	=lv				
 veraa	hhak	0006	van	go	v:pred	v		pred		
 veraa	hhak	0006	ma	hither	rv	rv				
-veraa	hhak	0006	##		##	##				
-veraa	hhak	0006	ZERO		0.d:s	0	d	s		
+veraa	hhak	0006	#	#	##	##				
+veraa	hhak	0006	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0006	van	go	v:pred	v		pred		
 veraa	hhak	0006	sar	inland	rv	rv				
 veraa	hhak	0006	lē	LOC	adp	adp				
 veraa	hhak	0006	=n	=ART	=ln	=ln				
 veraa	hhak	0006	lōlō	inside	ln	ln				
-veraa	hhak	0006	vunu	village	np:g	np		g		
+veraa	hhak	0006	vunu	village	np:g	np		g	5007	
 veraa	hhak	0006	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:a	0	d	a		
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:a	0	d	a	5001	
 veraa	hhak	0007	kur	devour	v:pred	v		pred		
 veraa	hhak	0007	ēn	ART	ln	ln				
 veraa	hhak	0007	'erē	PL	ln	ln				
-veraa	hhak	0007	'an̄sara	person	np.h:p	np	h	p		
+veraa	hhak	0007	'an̄sara	person	np.h:p	np	h	p	5008	
 veraa	hhak	0007	vavavan	RED:go	other	other				
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:s	0	d	s		
-veraa	hhak	0007	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:s	0	d	s	5001	
+veraa	hhak	0007	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0007	qē'	finish	v:pred	v		pred		
 veraa	hhak	0007	van	go	other	other				
-veraa	hhak	0007	...	...	x	x				
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:a	0	d	a		
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:a	0	d	a	5001	
 veraa	hhak	0007	kur	devour	v:pred	v		pred		
 veraa	hhak	0007	ēn	ART	ln	ln				
-veraa	hhak	0007	tōo	fowl	np:p	np		p		
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:a	0	d	a		
+veraa	hhak	0007	tōo	fowl	np:p	np		p	5009	new
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:a	0	d	a	5001	
 veraa	hhak	0007	kur	devour	v:pred	v		pred		
 veraa	hhak	0007	ēn	ART	ln	ln				
-veraa	hhak	0007	qō	pig	np:p	np		p		
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:a	0	d	a		
+veraa	hhak	0007	qō	pig	np:p	np		p	5010	new
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:a	0	d	a	5001	
 veraa	hhak	0007	kur	devour	v:pred	v		pred		
 veraa	hhak	0007	ēn	ART	ln	ln				
-veraa	hhak	0007	buluk	cow	np:p	np		p		
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0007	buluk	cow	np:p	np		p	5011	new
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0007	=m	=TAM1	=lv	=lv				
 veraa	hhak	0007	kur	devour	v:pred	v		pred		
 veraa	hhak	0007	vavavan	RED:go	other	other				
-veraa	hhak	0007	##		##	##				
-veraa	hhak	0007	ZERO		0.d:s	0	d	s		
+veraa	hhak	0007	#	#	##	##				
+veraa	hhak	0007	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0007	m	TAM1	lv	lv				
 veraa	hhak	0007	qē'	finish	v:pred	v		pred		
-veraa	hhak	0008	##		##	##				
-veraa	hhak	0008	ZERO		0.d:s	0	d	s		
-veraa	hhak	0008	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0008	#	#	##	##				
+veraa	hhak	0008	ZERO	ZERO	0.d:s	0	d	s	5001	
+veraa	hhak	0008	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0008	van	go	v:pred	v		pred		
 veraa	hhak	0008	n	ART	nc	nc				
-veraa	hhak	0008	...	...	nc	nc				
 veraa	hhak	0008	nē	DEM1	nc	nc				
-veraa	hhak	0008	...	...	nc	nc				
-veraa	hhak	0008	##		##	##				
+veraa	hhak	0008	#	#	##	##				
 veraa	hhak	0008	nē	DEM1	dem_pro:s	dem_pro		s		
 veraa	hhak	0008	=n	=ART	=ln	=ln				
-veraa	hhak	0008	vunu	village	np:pred	np		pred		
+veraa	hhak	0008	vunu	village	np:pred	np		pred	5012	new
 veraa	hhak	0008	ne	NUM.ART	rn	rn				
 veraa	hhak	0008	vōwal	NUM-one	rn	rn				
-veraa	hhak	0008	#		##	##				
+veraa	hhak	0008	#	#	##	##				
 veraa	hhak	0008	m	TAM1	lv	lv				
 veraa	hhak	0008	ma'ava	morning	v:pred	v		pred		
-veraa	hhak	0009	##nc		##nc	##nc				
-veraa	hhak	0009	di	3SG	x	x				
-veraa	hhak	0009	=m	=TAM1	x	x				
-veraa	hhak	0009	van	go	x	x				
-veraa	hhak	0009	lik	more	x	x				
-veraa	hhak	0009	lē=n	LOC=ART	x	x				
-veraa	hhak	0009	...	...	x	x				
-veraa	hhak	0009	##		##	##				
-veraa	hhak	0009	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0009	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0009	#	#	#nc	#nc				
+veraa	hhak	0009	di	3SG	nc_pro.h	nc_pro	h		5001	
+veraa	hhak	0009	=m	=TAM1	nc	nc				
+veraa	hhak	0009	van	go	nc	nc				
+veraa	hhak	0009	lik	more	nc	nc				
+veraa	hhak	0009	lē=n	LOC=ART	nc	nc				
+veraa	hhak	0009	#	#	##	##				
+veraa	hhak	0009	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0009	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0009	mi'ir	sleep	v:pred	v		pred		
 veraa	hhak	0009	lē	LOC	adp	adp				
 veraa	hhak	0009	=n	=ART	=ln	=ln				
-veraa	hhak	0009	ge	THING	np:l	np		l		
+veraa	hhak	0009	ge	THING	np:l	np		l	5007	
 veraa	hhak	0009	'ew'i	other	rn	rn				
-veraa	hhak	0009	##		##	##				
+veraa	hhak	0009	#	#	##	##				
 veraa	hhak	0009	m	TAM1	lv	lv				
 veraa	hhak	0009	ma'ava	morning	v:pred	v		pred		
-veraa	hhak	0009	##		##	##				
-veraa	hhak	0009	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0009	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0009	#	#	##	##				
+veraa	hhak	0009	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0009	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0009	van	go	v:pred	v		pred		
 veraa	hhak	0009	lik	more	other	other				
 veraa	hhak	0009	lē	LOC	adp	adp				
 veraa	hhak	0009	=n	=ART	=ln	=ln				
 veraa	hhak	0009	ge	THING	ln	ln				
 veraa	hhak	0009	'ew	other	ln	ln				
-veraa	hhak	0009	vunu	village	np:g	np		g		
+veraa	hhak	0009	vunu	village	np:g	np		g	5012	
 veraa	hhak	0009	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0010	##		##	##				
+veraa	hhak	0010	#	#	##	##				
 veraa	hhak	0010	e	PERS.ART	ln	ln				
 veraa	hhak	0010	raga	people	ln	ln				
-veraa	hhak	0010	sul	folks	np.h:dt_s	np	h	dt_s		
+veraa	hhak	0010	sul	folks	np.h:dt_s	np	h	dt_s	5013	bridging
 veraa	hhak	0010	'alē	ASS	rn	rn				
 veraa	hhak	0010	=n	=ART	=rn	=rn				
-veraa	hhak	0010	vunu	village	rn	rn				
+veraa	hhak	0010	vunu	village	rn	rn			5012	
 veraa	hhak	0010	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0010	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0010	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0010	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0010	rō-rōw	RED-skip	v:pred	v		pred		
 veraa	hhak	0010	va'anē	TEMP.DEM1	other	other				
-veraa	hhak	0011	##		##	##				
-veraa	hhak	0011	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0011	#	#	##	##				
+veraa	hhak	0011	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0011	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0011	rōw	skip	v:pred	v		pred		
 veraa	hhak	0011	den	ABL	adp	adp				
 veraa	hhak	0011	ēn	ART	ln	ln				
-veraa	hhak	0011	vono-re	home-3PL	np:obl	np		obl		
+veraa	hhak	0011	vono	home	np:obl	np		obl	5012	
+veraa	hhak	0011	-re	-3PL	-rn_pro.h:poss	-rn_pro	h	poss	5013	
 veraa	hhak	0011	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0012	##		##	##				
-veraa	hhak	0012	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0012	#	#	##	##				
+veraa	hhak	0012	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0012	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0012	van	go	v:pred	v		pred		
-veraa	hhak	0013	##		##	##				
-veraa	hhak	0013	dirē m	3PL TAM	nc	nc				
-veraa	hhak	0013	(1.7)	(1.7)	nc	nc				
-veraa	hhak	0013	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0013	#	#	##	##				
+veraa	hhak	0013	dirēm	3PL=TAM	nc	nc				
+veraa	hhak	0013	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0013	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0013	van	go	v:pred	v		pred		
-veraa	hhak	0013	(0.6)	(0.6)	nc	nc				
-veraa	hhak	0013	##		##	##				
-veraa	hhak	0013	dirē	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0013	#	#	##	##				
+veraa	hhak	0013	dirē	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0013	so	PROSP	other	other				
 veraa	hhak	0013	=k	=TAM2	=lv	=lv				
 veraa	hhak	0013	suō	paddle	v:pred	v		pred		
 veraa	hhak	0013	qēlēn̄	lost	rv	rv				
 veraa	hhak	0013	den	ABL	adp	adp				
 veraa	hhak	0013	ēn	ART	ln	ln				
-veraa	hhak	0013	...	...	...		..			
 veraa	hhak	0013	nēn	ART	nc	nc				
-veraa	hhak	0013	'ama'	devil	np.d:obl	np	d	obl		
+veraa	hhak	0013	'ama'	devil	np.d:obl	np	d	obl	5001	
 veraa	hhak	0013	kurkur	RED:devour	rn	rn				
-veraa	hhak	0013	##		##	##				
-veraa	hhak	0013	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0013	#	#	##	##				
+veraa	hhak	0013	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0013	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0013	suō	paddle	v:pred	v		pred		
 veraa	hhak	0013	lē	LOC	adp	adp				
 veraa	hhak	0013	=n	=ART	=ln	=ln				
 veraa	hhak	0013	ni'i	small	ln	ln				
-veraa	hhak	0013	vunuō	village	np:g	np		g		
+veraa	hhak	0013	vunuō	village	np:g	np		g	5014	new
 veraa	hhak	0013	ne	NUM.ART	rn	rn				
 veraa	hhak	0013	vōwal	NUM-one	rn	rn				
 veraa	hhak	0013	nē	DEM1	other	other				
-veraa	hhak	0014	##		##	##				
-veraa	hhak	0014	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0014	#	#	##	##				
+veraa	hhak	0014	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0014	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0014	suō	paddle	v:pred	v		pred		
-veraa	hhak	0014	##		##	##				
-veraa	hhak	0014	ZERO		0.h:s	0	h	s		
+veraa	hhak	0014	#	#	##	##				
+veraa	hhak	0014	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0014	su	paddle	v:pred	v		pred		
 veraa	hhak	0014	den	ABL	adp	adp				
 veraa	hhak	0014	anē	DEM1.A	dem1_other:obl	dem1_other		obl		
-veraa	hhak	0014	##		##	##				
+veraa	hhak	0014	#	#	##	##				
 veraa	hhak	0014	=n	=ART	=ln	=ln				
-veraa	hhak	0014	ren̄e	woman	np.h:dt_s	np	h	dt_s		
+veraa	hhak	0014	ren̄e	woman	np.h:dt_s	np	h	dt_s	5015	new
 veraa	hhak	0014	ne	NUM.ART	rn	rn				
 veraa	hhak	0014	vōwal	NUM-one	rn	rn				
-veraa	hhak	0014	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0014	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0014	ga	STAT	lv	lv				
 veraa	hhak	0014	wōtōqtōqō	pregnant	v:pred	v		pred		
-veraa	hhak	0015	##		##	##				
+veraa	hhak	0015	#	#	##	##				
 veraa	hhak	0015	ba	but	other	other				
 veraa	hhak	0015	=n	=ART	=ln	=ln				
-veraa	hhak	0015	ren̄e	woman	np.h:dt_s	np	h	dt_s		
+veraa	hhak	0015	ren̄e	woman	np.h:dt_s	np	h	dt_s	5015	
 veraa	hhak	0015	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0015	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0015	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0015	=s	=SIM	=lv	=lv				
 veraa	hhak	0015	'ōg	stay	v:pred	v		pred		
 veraa	hhak	0015	'i	DEL	rv	rv				
 veraa	hhak	0015	birin̄	COM	adp	adp				
 veraa	hhak	0015	e	PERS.ART	ln	ln				
-veraa	hhak	0015	raga	people	np.h:obl	np	h	obl		
+veraa	hhak	0015	raga	people	np.h:obl	np	h	obl	5013	
 veraa	hhak	0015	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0015	##		##	##				
+veraa	hhak	0015	#	#	##	##				
 veraa	hhak	0015	duru	3DL	nc	nc				
-veraa	hhak	0015	...	...						
 veraa	hhak	0015	duru	3DL	nc	nc				
-veraa	hhak	0015	...	...						
-veraa	hhak	0015	ruwa	two.people	np.h:dt	np	h	dt		
+veraa	hhak	0015	ruwa	two.people	np.h:dt	np	h	dt	5016	bridging
 veraa	hhak	0015	mē	DAT	rn	rn				
 veraa	hhak	0015	=n	=ART	=rn	=rn				
-veraa	hhak	0015	'owo-ruō	diff.sex.sib-3DL	rn	rn				
-veraa	hhak	0016	'am̄an	man	np.h:dt	np	h	dt		
+veraa	hhak	0015	'owo-ruō	different.sex.sibling-3DL	rn	rn				
+veraa	hhak	0016	'am̄an	man	np.h:dt	np	h	dt	5017	new
 veraa	hhak	0016	ne	NUM.ART	rn	rn				
 veraa	hhak	0016	vōwal	NUM-one	rn	rn				
-veraa	hhak	0016	ren̄e	woman	np.h:dt_s	np	h	dt_s		
+veraa	hhak	0016	ren̄e	woman	np.h:dt_s	np	h	dt_s	5015	
 veraa	hhak	0016	ne	NUM.ART	rn	rn				
 veraa	hhak	0016	vōwal	NUM-one	rn	rn				
 veraa	hhak	0016	ba	but	other	other				
 veraa	hhak	0016	=n	=ART	=ln	=ln				
-veraa	hhak	0016	ren̄e	woman	np.h:dt_s	np	h	dt_s		
+veraa	hhak	0016	ren̄e	woman	np.h:dt_s	np	h	dt_s	5015	
 veraa	hhak	0016	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0016	sa	EMPH	rn_sa	rn_sa				
-veraa	hhak	0016	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0016	sa	EMPH	rn	rn				
+veraa	hhak	0016	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0016	=m	=ART	=lv	=lv				
 veraa	hhak	0016	wōtōqtōqō	pregnant	v:pred	v		pred		
-veraa	hhak	0016	ele	??	other	other				
-veraa	hhak	0017	##		##	##				
+veraa	hhak	0016	ele	NC	nc	nc				
+veraa	hhak	0017	#	#	##	##				
 veraa	hhak	0017	n	ART	ln	ln				
-veraa	hhak	0017	qō	pig	np.d:s	np	d	s		
+veraa	hhak	0017	qō	pig	np.d:s	np	d	s	5001	
 veraa	hhak	0017	kurkur	RED:devour	rn	rn				
 veraa	hhak	0017	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0017	=m	=TAM1	=lv	=lv				
@@ -318,2025 +309,2032 @@ veraa	hhak	0017	van	go	v:pred	v		pred
 veraa	hhak	0017	ma	hither	rv	rv				
 veraa	hhak	0017	suwō	DIR<suw>	rv	rv				
 veraa	hhak	0017	sir	for	adp	adp				
-veraa	hhak	0017	dirē	3PL	pl_pro.h:g	pl_pro	h	g		
-veraa	hhak	0017	##		##	##				
-veraa	hhak	0017	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0017	dirē	3PL	pro.h:g	pro	h	g	5013	
+veraa	hhak	0017	#	#	##	##				
+veraa	hhak	0017	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0017	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0017	kalraka	get.up	v:pred	v		pred		
-veraa	hhak	0017	##		##	##				
-veraa	hhak	0017	ZERO		0.h:s	0	h	s		
+veraa	hhak	0017	#	#	##	##				
+veraa	hhak	0017	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0017	=k	=TAM2	=lv	=lv				
 veraa	hhak	0017	suō	paddle	v:pred	v		pred		
 veraa	hhak	0017	suō	paddle	rv	rv				
 veraa	hhak	0017	den	ABL	adp	adp				
 veraa	hhak	0017	ēn	ART	ln	ln				
-veraa	hhak	0017	vunu	village	np:obl	np		obl		
+veraa	hhak	0017	vunu	village	np:obl	np		obl	5012	
 veraa	hhak	0017	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0017	##		##	##				
-veraa	hhak	0017	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0017	#	#	##	##				
+veraa	hhak	0017	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0017	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0017	suō	paddle	v:pred	v		pred		
 veraa	hhak	0017	a	LOC.SP	adp	adp				
-veraa	hhak	0017	Rōu	Rōu	np:g	np		g		
-veraa	hhak	0018	##		##	##				
-veraa	hhak	0018	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0017	Rōu	Rōu	np:g	np		g	5014	
+veraa	hhak	0018	#	#	##	##				
+veraa	hhak	0018	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0018	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0018	van	go	v:pred	v		pred		
 veraa	hhak	0018	a	LOC.SP	adp	adp				
-veraa	hhak	0018	Rōu	Rōu	np:g	np		g		
-veraa	hhak	0019	##		##	##				
+veraa	hhak	0018	Rōu	Rōu	np:g	np		g	5014	
+veraa	hhak	0019	#	#	##	##				
 veraa	hhak	0019	n	ART	ln	ln				
-veraa	hhak	0019	ren̄e	woman	np.h:s	np	h	s		
+veraa	hhak	0019	ren̄e	woman	np.h:s	np	h	s	5015	
 veraa	hhak	0019	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0019	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0019	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0019	vrig	rush	v:pred	v		pred		
 veraa	hhak	0019	ma	hither	rv	rv				
 veraa	hhak	0019	sir	for	adp	adp				
-veraa	hhak	0019	ZERO		0.h:g	0	h	g		
-veraa	hhak	0019	##		##	##				
-veraa	hhak	0019	di	3SG	pro.h:s_ds	pro	h	s_ds		
-veraa	hhak	0019	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	hhak	0019	ZERO	ZERO	0.h:g	0	h	g	5013	
+veraa	hhak	0019	#	#	##	##				
+veraa	hhak	0019	di	3SG	pro.h:s_ds	pro	h	s_ds	5015	
+veraa	hhak	0019	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	hhak	0019	tēk	speak	v:pred	v		pred		
 veraa	hhak	0019	so	QUOT	other	other				
-veraa	hhak	0019	#ds		##ds	##ds				
-veraa	hhak	0019	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0019	#	#	##ds	##ds				
+veraa	hhak	0019	nik	2SG	pro.2:a	pro	2	a	5018	new
 veraa	hhak	0019	me	ABIL1	lv	lv				
 veraa	hhak	0019	le	transfer	v:pred	v		pred		
 veraa	hhak	0019	m̄as	ABIL2	rv	rv				
-veraa	hhak	0019	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0020	##		##	##				
-veraa	hhak	0020	ZERO		0.h:s	0	h	s		
+veraa	hhak	0019	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0020	#	#	##	##				
+veraa	hhak	0020	ZERO	ZERO	0.h:s	0	h	s	5018	
 veraa	hhak	0020	so	QUOT	other:pred	other		pred		
-veraa	hhak	0020	#ds		##ds.neg	##ds.neg				
+veraa	hhak	0020	#	#	##ds.neg	##ds.neg				
 veraa	hhak	0020	oo	no	other	other				
-veraa	hhak	0020	no	1SG	pro.1:a	pro	1	a		
+veraa	hhak	0020	no	1SG	pro.1:a	pro	1	a	5018	
 veraa	hhak	0020	as	INABIL1	lv	lv				
 veraa	hhak	0020	le	transfer	v:pred	v		pred		
 veraa	hhak	0020	m̄as	INABIL2	rv	rv				
-veraa	hhak	0020	nikē	2SG	pro.2:p	pro	2	p		
-veraa	hhak	0020	#ds		##ds	##ds				
+veraa	hhak	0020	nikē	2SG	pro.2:p	pro	2	p	5015	
+veraa	hhak	0020	#	#	##ds	##ds				
 veraa	hhak	0020	sirē	for	other	other				
 veraa	hhak	0020	=n	=ART	=ln	=ln				
-veraa	hhak	0020	nak	canoe	np:s	np		s		
+veraa	hhak	0020	nak	canoe	np:s	np		s	5019	bridging
 veraa	hhak	0020	su-suō	RED-paddle	rn	rn				
 veraa	hhak	0020	ga	STAT	lv	lv				
 veraa	hhak	0020	tik	small	v:pred	v		pred		
-veraa	hhak	0020	#ds		##ds	##ds				
+veraa	hhak	0020	#	#	##ds	##ds				
 veraa	hhak	0020	e	PERS.ART	ln	ln				
 veraa	hhak	0020	raga	people	ln	ln				
-veraa	hhak	0020	ni-ni'i-k	RED-small-1SG	np.h:s-pro.1:poss	np	h	s-pro.1:poss		
+veraa	hhak	0020	ni-ni'i	RED-small	np.h:s	np	h	s	5020	bridging
+veraa	hhak	0020	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	5018	
 veraa	hhak	0020	ga	STAT	lv	lv				
 veraa	hhak	0020	mew	many	v:pred	v		pred		
-veraa	hhak	0021	#ds		##ds	##ds				
-veraa	hhak	0021	ni...	x	nc	nc				
-veraa	hhak	0021	'aqa-m	belly-2SG	np:s-pro.2:poss	np		s-pro.2:poss		
+veraa	hhak	0021	#	#	##ds	##ds				
+veraa	hhak	0021	ni--	NC	nc	nc				
+veraa	hhak	0021	'aqa	belly	np:s	np		s	5021	bridging
+veraa	hhak	0021	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	5015	
 veraa	hhak	0021	ga	STAT	lv	lv				
 veraa	hhak	0021	luwo	big	v:pred	v		pred		
-veraa	hhak	0021	#ds		##ds.neg	##ds.neg				
-veraa	hhak	0021	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0021	#	#	##ds.neg	##ds.neg				
+veraa	hhak	0021	nik	2SG	pro.2:a	pro	2	a	5015	
 veraa	hhak	0021	as	INABIL1	lv	lv				
 veraa	hhak	0021	van	go	v:pred	v		pred		
 veraa	hhak	0021	m̄as	INABIL2	rv	rv				
 veraa	hhak	0021	birin̄	COM	adp	adp				
-veraa	hhak	0021	kamam	1PL.EX	pl_pro.1:obl	pl_pro	1	obl		
-veraa	hhak	0021	#ds		##ds	##ds				
+veraa	hhak	0021	kamam	1PL.EX	pro.1:obl	pro	1	obl	5022	unused
+veraa	hhak	0021	#	#	##ds	##ds				
 veraa	hhak	0021	sirē	for	other	other				
 veraa	hhak	0021	den	ABL	other	other				
-veraa	hhak	0021	nik	2SG	pro.2:s	pro	2	s		
-veraa	hhak	0021	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	hhak	0021	nik	2SG	pro.2:s	pro	2	s	5015	
+veraa	hhak	0021	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	hhak	0021	van	go	v:pred	v		pred		
 veraa	hhak	0021	birin̄	COM	adp	adp				
-veraa	hhak	0021	kamam	1PL.EX	pl_pro.1:obl	pl_pro	1	obl		
-veraa	hhak	0021	#ds		##ds	##ds				
+veraa	hhak	0021	kamam	1PL.EX	pro.1:obl	pro	1	obl	5022	
+veraa	hhak	0021	#	#	##ds	##ds				
 veraa	hhak	0021	n	ART	ln	ln				
-veraa	hhak	0021	nak	canoe	np:s	np		s		
+veraa	hhak	0021	nak	canoe	np:s	np		s	5019	
 veraa	hhak	0021	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0021	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0021	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0021	'ul	drown	v:pred	v		pred		
-veraa	hhak	0022	##		##	##				
+veraa	hhak	0022	#	#	##	##				
 veraa	hhak	0022	alē	alright	other	other				
-veraa	hhak	0022	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0022	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0022	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0022	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0022	sagsag	RED:sit	v:pred	v		pred		
 veraa	hhak	0022	'i	DEL	rv	rv				
-veraa	hhak	0022	##		##	##				
-veraa	hhak	0022	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0022	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0022	#	#	##	##				
+veraa	hhak	0022	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0022	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0022	'ēn	see	v:pred	v		pred		
-veraa	hhak	0022	#cc		#cc	#cc				
+veraa	hhak	0022	#	#	#cc	#cc				
 veraa	hhak	0022	e	PERS.ART	ln	ln				
 veraa	hhak	0022	raga	people	ln	ln				
-veraa	hhak	0022	'aklē-gi	some-3SG	np.h:s-pro.h:poss	np	h	s-pro.h:poss		
+veraa	hhak	0022	'aklē	some	np.h:s	np	h	s		
+veraa	hhak	0022	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5023	bridging
 veraa	hhak	0022	=k	=TAM2	=lv	=lv				
 veraa	hhak	0022	'ēqēl	descend	v:pred	v		pred		
 veraa	hhak	0022	lik	more	rv	rv				
 veraa	hhak	0022	ma	hither	rv	rv				
-veraa	hhak	0023	##		##	##				
-veraa	hhak	0023	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0023	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0023	#	#	##	##				
+veraa	hhak	0023	di	3SG	pro.h:a	pro	h	a	5015	
+veraa	hhak	0023	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0023	vesir	ask	v:pred	v		pred		
-veraa	hhak	0023	dirē	3PL	pl_pro.h:p	pl_pro	h	p		
-veraa	hhak	0023	#ds		##ds	##ds				
-veraa	hhak	0023	kimi	2PL	pl_pro.2:a	pl_pro	2	a		
+veraa	hhak	0023	dirē	3PL	pro.h:p	pro	h	p	5023	
+veraa	hhak	0023	#	#	##ds	##ds				
+veraa	hhak	0023	kimi	2PL	pro.2:a	pro	2	a	5023	
 veraa	hhak	0023	me	ABIL1	lv	lv				
 veraa	hhak	0023	le	transfer	v:pred	v		pred		
 veraa	hhak	0023	m̄as	ABIL2	rv	rv				
-veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0023	#ds		##ds	##ds				
-veraa	hhak	0023	kimi	2PL	pl_pro.2:	pl_pro	2			
+veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0023	#	#	##ds	##ds				
+veraa	hhak	0023	kimi	2PL	pro.2:	pro	2		5023	
 veraa	hhak	0023	me	ABIL1	lv	lv				
 veraa	hhak	0023	magarsine	pity	v:pred	v		pred		
 veraa	hhak	0023	m̄as	ABIL2	rv	rv				
-veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0023	#ds		##ds	##ds				
-veraa	hhak	0023	kimi	2PL	pl_pro.2:a	pl_pro	2	a		
+veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0023	#	#	##ds	##ds				
+veraa	hhak	0023	kimi	2PL	pro.2:a	pro	2	a	5023	
 veraa	hhak	0023	=k	=TAM2	=lv	=lv				
 veraa	hhak	0023	le	transfer	v:pred	v		pred		
-veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0024	#ds		##ds	##ds				
-veraa	hhak	0024	no	1SG	pro.1:a	pro	1	a		
+veraa	hhak	0023	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0024	#	#	##ds	##ds				
+veraa	hhak	0024	no	1SG	pro.1:a	pro	1	a	5015	
 veraa	hhak	0024	=k	=TAM2	=lv	=lv				
 veraa	hhak	0024	van	go	v:pred	v		pred		
 veraa	hhak	0024	'a-'ag	RED-follow	rv	rv				
-veraa	hhak	0024	kimi	2PL	pl_pro.2:p	pl_pro	2	p		
-veraa	hhak	0025	##		##	##				
-veraa	hhak	0025	dirē	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0024	kimi	2PL	pro.2:p	pro	2	p	5023	
+veraa	hhak	0025	#	#	##	##				
+veraa	hhak	0025	dirē	3PL	pro.h:s	pro	h	s	5023	
 veraa	hhak	0025	so	QUOT	other:pred	other		pred		
-veraa	hhak	0025	#ds		##ds	##ds				
+veraa	hhak	0025	#	#	##ds	##ds				
 veraa	hhak	0025	o	INTERJ	other	other				
 veraa	hhak	0025	sirē	for	other	other				
 veraa	hhak	0025	=n	=ART	=ln	=ln				
-veraa	hhak	0025	nak	canoe	np:s	np		s		
+veraa	hhak	0025	nak	canoe	np:s	np		s	5024	bridging
 veraa	hhak	0025	su-suō	RED-paddle	rn	rn				
 veraa	hhak	0025	ga	STAT	lv	lv				
 veraa	hhak	0025	tik	little	v:pred	v		pred		
-veraa	hhak	0025	#ds		##ds	##ds				
+veraa	hhak	0025	#	#	##ds	##ds				
 veraa	hhak	0025	n	ART	ln	ln				
 veraa	hhak	0025	'erē	PL	ln	ln				
-veraa	hhak	0025	ni'i-mam	small-1PL.EX	plnp.h:s-pro.1:poss	plnp	h	s-pro.1:poss		
+veraa	hhak	0025	ni'i	small	np.h:s	np	h	s	5025	bridging
+veraa	hhak	0025	-mam	-1PL.EX	-rn_pro.1:poss	-rn_pro	1	poss	5023	
 veraa	hhak	0025	ga	STAT	lv	lv				
 veraa	hhak	0025	mew	many	v:pred	v		pred		
-veraa	hhak	0026	#ds		##ds.neg	##ds.neg				
-veraa	hhak	0026	kamam	1PL.EX	pl_pro.1:a	pl_pro	1	a		
+veraa	hhak	0026	#	#	##ds.neg	##ds.neg				
+veraa	hhak	0026	kamam	1PL.EX	pro.1:a	pro	1	a	5023	
 veraa	hhak	0026	as	INABIL1	lv	lv				
 veraa	hhak	0026	le	transfer	v:pred	v		pred		
 veraa	hhak	0026	m̄as	INABIL2	rv	rv				
-veraa	hhak	0026	nikē	2SG	pro.2:p	pro	2	p		
-veraa	hhak	0026	#ds		##ds	##ds				
+veraa	hhak	0026	nikē	2SG	pro.2:p	pro	2	p	5015	
+veraa	hhak	0026	#	#	##ds	##ds				
 veraa	hhak	0026	sirē	for	other	other				
 veraa	hhak	0026	=n	=ART	=ln	=ln				
-veraa	hhak	0026	'aqa-m	belly-2SG	np:s-pro.2:poss	np		s-pro.2:poss		
+veraa	hhak	0026	'aqa	belly	np:s	np		s	5021	
+veraa	hhak	0026	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	5015	
 veraa	hhak	0026	ga	STAT	lv	lv				
 veraa	hhak	0026	luwo	big	v:pred	v		pred		
-veraa	hhak	0026	#ds		##ds	##ds				
+veraa	hhak	0026	#	#	##ds	##ds				
 veraa	hhak	0026	den	ABL	other	other				
 veraa	hhak	0026	ēn	ART	ln	ln				
-veraa	hhak	0026	nak	canoe	np:s	np		s		
+veraa	hhak	0026	nak	canoe	np:s	np		s	5024	
 veraa	hhak	0026	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0026	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0026	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0026	'ul	drown	v:pred	v		pred		
-veraa	hhak	0027	##		##	##				
-veraa	hhak	0027	ZERO		0.h:s	0	h	s		
+veraa	hhak	0027	#	#	##	##				
+veraa	hhak	0027	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0027	so	QUOT	other:pred	other		pred		
-veraa	hhak	0027	#ds		##ds	##ds				
+veraa	hhak	0027	#	#	##ds	##ds				
 veraa	hhak	0027	a	INTERJ	other	other				
 veraa	hhak	0027	ga	STAT	lv	lv				
 veraa	hhak	0027	itok	good	v:pred	v		pred		
-veraa	hhak	0028	##		##	##				
-veraa	hhak	0028	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0028	#	#	##	##				
+veraa	hhak	0028	di	3SG	pro.h:a	pro	h	a	5015	
 veraa	hhak	0028	=m	=TAM1	=lv	=lv				
 veraa	hhak	0028	van	go	v:pred	v		pred		
 veraa	hhak	0028	'a-'ag	RED-follow	rv	rv				
-veraa	hhak	0028	dirē	3PL	pl_pro.h:p	pl_pro	h	p		
+veraa	hhak	0028	dirē	3PL	pro.h:p	pro	h	p	5013	
 veraa	hhak	0028	senē	MAN.DEM1	other	other				
-veraa	hhak	0028	##		##	##				
-veraa	hhak	0028	ZERO		0.h:s	0	h	s		
+veraa	hhak	0028	#	#	##	##				
+veraa	hhak	0028	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0028	=m	=TAM1	=lv	=lv				
 veraa	hhak	0028	vavavan	RED-go	v:pred	v		pred		
-veraa	hhak	0028	##		##	##				
+veraa	hhak	0028	#	#	##	##				
 veraa	hhak	0028	e	PERS.ART	ln	ln				
-veraa	hhak	0028	raga	people	np.h:s	np	h	s		
+veraa	hhak	0028	raga	people	np.h:s	np	h	s	5013	
 veraa	hhak	0028	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0028	=k	=TAM2	=lv	=lv				
 veraa	hhak	0028	van	go	v:pred	v		pred		
 veraa	hhak	0028	ma	hither	rv	rv				
-veraa	hhak	0028	##		##	##				
-veraa	hhak	0028	ZERO		0.h:s	0	h	s		
+veraa	hhak	0028	#	#	##	##				
+veraa	hhak	0028	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0028	=k	=TAM2	=lv	=lv				
 veraa	hhak	0028	susu	RED:paddle	v:pred	v		pred		
 veraa	hhak	0028	qē'	finish	rv	rv				
-veraa	hhak	0029	##		##	##				
-veraa	hhak	0029	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0029	#	#	##	##				
+veraa	hhak	0029	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0029	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0029	su	paddle	v:pred	v		pred		
 veraa	hhak	0029	qē'	finish	rv	rv				
 veraa	hhak	0029	rōw	seawards	rv	rv				
-veraa	hhak	0030	##		##	##				
+veraa	hhak	0030	#	#	##	##				
 veraa	hhak	0030	lē	LOC	adp	adp				
 veraa	hhak	0030	=n	=ART	=ln	=ln				
 veraa	hhak	0030	qōn̄	night	np:other	np		other		
-veraa	hhak	0030	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0030	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0030	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0030	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0030	mi'ir	sleep	v:pred	v		pred		
-veraa	hhak	0031	##		##	##				
-veraa	hhak	0031	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0031	#	#	##	##				
+veraa	hhak	0031	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0031	qōn̄	night	v:pred	v		pred		
 veraa	hhak	0031	ma	hither	rv	rv				
-veraa	hhak	0031	##		##	##				
-veraa	hhak	0031	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0031	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0031	#	#	##	##				
+veraa	hhak	0031	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0031	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0031	mi'ir	sleep	v:pred	v		pred		
 veraa	hhak	0031	va'agēn	TEMP.DEM2	other	other				
-veraa	hhak	0032	##		##	##				
-veraa	hhak	0032	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0032	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0032	#	#	##	##				
+veraa	hhak	0032	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0032	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0032	mi'ir	sleep	v:pred	v		pred		
-veraa	hhak	0033	##		##	##				
-veraa	hhak	0033	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0033	#	#	##	##				
+veraa	hhak	0033	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0033	maran	daylight	v:pred	v		pred		
 veraa	hhak	0033	kel	back	rv	rv				
 veraa	hhak	0033	ma	hither	rv	rv				
-veraa	hhak	0034	#nc		#nc	#nc				
-veraa	hhak	0034	'erē	PL	x	x				
-veraa	hhak	0034	qō'	pig	x	x				
-veraa	hhak	0034	...	...	x	x				
-veraa	hhak	0034	ēn	ART	x	x				
-veraa	hhak	0034	qō'	pig	x	x				
-veraa	hhak	0034	...	...	x	x				
-veraa	hhak	0034	##		##	##				
+veraa	hhak	0034	#	#	#nc	#nc				
+veraa	hhak	0034	'erē	PL	nc	nc				
+veraa	hhak	0034	qō'	pig	nc	nc				
+veraa	hhak	0034	ēn	ART	nc	nc				
+veraa	hhak	0034	qō'	pig	nc	nc				
+veraa	hhak	0034	#	#	##	##				
 veraa	hhak	0034	ēn	ART	ln	ln				
-veraa	hhak	0034	'ama'	devil	np.d:a	np	d	a		
+veraa	hhak	0034	'ama'	devil	np.d:a	np	d	a	5001	
 veraa	hhak	0034	kurkur	RED:devour	rn	rn				
-veraa	hhak	0034	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0034	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0034	van	go	v:pred	v		pred		
 veraa	hhak	0034	siksik	RED:search	rv	rv				
-veraa	hhak	0034	dirē	3PL	pl_pro.h:p	pl_pro	h	p		
+veraa	hhak	0034	dirē	3PL	pro.h:p	pro	h	p	5013	
 veraa	hhak	0034	va'agēn	TEMP.DEM2	other	other				
-veraa	hhak	0034	##		##	##				
-veraa	hhak	0034	ZERO		0.d:s	0	d	s		
+veraa	hhak	0034	#	#	##	##				
+veraa	hhak	0034	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0034	van	go	v:pred	v		pred		
 veraa	hhak	0034	ma	hither	rv	rv				
-veraa	hhak	0034	##		##	##				
+veraa	hhak	0034	#	#	##	##				
 veraa	hhak	0034	ba	but	other	other				
-veraa	hhak	0034	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0034	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0034	man	PFV	lv	lv				
 veraa	hhak	0034	rō-rōw	RED-skip	v:pred	v		pred		
 veraa	hhak	0034	den	ABL	adp	adp				
 veraa	hhak	0034	sa	EMPH	other	other				
 veraa	hhak	0034	=n	=ART	=ln	=ln				
-veraa	hhak	0034	vo-vono-re	RED-home-3PL	np:obl-pro.h:poss	np		obl-pro.h:poss		
-veraa	hhak	0035	##		##	##				
+veraa	hhak	0034	vo-vono	RED-home	np:obl	np		obl	5012	
+veraa	hhak	0034	-re	-3PL	-rn_pro.h:poss	-rn_pro	h	poss	5013	
+veraa	hhak	0035	#	#	##	##				
 veraa	hhak	0035	'alēn	ASS=ART	other	other				
-veraa	hhak	0035	....	....						
 veraa	hhak	0035	n	ART	ln	ln				
-veraa	hhak	0035	'am...	x	nc	nc				
-veraa	hhak	0035	'ama'	devil	np.d:dt_a	np	d	dt_a		
-veraa	hhak	0035	di	3SG	pro.d:a	pro	d	a		
-veraa	hhak	0035	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0035	'am--	NC	nc	nc				
+veraa	hhak	0035	'ama'	devil	np.d:dt_a	np	d	dt_a	5001	
+veraa	hhak	0035	di	3SG	pro.d:a	pro	d	a	5001	
+veraa	hhak	0035	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0035	van	go	v:pred	v		pred		
 veraa	hhak	0035	din̄	reach	rv	rv				
 veraa	hhak	0035	ma	hither	rv	rv				
 veraa	hhak	0035	=n	=ART	=ln	=ln				
-veraa	hhak	0035	vunu	village	np:p	np		p		
+veraa	hhak	0035	vunu	village	np:p	np		p	5012	
 veraa	hhak	0035	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0035	##		##	##				
+veraa	hhak	0035	#	#	##	##				
 veraa	hhak	0035	=n	=ART	=ln	=ln				
-veraa	hhak	0035	ren̄e	woman	np.h:s	np	h	s		
+veraa	hhak	0035	ren̄e	woman	np.h:s	np	h	s	5015	
 veraa	hhak	0035	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0035	man	PFV	lv	lv				
 veraa	hhak	0035	van	go	v:pred	v		pred		
-veraa	hhak	0035	...	...						
-veraa	hhak	0035	##		##	##				
-veraa	hhak	0035	ZERO		0.h:s	0	h	s		
+veraa	hhak	0035	#	#	##	##				
+veraa	hhak	0035	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0035	van	go	v:pred	v		pred		
-veraa	hhak	0035	##		##	##				
-veraa	hhak	0035	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0035	#	#	##	##				
+veraa	hhak	0035	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0035	=m	=TAM1	=lv	=lv				
 veraa	hhak	0035	kal	enter	v:pred	v		pred		
 veraa	hhak	0035	ba'a	into	rv	rv				
 veraa	hhak	0035	lē	LOC	adp	adp				
 veraa	hhak	0035	=n	=ART	=ln	=ln				
-veraa	hhak	0035	qoro	hole	np:g	np		g		
+veraa	hhak	0035	qoro	hole	np:g	np		g	5026	new
 veraa	hhak	0035	liē	cave	rn	rn				
-veraa	hhak	0036	##		##	##				
-veraa	hhak	0036	ZERO		0.h:s	0	h	s		
-veraa	hhak	0036	ka...	x	nc	nc				
+veraa	hhak	0036	#	#	##	##				
+veraa	hhak	0036	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0036	ka--	NC	nc	nc				
 veraa	hhak	0036	kal	enter	v:pred	v		pred		
 veraa	hhak	0036	ba'a	into	rv	rv				
 veraa	hhak	0036	lē	LOC	adp	adp				
 veraa	hhak	0036	=n	=ART	=ln	=ln				
-veraa	hhak	0036	qoro	hole	np:g	np		g		
+veraa	hhak	0036	qoro	hole	np:g	np		g	5026	
 veraa	hhak	0036	liē	cave	rn	rn				
-veraa	hhak	0036	##		##	##				
-veraa	hhak	0036	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0036	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0036	#	#	##	##				
+veraa	hhak	0036	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0036	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0036	'aq'a	duck.away	v:pred	v		pred		
 veraa	hhak	0036	sa	EMPH	other	other				
-veraa	hhak	0036	kēnē	LOC.DEM1	other:l	other		l		
-veraa	hhak	0037	##		##	##				
-veraa	hhak	0037	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0036	kēnē	LOC.DEM1	other:l	other		l	5026	
+veraa	hhak	0037	#	#	##	##				
+veraa	hhak	0037	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0037	=m	=TAM1	=lv	=lv				
 veraa	hhak	0037	'ōgo	stay	v:pred	v		pred		
 veraa	hhak	0037	lē	LOC	adp	adp				
 veraa	hhak	0037	=n	=ART	=ln	=ln				
-veraa	hhak	0037	qoro	hole	np:l	np		l		
+veraa	hhak	0037	qoro	hole	np:l	np		l	5026	
 veraa	hhak	0037	liē	cave	rn	rn				
-veraa	hhak	0037	##		##	##				
-veraa	hhak	0037	ZERO		0.h:s	0	h	s		
-veraa	hhak	0037	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0037	#	#	##	##				
+veraa	hhak	0037	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0037	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0037	'ōgo	stay	v:pred	v		pred		
 veraa	hhak	0037	'ōgo	stay	nc	nc				
 veraa	hhak	0037	'ōgo	stay	nc	nc				
 veraa	hhak	0037	vavavan	RED-go	other	other				
-veraa	hhak	0038	##		##	##				
-veraa	hhak	0038	di ne	3SG TAM2:3SG	nc	nc				
-veraa	hhak	0038	...	...						
-veraa	hhak	0038	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0038	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0038	#	#	##	##				
+veraa	hhak	0038	dine	3SG=TAM2:3SG	nc	nc				
+veraa	hhak	0038	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0038	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0038	rōn̄	feel	v:pred	v		pred		
 veraa	hhak	0038	sier	realise	rv	rv				
-veraa	hhak	0039	##		##	##				
+veraa	hhak	0039	#	#	##	##				
 veraa	hhak	0039	a	HES	nc	nc				
 veraa	hhak	0039	qē'	finish	other	other				
-veraa	hhak	0039	di ne	3SG TAM2:3SG	nc	nc				
-veraa	hhak	0039	...	...						
-veraa	hhak	0039	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0039	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0039	dine	3SG=TAM2:3SG	nc	nc				
+veraa	hhak	0039	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0039	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0039	visis	give.birth	v:pred	v		pred		
-veraa	hhak	0040	##		##	##				
-veraa	hhak	0040	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0040	#	#	##	##				
+veraa	hhak	0040	di	3SG	pro.h:a	pro	h	a	5015	
 veraa	hhak	0040	=m	=TAM1	=lv	=lv				
 veraa	hhak	0040	visis	give.birth	v:pred	v		pred		
 veraa	hhak	0040	ēn	ART	ln	ln				
-veraa	hhak	0040	...	...	...		..			
 veraa	hhak	0040	n	ART	nc	nc				
-veraa	hhak	0040	m̄ērm̄ēre	kid	np.h:p	np	h	p		
+veraa	hhak	0040	m̄ērm̄ēre	kid	np.h:p	np	h	p	5027	new
 veraa	hhak	0040	ne	NUM.ART	rn	rn				
 veraa	hhak	0040	vō-ruō	NUM-two	rn	rn				
 veraa	hhak	0040	=n	=ART	=ln	=ln				
-veraa	hhak	0040	varaba	twins	np.h:appos	np	h	appos		
-veraa	hhak	0041	##		##	##				
-veraa	hhak	0041	varaba	twins	np.h:dt	np	h	dt		
+veraa	hhak	0040	varaba	twins	np.h:appos	np	h	appos	5027	
+veraa	hhak	0041	#	#	##	##				
+veraa	hhak	0041	varaba	twins	np.h:dt	np	h	dt	5027	
 veraa	hhak	0041	ne	NUM.ART	rn	rn				
 veraa	hhak	0041	vō-ruō	NUM-two	rn	rn				
 veraa	hhak	0041	alē	alright	other	other				
-veraa	hhak	0041	d...	x	nc	nc				
-veraa	hhak	0041	ZERO		0.h:s	0	h	s		
+veraa	hhak	0041	d--	NC	nc	nc				
+veraa	hhak	0041	ZERO	ZERO	0.h:s	0	h	s	5028	bridging
 veraa	hhak	0041	'ōgo	stay	v:pred	v		pred		
-veraa	hhak	0041	...	...						
 veraa	hhak	0041	'ōgo	stay	nc	nc				
 veraa	hhak	0041	vavavan	RED-go	other	other				
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0042	qōn̄	night	v:pred	v		pred		
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0042	mul	part	v:pred	v		pred		
 veraa	hhak	0042	ba'a	into	rv	rv				
 veraa	hhak	0042	lē	LOC	adp	adp				
 veraa	hhak	0042	=n	=ART	=ln	=ln				
 veraa	hhak	0042	lōlō	inside	ln	ln				
-veraa	hhak	0042	qoro	hole	np:g	np		g		
+veraa	hhak	0042	qoro	hole	np:g	np		g	5026	
 veraa	hhak	0042	liē	cave	rn	rn				
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0042	maran	daylight	v:pred	v		pred		
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0042	kalu	exit	v:pred	v		pred		
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	ZERO		0.h:s	0	h	s		
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0042	van	go	v:pred	v		pred		
-veraa	hhak	0042	##		##	##				
-veraa	hhak	0042	ZERO		0.h:a	0	h	a		
-veraa	hhak	0042	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0042	#	#	##	##				
+veraa	hhak	0042	ZERO	ZERO	0.h:a	0	h	a	5015	
+veraa	hhak	0042	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0042	lele	RED:transfer	v:pred	v		pred		
-veraa	hhak	0042	go-re	POSS.EAT-3PL	np:p-pro.h:poss	np		p-pro.h:poss		
+veraa	hhak	0042	go	POSS.EAT	np:p	np		p	5029	new
+veraa	hhak	0042	-re	-3PL	-rn_pro.h:poss	-rn_pro	h	poss	5028	
 veraa	hhak	0042	gengen	RED:eat	rn	rn				
 veraa	hhak	0042	lē	LOC	adp	adp				
 veraa	hhak	0042	=n	=ART	=ln	=ln				
-veraa	hhak	0042	'ēqē	taro.garden	np:l	np		l		
-veraa	hhak	0043	##		##	##				
-veraa	hhak	0043	ZERO		0.h:s	0	h	s		
+veraa	hhak	0042	'ēqē	taro.garden	np:l	np		l	5030	new
+veraa	hhak	0043	#	#	##	##				
+veraa	hhak	0043	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0043	van	go	v:pred	v		pred		
 veraa	hhak	0043	din̄	reach	rv	rv				
 veraa	hhak	0043	mule	DIR<mul>	other:g	other		g		
-veraa	hhak	0043	##		##	##				
-veraa	hhak	0043	ZERO		0.h:a	0	h	a		
+veraa	hhak	0043	#	#	##	##				
+veraa	hhak	0043	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0043	le	transfer	v:pred	v		pred		
 veraa	hhak	0043	=n	=ART	=ln	=ln				
-veraa	hhak	0043	gengen	RED:eat	np:p	np		p		
-veraa	hhak	0043	##		##	##				
-veraa	hhak	0043	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0043	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0043	gengen	RED:eat	np:p	np		p	5029	
+veraa	hhak	0043	#	#	##	##				
+veraa	hhak	0043	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0043	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0043	kel	back	v:pred	v		pred		
 veraa	hhak	0043	ma	hither	rv	rv				
 veraa	hhak	0043	lē	LOC	adp	adp				
 veraa	hhak	0043	=n	=ART	=ln	=ln				
-veraa	hhak	0043	qoro	hole	np:g	np		g		
+veraa	hhak	0043	qoro	hole	np:g	np		g	5026	
 veraa	hhak	0043	liē	cave	rn	rn				
 veraa	hhak	0043	sir	for	adp	adp				
 veraa	hhak	0043	e	PERS.ART	ln	ln				
 veraa	hhak	0043	ruwa	two.people	ln	ln				
-veraa	hhak	0043	ni-ni'i-gi	RED-small-3SG	dl_np.h:g-pro.h:poss	dl_np	h	g-pro.h:poss		
-veraa	hhak	0044	##		##	##				
+veraa	hhak	0043	ni-ni'i	RED-small	np.h:g	np	h	g	5027	
+veraa	hhak	0043	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5015	
+veraa	hhak	0044	#	#	##	##				
 veraa	hhak	0044	alē	alright	other	other				
-veraa	hhak	0044	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0044	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0044	di	3SG	pro.h:a	pro	h	a	5015	
+veraa	hhak	0044	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0044	le	transfer	v:pred	v		pred		
 veraa	hhak	0044	=n	=ART	=ln	=ln				
-veraa	hhak	0044	mēdēr	rock	np:p	np		p		
-veraa	hhak	0044	##		##	##				
-veraa	hhak	0044	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0044	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0044	mēdēr	rock	np:p	np		p	5031	new
+veraa	hhak	0044	#	#	##	##				
+veraa	hhak	0044	di	3SG	pro.h:a	pro	h	a	5015	
+veraa	hhak	0044	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0044	burbur	RED:shut	v:pred	v		pred		
 veraa	hhak	0044	gōr	secure	rv	rv				
 veraa	hhak	0044	sa	EMPH	other	other				
 veraa	hhak	0044	=n	=ART	=ln	=ln				
 veraa	hhak	0044	'erē	PL	ln	ln				
-veraa	hhak	0044	qoro	hole	np:p	np		p		
+veraa	hhak	0044	qoro	hole	np:p	np		p	5026	
 veraa	hhak	0044	liē	cave	rn	rn				
-veraa	hhak	0045	##		##	##				
-veraa	hhak	0045	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0045	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0045	#	#	##	##				
+veraa	hhak	0045	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0045	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0045	van	go	v:pred	v		pred		
 veraa	hhak	0045	qēl	descend	rv	rv				
 veraa	hhak	0045	ma	hither	rv	rv				
-veraa	hhak	0045	##		##	##				
-veraa	hhak	0045	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0045	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0045	#	#	##	##				
+veraa	hhak	0045	di	3SG	pro.h:a	pro	h	a	5015	
+veraa	hhak	0045	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0045	le	transfer	v:pred	v		pred		
 veraa	hhak	0045	=n	=ART	=ln	=ln				
-veraa	hhak	0045	mēdēr	rock	np:p	np		p		
+veraa	hhak	0045	mēdēr	rock	np:p	np		p	5032	new
 veraa	hhak	0045	ne	NUM.ART	rn	rn				
 veraa	hhak	0045	vōwal	NUM-one	rn	rn				
-veraa	hhak	0045	##		##	##				
-veraa	hhak	0045	ZERO		0.h:a	0	h	a		
-veraa	hhak	0045	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0045	#	#	##	##				
+veraa	hhak	0045	ZERO	ZERO	0.h:a	0	h	a	5015	
+veraa	hhak	0045	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0045	bur	shut	v:pred	v		pred		
 veraa	hhak	0045	gōr	secure	rv	rv				
-veraa	hhak	0045	ZERO		0:p	0		p		
-veraa	hhak	0046	##		##	##				
-veraa	hhak	0046	ZERO		0.h:s	0	h	s		
-veraa	hhak	0046	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0045	ZERO	ZERO	0:p	0		p	5026	
+veraa	hhak	0046	#	#	##	##				
+veraa	hhak	0046	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0046	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0046	van	go	v:pred	v		pred		
 veraa	hhak	0046	qēl	descend	rv	rv				
 veraa	hhak	0046	suwo	DIR<suw>	other:g	other		g		
-veraa	hhak	0046	##		##	##				
-veraa	hhak	0046	ZERO		0.h:a	0	h	a		
-veraa	hhak	0046	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0046	#	#	##	##				
+veraa	hhak	0046	ZERO	ZERO	0.h:a	0	h	a	5015	
+veraa	hhak	0046	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0046	le	transfer	v:pred	v		pred		
 veraa	hhak	0046	=n	=ART	=ln	=ln				
 veraa	hhak	0046	ge	THING	ln	ln				
 veraa	hhak	0046	'ew'i	other	ln	ln				
-veraa	hhak	0046	mēdēr	rock	np:p	np		p		
-veraa	hhak	0046	##		##	##				
-veraa	hhak	0046	ZERO		0.h:a	0	h	a		
-veraa	hhak	0046	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0046	mēdēr	rock	np:p	np		p	5033	new
+veraa	hhak	0046	#	#	##	##				
+veraa	hhak	0046	ZERO	ZERO	0.h:a	0	h	a	5015	
+veraa	hhak	0046	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0046	bur	shut	v:pred	v		pred		
 veraa	hhak	0046	gōr	secure	rv	rv				
-veraa	hhak	0046	ZERO		0:p	0		p		
-veraa	hhak	0047	##		##	##				
-veraa	hhak	0047	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0046	ZERO	ZERO	0:p	0		p	5026	
+veraa	hhak	0047	#	#	##	##				
+veraa	hhak	0047	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0047	=m	=TAM1	=lv	=lv				
 veraa	hhak	0047	da	do	v:pred	v		pred		
 veraa	hhak	0047	esenē	MAN.DEM1.E	other	other				
 veraa	hhak	0047	din̄	reach	adp	adp				
 veraa	hhak	0047	san̄wul	ten	np:other	np		other		
-veraa	hhak	0048	##		##	##				
-veraa	hhak	0048	mēdēr	rock	np:dt	np		dt		
+veraa	hhak	0048	#	#	##	##				
+veraa	hhak	0048	mēdēr	rock	np:dt	np		dt	5031	
 veraa	hhak	0048	san̄wul	ten	rn	rn				
-veraa	hhak	0048	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0048	di	3SG	pro.h:a	pro	h	a	5015	
 veraa	hhak	0048	=m	=TAM1	=lv	=lv				
 veraa	hhak	0048	mom	put	v:pred	v		pred		
 veraa	hhak	0048	gōr	secure	rv	rv				
-veraa	hhak	0048	ēn(?)	ART	ln	ln				
-veraa	hhak	0048	qoro	hole	np:p	np		p		
+veraa	hhak	0048	ēn?	ART	ln	ln				
+veraa	hhak	0048	qoro	hole	np:p	np		p	5026	
 veraa	hhak	0048	liē	cave	rn	rn				
-veraa	hhak	0049	##		##	##				
+veraa	hhak	0049	#	#	##	##				
 veraa	hhak	0049	alē	alright	other	other				
-veraa	hhak	0049	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0049	dir	3PL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0049	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0049	'ōgo	stay	v:pred	v		pred		
 veraa	hhak	0049	'ōgo	stay	nc	nc				
 veraa	hhak	0049	'ōgo	stay	nc	nc				
-veraa	hhak	0049	##		##	##				
-veraa	hhak	0049	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0049	#	#	##	##				
+veraa	hhak	0049	di	3SG	pro.h:a	pro	h	a	5015	
 veraa	hhak	0049	=m	=TAM1	=lv	=lv				
 veraa	hhak	0049	'ēn	see	v:pred	v		pred		
 veraa	hhak	0049	gōr	secure	rv	rv				
 veraa	hhak	0049	ēn	ART	ln	ln				
 veraa	hhak	0049	'erē	PL	ln	ln				
-veraa	hhak	0049	ni-ni'i-gi	RED-small-3SG	dl_np.h:p-pro.h:poss	dl_np	h	p-pro.h:poss		
+veraa	hhak	0049	ni-ni'i	RED-small	np.h:p	np	h	p	5027	
+veraa	hhak	0049	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5015	
 veraa	hhak	0049	asenē	MAN.DEM1.A	other	other				
 veraa	hhak	0050	van	go	v:pred	v		pred		
 veraa	hhak	0050	vavavan	RED-go	other	other				
-veraa	hhak	0051	##		##	##				
+veraa	hhak	0051	#	#	##	##				
 veraa	hhak	0051	'erē	PL	ln	ln				
-veraa	hhak	0051	ni-ni'i-gi	RED-small-3SG	dl_np.h:s-pro.h:poss	dl_np	h	s-pro.h:poss		
+veraa	hhak	0051	ni-ni'i	RED-small	np.h:s	np	h	s	5027	
+veraa	hhak	0051	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5015	
 veraa	hhak	0051	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0051	=m	=TAM1	=lv	=lv				
 veraa	hhak	0051	luwo	big	v:pred	v		pred		
-veraa	hhak	0051	##		##	##				
-veraa	hhak	0051	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0051	#	#	##	##				
+veraa	hhak	0051	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0051	=m	=TAM1	=lv	=lv				
 veraa	hhak	0051	lu-lumgav	RED-adolescent	v:pred	v		pred		
 veraa	hhak	0051	qē'	finish	rv	rv				
-veraa	hhak	0052	##		##	##				
-veraa	hhak	0052	duru	3DL	dl_pro.h:s_ds	dl_pro	h	s_ds		
+veraa	hhak	0052	#	#	##	##				
+veraa	hhak	0052	duru	3DL	pro.h:s_ds	pro	h	s_ds	5027	
 veraa	hhak	0052	=k	=TAM2	=lv	=lv				
 veraa	hhak	0052	tēk	speak	v:pred	v		pred		
 veraa	hhak	0052	mē	DAT	adp	adp				
-veraa	hhak	0052	di	3SG	pro.h:g	pro	h	g		
+veraa	hhak	0052	di	3SG	pro.h:g	pro	h	g	5015	
 veraa	hhak	0052	so	QUOT	other	other				
-veraa	hhak	0052	#ds		##ds	##ds				
+veraa	hhak	0052	#	#	##ds	##ds				
 veraa	hhak	0052	ba	but	other	other				
 veraa	hhak	0052	e	PERS.ART	ln	ln				
 veraa	hhak	0052	raga	people	ln	ln				
-veraa	hhak	0052	sul	community	np.h:s	np	h	s		
+veraa	hhak	0052	sul	community	np.h:s	np	h	s	5013	
 veraa	hhak	0052	'a	ASS.SP	rn	rn				
-veraa	hhak	0052	kēnē	LOC.DEM1	rn	rn				
+veraa	hhak	0052	kēnē	LOC.DEM1	rn	rn			5012	
 veraa	hhak	0052	a	LOC.SP	adp	adp				
 veraa	hhak	0052	viē	where	other:pred	other		pred		
 veraa	hhak	0052	ē	DEM3	other	other				
-veraa	hhak	0053	##		##	##				
-veraa	hhak	0053	ZERO		0.h:s	0	h	s		
+veraa	hhak	0053	#	#	##	##				
+veraa	hhak	0053	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0053	so	QUOT	other:pred	other		pred		
-veraa	hhak	0053	#ds		##ds	##ds				
+veraa	hhak	0053	#	#	##ds	##ds				
 veraa	hhak	0053	o	INTERJ	other	other				
 veraa	hhak	0053	e	PERS.ART	ln	ln				
 veraa	hhak	0053	raga	people	ln	ln				
-veraa	hhak	0053	sul	folks	np.h:s	np	h	s		
+veraa	hhak	0053	sul	folks	np.h:s	np	h	s	5013	
 veraa	hhak	0053	'a	ASS.SP	rn	rn				
-veraa	hhak	0053	kēgēnē	LOC.DEM2	rn_dem2.loc	rn_dem2	loc			
-veraa	hhak	0053	kamam	1PL.EX:TAM1	pl_pro.1:s	pl_pro	1	s		
+veraa	hhak	0053	kēgēnē	LOC.DEM2	rn_dem2	rn_dem2			5012	
+veraa	hhak	0053	kamam	1PL.EX:TAM1	pro.1:s	pro	1	s	5013	
 veraa	hhak	0053	'ōg	stay	v:pred	v		pred		
 veraa	hhak	0053	'i	DEL	rn	rn				
-veraa	hhak	0053	kēnē	LOC.DEM1	other:l	other		l		
-veraa	hhak	0053	#		#	#				
+veraa	hhak	0053	kēnē	LOC.DEM1	other:l	other		l	5012	
+veraa	hhak	0053	#	#	#	#				
 veraa	hhak	0053	ba	but	other	other				
 veraa	hhak	0053	=n	=ART	nc	nc				
 veraa	hhak	0053	qō	pig	nc	nc				
 veraa	hhak	0053	kurkur	RED:devour	nc	nc				
-veraa	hhak	0053	...	...						
 veraa	hhak	0053	e	COR	nc	nc				
 veraa	hhak	0053	=n	=ART	=ln	=ln				
-veraa	hhak	0053	'ama'	devil	np.d:dt_a	np	d	dt_a		
+veraa	hhak	0053	'ama'	devil	np.d:dt_a	np	d	dt_a	5001	
 veraa	hhak	0053	kurkur	RED:devour	rn	rn				
-veraa	hhak	0053	di	3SG	pro.d:a	pro	d	a		
+veraa	hhak	0053	di	3SG	pro.d:a	pro	d	a	5001	
 veraa	hhak	0053	=m	=TAM1	=lv	=lv				
 veraa	hhak	0053	kurkur	RED:devour	v:pred	v		pred		
 veraa	hhak	0053	e	PERS.ART	ln	ln				
 veraa	hhak	0053	raga	people	ln	ln				
-veraa	hhak	0053	sul	community	np.h:p	np	h	p		
+veraa	hhak	0053	sul	community	np.h:p	np	h	p	5002	
 veraa	hhak	0053	deln̄e	around	adp	adp				
 veraa	hhak	0053	=n	=ART	=ln	=ln				
-veraa	hhak	0053	Vunu	Vunu	np:l	np		l		
+veraa	hhak	0053	Vunu	Vunu	np:l	np		l	5003	
 veraa	hhak	0053	Lava	Lava	rn	rn				
 veraa	hhak	0053	anei	DEM4.A	rn_dem4	rn_dem4				
-veraa	hhak	0054	#ds		##ds	##ds				
-veraa	hhak	0054	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0054	#	#	##ds	##ds				
+veraa	hhak	0054	dir	3PL	pro.h:s	pro	h	s	5002	
 veraa	hhak	0054	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0054	susu	RED:paddle	v:pred	v		pred		
 veraa	hhak	0054	kal	up	rv	rv				
 veraa	hhak	0054	a	LOC.SP	adp	adp				
-veraa	hhak	0054	Ruō	Ruō	np:g	np		g		
-veraa	hhak	0055	#ds		##ds	##ds				
+veraa	hhak	0054	Ruō	Ruō	np:g	np		g	5014	
+veraa	hhak	0055	#	#	##ds	##ds				
 veraa	hhak	0055	ba	but	other	other				
 veraa	hhak	0055	=n	=ART	=ln	=ln				
-veraa	hhak	0055	'owo-k	diff.sex.sib-1SG	np.h:dt-pro.1:poss	np	h	dt-pro.1:poss		
+veraa	hhak	0055	'owo	different.sex.sibling	np.h:dt	np	h	dt	5034	bridging
+veraa	hhak	0055	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	5015	
 veraa	hhak	0055	ne	NUM.ART	rn	rn				
 veraa	hhak	0055	vōwal	NUM-one	rn	rn				
-veraa	hhak	0055	no	1SG	pro.1:s_ds	pro	1	s_ds		
+veraa	hhak	0055	no	1SG	pro.1:s_ds	pro	1	s_ds	5015	
 veraa	hhak	0055	=m	=TAM1	=lv	=lv				
 veraa	hhak	0055	tēk	speak	v:pred	v		pred		
 veraa	hhak	0055	so	QUOT	other	other				
-veraa	hhak	0055	#ds.cc		##ds_cc	##ds_cc				
-veraa	hhak	0055	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0055	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0055	#	#	#ds_cc	#ds_cc				
+veraa	hhak	0055	di	3SG	pro.h:a	pro	h	a	5034	
+veraa	hhak	0055	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0055	le	transfer	v:pred	v		pred		
-veraa	hhak	0055	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0055	#ds.cc		##ds_cc	##ds_cc				
-veraa	hhak	0055	kamak	1PL.EX:TAM2	pro.1:s	pro	1	s		
+veraa	hhak	0055	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0055	#	#	#ds_cc	#ds_cc				
+veraa	hhak	0055	kamak	1PL.EX:TAM2	pro.1:s	pro	1	s	5035	bridging
 veraa	hhak	0055	van	go	v:pred	v		pred		
 veraa	hhak	0055	kal	up	rv	rv				
-veraa	hhak	0055	#ds		##ds	##ds				
-veraa	hhak	0055	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0055	#	#	##ds	##ds				
+veraa	hhak	0055	di	3SG	pro.h:a	pro	h	a	5034	
 veraa	hhak	0055	=m	=TAM1	=lv	=lv				
 veraa	hhak	0055	'awi	dislike	v:pred	v		pred		
-veraa	hhak	0055	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0055	#ds.ac		##ds_ac	##ds_ac				
+veraa	hhak	0055	no	1SG	pro.1:p	pro	1	p	5015	
+veraa	hhak	0055	#	#	#ds_ac	#ds_ac				
 veraa	hhak	0055	sirē	for	other	other				
 veraa	hhak	0055	so	CPL	other	other				
-veraa	hhak	0055	no	1SG	pro.1:s	pro	1	s		
+veraa	hhak	0055	no	1SG	pro.1:s	pro	1	s	5015	
 veraa	hhak	0055	ga	STAT	lv	lv				
 veraa	hhak	0055	'oqo	pregnant	v:pred	v		pred		
-veraa	hhak	0056	#nc		#nc	#nc				
-veraa	hhak	0056	'alē	alright	x	x				
-veraa	hhak	0056	dim	3SG=TAM1	x	x				
-veraa	hhak	0056	...	...	x	x				
-veraa	hhak	0057	##		##	##				
-veraa	hhak	0057	ZERO		0.h:s	0	h	s		
+veraa	hhak	0056	#	#	#nc	#nc				
+veraa	hhak	0056	'alē	alright	nc	nc				
+veraa	hhak	0056	dim	3SG=TAM1	nc	nc				
+veraa	hhak	0057	#	#	##	##				
+veraa	hhak	0057	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0057	so	QUOT	other:pred	other		pred		
-veraa	hhak	0057	#ds		##ds	##ds				
+veraa	hhak	0057	#	#	##ds	##ds				
 veraa	hhak	0057	oo	no	other	other				
 veraa	hhak	0057	ga	STAT	lv	lv				
 veraa	hhak	0057	itok	good	v:pred	v		pred		
-veraa	hhak	0058	##		##	##				
-veraa	hhak	0058	ZERO		0.h:s	0	h	s		
+veraa	hhak	0058	#	#	##	##				
+veraa	hhak	0058	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0058	so	QUOT	other:pred	other		pred		
-veraa	hhak	0058	#ds		##ds	##ds				
+veraa	hhak	0058	#	#	##ds	##ds				
 veraa	hhak	0058	ba	but	other	other				
 veraa	hhak	0058	=n	=ART	=ln	=ln				
-veraa	hhak	0058	'ama'	devil	np.d:s	np	d	s		
+veraa	hhak	0058	'ama'	devil	np.d:s	np	d	s	5001	
 veraa	hhak	0058	kurkur	RED:devour	rn	rn				
-veraa	hhak	0058	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0058	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0058	'ōg'ōg	RED:stay	v:pred	v		pred		
 veraa	hhak	0058	kiviē	where	other:l	other		l		
-veraa	hhak	0058	##		##	##				
-veraa	hhak	0058	ZERO		0.h:s	0	h	s		
+veraa	hhak	0058	#	#	##	##				
+veraa	hhak	0058	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0058	so	QUOT	other:pred	other		pred		
-veraa	hhak	0058	#ds		##ds	##ds				
+veraa	hhak	0058	#	#	##ds	##ds				
 veraa	hhak	0058	oo	no	other	other				
-veraa	hhak	0058	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0058	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0058	ga	STAT	lv	lv				
 veraa	hhak	0058	van	go	v:pred	v		pred		
 veraa	hhak	0058	deln̄e	around	adp	adp				
 veraa	hhak	0058	=n	=ART	=ln	=ln				
-veraa	hhak	0058	Vunu	Vunu	np:obl	np		obl		
+veraa	hhak	0058	Vunu	Vunu	np:obl	np		obl	5003	
 veraa	hhak	0058	Lava	Lava	rn	rn				
-veraa	hhak	0059	##		##	##				
-veraa	hhak	0059	ZERO		0.h:s	0	h	s		
+veraa	hhak	0059	#	#	##	##				
+veraa	hhak	0059	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0059	so	QUOT	other:pred	other		pred		
-veraa	hhak	0059	#ds		##ds	##ds				
+veraa	hhak	0059	#	#	##ds	##ds				
 veraa	hhak	0059	okay	okay	other	other				
-veraa	hhak	0059	#ds		##ds	##ds				
+veraa	hhak	0059	#	#	##ds	##ds				
 veraa	hhak	0059	ga	STAT	lv	lv				
 veraa	hhak	0059	itok	good	v:pred	v		pred		
-veraa	hhak	0059	#ds		##ds	##ds				
+veraa	hhak	0059	#	#	##ds	##ds				
 veraa	hhak	0059	ba	but	other	other				
-veraa	hhak	0059	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0059	nik	2SG	pro.2:a	pro	2	a	5015	
 veraa	hhak	0059	me	ABIL1	lv	lv				
 veraa	hhak	0059	'es	carve	v:pred	v		pred		
 veraa	hhak	0059	m̄as	ABIL2	rv	rv				
-veraa	hhak	0059	mu-maduō	POSS.GEN-1DL.EX	rv-pro.1:poss	rv-pro	1	poss		
+veraa	hhak	0059	mu	POSS.GEN	rv	rv				
+veraa	hhak	0059	-maduō	-1DL.EX	-rv_pro.1:poss	-rv_pro	1	poss	5027	
 veraa	hhak	0059	'e	PART.ART	ln	ln				
-veraa	hhak	0059	vus	bow	np:p	np		p		
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	ZERO		0.h:s	0	h	s		
+veraa	hhak	0059	vus	bow	np:p	np		p	5036	new
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0060	so	QUOT	other:pred	other		pred		
-veraa	hhak	0060	#ds		##ds	##ds				
+veraa	hhak	0060	#	#	##ds	##ds				
 veraa	hhak	0060	'e'e	yes	other:pred	other		pred		
-veraa	hhak	0060	##		##	##				
+veraa	hhak	0060	#	#	##	##				
 veraa	hhak	0060	e	DISC	other	other				
-veraa	hhak	0060	ZERO		0.h:a	0	h	a		
+veraa	hhak	0060	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0060	'es	carve	v:pred	v		pred		
 veraa	hhak	0060	ēn	ART	ln	ln				
-veraa	hhak	0060	mu-ru	POSS.GEN-3DL	ln-pro.h:poss	ln-pro	h	poss		
+veraa	hhak	0060	mu	POSS.GEN	ln	ln				
+veraa	hhak	0060	-ru	-3DL	-ln_pro.h:poss	-ln_pro	h	poss	5027	
 veraa	hhak	0060	=n	=ART	=rn	=rn				
-veraa	hhak	0060	vus	bow	np:p	np		p		
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0060	vus	bow	np:p	np		p	5036	
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0060	=m	=TAM1	=lv	=lv				
 veraa	hhak	0060	'ōgo	stay	v:pred	v		pred		
 veraa	hhak	0060	'ōgo	stay	nc	nc				
 veraa	hhak	0060	'ōgo	stay	nc	nc				
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0060	=k	=TAM2	=lv	=lv				
 veraa	hhak	0060	van	go	v:pred	v		pred		
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	ZERO		0.h:a	0	h	a		
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0060	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0060	karkar	RED:shoot	v:pred	v		pred		
-veraa	hhak	0060	go-r'ōl	POSS.EAT-3TL	ln-pro.h:poss	ln-pro	h	poss		
+veraa	hhak	0060	go	POSS.EAT	ln	ln				
+veraa	hhak	0060	-r'ōl	-3TL	-ln_pro.h:poss	-ln_pro	h	poss	5028	
 veraa	hhak	0060	ēn	ART	ln	ln				
-veraa	hhak	0060	mes	fish	np:p	np		p		
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	ZERO		0.h:s	0	h	s		
+veraa	hhak	0060	mes	fish	np:p	np		p	5037	new
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0060	van	go	v:pred	v		pred		
 veraa	hhak	0060	kal	up	rv	rv				
 veraa	hhak	0060	ma	hither	rv	rv				
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	ZERO		0.h:s	0	h	s		
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	ZERO	ZERO	0.h:s	0	h	s	5028	
 veraa	hhak	0060	'o'ōgo	RED-stay	v:pred	v		pred		
-veraa	hhak	0060	##		##	##				
-veraa	hhak	0060	ZERO		0.h:s	0	h	s		
+veraa	hhak	0060	#	#	##	##				
+veraa	hhak	0060	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0060	so	QUOT	other:pred	other		pred		
-veraa	hhak	0060	#ds		##ds	##ds				
+veraa	hhak	0060	#	#	##ds	##ds				
 veraa	hhak	0060	ba	but	other	other				
-veraa	hhak	0060	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0060	nik	2SG	pro.2:a	pro	2	a	5015	
 veraa	hhak	0060	me	ABIL1	lv	lv				
 veraa	hhak	0060	'es	carve	v:pred	v		pred		
 veraa	hhak	0060	m̄as	ABIL2	rv	rv				
-veraa	hhak	0060	ko-madu	POSS.VES-1DL.EX	ln-pro.1:poss	ln-pro	1	poss		
+veraa	hhak	0060	ko	POSS.VES	ln	ln				
+veraa	hhak	0060	-madu	-1DL.EX	-ln_pro.1:poss	-ln_pro	1	poss	5027	
 veraa	hhak	0060	'e	PART.ART	ln	ln				
-veraa	hhak	0060	nak	canoe	np:p	np		p		
+veraa	hhak	0060	nak	canoe	np:p	np		p	5038	new
 veraa	hhak	0060	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0061	##		##	##				
-veraa	hhak	0061	ZERO		0.h:s	0	h	s		
+veraa	hhak	0061	#	#	##	##				
+veraa	hhak	0061	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0061	so	QUOT	other:pred	other		pred		
-veraa	hhak	0061	#ds		##ds	##ds				
+veraa	hhak	0061	#	#	##ds	##ds				
 veraa	hhak	0061	'e'e	yes	other:pred	other		pred		
-veraa	hhak	0061	#ds		##ds	##ds				
+veraa	hhak	0061	#	#	##ds	##ds				
 veraa	hhak	0061	ga	STAT	lv	lv				
 veraa	hhak	0061	itok	good	v:pred	v		pred		
-veraa	hhak	0061	#ds		##ds	##ds				
-veraa	hhak	0061	no	1SG	pro.1:a	pro	1	a		
+veraa	hhak	0061	#	#	##ds	##ds				
+veraa	hhak	0061	no	1SG	pro.1:a	pro	1	a	5015	
 veraa	hhak	0061	me	ABIL1	lv	lv				
 veraa	hhak	0061	'es	carve	v:pred	v		pred		
 veraa	hhak	0061	m̄as	ABIL2	rv	rv				
-veraa	hhak	0061	ko-mru	POSS.VES-2DL	ln-pro.1:poss	ln-pro	1	poss		
+veraa	hhak	0061	ko	POSS.VES	ln	ln				
+veraa	hhak	0061	-mru	-2DL	-ln_pro.1:poss	-ln_pro	1	poss	5027	
 veraa	hhak	0061	'e	PART.ART	ln	ln				
-veraa	hhak	0061	nak	canoe	np:p	np		p		
+veraa	hhak	0061	nak	canoe	np:p	np		p	5038	
 veraa	hhak	0061	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0062	##		##	##				
+veraa	hhak	0062	#	#	##	##				
 veraa	hhak	0062	alē	alright	other	other				
-veraa	hhak	0062	ZERO		0.h:a	0	h	a		
-veraa	hhak	0062	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0062	ZERO	ZERO	0.h:a	0	h	a	5015	
+veraa	hhak	0062	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0062	'es	carve	v:pred	v		pred		
 veraa	hhak	0062	ēn	ART	ln	ln				
-veraa	hhak	0062	ko-ru	POSS.VES-3DL	ln-pro.h:poss	ln-pro	h	poss		
+veraa	hhak	0062	ko	POSS.VES	ln	ln				
+veraa	hhak	0062	-ru	-3DL	-ln_pro.h:poss	-ln_pro	h	poss	5027	
 veraa	hhak	0062	=n	=ART	=ln	=ln				
-veraa	hhak	0062	nak	canoe	np:p	np		p		
+veraa	hhak	0062	nak	canoe	np:p	np		p	5038	
 veraa	hhak	0062	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0063	##		##	##				
+veraa	hhak	0063	#	#	##	##				
 veraa	hhak	0063	qōn̄	night	np:other	np		other		
 veraa	hhak	0063	ne	NUM.ART	rn	rn				
 veraa	hhak	0063	vō-wal	NUM-one	rn	rn				
-veraa	hhak	0063	di	3SG	pro.h:s_ds	pro	h	s_ds		
-veraa	hhak	0063	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0063	di	3SG	pro.h:s_ds	pro	h	s_ds	5015	
+veraa	hhak	0063	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0063	tēk	speak	v:pred	v		pred		
 veraa	hhak	0063	mē	DAT	adp	adp				
-veraa	hhak	0063	duru	3DL	dl_pro.h:g	dl_pro	h	g		
+veraa	hhak	0063	duru	3DL	pro.h:g	pro	h	g	5027	
 veraa	hhak	0063	so	QUOT	other	other				
-veraa	hhak	0064	##		##	##				
-veraa	hhak	0064	duru	3DL	dl_pro.h:s_ds	dl_pro	h	s_ds		
+veraa	hhak	0064	#	#	##	##				
+veraa	hhak	0064	duru	3DL	pro.h:s_ds	pro	h	s_ds	5027	
 veraa	hhak	0064	=k	=TAM2	=lv	=lv				
 veraa	hhak	0064	tēk	speak	v:pred	v		pred		
 veraa	hhak	0064	mē	DAT	adp	adp				
-veraa	hhak	0064	di	3SG	pro.h:g	pro	h	g		
+veraa	hhak	0064	di	3SG	pro.h:g	pro	h	g	5015	
 veraa	hhak	0064	so	QUOT	other	other				
-veraa	hhak	0064	#ds		##ds	##ds				
-veraa	hhak	0064	kamadu	1DL.EX	dl_pro.1:s	dl_pro	1	s		
+veraa	hhak	0064	#	#	##ds	##ds				
+veraa	hhak	0064	kamadu	1DL.EX	pro.1:s	pro	1	s	5027	
 veraa	hhak	0064	=k	=TAM2	=lv	=lv				
 veraa	hhak	0064	van	go	v:pred	v		pred		
-veraa	hhak	0064	#ds		##ds	##ds				
-veraa	hhak	0064	ZERO		0.1:s	0	1	s		
+veraa	hhak	0064	#	#	##ds	##ds				
+veraa	hhak	0064	ZERO	ZERO	0.1:s	0	1	s	5027	
 veraa	hhak	0064	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0064	go-go'	RED-hook	v:pred	v		pred		
-veraa	hhak	0065	##		##	##				
-veraa	hhak	0065	ZERO		0.h:s	0	h	s		
+veraa	hhak	0065	#	#	##	##				
+veraa	hhak	0065	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0065	so	QUOT	other:pred	other		pred		
-veraa	hhak	0065	#ds		##ds	##ds				
+veraa	hhak	0065	#	#	##ds	##ds				
 veraa	hhak	0065	okay	okay	other:pred	other		pred		
-veraa	hhak	0065	#ds		##ds	##ds				
+veraa	hhak	0065	#	#	##ds	##ds				
 veraa	hhak	0065	ga	STAT	lv	lv				
 veraa	hhak	0065	itok	good	v:pred	v		pred		
-veraa	hhak	0066	##		##	##				
-veraa	hhak	0066	ZERO		0.h:s	0	h	s		
+veraa	hhak	0066	#	#	##	##				
+veraa	hhak	0066	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0066	so	QUOT	other:pred	other		pred		
-veraa	hhak	0066	#ds		##ds	##ds				
-veraa	hhak	0066	kumru	2DL	dl_pro.2:s	dl_pro	2	s		
+veraa	hhak	0066	#	#	##ds	##ds				
+veraa	hhak	0066	kumru	2DL	pro.2:s	pro	2	s	5027	
 veraa	hhak	0066	wo	and	other	other				
 veraa	hhak	0066	=m	=TAM1	=lv	=lv				
 veraa	hhak	0066	van	go	v:pred	v		pred		
-veraa	hhak	0067	#ds		##ds	##ds				
-veraa	hhak	0067	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0067	#	#	##ds	##ds				
+veraa	hhak	0067	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0067	me	FUT	lv	lv				
 veraa	hhak	0067	rōn̄rōn̄	RED:feel	v:pred	v		pred		
 veraa	hhak	0067	gōr	secure	rv	rv				
 veraa	hhak	0067	kel	back	rv	rv				
-veraa	hhak	0067	no	1SG	rv_pro.1:p	rv_pro	1	p		
+veraa	hhak	0067	no	1SG	pro.1:p	pro	1	p	5015	
 veraa	hhak	0067	ma	hither	rv	rv				
-veraa	hhak	0067	#ds.ac		##ds_ac	##ds_ac				
+veraa	hhak	0067	#	#	#ds_ac	#ds_ac				
 veraa	hhak	0067	sirē	for	other	other				
 veraa	hhak	0067	den	ABL	other	other				
 veraa	hhak	0067	ēn	ART	ln	ln				
-veraa	hhak	0067	'ama'	devil	np.d:s	np	d	s		
+veraa	hhak	0067	'ama'	devil	np.d:s	np	d	s	5001	
 veraa	hhak	0067	kurkur	RED:devour	rn	rn				
-veraa	hhak	0067	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0067	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0067	van	go	v:pred	v		pred		
 veraa	hhak	0067	ma	hither	rv	rv				
 veraa	hhak	0067	sir	for	adp	adp				
-veraa	hhak	0067	no	1SG	pro.1:g	pro	1	g		
-veraa	hhak	0068	##		##	##				
-veraa	hhak	0068	ZERO		0.h:s	0	h	s		
+veraa	hhak	0067	no	1SG	pro.1:g	pro	1	g	5015	
+veraa	hhak	0068	#	#	##	##				
+veraa	hhak	0068	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0068	so	QUOT	other:pred	other		pred		
-veraa	hhak	0068	#ds		##ds	##ds				
+veraa	hhak	0068	#	#	##ds	##ds				
 veraa	hhak	0068	ga	STAT	lv	lv				
 veraa	hhak	0068	itok	good	v:pred	v		pred		
-veraa	hhak	0069	##		##	##				
+veraa	hhak	0069	#	#	##	##				
 veraa	hhak	0069	alē	alright	other	other				
 veraa	hhak	0069	=n	=ART	nc	nc				
 veraa	hhak	0069	son	CPL=ART	nc	nc				
 veraa	hhak	0069	e	PERS.ART	ln	ln				
 veraa	hhak	0069	ruwa	two.people	ln	ln				
-veraa	hhak	0069	m̄ērm̄̄erē	kid	dl_np.h:dt	dl_np	h	dt		
+veraa	hhak	0069	m̄ērm̄̄erē	kid	np.h:dt	np	h	dt	5027	
 veraa	hhak	0069	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0069	ge	THING	np.h:dt_poss	np	h	dt_poss		
+veraa	hhak	0069	ge	THING	np.h:dt_poss	np	h	dt_poss	5039	bridging
 veraa	hhak	0069	'ew'i	other	rn	rn				
 veraa	hhak	0069	=n	=ART	=ln	=ln				
-veraa	hhak	0069	so-gi	name-3SG	np:s-pro.h:poss	np		s-pro.h:poss		
+veraa	hhak	0069	so	name	np:s	np		s	5040	bridging
+veraa	hhak	0069	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5039	
 veraa	hhak	0069	e	PERS.ART	ln	ln				
 veraa	hhak	0069	Mulēmulēo	Mulēmulēo	np:pred	np		pred		
-veraa	hhak	0069	##		##	##				
-veraa	hhak	0069	ge	THING	np.h:dt_poss	np	h	dt_poss		
+veraa	hhak	0069	#	#	##	##				
+veraa	hhak	0069	ge	THING	np.h:dt_poss	np	h	dt_poss	5041	bridging
 veraa	hhak	0069	'ew'i	other	rn	rn				
 veraa	hhak	0069	=n	=ART	=ln	=ln				
-veraa	hhak	0069	so-gi	name-3SG	np:s-pro.h:poss	np		s-pro.h:poss		
+veraa	hhak	0069	so	name	np:s	np		s	5042	bridging
+veraa	hhak	0069	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5041	
 veraa	hhak	0069	Mulēmulēmarinō	Mulēmulēmarinō	np:pred	np		pred		
-veraa	hhak	0070	##		##	##				
+veraa	hhak	0070	#	#	##	##				
 veraa	hhak	0070	alē	alright	other	other				
-veraa	hhak	0070	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0070	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0070	=k	=TAM2	=lv	=lv				
 veraa	hhak	0070	kalraka	get.up	v:pred	v		pred		
 veraa	hhak	0070	ne	TAM2:3SG	nc	nc				
-veraa	hhak	0070	...	...						
-veraa	hhak	0070	##		##	##				
-veraa	hhak	0070	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0070	#	#	##	##				
+veraa	hhak	0070	dir	3PL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0070	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0070	'ō-'ōgo	RED-stay	v:pred	v		pred		
-veraa	hhak	0070	##		##	##				
-veraa	hhak	0070	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0070	#	#	##	##				
+veraa	hhak	0070	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0070	revrev	evening	v:pred	v		pred		
-veraa	hhak	0070	##		##	##				
-veraa	hhak	0070	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0070	#	#	##	##				
+veraa	hhak	0070	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0070	=k	=TAM2	=lv	=lv				
 veraa	hhak	0070	van	go	v:pred	v		pred		
 veraa	hhak	0070	va'agēn	TEMP.DEM2	other	other				
-veraa	hhak	0070	##		##	##				
-veraa	hhak	0070	ZERO		0.h:s	0	h	s		
+veraa	hhak	0070	#	#	##	##				
+veraa	hhak	0070	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0070	van	go	v:pred	v		pred		
 veraa	hhak	0070	lē	LOC	adp	adp				
 veraa	hhak	0070	=n	=ART	=ln	=ln				
 veraa	hhak	0070	go-go'	RED-hook	np:g	np		g		
-veraa	hhak	0071	##		##	##				
-veraa	hhak	0071	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0071	#	#	##	##				
+veraa	hhak	0071	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0071	=m	=TAM1	=lv	=lv				
 veraa	hhak	0071	le	transfer	v:pred	v		pred		
 veraa	hhak	0071	=n	=ART	=ln	=ln				
-veraa	hhak	0071	ko-ru	POSS.VES-3DL	ln-pro.h:poss	ln-pro	h	poss		
+veraa	hhak	0071	ko	POSS.VES	ln	ln			5027	
+veraa	hhak	0071	-ru	-3DL	-ln_pro.h:poss	-ln_pro	h	poss	5027	
 veraa	hhak	0071	=n	=ART	=ln	=ln				
-veraa	hhak	0071	nak	canoe	np:p	np		p		
-veraa	hhak	0071	##		##	##				
-veraa	hhak	0071	ZERO		0.h:a	0	h	a		
+veraa	hhak	0071	nak	canoe	np:p	np		p	5038	
+veraa	hhak	0071	#	#	##	##				
+veraa	hhak	0071	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0071	le	transfer	v:pred	v		pred		
 veraa	hhak	0071	=n	=ART	=ln	=ln				
-veraa	hhak	0071	vus	bow	np:p	np		p		
-veraa	hhak	0071	##		##	##				
-veraa	hhak	0071	ZERO		0.h:a	0	h	a		
+veraa	hhak	0071	vus	bow	np:p	np		p	5036	
+veraa	hhak	0071	#	#	##	##				
+veraa	hhak	0071	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0071	le	transfer	v:pred	v		pred		
 veraa	hhak	0071	=n	=ART	=ln	=ln				
-veraa	hhak	0071	ko-ru	POSS.VES-3DL	ln-pro.h:poss	ln-pro	h	poss		
+veraa	hhak	0071	ko	POSS.VES	ln	ln				
+veraa	hhak	0071	-ru	-3DL	-ln_pro.h:poss	-ln_pro	h	poss	5027	
 veraa	hhak	0071	=n	=ART	=ln	=ln				
-veraa	hhak	0071	nak	canoe	np:p	np		p		
+veraa	hhak	0071	nak	canoe	np:p	np		p	5038	
 veraa	hhak	0071	su-suō	RED-paddle	rn	rn				
 veraa	hhak	0071	=n	=ART	=rn	=rn				
 veraa	hhak	0071	'erē	PL	rn	rn				
-veraa	hhak	0071	wo'iqē	arrow	rn	rn				
-veraa	hhak	0071	##		##	##				
-veraa	hhak	0071	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0071	wo'iqē	arrow	rn	rn			5044	bridging
+veraa	hhak	0071	#	#	##	##				
+veraa	hhak	0071	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0071	=k	=TAM2	=lv	=lv				
 veraa	hhak	0071	van	go	v:pred	v		pred		
-veraa	hhak	0072	##		##	##				
-veraa	hhak	0072	ZERO		0.h:s	0	h	s		
+veraa	hhak	0072	#	#	##	##				
+veraa	hhak	0072	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0072	van	go	v:pred	v		pred		
 veraa	hhak	0072	rōw	seawards	rv	rv				
 veraa	hhak	0072	a	LOC.SP	adp	adp				
-veraa	hhak	0072	lo	seaside	np:g	np		g		
-veraa	hhak	0072	##		##	##				
-veraa	hhak	0072	ZERO		0.h:a	0	h	a		
+veraa	hhak	0072	lo	seaside	np:g	np		g	5045	unused
+veraa	hhak	0072	#	#	##	##				
+veraa	hhak	0072	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0072	rēv	drag	v:pred	v		pred		
 veraa	hhak	0072	sur	down	rv	rv				
 veraa	hhak	0072	ēn	ART	ln	ln				
-veraa	hhak	0072	nak	canoe	np:p	np		p		
+veraa	hhak	0072	nak	canoe	np:p	np		p	5038	
 veraa	hhak	0072	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0072	##		##	##				
-veraa	hhak	0072	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0072	#	#	##	##				
+veraa	hhak	0072	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0072	=k	=TAM2	=lv	=lv				
 veraa	hhak	0072	van	go	v:pred	v		pred		
-veraa	hhak	0073	##		##	##				
-veraa	hhak	0073	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0073	#	#	##	##				
+veraa	hhak	0073	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0073	=m	=TAM1	=lv	=lv				
 veraa	hhak	0073	van	go	v:pred	v		pred		
 veraa	hhak	0073	rōw	seawards	rv	rv				
-veraa	hhak	0073	##		##	##				
-veraa	hhak	0073	ZERO		0.h:s	0	h	s		
+veraa	hhak	0073	#	#	##	##				
+veraa	hhak	0073	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0073	salsal	RED:float	v:pred	v		pred		
 veraa	hhak	0073	'i	DEL	rv	rv				
 veraa	hhak	0073	lē	LOC	adp	adp				
 veraa	hhak	0073	=n	=ART	=ln	=ln				
-veraa	hhak	0073	lama	ocean	np:l	np		l		
-veraa	hhak	0074	##		##	##				
-veraa	hhak	0074	ZERO		0.h:s	0	h	s		
+veraa	hhak	0073	lama	ocean	np:l	np		l	5046	unused
+veraa	hhak	0074	#	#	##	##				
+veraa	hhak	0074	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0074	salsal	RED:float	v:pred	v		pred		
 veraa	hhak	0074	'i	DEL	rv	rv				
 veraa	hhak	0074	lē	LOC	adp	adp				
 veraa	hhak	0074	=n	=ART	=ln	=ln				
-veraa	hhak	0074	lama	ocean	np:l	np		l		
-veraa	hhak	0074	##		##	##				
-veraa	hhak	0074	ZERO		0.h:s	0	h	s		
+veraa	hhak	0074	lama	ocean	np:l	np		l	5046	
+veraa	hhak	0074	#	#	##	##				
+veraa	hhak	0074	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0074	rōn̄	feel	v:pred	v		pred		
 veraa	hhak	0074	sar	bushwards	rv	rv				
 veraa	hhak	0074	lē	LOC	adp	adp				
 veraa	hhak	0074	=n	=ART	=ln	=ln				
-veraa	hhak	0074	n̄ērē'iē	coast	np:g	np		g		
-veraa	hhak	0075	##		##	##				
-veraa	hhak	0075	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0074	n̄ērē'iē	coast	np:g	np		g	5047	unused
+veraa	hhak	0075	#	#	##	##				
+veraa	hhak	0075	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0075	=k	=TAM2	=lv	=lv				
 veraa	hhak	0075	go-go'	RED-hook	v:pred	v		pred		
-veraa	hhak	0075	##		##	##				
+veraa	hhak	0075	#	#	##	##				
 veraa	hhak	0075	e	DISC	other	other				
-veraa	hhak	0075	ZERO		0.h:s	0	h	s		
+veraa	hhak	0075	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0075	rōn̄	feel	v:pred	v		pred		
 veraa	hhak	0075	wuva	only	other	other				
-veraa	hhak	0075	##		##	##				
+veraa	hhak	0075	#	#	##	##				
 veraa	hhak	0075	=n	=ART	=ln	=ln				
-veraa	hhak	0075	lasbon	younger.sib	np.h:s_ds	np	h	s_ds		
-veraa	hhak	0076	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0075	lasbon	younger.sib	np.h:s_ds	np	h	s_ds	5039	
+veraa	hhak	0076	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0076	tēk	speak	v:pred	v		pred		
 veraa	hhak	0076	so	QUOT	other	other				
-veraa	hhak	0076	#ds		##ds	##ds				
+veraa	hhak	0076	#	#	##ds	##ds				
 veraa	hhak	0076	hei	INTERJ	other	other				
-veraa	hhak	0076	Marino	Marino	np.h:voc	np	h	voc		
-veraa	hhak	0076	#ds		##ds	##ds				
-veraa	hhak	0076	ZERO		0.2:s	0	2	s		
+veraa	hhak	0076	Marino	Marino	np.h:voc	np	h	voc	5041	
+veraa	hhak	0076	#	#	##ds	##ds				
+veraa	hhak	0076	ZERO	ZERO	0.2:s	0	2	s	5041	
 veraa	hhak	0076	rōn̄	feel	vother:pred	vother		pred		
 veraa	hhak	0076	sarē	bushwards	other:g	other		g		
 veraa	hhak	0076	lēn	LOC=ART	nc	nc				
-veraa	hhak	0076	...	...						
-veraa	hhak	0076	#nc		#nc	#nc				
-veraa	hhak	0076	rōn̄	feel	x	x				
-veraa	hhak	0076	sarē	bushwards	x	x				
-veraa	hhak	0076	ēn	ART	x	x				
-veraa	hhak	0077	#ds		##ds	##ds				
-veraa	hhak	0077	no	1SG	pro.1:s	pro	1	s		
+veraa	hhak	0076	#	#	#nc	#nc				
+veraa	hhak	0076	rōn̄	feel	nc	nc				
+veraa	hhak	0076	sarē	bushwards	nc	nc				
+veraa	hhak	0076	ēn	ART	nc	nc				
+veraa	hhak	0077	#	#	##ds	##ds				
+veraa	hhak	0077	no	1SG	pro.1:s	pro	1	s	5039	
 veraa	hhak	0077	=k	=TAM2	=lv	=lv				
 veraa	hhak	0077	rōn̄	feel	v:pred	v		pred		
 veraa	hhak	0077	'i	DEL	rv	rv				
-veraa	hhak	0077	#cc		##ds_cc	##ds_cc				
+veraa	hhak	0077	#	#	#ds_cc	#ds_cc				
 veraa	hhak	0077	so	CPL	other	other				
 veraa	hhak	0077	=n	=ART	=ln	=ln				
-veraa	hhak	0077	qorotot	noise	np:pred	np		pred		
-veraa	hhak	0077	#ds		##ds	##ds				
+veraa	hhak	0077	qorotot	noise	np:pred	np		pred	5048	new
+veraa	hhak	0077	#	#	##ds	##ds				
 veraa	hhak	0077	e	PERS.ART	ln	ln				
-veraa	hhak	0077	ote	mum	np.h:a	np	h	a		
-veraa	hhak	0077	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0077	ote	mum	np.h:a	np	h	a	5015	
+veraa	hhak	0077	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0077	sursur	RED:sing	v:pred	v		pred		
 veraa	hhak	0077	ēn	ART	ln	ln				
-veraa	hhak	0077	nes	song	np:p	np		p		
-veraa	hhak	0078	#nc		#nc	#nc				
-veraa	hhak	0078	wunva	probably	x	x				
-veraa	hhak	0079	e	PERS.ART	x	x				
-veraa	hhak	0079	'm	HES	x	x				
-veraa	hhak	0079	...	...	x	x				
-veraa	hhak	0079	mm	x	x	x				
-veraa	hhak	0079	Mulē...	x	x	x				
-veraa	hhak	0079	##		##	##				
+veraa	hhak	0077	nes	song	np:p	np		p	5049	new
+veraa	hhak	0078	#	#	#nc	#nc				
+veraa	hhak	0078	wunva	probably	nc	nc				
+veraa	hhak	0079	e	PERS.ART	nc	nc				
+veraa	hhak	0079	'm	HES	nc	nc				
+veraa	hhak	0079	mm--	NC	nc	nc				
+veraa	hhak	0079	Mulē--	NC	nc	nc				
+veraa	hhak	0079	#	#	##	##				
 veraa	hhak	0079	Mulēo	Mulēo	np.h:s	np	h	s		
 veraa	hhak	0079	so	QUOT	other:pred	other		pred		
-veraa	hhak	0079	#ds		##ds	##ds				
+veraa	hhak	0079	#	#	##ds	##ds				
 veraa	hhak	0079	'oo	no	other	other				
-veraa	hhak	0079	#nc		#nc	#nc				
-veraa	hhak	0079	n	ART	x	x				
-veraa	hhak	0080	n...	x	x	x				
-veraa	hhak	0080	e	PERS.ART	x	x				
-veraa	hhak	0080	Mulē...	x	x	x				
-veraa	hhak	0080	##		##	##				
-veraa	hhak	0080	Marino	Marino	np.h:s_ds	np	h	s_ds		
-veraa	hhak	0080	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0079	#	#	#nc	#nc				
+veraa	hhak	0079	n	ART	nc	nc				
+veraa	hhak	0080	n--	NC	nc	nc				
+veraa	hhak	0080	e	PERS.ART	nc	nc				
+veraa	hhak	0080	Mulē--	NC	nc	nc				
+veraa	hhak	0080	#	#	##	##				
+veraa	hhak	0080	Marino	Marino	np.h:s_ds	np	h	s_ds	5041	
+veraa	hhak	0080	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0080	tēk	speak	v:pred	v		pred		
 veraa	hhak	0080	mē	DAT	adp	adp				
-veraa	hhak	0080	di	3SG	pro.h:g	pro	h	g		
+veraa	hhak	0080	di	3SG	pro.h:g	pro	h	g	5039	
 veraa	hhak	0080	so	QUOT	other	other				
-veraa	hhak	0080	#ds		##ds	##ds				
+veraa	hhak	0080	#	#	##ds	##ds				
 veraa	hhak	0080	oo	no	other	other				
-veraa	hhak	0080	ZERO		0:s	0		s		
+veraa	hhak	0080	ZERO	ZERO	0:s	0		s	5048	
 veraa	hhak	0080	=n	=ART	=ln	=ln				
 veraa	hhak	0080	ner	seaoak	np:pred	np		pred		
-veraa	hhak	0080	#nc		#nc	#nc				
-veraa	hhak	0080	n	ART	x	x				
-veraa	hhak	0080	ner	seaoak	x	x				
-veraa	hhak	0080	ne	TAM2:3SG	x	x				
-veraa	hhak	0080	...	...	x	x				
-veraa	hhak	0080	#ds		##ds	##ds				
+veraa	hhak	0080	#	#	#nc	#nc				
+veraa	hhak	0080	n	ART	nc	nc				
+veraa	hhak	0080	ner	seaoak	nc	nc				
+veraa	hhak	0080	ne	TAM2:3SG	nc	nc				
+veraa	hhak	0080	#	#	##ds	##ds				
 veraa	hhak	0080	n	ART	ln	ln				
-veraa	hhak	0080	lan̄	wind	np:a	np		a		
-veraa	hhak	0080	ne	TAM2:3SG	lv-pro:a	lv-pro		a		
+veraa	hhak	0080	lan̄	wind	np:a	np		a	5050	unused
+veraa	hhak	0080	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	hhak	0080	vever	RED-blow	v:pred	v		pred		
 veraa	hhak	0080	ēn	ART	ln	ln				
-veraa	hhak	0080	ner	seaoak	np:p	np		p		
-veraa	hhak	0080	#ds		##ds	##ds				
+veraa	hhak	0080	ner	seaoak	np:p	np		p	5051	new
+veraa	hhak	0080	#	#	##ds	##ds				
 veraa	hhak	0080	n	ART	ln	ln				
-veraa	hhak	0080	ner	seaoak	np:a	np		a		
-veraa	hhak	0080	ne	TAM2:3SG	lv-pro:a	lv-pro		a		
+veraa	hhak	0080	ner	seaoak	np:a	np		a	5051	
+veraa	hhak	0080	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	hhak	0080	da	do	v:pred	v		pred		
 veraa	hhak	0080	=n	=ART	=ln	=ln				
-veraa	hhak	0080	qorotot	noise	np:p	np		p		
-veraa	hhak	0081	##		##	##				
-veraa	hhak	0081	ZERO		0.h:s	0	h	s		
+veraa	hhak	0080	qorotot	noise	np:p	np		p	5048	
+veraa	hhak	0081	#	#	##	##				
+veraa	hhak	0081	ZERO	ZERO	0.h:s	0	h	s	5039	
 veraa	hhak	0081	so	QUOT	other:pred	other		pred		
-veraa	hhak	0081	#ds		##ds	##ds				
+veraa	hhak	0081	#	#	##ds	##ds				
 veraa	hhak	0081	'o	INTERJ	other	other				
-veraa	hhak	0081	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	hhak	0081	gidu	1DL.IN	pro.1:s	pro	1	s	5027	
 veraa	hhak	0081	=k	=TAM2	=lv	=lv				
 veraa	hhak	0081	sal	float	v:pred	v		pred		
-veraa	hhak	0081	#ds		##ds	##ds				
-veraa	hhak	0081	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	hhak	0081	#	#	##ds	##ds				
+veraa	hhak	0081	du	1DL.IN	wpro.1:s	wpro	1	s	5027	
 veraa	hhak	0081	=k	=TAM2	=lv	=lv				
 veraa	hhak	0081	rōn̄da	listen	v:pred	v		pred		
-veraa	hhak	0082	##		##	##				
-veraa	hhak	0082	ZERO		0.h:s	0	h	s		
+veraa	hhak	0082	#	#	##	##				
+veraa	hhak	0082	ZERO	ZERO	0.h:s	0	h	s	5041	
 veraa	hhak	0082	so	QUOT	other:pred	other		pred		
-veraa	hhak	0082	#ds		##ds	##ds				
+veraa	hhak	0082	#	#	##ds	##ds				
 veraa	hhak	0082	'o	INTERJ	other	other				
-veraa	hhak	0082	#ds		##ds	##ds				
-veraa	hhak	0082	ZERO		0.2:s	0	2	s		
+veraa	hhak	0082	#	#	##ds	##ds				
+veraa	hhak	0082	ZERO	ZERO	0.2:s	0	2	s	5039	
 veraa	hhak	0082	go-go'	RED:hook	vother:pred	vother		pred		
 veraa	hhak	0082	den	ABL	rv	rv				
-veraa	hhak	0082	#ds		##ds	##ds				
-veraa	hhak	0082	ZERO		0.2:s	0	2	s		
+veraa	hhak	0082	#	#	##ds	##ds				
+veraa	hhak	0082	ZERO	ZERO	0.2:s	0	2	s	5039	
 veraa	hhak	0082	gogo'	RED:hook	vother:pred	vother		pred		
 veraa	hhak	0082	den	ABL	rv	rv				
-veraa	hhak	0083	##		##	##				
-veraa	hhak	0083	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0083	#	#	##	##				
+veraa	hhak	0083	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0083	=k	=TAM2	=lv	=lv				
 veraa	hhak	0083	salsal	RED:float	v:pred	v		pred		
 veraa	hhak	0083	'i	DEL	rv	rv				
-veraa	hhak	0083	##		##	##				
-veraa	hhak	0083	ZERO		0.h:s	0	h	s		
+veraa	hhak	0083	#	#	##	##				
+veraa	hhak	0083	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0083	=k	=TAM2	=lv	=lv				
 veraa	hhak	0083	rōn̄	feel	v:pred	v		pred		
-veraa	hhak	0084	#ds		##ds	##ds				
+veraa	hhak	0084	#	#	##ds	##ds				
 veraa	hhak	0084	'o	INTERJ	other	other				
-veraa	hhak	0084	ZERO		0.h:a	0	h	a		
+veraa	hhak	0084	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0084	sursur	RED:sing	v:pred	v		pred		
 veraa	hhak	0084	ēn	ART	ln	ln				
-veraa	hhak	0084	nes	song	np:p	np		p		
-veraa	hhak	0085	##		##	##				
+veraa	hhak	0084	nes	song	np:p	np		p	5049	
+veraa	hhak	0085	#	#	##	##				
 veraa	hhak	0085	alē	alright	other	other				
-veraa	hhak	0085	Mari...	x	nc	nc				
-veraa	hhak	0085	Mulē...	x	nc	nc				
-veraa	hhak	0085	Mulēmulēo	Mulēmulēo	np.h:s_ds	np	h	s_ds		
-veraa	hhak	0085	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0085	Mari--	NC	nc	nc				
+veraa	hhak	0085	Mulē--	NC	nc	nc				
+veraa	hhak	0085	Mulēmulēo	Mulēmulēo	np.h:s_ds	np	h	s_ds	5039	
+veraa	hhak	0085	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0085	tēk	speak	v:pred	v		pred		
 veraa	hhak	0085	mē-n	DAT-CS	adp	adp				
 veraa	hhak	0085	e	PERS.ART	ln	ln				
-veraa	hhak	0085	Mulēmarino	Mulēmarino	np.h:g	np	h	g		
+veraa	hhak	0085	Mulēmarino	Mulēmarino	np.h:g	np	h	g	5041	
 veraa	hhak	0085	so	QUOT	other	other				
-veraa	hhak	0086	#ds		##ds	##ds				
-veraa	hhak	0086	Marino	Marino	np.h:voc	np	h	voc		
-veraa	hhak	0086	ZERO		0.2:s	0	2	s		
+veraa	hhak	0086	#	#	##ds	##ds				
+veraa	hhak	0086	Marino	Marino	np.h:voc	np	h	voc	5041	
+veraa	hhak	0086	ZERO	ZERO	0.2:s	0	2	s	5041	
 veraa	hhak	0086	rōn̄	feel	vother:pred	vother		pred		
 veraa	hhak	0086	'i	DEL	rv	rv				
-veraa	hhak	0086	#ds		##ds	##ds				
-veraa	hhak	0086	nē	DEM1	dem1_pro:s	dem1_pro		s		
+veraa	hhak	0086	#	#	##ds	##ds				
+veraa	hhak	0086	nē	DEM1	dem1_pro:s	dem1_pro		s	5048	
 veraa	hhak	0086	=n	=ART	=ln	=ln				
-veraa	hhak	0086	nes	song	np:pred	np		pred		
-veraa	hhak	0086	#ds		##ds	##ds				
+veraa	hhak	0086	nes	song	np:pred	np		pred	5049	
+veraa	hhak	0086	#	#	##ds	##ds				
 veraa	hhak	0086	e	PERS.ART	ln	ln				
-veraa	hhak	0086	ote	mum	np.h:a	np	h	a		
+veraa	hhak	0086	ote	mum	np.h:a	np	h	a	5015	
 veraa	hhak	0086	sa	EMPH	other	other				
 veraa	hhak	0086	=s	=SIM	=lv	=lv				
 veraa	hhak	0086	sursur	RED:sing	v:pred	v		pred		
 veraa	hhak	0086	ēn	ART	ln	ln				
-veraa	hhak	0086	nes	song	np:p	np		p		
+veraa	hhak	0086	nes	song	np:p	np		p	5049	
 veraa	hhak	0086	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0086	##		##	##				
-veraa	hhak	0086	ZERO		0.h:s	0	h	s		
+veraa	hhak	0086	#	#	##	##				
+veraa	hhak	0086	ZERO	ZERO	0.h:s	0	h	s	5039	
 veraa	hhak	0086	so	QUOT	other:pred	other		pred		
-veraa	hhak	0086	#ds		##ds	##ds				
+veraa	hhak	0086	#	#	##ds	##ds				
 veraa	hhak	0086	'o	INTERJ	other	other				
-veraa	hhak	0086	ZERO		0:s	0		s		
+veraa	hhak	0086	ZERO	ZERO	0:s	0		s	5048	
 veraa	hhak	0086	=n	=ART	=ln	=ln				
-veraa	hhak	0086	ner	seaoak	np:pred	np		pred		
+veraa	hhak	0086	ner	seaoak	np:pred	np		pred	5051	
 veraa	hhak	0086	ēn	ART	nc	nc				
-veraa	hhak	0086	ner	seaoak	nc	nc				
-veraa	hhak	0087	#ds		##ds	##ds				
+veraa	hhak	0086	ner	seaoak	nc_np	nc_np			5051	
+veraa	hhak	0087	#	#	##ds	##ds				
 veraa	hhak	0087	e	DISC	other	other				
 veraa	hhak	0087	=n	=ART	=ln	=ln				
 veraa	hhak	0087	masōgi	time	np:other	np		other		
 veraa	hhak	0087	=n	=ART	=ln	=ln				
-veraa	hhak	0087	lan̄	wind	np:a	np		a		
-veraa	hhak	0087	ne	TAM2:3SG	lv-pro:a	lv-pro		a		
+veraa	hhak	0087	lan̄	wind	np:a	np		a	5050	
+veraa	hhak	0087	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	hhak	0087	ver	blow	v:pred	v		pred		
 veraa	hhak	0087	ēn	ART	ln	ln				
-veraa	hhak	0087	ner	seaoak	np:p	np		p		
-veraa	hhak	0087	#ds		##ds	##ds				
+veraa	hhak	0087	ner	seaoak	np:p	np		p	5051	
+veraa	hhak	0087	#	#	##ds	##ds				
 veraa	hhak	0087	n	ART	ln	ln				
-veraa	hhak	0087	ner	seaoak	np:a	np		a		
-veraa	hhak	0087	ne	TAM2:3SG	lv-pro:a	lv-pro		a		
+veraa	hhak	0087	ner	seaoak	np:a	np		a	5051	
+veraa	hhak	0087	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	hhak	0087	da	do	v:pred	v		pred		
 veraa	hhak	0087	=n	=ART	=ln	=ln				
-veraa	hhak	0087	qorotot	noise	np:p	np		p		
-veraa	hhak	0088	#nc		#nc	#nc				
-veraa	hhak	0088	'alo-gi	inner-3SG	x	x				
-veraa	hhak	0088	so	QUOT	x	x				
-veraa	hhak	0088	duru	3DL	x	x				
-veraa	hhak	0088	so	QUOT	x	x				
-veraa	hhak	0088	o	INTERJ	x	x				
-veraa	hhak	0088	##		##	##				
+veraa	hhak	0087	qorotot	noise	np:p	np		p	5048	
+veraa	hhak	0088	#	#	#nc	#nc				
+veraa	hhak	0088	'alo-gi	inner-3SG	nc	nc				
+veraa	hhak	0088	so	QUOT	nc	nc				
+veraa	hhak	0088	duru	3DL	nc	nc				
+veraa	hhak	0088	so	QUOT	nc	nc				
+veraa	hhak	0088	o	INTERJ	nc	nc				
+veraa	hhak	0088	#	#	##	##				
 veraa	hhak	0088	e	PERS.ART	ln	ln				
-veraa	hhak	0088	Mulēo	Mulēo	np.h:s	np	h	s		
+veraa	hhak	0088	Mulēo	Mulēo	np.h:s	np	h	s	5039	
 veraa	hhak	0088	so	QUOT	other:pred	other		pred		
-veraa	hhak	0088	#ds		##ds	##ds				
+veraa	hhak	0088	#	#	##ds	##ds				
 veraa	hhak	0088	qe'i	for.a.moment	other:pred	other		pred		
-veraa	hhak	0088	#ds		##ds	##ds				
-veraa	hhak	0088	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	hhak	0088	#	#	##ds	##ds				
+veraa	hhak	0088	gidu	1DL.IN	pro.1:s	pro	1	s	5027	
 veraa	hhak	0088	=k	=TAM2	=lv	=lv				
 veraa	hhak	0088	sal	float	v:pred	v		pred		
 veraa	hhak	0088	rōn̄	calm	rv	rv				
-veraa	hhak	0088	#ds		##ds	##ds				
-veraa	hhak	0088	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	hhak	0088	#	#	##ds	##ds				
+veraa	hhak	0088	gidu	1DL.IN	pro.1:s	pro	1	s	5027	
 veraa	hhak	0088	=k	=TAM2	=lv	=lv				
 veraa	hhak	0088	rōn̄da	listen	v:pred	v		pred		
-veraa	hhak	0089	##		##	##				
+veraa	hhak	0089	#	#	##	##				
 veraa	hhak	0089	e	DISC	other	other				
-veraa	hhak	0089	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0089	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0089	=k	=TAM2	=lv	=lv				
 veraa	hhak	0089	sal	float	v:pred	v		pred		
 veraa	hhak	0089	rō-rōn̄	RED-calm	rv	rv				
-veraa	hhak	0089	##		##	##				
-veraa	hhak	0089	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0089	#	#	##	##				
+veraa	hhak	0089	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0089	=k	=TAM2	=lv	=lv				
 veraa	hhak	0089	sal	float	v:pred	v		pred		
 veraa	hhak	0089	rō-rōn̄	RED-calm	rv	rv				
 veraa	hhak	0089	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0090	##		##	##				
-veraa	hhak	0090	ZERO		0.h:s	0	h	s		
+veraa	hhak	0090	#	#	##	##				
+veraa	hhak	0090	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0090	rōn̄	feel	v:pred	v		pred		
 veraa	hhak	0090	sarē	bushwards	other:g	other		g		
-veraa	hhak	0090	#cc:obl		#cc	#cc				
-veraa	hhak	0090	ote	mum	np.h:a	np	h	a		
-veraa	hhak	0090	mu-ru	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0090	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0090	#	#	#cc	#cc				
+veraa	hhak	0090	ote	mum	np.h:a	np	h	a	5015	
+veraa	hhak	0090	mu	POSS.GEN	rn	rn				
+veraa	hhak	0090	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss		
+veraa	hhak	0090	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0090	sursur	RED:sing	v:pred	v		pred		
 veraa	hhak	0090	ēn	ART	ln	ln				
-veraa	hhak	0090	nes	song	np:p	np		p		
+veraa	hhak	0090	nes	song	np:p	np		p	5049	
 veraa	hhak	0090	va'anē	TEMP.DEM1	other	other				
-veraa	hhak	0091	##		##	##				
-veraa	hhak	0091	ZERO		0.h:a	0	h	a		
+veraa	hhak	0091	#	#	##	##				
+veraa	hhak	0091	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0091	sur	sing	v:pred	v		pred		
 veraa	hhak	0091	ēn	ART	ln	ln				
-veraa	hhak	0091	nes	song	np:p	np		p		
-veraa	hhak	0091	##		##	##				
+veraa	hhak	0091	nes	song	np:p	np		p	5049	
+veraa	hhak	0091	#	#	##	##				
 veraa	hhak	0091	lē	LOC	adp	adp				
 veraa	hhak	0091	=n	=ART	=ln	=ln				
-veraa	hhak	0091	nes	song	np:dt	np		dt		
+veraa	hhak	0091	nes	song	np:dt	np		dt	5049	
 veraa	hhak	0091	'a	ASS.SP	rn	rn				
 veraa	hhak	0091	bēne	PRO.OBL	rn	rn				
-veraa	hhak	0091	di	3SG	pro:s	pro		s		
+veraa	hhak	0091	di	3SG	pro:s	pro		s	5049	
 veraa	hhak	0091	=m	=TAM1	=lv	=lv				
 veraa	hhak	0091	van	go	v:pred	v		pred		
 veraa	hhak	0091	esegēn	MAN.DEM2.E	other	other				
-veraa	hhak	0092	[SONG]	NC	nc	nc				
-veraa	hhak	0093	[SONG]	NC	nc	nc				
-veraa	hhak	0094	##		##	##				
+veraa	hhak	0092	NC	NC	nc	nc				
+veraa	hhak	0093	NC	NC	nc	nc				
+veraa	hhak	0094	#	#	##	##				
 veraa	hhak	0094	alē	alright	other	other				
-veraa	hhak	0094	di	3SG	pro.d:a	pro	d	a		
-veraa	hhak	0094	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0094	di	3SG	pro.d:a	pro	d	a	5001	
+veraa	hhak	0094	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0094	le	transfer	v:pred	v		pred		
 veraa	hhak	0094	den	ABL	rv	rv				
 veraa	hhak	0094	ēn	ART	ln	ln				
 veraa	hhak	0094	n	ART	nc	nc				
-veraa	hhak	0094	mēdēr	rock	np:p	np		p		
+veraa	hhak	0094	mēdēr	rock	np:p	np		p	5052	bridging
 veraa	hhak	0094	ne	NUM.ART	rn	rn				
 veraa	hhak	0094	vowal	NUM-one	rn	rn				
-veraa	hhak	0094	##		##	##				
-veraa	hhak	0094	ZERO		0.h:s	0	h	s		
+veraa	hhak	0094	#	#	##	##				
+veraa	hhak	0094	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0094	kalu	exit	v:pred	v		pred		
 veraa	hhak	0094	ma	hither	rv	rv				
 veraa	hhak	0094	sagē	DIR<sag>	other:g	other		g		
-veraa	hhak	0094	##		##	##				
-veraa	hhak	0094	ZERO		0.d:s	0	d	s		
-veraa	hhak	0094	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0094	#	#	##	##				
+veraa	hhak	0094	ZERO	ZERO	0.d:s	0	d	s	5001	
+veraa	hhak	0094	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0094	'ēqēl	descend	v:pred	v		pred		
 veraa	hhak	0094	suwō	DIR<suw>	other:g	other		g		
-veraa	hhak	0095	##		##	##				
+veraa	hhak	0095	#	#	##	##				
 veraa	hhak	0095	e	DISC	other	other				
-veraa	hhak	0095	ZERO		0.h:s	0	h	s		
-veraa	hhak	0095	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0095	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0095	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0095	kalraka	get.up	v:pred	v		pred		
-veraa	hhak	0095	##		##	##				
-veraa	hhak	0095	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0095	#	#	##	##				
+veraa	hhak	0095	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0095	=s	=SIM	=lv	=lv				
 veraa	hhak	0095	salsal	RED:float	v:pred	v		pred		
 veraa	hhak	0095	'i	DEL	rv	rv				
-veraa	hhak	0095	##		##	##				
-veraa	hhak	0095	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0095	#	#	##	##				
+veraa	hhak	0095	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0095	=s	=SIM	=lv	=lv				
 veraa	hhak	0095	rōn̄	feel	v:pred	v		pred		
-veraa	hhak	0095	#cc		#cc:obl	#cc		obl		
+veraa	hhak	0095	#	#	#cc:obl	#cc		obl		
 veraa	hhak	0095	ē	DISC	other	other				
-veraa	hhak	0095	ZERO		0.h:a	0	h	a		
+veraa	hhak	0095	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0095	sur	sing	v:pred	v		pred		
 veraa	hhak	0095	lik	more	rv	rv				
 veraa	hhak	0095	ēn	ART	ln	ln				
-veraa	hhak	0095	nes	song	np:p	np		p		
-veraa	hhak	0096	[SONG]	NC	nc	nc				
-veraa	hhak	0097	[SONG]	NC	nc	nc				
-veraa	hhak	0098	##		##	##				
-veraa	hhak	0098	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0095	nes	song	np:p	np		p	5049	
+veraa	hhak	0096	NC	NC	nc	nc				
+veraa	hhak	0097	NC	NC	nc	nc				
+veraa	hhak	0098	#	#	##	##				
+veraa	hhak	0098	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0098	=k	=TAM2	=lv	=lv				
 veraa	hhak	0098	su-suō	RED-paddle	v:pred	v		pred		
 veraa	hhak	0098	sar	bushwards	rv	rv				
-veraa	hhak	0098	##		##	##				
-veraa	hhak	0098	ZERO		0.h:s	0	h	s		
+veraa	hhak	0098	#	#	##	##				
+veraa	hhak	0098	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0098	su-suō	RED-paddle	v:pred	v		pred		
 veraa	hhak	0098	sar	bushwards	rv	rv				
-veraa	hhak	0098	##		##	##				
-veraa	hhak	0098	ZERO		0.h:s	0	h	s		
+veraa	hhak	0098	#	#	##	##				
+veraa	hhak	0098	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0098	su-suō	RED-paddle	v:pred	v		pred		
 veraa	hhak	0098	sar	bushwards	rv	rv				
-veraa	hhak	0099	##		##	##				
-veraa	hhak	0099	ZERO		0.h:s	0	h	s		
+veraa	hhak	0099	#	#	##	##				
+veraa	hhak	0099	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0099	so	QUOT	other:pred	other		pred		
-veraa	hhak	0099	#ds		##ds	##ds				
+veraa	hhak	0099	#	#	##ds	##ds				
 veraa	hhak	0099	'ekē	INTERJ	other	other				
 veraa	hhak	0099	n	ART	ln	ln				
-veraa	hhak	0099	'ama'	devil	np.d:pred	np	d	pred		
-veraa	hhak	0099	#ds		##ds	##ds				
-veraa	hhak	0099	'ama'	devil	np.d:a	np	d	a		
+veraa	hhak	0099	'ama'	devil	np.d:pred	np	d	pred	5001	
+veraa	hhak	0099	#	#	##ds	##ds				
+veraa	hhak	0099	'ama'	devil	np.d:a	np	d	a	5001	
 veraa	hhak	0099	kurkur	RED:devour	rn	rn				
 veraa	hhak	0099	qiri	today	other	other				
-veraa	hhak	0099	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0099	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0099	kur	devour	v:pred	v		pred		
 veraa	hhak	0099	ēn	ART	ln	ln				
-veraa	hhak	0099	vēvē-duō	mother-1DL.IN	np.h:p-pro.1:poss	np	h	p-pro.1:poss		
-veraa	hhak	0100	##		##	##				
-veraa	hhak	0100	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0099	vēvē	mother	np.h:p	np	h	p	5015	
+veraa	hhak	0099	-duō	-1DL.IN	-rn_pro.1:poss	-rn_pro	1	poss	5027	
+veraa	hhak	0100	#	#	##	##				
+veraa	hhak	0100	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0100	=k	=TAM2	=lv	=lv				
 veraa	hhak	0100	su-suō	RED-paddle	v:pred	v		pred		
-veraa	hhak	0101	##		##	##				
+veraa	hhak	0101	#	#	##	##				
 veraa	hhak	0101	o	INTERJ	other	other				
 veraa	hhak	0101	wē	good	other	other				
 veraa	hhak	0101	n	ART	ln	ln				
-veraa	hhak	0101	vēvē-ru	mother-3DL	np.h:a-pro.h:poss	np	h	a-pro.h:poss		
-veraa	hhak	0101	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0101	vēvē	mother	np.h:a	np	h	a	5015	
+veraa	hhak	0101	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0101	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0101	sursur	RED:sing	v:pred	v		pred		
 veraa	hhak	0101	ēn	ART	ln	ln				
-veraa	hhak	0101	nes	song	np:p	np		p		
-veraa	hhak	0102	##		##	##				
-veraa	hhak	0102	'ama'	devil	np.d:a	np	d	a		
-veraa	hhak	0102	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0101	nes	song	np:p	np		p	5049	
+veraa	hhak	0102	#	#	##	##				
+veraa	hhak	0102	'ama'	devil	np.d:a	np	d	a	5001	
+veraa	hhak	0102	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0102	lele	RED:transfer	v:pred	v		pred		
 veraa	hhak	0102	den	ABL	rv	rv				
 veraa	hhak	0102	ēn	ART	ln	ln				
-veraa	hhak	0102	...	...						
 veraa	hhak	0102	n	ART	nc	nc				
-veraa	hhak	0102	mēdēr	rock	np:p	np		p		
+veraa	hhak	0102	mēdēr	rock	np:p	np		p	5031	
 veraa	hhak	0102	den	ABL	adp	adp				
 veraa	hhak	0102	ēn	ART	ln	ln				
-veraa	hhak	0102	mē'ēm̄ē	door	np:obl	np		obl		
+veraa	hhak	0102	mē'ēm̄ē	door	np:obl	np		obl	5053	bridging
 veraa	hhak	0102	'alē	ASS	rn	rn				
 veraa	hhak	0102	=n	=ART	=rn	=rn				
-veraa	hhak	0102	qoro	hole	rn	rn				
+veraa	hhak	0102	qoro	hole	rn	rn			5026	
 veraa	hhak	0102	liē	cave	rn	rn				
-veraa	hhak	0103	##		##	##				
-veraa	hhak	0103	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0103	#	#	##	##				
+veraa	hhak	0103	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0103	=m	=TAM1	=lv	=lv				
 veraa	hhak	0103	su-suō	RED-paddle	v:pred	v		pred		
 veraa	hhak	0103	susuō	RED-paddle	nc	nc				
 veraa	hhak	0103	susuō	RED-paddle	nc	nc				
 veraa	hhak	0103	vavan	RED-go	other	other				
-veraa	hhak	0103	##		##	##				
-veraa	hhak	0103	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0103	#	#	##	##				
+veraa	hhak	0103	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0103	=k	=TAM2	=lv	=lv				
 veraa	hhak	0103	suō	paddle	v:pred	v		pred		
 veraa	hhak	0103	kal	up	rv	rv				
 veraa	hhak	0103	sar	bushwards	rv	rv				
-veraa	hhak	0103	##		##	##				
-veraa	hhak	0103	ZERO		0.h:s	0	h	s		
+veraa	hhak	0103	#	#	##	##				
+veraa	hhak	0103	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0103	rōn̄	feel	v:pred	v		pred		
-veraa	hhak	0104	[SONG]	NC	nc	nc				
-veraa	hhak	0105	[SONG]	NC	nc	nc				
-veraa	hhak	0106	[SONG]	NC	nc	nc				
-veraa	hhak	0107	##		##	##				
-veraa	hhak	0107	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0104	NC	NC	nc	nc				
+veraa	hhak	0105	NC	NC	nc	nc				
+veraa	hhak	0106	NC	NC	nc	nc				
+veraa	hhak	0107	#	#	##	##				
+veraa	hhak	0107	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0107	=m	=TAM1	=lv	=lv				
 veraa	hhak	0107	sususuō	RED-paddle	v:pred	v		pred		
-veraa	hhak	0107	##		##	##				
-veraa	hhak	0107	ZERO		0.h:a	0	h	a		
+veraa	hhak	0107	#	#	##	##				
+veraa	hhak	0107	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0107	suō	paddle	v:pred	v		pred		
 veraa	hhak	0107	din̄	reach	rv	rv				
 veraa	hhak	0107	sar	bushwards	rv	rv				
 veraa	hhak	0107	ēn	ART	ln	ln				
-veraa	hhak	0107	n̄ere'ie	coast	np:p	np		p		
-veraa	hhak	0108	##		##	##				
-veraa	hhak	0108	ZERO		0.h:a	0	h	a		
+veraa	hhak	0107	n̄ere'ie	coast	np:p	np		p	5047	
+veraa	hhak	0108	#	#	##	##				
+veraa	hhak	0108	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0108	rēv	drag	v:pred	v		pred		
 veraa	hhak	0108	kal	up	rv	rv				
 veraa	hhak	0108	sar	bushwards	rv	rv				
 veraa	hhak	0108	ēn	ART	ln	ln				
-veraa	hhak	0108	nak	canoe	np:p	np		p		
+veraa	hhak	0108	nak	canoe	np:p	np		p	5038	
 veraa	hhak	0108	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0109	##		##	##				
-veraa	hhak	0109	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0109	#	#	##	##				
+veraa	hhak	0109	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0109	=k	=TAM2	=lv	=lv				
 veraa	hhak	0109	van	go	v:pred	v		pred		
-veraa	hhak	0109	##		##	##				
-veraa	hhak	0109	ZERO		0.h:a	0	h	a		
+veraa	hhak	0109	#	#	##	##				
+veraa	hhak	0109	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0109	gis	hold	v:pred	v		pred		
 veraa	hhak	0109	ēn	ART	ln	ln				
-veraa	hhak	0109	vus	bow	np:p	np		p		
+veraa	hhak	0109	vus	bow	np:p	np		p	5036	
 veraa	hhak	0109	birin̄	COM	adp	adp				
 veraa	hhak	0109	ēn	ART	ln	ln				
 veraa	hhak	0109	'erē	PL	ln	ln				
-veraa	hhak	0109	wō'iqe	arrow	np:obl	np		obl		
-veraa	hhak	0109	##		##	##				
-veraa	hhak	0109	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0109	wō'iqe	arrow	np:obl	np		obl	5044	
+veraa	hhak	0109	#	#	##	##				
+veraa	hhak	0109	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0109	=k	=TAM2	=lv	=lv				
 veraa	hhak	0109	van	go	v:pred	v		pred		
-veraa	hhak	0110	##		##	##				
-veraa	hhak	0110	ZERO		0.h:s	0	h	s		
+veraa	hhak	0110	#	#	##	##				
+veraa	hhak	0110	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0110	van	go	v:pred	v		pred		
 veraa	hhak	0110	van	go	rv	rv				
 veraa	hhak	0110	vavavan	RED-go	rv	rv				
 veraa	hhak	0110	sar	bushwards	rv	rv				
-veraa	hhak	0111	##		##	##				
-veraa	hhak	0111	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0111	#	#	##	##				
+veraa	hhak	0111	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0111	=k	=TAM2	=lv	=lv				
 veraa	hhak	0111	din̄	reach	v:pred	v		pred		
 veraa	hhak	0111	sar	bushwards	rv	rv				
-veraa	hhak	0112	##		##	##				
+veraa	hhak	0112	#	#	##	##				
 veraa	hhak	0112	n	ART	nc	nc				
-veraa	hhak	0112	...	...						
 veraa	hhak	0112	n	ART	ln	ln				
-veraa	hhak	0112	mēdēr	rock	np:s	np		s		
+veraa	hhak	0112	mēdēr	rock	np:s	np		s	5054	bridging
 veraa	hhak	0112	ne	NUM.ART	rn	rn				
 veraa	hhak	0112	vō-ruō	NUM-two	rn	rn				
 veraa	hhak	0112	va'i	still.exist	other:pred	other		pred		
-veraa	hhak	0112	##		##	##				
+veraa	hhak	0112	#	#	##	##				
 veraa	hhak	0112	wo	and	other	other				
-veraa	hhak	0112	'ama'	devil	np.d:a	np	d	a		
-veraa	hhak	0112	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0112	'ama'	devil	np.d:a	np	d	a	5001	
+veraa	hhak	0112	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0112	sēs	root	v:pred	v		pred		
 veraa	hhak	0112	din̄	reach	rv	rv				
 veraa	hhak	0112	suw	DIR<suw>	rv	rv				
 veraa	hhak	0112	e	PERS.ART	ln	ln				
-veraa	hhak	0112	ote	mum	np.h:p	np	h	p		
-veraa	hhak	0112	mu-ruō	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0113	##		##	##				
+veraa	hhak	0112	ote	mum	np.h:p	np	h	p	5015	
+veraa	hhak	0112	mu	POSS.GEN	rn	rn				
+veraa	hhak	0112	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0113	#	#	##	##				
 veraa	hhak	0113	e	DISC	other	other				
-veraa	hhak	0113	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0113	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0113	=k	=TAM2	=lv	=lv				
 veraa	hhak	0113	din̄	reach	v:pred	v		pred		
 veraa	hhak	0113	sar	bushwards	rv	rv				
-veraa	hhak	0113	##		##	##				
-veraa	hhak	0113	ote	mum	np.h:s	np	h	s		
-veraa	hhak	0113	muru	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
+veraa	hhak	0113	#	#	##	##				
+veraa	hhak	0113	ote	mum	np.h:s	np	h	s	5015	
+veraa	hhak	0113	muru	POSS.GEN-3DL	rn_pro.h:poss	rn_pro	h	poss	5027	
 veraa	hhak	0113	so	QUOT	other:pred	other		pred		
-veraa	hhak	0114	[SONG]	NC	nc	nc				
-veraa	hhak	0115	[SONG]	NC	nc	nc				
-veraa	hhak	0116	##		##	##				
-veraa	hhak	0116	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0114	NC	NC	nc	nc				
+veraa	hhak	0115	NC	NC	nc	nc				
+veraa	hhak	0116	#	#	##	##				
+veraa	hhak	0116	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0116	=k	=TAM2	=lv	=lv				
 veraa	hhak	0116	din̄	reach	v:pred	v		pred		
 veraa	hhak	0116	sar	bushwards	rv	rv				
-veraa	hhak	0116	##		##	##				
-veraa	hhak	0116	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0116	#	#	##	##				
+veraa	hhak	0116	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0116	=k	=TAM2	=lv	=lv				
 veraa	hhak	0116	din̄	reach	v:pred	v		pred		
 veraa	hhak	0116	wal	once	rv	rv				
 veraa	hhak	0116	sar	bushwards	rv	rv				
 veraa	hhak	0116	ēn	ART	ln	ln				
-veraa	hhak	0116	qoro	hole	np:p	np		p		
+veraa	hhak	0116	qoro	hole	np:p	np		p	5026	
 veraa	hhak	0116	liē	cave	rn	rn				
 veraa	hhak	0116	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0116	##		##	##				
+veraa	hhak	0116	#	#	##	##				
 veraa	hhak	0116	n	ART	ln	ln				
-veraa	hhak	0116	'ama'	devil	np.d:a	np	d	a		
-veraa	hhak	0116	ne	TAM2:3SG	lv-pro.d:a	lv-pro	d	a		
+veraa	hhak	0116	'ama'	devil	np.d:a	np	d	a	5001	
+veraa	hhak	0116	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	hhak	0116	le	transfer	v:pred	v		pred		
 veraa	hhak	0116	kal	up	rv	rv				
 veraa	hhak	0116	ge	THING	ln	ln				
 veraa	hhak	0116	'ew'i	other	ln	ln				
-veraa	hhak	0116	mēdēr	rock	np:p	np		p		
+veraa	hhak	0116	mēdēr	rock	np:p	np		p	5055	bridging
 veraa	hhak	0116	lik	more	rn	rn				
-veraa	hhak	0116	mēdēr	rock	np:dt_p	np		dt_p		
+veraa	hhak	0116	mēdēr	rock	np:dt_p	np		dt_p	5055	
 veraa	hhak	0116	ne	NUM.ART	rn	rn				
 veraa	hhak	0116	vōwal	NUM-one	rn	rn				
 veraa	hhak	0116	lik	more	rn	rn				
-veraa	hhak	0117	##		##	##				
-veraa	hhak	0117	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0117	#	#	##	##				
+veraa	hhak	0117	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0117	=k	=TAM2	=lv	=lv				
 veraa	hhak	0117	kalraka	get.up	v:pred	v		pred		
-veraa	hhak	0117	##		##	##				
-veraa	hhak	0117	duru	3DL	dl_pro.h:s_ds	dl_pro	h	s_ds		
+veraa	hhak	0117	#	#	##	##				
+veraa	hhak	0117	duru	3DL	pro.h:s_ds	pro	h	s_ds	5027	
 veraa	hhak	0117	=k	=TAM2	=lv	=lv				
 veraa	hhak	0117	tēk	speak	v:pred	v		pred		
 veraa	hhak	0117	mē	DAT	adp	adp				
-veraa	hhak	0117	di	3SG	pro.d:g	pro	d	g		
+veraa	hhak	0117	di	3SG	pro.d:g	pro	d	g	5001	
 veraa	hhak	0117	so	QUOT	other	other				
-veraa	hhak	0117	#ds		##ds	##ds				
+veraa	hhak	0117	#	#	##ds	##ds				
 veraa	hhak	0117	ei	INTERJ	other	other				
-veraa	hhak	0117	nik	2SG	pro.2:s	pro	2	s		
-veraa	hhak	0117	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	hhak	0117	nik	2SG	pro.2:s	pro	2	s	5001	
+veraa	hhak	0117	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	hhak	0117	van	go	v:pred	v		pred		
-veraa	hhak	0117	akēnē	LOC.DEM1.A	other:g	other		g		
-veraa	hhak	0117	#ds		##ds	##ds				
+veraa	hhak	0117	akēnē	LOC.DEM1.A	other:g	other		g	5026	
+veraa	hhak	0117	#	#	##ds	##ds				
 veraa	hhak	0117	so	PROSP	other	other				
-veraa	hhak	0117	nik	2SG	pro.2:s	pro	2	s		
-veraa	hhak	0117	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	hhak	0117	nik	2SG	pro.2:s	pro	2	s	5001	
+veraa	hhak	0117	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	hhak	0117	da	do	v:pred	v		pred		
 veraa	hhak	0117	siviē	how	other	other				
-veraa	hhak	0118	##		##	##				
-veraa	hhak	0118	ZERO		0.d:s	0	d	s		
+veraa	hhak	0118	#	#	##	##				
+veraa	hhak	0118	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0118	so	QUOT	other:pred	other		pred		
-veraa	hhak	0118	#ds		##ds	##ds				
+veraa	hhak	0118	#	#	##ds	##ds				
 veraa	hhak	0118	o	INTERJ	other	other				
 veraa	hhak	0118	gitag	not.exist	other:pred	other		pred		
-veraa	hhak	0118	##		##	##				
-veraa	hhak	0118	ZERO		0.h:s	0	h	s		
+veraa	hhak	0118	#	#	##	##				
+veraa	hhak	0118	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0118	so	QUOT	other:pred	other		pred		
-veraa	hhak	0118	#ds		##ds	##ds				
-veraa	hhak	0118	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0118	#	#	##ds	##ds				
+veraa	hhak	0118	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0118	me	FUT	lv	lv				
 veraa	hhak	0118	vus	hit	v:pred	v		pred		
 veraa	hhak	0118	ma'	dead	rv	rv				
 veraa	hhak	0118	wal	once	rv	rv				
-veraa	hhak	0118	nikē	2SG	pro.2:p	pro	2	p		
+veraa	hhak	0118	nikē	2SG	pro.2:p	pro	2	p	5001	
 veraa	hhak	0118	sa	EMPH	other	other				
-veraa	hhak	0118	ēnē	??	other	other				
-veraa	hhak	0119	##		##	##				
-veraa	hhak	0119	ZERO		0.d:s	0	d	s		
+veraa	hhak	0118	ēnē	NC	nc	nc				
+veraa	hhak	0119	#	#	##	##				
+veraa	hhak	0119	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0119	so	QUOT	other:pred	other		pred		
-veraa	hhak	0119	#ds		##ds	##ds				
+veraa	hhak	0119	#	#	##ds	##ds				
 veraa	hhak	0119	o	INTERJ	other	other				
 veraa	hhak	0119	magarsine	pity	other:pred	other		pred		
 veraa	hhak	0119	'erē	PL	nc	nc				
-veraa	hhak	0119	...	...						
 veraa	hhak	0119	'erē	PL	nc	nc				
-veraa	hhak	0119	buls..	x	nc	nc				
+veraa	hhak	0119	buls--	NC	nc	nc				
 veraa	hhak	0119	'erē	PL	ln	ln				
-veraa	hhak	0119	bulsal	friend	np.h:voc	np	h	voc		
-veraa	hhak	0119	#ds		##ds	##ds				
-veraa	hhak	0119	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0119	bulsal	friend	np.h:voc	np	h	voc	5027	
+veraa	hhak	0119	#	#	##ds	##ds				
+veraa	hhak	0119	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0119	'ovi'i	PROH	lv	lv				
 veraa	hhak	0119	da	do	v:pred	v		pred		
 veraa	hhak	0119	magarsin	pity	rv	rv				
-veraa	hhak	0119	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0120	##		##	##				
-veraa	hhak	0120	ZERO		0.h:s	0	h	s		
+veraa	hhak	0119	no	1SG	pro.1:p	pro	1	p	5001	
+veraa	hhak	0120	#	#	##	##				
+veraa	hhak	0120	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0120	so	QUOT	other:pred	other		pred		
-veraa	hhak	0120	#ds		##ds	##ds				
-veraa	hhak	0120	nikē	2SG	pro.2:dt_a	pro	2	dt_a		
+veraa	hhak	0120	#	#	##ds	##ds				
+veraa	hhak	0120	nikē	2SG	pro.2:dt_a	pro	2	dt_a	5001	
 veraa	hhak	0120	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0120	sa	EMPH	other	other				
-veraa	hhak	0120	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0120	nik	2SG	pro.2:a	pro	2	a	5001	
 veraa	hhak	0120	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0120	kur	devour	v:pred	v		pred		
 veraa	hhak	0120	qē'	finish	rv	rv				
 veraa	hhak	0120	e	PERS.ART	ln	ln				
 veraa	hhak	0120	raga	people	ln	ln				
-veraa	hhak	0120	sul	folks	np.h:p	np	h	p		
+veraa	hhak	0120	sul	folks	np.h:p	np	h	p	5002	
 veraa	hhak	0120	'alē=n	ASS=ART	nc	nc				
-veraa	hhak	0120	...	...						
 veraa	hhak	0120	'alē	ASS	rn	rn				
-veraa	hhak	0120	Vunu	Vunu	rn	rn				
+veraa	hhak	0120	Vunu	Vunu	rn	rn			5003	
 veraa	hhak	0120	Lava	Lava	rn	rn				
 veraa	hhak	0120	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0120	#ds							
+veraa	hhak	0120	#	#	#ds	#ds				
 veraa	hhak	0120	qiri	today	other	other				
 veraa	hhak	0120	anei	DEM4.A	rn_dem4	rn_dem4				
-veraa	hhak	0120	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0120	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0120	me	FUT	lv	lv				
 veraa	hhak	0120	vus	kill	v:pred	v		pred		
 veraa	hhak	0120	wal	once	rv	rv				
 veraa	hhak	0120	ēn	ART	ln	ln				
-veraa	hhak	0120	es	life	np:p	np		p		
-veraa	hhak	0120	nō-m	POSS.DOM-2SG	rn-pro.2:poss	rn-pro	2	poss		
+veraa	hhak	0120	es	life	np:p	np		p	5056	bridging
+veraa	hhak	0120	nō	POSS.DOM	rn	rn				
+veraa	hhak	0120	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	5001	
 veraa	hhak	0120	sa	EMPH	other	other				
 veraa	hhak	0120	qiri	today	other	other				
 veraa	hhak	0120	anei	DEM4.A	rn_dem4	rn_dem4				
-veraa	hhak	0121	##		##	##				
-veraa	hhak	0121	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0121	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0121	#	#	##	##				
+veraa	hhak	0121	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0121	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0121	rara	cry	v:pred	v		pred		
 veraa	hhak	0121	mē	DAT	adp	adp				
-veraa	hhak	0121	duruō	3DL	pro.h:g	pro	h	g		
-veraa	hhak	0121	##		##	##				
-veraa	hhak	0121	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0121	duruō	3DL	pro.h:g	pro	h	g	5027	
+veraa	hhak	0121	#	#	##	##				
+veraa	hhak	0121	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0121	=k	=TAM2	=lv	=lv				
 veraa	hhak	0121	kar	shoot	v:pred	v		pred		
-veraa	hhak	0121	diē	3SG	pro.d:p	pro	d	p		
-veraa	hhak	0121	##		##	##				
-veraa	hhak	0121	vōwal	NUM-one	np.h:s	np	h	s		
-veraa	hhak	0121	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0121	diē	3SG	pro.d:p	pro	d	p	5001	
+veraa	hhak	0121	#	#	##	##				
+veraa	hhak	0121	vōwal	NUM-one	np.h:s	np	h	s	5057	bridging
+veraa	hhak	0121	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0121	kar	shoot	v:pred	v		pred		
 veraa	hhak	0121	'ō'	with	adp	adp				
 veraa	hhak	0121	=n	=ART	=ln	=ln				
-veraa	hhak	0121	vus	bow	np:obl	np		obl		
-veraa	hhak	0122	##		##	##				
-veraa	hhak	0122	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0122	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0121	vus	bow	np:obl	np		obl	5059	bridging
+veraa	hhak	0122	#	#	##	##				
+veraa	hhak	0122	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0122	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0122	aw	yell	v:pred	v		pred		
-veraa	hhak	0122	##		##	##				
-veraa	hhak	0122	vōwal	NUM-one	np.h:s	np	h	s		
-veraa	hhak	0122	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0122	#	#	##	##				
+veraa	hhak	0122	vōwal	NUM-one	np.h:s	np	h	s	5058	bridging
+veraa	hhak	0122	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0122	kar	shoot	v:pred	v		pred		
-veraa	hhak	0123	##		##	##				
-veraa	hhak	0123	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0123	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0123	#	#	##	##				
+veraa	hhak	0123	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0123	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0123	aw	yell	v:pred	v		pred		
-veraa	hhak	0123	##		##	##				
-veraa	hhak	0123	ZERO		0.d:s	0	d	s		
+veraa	hhak	0123	#	#	##	##				
+veraa	hhak	0123	ZERO	ZERO	0.d:s	0	d	s	5001	
 veraa	hhak	0123	rōw	skip	v:pred	v		pred		
 veraa	hhak	0123	sir	for	adp	adp				
 veraa	hhak	0123	e	PERS.ART	ln	ln				
-veraa	hhak	0123	ge	THING	np.h:g	np	h	g		
+veraa	hhak	0123	ge	THING	np.h:g	np	h	g	5057	
 veraa	hhak	0123	'ew'i	oher	rn	rn				
-veraa	hhak	0123	##		##	##				
-veraa	hhak	0123	ge	THING	np.h:s	np	h	s		
+veraa	hhak	0123	#	#	##	##				
+veraa	hhak	0123	ge	THING	np.h:s	np	h	s	5057	
 veraa	hhak	0123	'ew'i	other	rn	rn				
-veraa	hhak	0123	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0123	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0123	kar	shoot	v:pred	v		pred		
-veraa	hhak	0124	##		##	##				
-veraa	hhak	0124	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0124	#	#	##	##				
+veraa	hhak	0124	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0124	=k	=TAM2	=lv	=lv				
 veraa	hhak	0124	kar	shoot	v:pred	v		pred		
-veraa	hhak	0124	diē	3SG	pro.h:p	pro	h	p		
-veraa	hhak	0124	##		##	##				
-veraa	hhak	0124	ZERO		0.h:a	0	h	a		
+veraa	hhak	0124	diē	3SG	pro.h:p	pro	h	p	5001	
+veraa	hhak	0124	#	#	##	##				
+veraa	hhak	0124	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0124	kar	shoot	v:pred	v		pred		
-veraa	hhak	0124	diē	3SG	pro.d:p	pro	d	p		
+veraa	hhak	0124	diē	3SG	pro.d:p	pro	d	p	5001	
 veraa	hhak	0124	vavavan	RED-go	other	other				
-veraa	hhak	0125	##		##	##				
-veraa	hhak	0125	di	3SG	pro.d:s	pro	d	s		
-veraa	hhak	0125	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	hhak	0125	#	#	##	##				
+veraa	hhak	0125	di	3SG	pro.d:s	pro	d	s	5001	
+veraa	hhak	0125	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	hhak	0125	ma'	dead	v:pred	v		pred		
-veraa	hhak	0126	##		##	##				
-veraa	hhak	0126	di	3SG	pro.d:s	pro	d	s		
+veraa	hhak	0126	#	#	##	##				
+veraa	hhak	0126	di	3SG	pro.d:s	pro	d	s	5001	
 veraa	hhak	0126	=m	=TAM2	=lv	=lv				
 veraa	hhak	0126	ma'	dead	v:pred	v		pred		
-veraa	hhak	0126	##		##	##				
-veraa	hhak	0126	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0126	#	#	##	##				
+veraa	hhak	0126	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0126	=k	=TAM2	=lv	=lv				
 veraa	hhak	0126	le	transfer	v:pred	v		pred		
-veraa	hhak	0126	diē	3SG	pro.d:p	pro	d	p		
-veraa	hhak	0126	##		##	##				
-veraa	hhak	0126	ZERO		0.h:a	0	h	a		
+veraa	hhak	0126	diē	3SG	pro.d:p	pro	d	p	5001	
+veraa	hhak	0126	#	#	##	##				
+veraa	hhak	0126	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0126	'ev'ē	throw.out	v:pred	v		pred		
-veraa	hhak	0126	ZERO		0.d:p	0	d	p		
+veraa	hhak	0126	ZERO	ZERO	0.d:p	0	d	p	5001	
 veraa	hhak	0126	den	ABL	adp	adp				
 veraa	hhak	0126	ēn	ART	ln	ln				
-veraa	hhak	0126	mē'ēm̄ē	door	np:obl	np		obl		
+veraa	hhak	0126	mē'ēm̄ē	door	np:obl	np		obl	5053	
 veraa	hhak	0126	'alē	ASS	rn	rn				
 veraa	hhak	0126	=n	=ART	rn	rn				
 veraa	hhak	0126	ge	THING	rn	rn				
 veraa	hhak	0126	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	hhak	0127	#nc		#nc	#nc				
-veraa	hhak	0127	dir'ōl	3TL	x	x				
-veraa	hhak	0127	..	..						
-veraa	hhak	0127	dir	3PL	x	x				
-veraa	hhak	0127	ga	STAT	x	x				
-veraa	hhak	0127	kal	enter	x	x				
-veraa	hhak	0127	##		##	##				
-veraa	hhak	0127	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0127	#	#	#nc	#nc				
+veraa	hhak	0127	dir'ōl	3TL	nc	nc				
+veraa	hhak	0127	dir	3PL	nc	nc				
+veraa	hhak	0127	ga	STAT	nc	nc				
+veraa	hhak	0127	kal	enter	nc	nc				
+veraa	hhak	0127	#	#	##	##				
+veraa	hhak	0127	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0127	=k	=TAM2	=lv	=lv				
 veraa	hhak	0127	kal	enter	v:pred	v		pred		
 veraa	hhak	0127	suw	DIR<suw>	rv	rv				
 veraa	hhak	0127	sir	for	adp	adp				
 veraa	hhak	0127	e	PERS.ART	ln	ln				
-veraa	hhak	0127	ote	mum	np.h:g	np	h	g		
-veraa	hhak	0127	mu-ruō	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0127	##		##	##				
-veraa	hhak	0127	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0127	ote	mum	np.h:g	np	h	g	5015	
+veraa	hhak	0127	mu	POSS.GEN	rn	rn				
+veraa	hhak	0127	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0127	#	#	##	##				
+veraa	hhak	0127	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0127	'ōg	stay	v:pred	v		pred		
 veraa	hhak	0127	'i	DEL	rv	rv				
-veraa	hhak	0127	anē	DEM1.A	other_dem1	other_dem1				
-veraa	hhak	0128	##		##	##				
-veraa	hhak	0128	ZERO		0.h:s	0	h	s		
+veraa	hhak	0127	anē	DEM1.A	dem1_other	dem1_other				
+veraa	hhak	0128	#	#	##	##				
+veraa	hhak	0128	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0128	so	QUOT	other:pred	other		pred		
-veraa	hhak	0128	#ds		##ds	##ds				
+veraa	hhak	0128	#	#	##ds	##ds				
 veraa	hhak	0128	ba	but	other	other				
 veraa	hhak	0128	=n	=ART	=ln	=ln				
-veraa	hhak	0128	'ama'	devil	np.d:s	np	d	s		
+veraa	hhak	0128	'ama'	devil	np.d:s	np	d	s	5001	
 veraa	hhak	0128	=m	=TAM1	=lv	=lv				
 veraa	hhak	0128	van	go	v:pred	v		pred		
 veraa	hhak	0128	lu	through	rv	rv				
 veraa	hhak	0128	viē	where	other:g	other		g		
-veraa	hhak	0128	##		##	##				
-veraa	hhak	0128	ZERO		0.h:s	0	h	s		
+veraa	hhak	0128	#	#	##	##				
+veraa	hhak	0128	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0128	so	QUOT	other:pred	other		pred		
-veraa	hhak	0128	#ds		##ds	##ds				
-veraa	hhak	0128	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0128	#	#	##ds	##ds				
+veraa	hhak	0128	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0128	man	PFV	lv	lv				
 veraa	hhak	0128	vus	hit	v:pred	v		pred		
-veraa	hhak	0128	ZERO		0.d:p	0	d	p		
-veraa	hhak	0129	##		##	##				
-veraa	hhak	0129	ZERO		0.h:s	0	h	s		
+veraa	hhak	0128	ZERO	ZERO	0.d:p	0	d	p	5001	
+veraa	hhak	0129	#	#	##	##				
+veraa	hhak	0129	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0129	so	QUOT	other:pred	other		pred		
-veraa	hhak	0129	#ds		##ds	##ds				
+veraa	hhak	0129	#	#	##ds	##ds				
 veraa	hhak	0129	'aw	INTERJ	other	other				
-veraa	hhak	0129	kumru	2DL	dl_pro.2:s	dl_pro	2	s		
+veraa	hhak	0129	kumru	2DL	pro.2:s	pro	2	s	5027	
 veraa	hhak	0129	ga	STAT	lv	lv				
 veraa	hhak	0129	magarsine	pity	v:pred	v		pred		
-veraa	hhak	0129	#ds		##ds	##ds				
-veraa	hhak	0129	kumru	2DL	dl_pro.2:s	dl_pro	2	s		
+veraa	hhak	0129	#	#	##ds	##ds				
+veraa	hhak	0129	kumru	2DL	pro.2:s	pro	2	s	5027	
 veraa	hhak	0129	ga	STAT	lv	lv				
 veraa	hhak	0129	tiktik	RED:little	v:pred	v		pred		
 veraa	hhak	0129	soksok	too.much	rv	rv				
-veraa	hhak	0129	#ds		##ds.neg	##ds.neg				
-veraa	hhak	0129	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0129	#	#	##ds.neg	##ds.neg				
+veraa	hhak	0129	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0129	as	INABIL1	lv	lv				
 veraa	hhak	0129	vus	hit	v:pred	v		pred		
 veraa	hhak	0129	m̄as	INABIL2	rv	rv				
-veraa	hhak	0129	ZERO		0.d:p	0	d	p		
-veraa	hhak	0129	##		##	##				
-veraa	hhak	0129	ZERO		0.h:s	0	h	s		
+veraa	hhak	0129	ZERO	ZERO	0.d:p	0	d	p	5001	
+veraa	hhak	0129	#	#	##	##				
+veraa	hhak	0129	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0129	so	QUOT	other:pred	other		pred		
-veraa	hhak	0129	#ds		##ds	##ds				
+veraa	hhak	0129	#	#	##ds	##ds				
 veraa	hhak	0129	oo	no	other	other				
-veraa	hhak	0129	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0129	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0129	man	PFV	lv	lv				
 veraa	hhak	0129	vus	hit	v:pred	v		pred		
 veraa	hhak	0129	ēn	ART	ln	ln				
-veraa	hhak	0129	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0129	#ds		##ds	##ds				
-veraa	hhak	0129	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0129	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0129	#	#	##ds	##ds				
+veraa	hhak	0129	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0129	=m	=TAM1	=lv	=lv				
 veraa	hhak	0129	kar	shoot	v:pred	v		pred		
 veraa	hhak	0129	ma'	dead	rv	rv				
 veraa	hhak	0129	ēn	ART	ln	ln				
-veraa	hhak	0129	'ama'	devil	np.d:p	np	d	p		
+veraa	hhak	0129	'ama'	devil	np.d:p	np	d	p	5001	
 veraa	hhak	0129	sagmanē	up.there	other:l	other		l		
-veraa	hhak	0130	#ds		##ds	##ds				
+veraa	hhak	0130	#	#	##ds	##ds				
 veraa	hhak	0130	ga	STAT	lv	lv				
 veraa	hhak	0130	itok	good	v:pred	v		pred		
-veraa	hhak	0131	#ds		##ds	##ds				
-veraa	hhak	0131	ZERO		0.2:s	0	2	s		
+veraa	hhak	0131	#	#	##ds	##ds				
+veraa	hhak	0131	ZERO	ZERO	0.2:s	0	2	s	5027	
 veraa	hhak	0131	kal	enter	v:pred	v		pred		
 veraa	hhak	0131	ma	hither	rv	rv				
-veraa	hhak	0131	#ds		##ds	##ds				
-veraa	hhak	0131	gidō'ōl	1TL.IN:TAM2	pro.1:s	pro	1	s		
+veraa	hhak	0131	#	#	##ds	##ds				
+veraa	hhak	0131	gidō'ōl	1TL.IN:TAM2	pro.1:s	pro	1	s	5028	
 veraa	hhak	0131	mi'ir	sleep	v:pred	v		pred		
-veraa	hhak	0132	##		##	##				
-veraa	hhak	0132	dir'ōl	3TL:TAM2	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0132	#	#	##	##				
+veraa	hhak	0132	dir'ōl	3TL:TAM2	pro.h:s	pro	h	s	5028	
 veraa	hhak	0132	van	go	v:pred	v		pred		
 veraa	hhak	0132	qēl	descend	rv	rv				
 veraa	hhak	0132	suwē	DIR<suw>	other:g	other		g		
-veraa	hhak	0132	##		##	##				
-veraa	hhak	0132	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0132	#	#	##	##				
+veraa	hhak	0132	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0132	=m	=TAM1	=lv	=lv				
 veraa	hhak	0132	mi'ir	sleep	v:pred	v		pred		
-veraa	hhak	0132	##		##	##				
-veraa	hhak	0132	ZERO		0.h:s	0	h	s		
+veraa	hhak	0132	#	#	##	##				
+veraa	hhak	0132	ZERO	ZERO	0.h:s	0	h	s	5028	
 veraa	hhak	0132	mi'ir	sleep	v:pred	v		pred		
 veraa	hhak	0132	vavan	RED-go	other	other				
 veraa	hhak	0132	din̄	reach	adp	adp				
 veraa	hhak	0132	ēn	ART	ln	ln				
-veraa	hhak	0132	ma'ava	morning	np:other	np		other		
-veraa	hhak	0133	##		##	##				
-veraa	hhak	0133	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0132	ma'ava	morning	np:other	np		other	5060	new
+veraa	hhak	0133	#	#	##	##				
+veraa	hhak	0133	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0133	ma'av	morning	v:pred	v		pred		
 veraa	hhak	0133	ma	hither	rv	rv				
-veraa	hhak	0134	##		##	##				
+veraa	hhak	0134	#	#	##	##				
 veraa	hhak	0134	dirōl	3TL	nc	nc				
-veraa	hhak	0134	...	...						
 veraa	hhak	0134	e	PERS.ART	ln	ln				
-veraa	hhak	0134	ote	mum	np.h:s_ds	np	h	s_ds		
-veraa	hhak	0134	mu-ruō	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0134	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0134	ote	mum	np.h:s_ds	np	h	s_ds	5015	
+veraa	hhak	0134	mu	POSS.GEN	rn	rn				
+veraa	hhak	0134	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0134	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0134	tēk	speak	v:pred	v		pred		
 veraa	hhak	0134	mē	DAT	adp	adp				
-veraa	hhak	0134	duruō	3DL	pro.h:g	pro	h	g		
+veraa	hhak	0134	duruō	3DL	pro.h:g	pro	h	g	5027	
 veraa	hhak	0134	so	QUOT	other	other				
-veraa	hhak	0135	#ds		##ds	##ds				
-veraa	hhak	0135	gidō'ōl	1TL.IN:TAM2	pro.1:a	pro	1	a		
+veraa	hhak	0135	#	#	##ds	##ds				
+veraa	hhak	0135	gidō'ōl	1TL.IN:TAM2	pro.1:a	pro	1	a	5028	
 veraa	hhak	0135	sin̄	burn	v:pred	v		pred		
 veraa	hhak	0135	ēn	ART	ln	ln				
-veraa	hhak	0135	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0136	#ds		##ds	##ds				
+veraa	hhak	0135	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0136	#	#	##ds	##ds				
 veraa	hhak	0136	okay	okay	other	other				
 veraa	hhak	0136	ga	STAT	lv	lv				
 veraa	hhak	0136	itok	good	v:pred	v		pred		
-veraa	hhak	0137	##		##	##				
-veraa	hhak	0137	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0137	#	#	##	##				
+veraa	hhak	0137	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0137	kalraka	get.up	v:pred	v		pred		
-veraa	hhak	0137	##		##	##				
-veraa	hhak	0137	ZERO		tl_0.h:s	tl_0	h	s		
+veraa	hhak	0137	#	#	##	##				
+veraa	hhak	0137	ZERO	ZERO	0.h:s	0	h	s	5028	
 veraa	hhak	0137	van	go	v:pred	v		pred		
 veraa	hhak	0137	sar	bushwards	rv	rv				
-veraa	hhak	0137	##		##	##				
-veraa	hhak	0137	ZERO		tl_0.h:a	tl_0	h	a		
+veraa	hhak	0137	#	#	##	##				
+veraa	hhak	0137	ZERO	ZERO	0.h:a	0	h	a	5028	
 veraa	hhak	0137	'ev	throw	v:pred	v		pred		
 veraa	hhak	0137	kirm̄ō	smash	rv	rv				
 veraa	hhak	0137	=n	=ART	=ln	=ln				
-veraa	hhak	0137	qi'i	head	np:p	np		p		
-veraa	hhak	0137	'ama'	devil	rnp.d:poss	rnp	d	poss		
-veraa	hhak	0138	##		##	##				
-veraa	hhak	0138	ZERO		tl_0.h:a	tl_0	h	a		
+veraa	hhak	0137	qi'i	head	np:p	np		p	5061	bridging
+veraa	hhak	0137	'ama'	devil	rn_np.d:poss	rn_np	d	poss	5001	
+veraa	hhak	0138	#	#	##	##				
+veraa	hhak	0138	ZERO	ZERO	0.h:a	0	h	a	5028	
 veraa	hhak	0138	mom	put	v:pred	v		pred		
 veraa	hhak	0138	kal	up	rv	rv				
 veraa	hhak	0138	sag	DIR<sag>	rv	rv				
-veraa	hhak	0138	ZERO		0:p	0		p		
+veraa	hhak	0138	ZERO	ZERO	0:p	0		p	5061	
 veraa	hhak	0138	lē	LOC	adp	adp				
 veraa	hhak	0138	=n	=ART	=ln	=ln				
 veraa	hhak	0138	wōwō	top	ln	ln				
-veraa	hhak	0138	nev	fire	np:g	np		g		
-veraa	hhak	0139	##		##	##				
+veraa	hhak	0138	nev	fire	np:g	np		g	5062	new
+veraa	hhak	0139	#	#	##	##				
 veraa	hhak	0139	alē	alright	other	other				
-veraa	hhak	0139	ZERO		tl_0.h:a	tl_0	h	a		
+veraa	hhak	0139	ZERO	ZERO	0.h:a	0	h	a	5028	
 veraa	hhak	0139	sin̄	burn	v:pred	v		pred		
-veraa	hhak	0139	ēn	ART	ln	ln				
-veraa	hhak	0139	'irbē	body	np:p	np		p		
-veraa	hhak	0139	'ama'	devil	rn_np.d:poss	rn_np	d	poss		
-veraa	hhak	0139	##		##	##				
-veraa	hhak	0139	ZERO		tl_0.h:a	tl_0	h	a		
+veraa	hhak	0139	̄ēn	ART	ln	ln				
+veraa	hhak	0139	'irbē	body	np:p	np		p	5063	bridging
+veraa	hhak	0139	'ama'	devil	rn_np.d:poss	rn_np	d	poss	5001	
+veraa	hhak	0139	#	#	##	##				
+veraa	hhak	0139	ZERO	ZERO	0.h:a	0	h	a	5028	
 veraa	hhak	0139	sin̄sin̄	RED:burn	v:pred	v		pred		
 veraa	hhak	0139	qē'	finish	rv	rv				
-veraa	hhak	0139	ZERO		0:p	0		p		
-veraa	hhak	0139	##		##	##				
-veraa	hhak	0139	ZERO		0.h:s	0	h	s		
+veraa	hhak	0139	ZERO	ZERO	0:p	0		p	5063	
+veraa	hhak	0139	#	#	##	##				
+veraa	hhak	0139	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0139	so	QUOT	other:pred	other		pred		
-veraa	hhak	0139	#ds		##ds	##ds				
-veraa	hhak	0139	gidō'ōl	1TL.IN	tl_pro.1:a	tl_pro	1	a		
+veraa	hhak	0139	#	#	##ds	##ds				
+veraa	hhak	0139	gidō'ōl	1TL.IN	pro.1:a	pro	1	a	5028	
 veraa	hhak	0139	da	do	v:pred	v		pred		
 veraa	hhak	0139	=n	=ART	=ln	=ln				
-veraa	hhak	0139	gengen	RED:eat	np:p	np		p		
-veraa	hhak	0140	##		##	##				
+veraa	hhak	0139	gengen	RED:eat	np:p	np		p	5064	new
+veraa	hhak	0140	#	#	##	##				
 veraa	hhak	0140	taem	time	nc	nc				
-veraa	hhak	0140	...	...	...		..			
 veraa	hhak	0140	lē	LOC	adp	adp				
 veraa	hhak	0140	=n	=ART	=ln	=ln				
 veraa	hhak	0140	masōgi	time	np:other	np		other		
-veraa	hhak	0140	dir	3PL	pl_pro.h:a	pl_pro	h	a		
+veraa	hhak	0140	dir	3PL	pro.h:a	pro	h	a	5028	
 veraa	hhak	0140	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0140	sin̄sin̄	RED:burn	v:pred	v		pred		
 veraa	hhak	0140	ēn	ART	ln	ln				
-veraa	hhak	0140	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0140	##		##	##				
-veraa	hhak	0140	'eraga	PERS.ART people	nc	nc				
+veraa	hhak	0140	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0140	#	#	##	##				
+veraa	hhak	0140	'eraga	PERS.ART.people	nc	nc				
 veraa	hhak	0140	lēn	LOC=ART	nc	nc				
-veraa	hhak	0140	...	...						
 veraa	hhak	0140	e	PERS.ART	ln	ln				
-veraa	hhak	0140	raga	people	np.h:s	np	h	s		
+veraa	hhak	0140	raga	people	np.h:s	np	h	s	5013	
 veraa	hhak	0140	a	LOC.SP	rn	rn				
-veraa	hhak	0140	Rōw	Rōw	rn	rn				
+veraa	hhak	0140	Rōw	Rōw	rn	rn			5014	
 veraa	hhak	0140	=m	=TAM1	=lv	=lv				
 veraa	hhak	0140	'ēn	see	v:pred	v		pred		
 veraa	hhak	0140	kal	up	rv	rv				
 veraa	hhak	0140	ma	hither	rv	rv				
 veraa	hhak	0140	=n	=ART	=ln	=ln				
-veraa	hhak	0140	nos	smoke	np:p	np		p		
+veraa	hhak	0140	nos	smoke	np:p	np		p	5065	bridging
 veraa	hhak	0141	'aval	one.side	ln	ln				
-veraa	hhak	0141	Vunu	Vunu	np:l	np		l		
+veraa	hhak	0141	Vunu	Vunu	np:l	np		l	5003	
 veraa	hhak	0141	Lava	Lava	rn	rn				
 veraa	hhak	0141	agēn	DEM2.A	rn_dem2	rn_dem2				
-veraa	hhak	0142	##		##	##				
-veraa	hhak	0142	dir	3PL	pl_pro.h:a	pl_pro	h	a		
+veraa	hhak	0142	#	#	##	##				
+veraa	hhak	0142	dir	3PL	pro.h:a	pro	h	a	5013	
 veraa	hhak	0142	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0142	'ēn	see	v:pred	v		pred		
 veraa	hhak	0142	kal	up	rv	rv				
 veraa	hhak	0142	ma	hither	rv	rv				
 veraa	hhak	0142	=n	=ART	=ln	=ln				
-veraa	hhak	0142	nos	smoke	np:p	np		p		
-veraa	hhak	0142	##		##	##				
-veraa	hhak	0142	dir	3PL	pl_pro.h:a	pl_pro	h	a		
+veraa	hhak	0142	nos	smoke	np:p	np		p	5065	
+veraa	hhak	0142	#	#	##	##				
+veraa	hhak	0142	dir	3PL	pro.h:a	pro	h	a	5013	
 veraa	hhak	0142	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0142	'ēn	see	v:pred	v		pred		
-veraa	hhak	0142	nos	smoke	np:p	np		p		
-veraa	hhak	0142	##		##	##				
-veraa	hhak	0142	ZERO		pl_0.h:a	pl_0	h	a		
+veraa	hhak	0142	nos	smoke	np:p	np		p	5065	
+veraa	hhak	0142	#	#	##	##				
+veraa	hhak	0142	ZERO	ZERO	0.h:a	0	h	a	5013	
 veraa	hhak	0142	bi-bis	RED-cope.with	v:pred	v		pred		
 veraa	hhak	0142	ēn	ART	ln	ln				
-veraa	hhak	0142	nos	smoke	np:p	np		p		
-veraa	hhak	0142	##		##	##				
-veraa	hhak	0142	ZERO		pl_0.h:a	pl_0	h	a		
+veraa	hhak	0142	nos	smoke	np:p	np		p	5065	
+veraa	hhak	0142	#	#	##	##				
+veraa	hhak	0142	ZERO	ZERO	0.h:a	0	h	a	5013	
 veraa	hhak	0142	bi-bis	RED-cope.with	v:pred	v		pred		
 veraa	hhak	0142	ēn	ART	ln	ln				
-veraa	hhak	0142	nos	smoke	np:p	np		p		
-veraa	hhak	0142	##		##	##				
-veraa	hhak	0142	ZERO		pl_0.h:s	pl_0	h	s		
+veraa	hhak	0142	nos	smoke	np:p	np		p	5065	
+veraa	hhak	0142	#	#	##	##				
+veraa	hhak	0142	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0142	so	QUOT	other:pred	other		pred		
-veraa	hhak	0142	#ds		##ds	##ds				
+veraa	hhak	0142	#	#	##ds	##ds				
 veraa	hhak	0142	'ei	INTERJ	other	other				
 veraa	hhak	0143	n	ART	ln	ln				
 veraa	hhak	0143	sava	what	np:s	np		s		
 veraa	hhak	0143	ne	NUM.ART	rn	rn				
 veraa	hhak	0143	vōwal	NUM-one	rn	rn				
 veraa	hhak	0143	sar=gēn	DIR<sar>=DEM2	other:predex	other		predex		
-veraa	hhak	0144	##		##	##				
-veraa	hhak	0144	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0144	#	#	##	##				
+veraa	hhak	0144	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0144	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0144	kalrak	get.up	v:pred	v		pred		
-veraa	hhak	0144	##		##	##				
-veraa	hhak	0144	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0144	#	#	##	##				
+veraa	hhak	0144	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0144	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0144	su	paddle	v:pred	v		pred		
 veraa	hhak	0144	kal	up	rv	rv				
 veraa	hhak	0144	ma	hither	rv	rv				
-veraa	hhak	0145	##		##	##				
-veraa	hhak	0145	ZERO		pl_0.h:s	pl_0	h	s		
+veraa	hhak	0145	#	#	##	##				
+veraa	hhak	0145	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0145	su	paddle	v:pred	v		pred		
 veraa	hhak	0145	kal	up	rv	rv				
 veraa	hhak	0145	ma	hither	rv	rv				
-veraa	hhak	0145	##		##	##				
+veraa	hhak	0145	#	#	##	##				
 veraa	hhak	0145	ba	but	other	other				
 veraa	hhak	0145	e	PERS.ART	nc	nc				
-veraa	hhak	0145	...	...						
 veraa	hhak	0145	e	PERS.ART	ln	ln				
 veraa	hhak	0145	ruwa	two.people	ln	ln				
-veraa	hhak	0145	m̄ērm̄ēre	kid	dl_np.h:s	dl_np	h	s		
+veraa	hhak	0145	m̄ērm̄ēre	kid	np.h:s	np	h	s	5027	
 veraa	hhak	0145	=m	=TAM1	=lv	=lv				
 veraa	hhak	0145	van	go	v:pred	v		pred		
 veraa	hhak	0145	lē	LOC	adp	adp				
 veraa	hhak	0145	=n	=ART	=ln	=ln				
-veraa	hhak	0145	'ēqē'	taro.garden	np:g	np		g		
-veraa	hhak	0145	##		##	##				
-veraa	hhak	0145	ZERO		dl_0.h:s	dl_0	h	s		
+veraa	hhak	0145	'ēqē'	taro.garden	np:g	np		g	5030	
+veraa	hhak	0145	#	#	##	##				
+veraa	hhak	0145	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0145	le	transfer	v:pred	v		pred		
 veraa	hhak	0145	gengen	RED:eat	rv	rv				
-veraa	hhak	0145	##		##	##				
-veraa	hhak	0145	dir	3PL	pl_pro.h:a	pl_pro	h	a		
+veraa	hhak	0145	#	#	##	##				
+veraa	hhak	0145	dir	3PL	pro.h:a	pro	h	a	5028	
 veraa	hhak	0145	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0145	da	do	v:pred	v		pred		
 veraa	hhak	0145	=n	=ART	=ln	=ln				
-veraa	hhak	0145	gengen	RED:eat	np:p	np		p		
+veraa	hhak	0145	gengen	RED:eat	np:p	np		p	5064	
 veraa	hhak	0145	sir	for	adp	adp				
 veraa	hhak	0145	sa	EMPH	other	other				
 veraa	hhak	0145	=n	=ART	=ln	=ln				
-veraa	hhak	0145	'ama'	devil	np.d:obl	np	d	obl		
-veraa	hhak	0145	#rc		rn_#rc	rn_#rc				
-veraa	hhak	0145	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0145	'ama'	devil	np.d:obl	np	d	obl	5001	
+veraa	hhak	0145	#	#	#rc_rn	#rc_rn				
+veraa	hhak	0145	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0145	=m	=TAM1	=lv	=lv				
 veraa	hhak	0145	vus	hit	v:pred	v		pred		
-veraa	hhak	0145	ZERO		0.d:p	0	d	p		
-veraa	hhak	0145	%		%	%				
+veraa	hhak	0145	ZERO	ZERO	0.d:p	0	d	p	5001	
+veraa	hhak	0145	%	%	%	%				
 veraa	hhak	0145	ē	DEM3	rn	rn				
-veraa	hhak	0146	##		##	##				
-veraa	hhak	0146	ZERO		dl_0.h:s	dl_0	h	s		
+veraa	hhak	0146	#	#	##	##				
+veraa	hhak	0146	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0146	le	transfer	v:pred	v		pred		
 veraa	hhak	0146	gengen	RED:eat	rv	rv				
 veraa	hhak	0146	lē	LOC	adp	adp				
 veraa	hhak	0146	=n	=ART	=ln	=ln				
-veraa	hhak	0146	'ēqē'	taro.garden	np:l	np		l		
-veraa	hhak	0146	##		##	##				
-veraa	hhak	0146	ote	mum	np.h:s	np	h	s		
-veraa	hhak	0146	mu-ru	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
+veraa	hhak	0146	'ēqē'	taro.garden	np:l	np		l	5030	
+veraa	hhak	0146	#	#	##	##				
+veraa	hhak	0146	ote	mum	np.h:s	np	h	s	5015	
+veraa	hhak	0146	mu	POSS.GEN	rn	rn				
+veraa	hhak	0146	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
 veraa	hhak	0146	=m	=TAM1	=lv	=lv				
 veraa	hhak	0146	'ōg	stay	v:pred	v		pred		
 veraa	hhak	0146	'i	DEL	rv	rv				
 veraa	hhak	0146	lē	LOC	adp	adp				
 veraa	hhak	0146	=n	=ART	=ln	=ln				
-veraa	hhak	0146	vunu	village	np:l	np		l		
-veraa	hhak	0146	##		##	##				
-veraa	hhak	0146	ZERO		0.h:a	0	h	a		
+veraa	hhak	0146	vunu	village	np:l	np		l	5012	
+veraa	hhak	0146	#	#	##	##				
+veraa	hhak	0146	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0146	=m	=TAM1	=lv	=lv				
 veraa	hhak	0146	vus	kill	v:pred	v		pred		
 veraa	hhak	0146	ēn	ART	ln	ln				
-veraa	hhak	0146	tōo	fowl	np:p	np		p		
-veraa	hhak	0146	##		##	##				
-veraa	hhak	0146	ZERO		0.h:a	0	h	a		
+veraa	hhak	0146	tōo	fowl	np:p	np		p	5066	new
+veraa	hhak	0146	#	#	##	##				
+veraa	hhak	0146	ZERO	ZERO	0.h:a	0	h	a	5015	
 veraa	hhak	0146	vus	kill	v:pred	v		pred		
 veraa	hhak	0146	ēn	ART	ln	ln				
-veraa	hhak	0146	qō	pig	np:p	np		p		
-veraa	hhak	0147	##		##	##				
-veraa	hhak	0147	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0147	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0146	qō	pig	np:p	np		p	5067	new
+veraa	hhak	0147	#	#	##	##				
+veraa	hhak	0147	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0147	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0147	da	do	v:pred	v		pred		
 veraa	hhak	0147	sir	for	adp	adp				
 veraa	hhak	0147	ēn	ART	ln	ln				
-veraa	hhak	0147	bigbig	RED:eat.meat	np:obl	np		obl		
-veraa	hhak	0147	go-r'ōl	POSS.EAT-3TL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0147	#nc		#nc	#nc				
-veraa	hhak	0147	e	PERS.ART	x	x				
-veraa	hhak	0147	ruwa	two.people	x	x				
-veraa	hhak	0147	ne	TAM2:3SG	x	x				
-veraa	hhak	0147	...	...						
-veraa	hhak	0147	##		##	##				
+veraa	hhak	0147	bigbig	RED:eat.meat	np:obl	np		obl	5068	new
+veraa	hhak	0147	go	POSS.EAT	rn	rn				
+veraa	hhak	0147	-r'ōl	-3TL	-rn_pro.h:poss	-rn_pro	h	poss	5028	
+veraa	hhak	0147	#	#	#nc	#nc				
+veraa	hhak	0147	e	PERS.ART	nc	nc				
+veraa	hhak	0147	ruwa	two.people	nc	nc				
+veraa	hhak	0147	ne	TAM2:3SG	nc	nc				
+veraa	hhak	0147	#	#	##	##				
 veraa	hhak	0147	e	PERS.ART	ln	ln				
 veraa	hhak	0147	ruwa	two.people	ln	ln				
-veraa	hhak	0147	m̄ērm̄ēre	kid	dl_np.h:s	dl_np	h	s		
+veraa	hhak	0147	m̄ērm̄ēre	kid	np.h:s	np	h	s	5027	
 veraa	hhak	0147	=k	=TAM2	=lv	=lv				
 veraa	hhak	0147	van	go	v:pred	v		pred		
-veraa	hhak	0147	##		##	##				
-veraa	hhak	0147	ZERO		dl_0.h:a	dl_0	h	a		
+veraa	hhak	0147	#	#	##	##				
+veraa	hhak	0147	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0147	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0147	le	transfer	v:pred	v		pred		
-veraa	hhak	0147	gor'ō...	x	nc	nc				
-veraa	hhak	0147	go-r'ōl	POSS.EAT-3TL	rv-pro.h:poss	rv-pro	h	poss		
+veraa	hhak	0147	gor'ō--	NC	nc	nc				
+veraa	hhak	0147	go	POSS.EAT	rv	rv				
+veraa	hhak	0147	-r'ōl	-3TL	-rv_pro.h:poss	-rv_pro	h	poss	5028	
 veraa	hhak	0147	=n	=ART	=ln	=ln				
-veraa	hhak	0147	gengen	RED:eat	np:p	np		p		
-veraa	hhak	0148	##		##	##				
-veraa	hhak	0148	dir'ōl	3TL:TAM2	tl_pro.h:a	tl_pro	h	a		
+veraa	hhak	0147	gengen	RED:eat	np:p	np		p	5069	new
+veraa	hhak	0148	#	#	##	##				
+veraa	hhak	0148	dir'ōl	3TL:TAM2	pro.h:a	pro	h	a	5028	
 veraa	hhak	0148	'ēqēl	descend	v:pred	v		pred		
 veraa	hhak	0148	'ō'	carry	rv	rv				
 veraa	hhak	0148	kel	back	rv	rv				
 veraa	hhak	0148	ma	hither	rv	rv				
-veraa	hhak	0148	ZERO		0:p	0		p		
-veraa	hhak	0149	#nc		#nc	#nc				
-veraa	hhak	0149	wana	and	x	x				
-veraa	hhak	0149	dir'ōl	3TL	x	x				
-veraa	hhak	0149	so	QUOT	x	x				
-veraa	hhak	0149	sag	sit	x	x				
-veraa	hhak	0149	sōk	??	x	x				
-veraa	hhak	0149	gengen	RED:eat	x	x				
-veraa	hhak	0150	##		##	##				
-veraa	hhak	0150	maranaga	chief	np.h:s	np	h	s		
-veraa	hhak	0150	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0148	ZERO	ZERO	0:p	0		p	5069	
+veraa	hhak	0149	#	#	#nc	#nc				
+veraa	hhak	0149	wana	and	nc	nc				
+veraa	hhak	0149	dir'ōl	3TL	nc	nc				
+veraa	hhak	0149	so	QUOT	nc	nc				
+veraa	hhak	0149	sag	sit	nc	nc				
+veraa	hhak	0149	sōk	NC	nc	nc				
+veraa	hhak	0149	gengen	RED:eat	nc	nc				
+veraa	hhak	0150	#	#	##	##				
+veraa	hhak	0150	maranaga	chief	np.h:s	np	h	s	5070	unused
+veraa	hhak	0150	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0150	su	paddle	v:pred	v		pred		
 veraa	hhak	0150	kal	up	rv	rv				
 veraa	hhak	0150	ma	hither	rv	rv				
-veraa	hhak	0150	##		##	##				
-veraa	hhak	0150	maranaga	chief	np.h:s	np	h	s		
-veraa	hhak	0150	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0150	#	#	##	##				
+veraa	hhak	0150	maranaga	chief	np.h:s	np	h	s	5070	
+veraa	hhak	0150	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0150	su	paddle	v:pred	v		pred		
 veraa	hhak	0150	ma	hither	rv	rv				
-veraa	hhak	0150	##		##	##				
-veraa	hhak	0150	ZERO		0.h:s	0	h	s		
+veraa	hhak	0150	#	#	##	##				
+veraa	hhak	0150	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0150	so	QUOT	other:pred	other		pred		
-veraa	hhak	0150	#ds		##ds	##ds				
+veraa	hhak	0150	#	#	##ds	##ds				
 veraa	hhak	0150	oo	INTERJ	other:pred	other		pred		
-veraa	hhak	0151	##		##	##				
+veraa	hhak	0151	#	#	##	##				
 veraa	hhak	0151	ei	INTERJ	nc	nc				
-veraa	hhak	0151	ZERO		0.h:s	0	h	s		
+veraa	hhak	0151	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0151	m	TAM1	lv	lv				
 veraa	hhak	0151	van	go	v:pred	v		pred		
 veraa	hhak	0151	kal	up	rv	rv				
 veraa	hhak	0151	ma	hither	rv	rv				
-veraa	hhak	0151	##		##	##				
-veraa	hhak	0151	ZERO		0.h:a	0	h	a		
+veraa	hhak	0151	#	#	##	##				
+veraa	hhak	0151	ZERO	ZERO	0.h:a	0	h	a	5070	
 veraa	hhak	0151	rēv	drag	v:pred	v		pred		
 veraa	hhak	0151	kal	up	rv	rv				
 veraa	hhak	0151	ma	hither	rv	rv				
 veraa	hhak	0151	=n	=ART	=ln	=ln				
-veraa	hhak	0151	nak	canoe	np:p	np		p		
+veraa	hhak	0151	nak	canoe	np:p	np		p	5071	bridging
 veraa	hhak	0151	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0151	##		##	##				
-veraa	hhak	0151	ZERO		0.h:s	0	h	s		
-veraa	hhak	0151	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0151	#	#	##	##				
+veraa	hhak	0151	ZERO	ZERO	0.h:s	0	h	s	5070	
+veraa	hhak	0151	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0151	van	go	v:pred	v		pred		
 veraa	hhak	0151	sar	bushwards	rv	rv				
-veraa	hhak	0151	##		##	##				
-veraa	hhak	0151	ZERO		0.h:s	0	h	s		
+veraa	hhak	0151	#	#	##	##				
+veraa	hhak	0151	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0151	vavavan	RED-go	v:pred	v		pred		
 veraa	hhak	0151	sar	bushwards	rv	rv				
-veraa	hhak	0152	##		##	##				
+veraa	hhak	0152	#	#	##	##				
 veraa	hhak	0152	e	DISC	other	other				
-veraa	hhak	0152	ZERO		0.h:s	0	h	s		
+veraa	hhak	0152	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0152	so	QUOT	other:pred	other		pred		
-veraa	hhak	0152	#ds		##ds	##ds				
+veraa	hhak	0152	#	#	##ds	##ds				
 veraa	hhak	0152	n	ART	ln	ln				
-veraa	hhak	0152	nos	smoke	np:s	np		s		
+veraa	hhak	0152	nos	smoke	np:s	np		s	5065	
 veraa	hhak	0152	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0152	=m	=TAM1	=lv	=lv				
 veraa	hhak	0152	da	do	v:pred	v		pred		
 veraa	hhak	0152	siviē	how	other	other				
-veraa	hhak	0152	##		##	##				
-veraa	hhak	0152	ZERO		0.h:s	0	h	s		
+veraa	hhak	0152	#	#	##	##				
+veraa	hhak	0152	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0152	so	QUOT	other:pred	other		pred		
-veraa	hhak	0152	#ds		##ds	##ds				
+veraa	hhak	0152	#	#	##ds	##ds				
 veraa	hhak	0152	oo	no	other	other				
 veraa	hhak	0152	n	ART	nc	nc				
-veraa	hhak	0152	...	...						
 veraa	hhak	0152	e	PERS.ART	ln	ln				
 veraa	hhak	0152	ruwa	two.people	ln	ln				
-veraa	hhak	0152	m̄ērm̄ēre	kid	dl_np.h:s	dl_np	h	s		
-veraa	hhak	0152	mu-k	POSS.GEN-1SG	rn-pro.1:poss	rn-pro	1	poss		
+veraa	hhak	0152	m̄ērm̄ēre	kid	np.h:s	np	h	s	5027	
+veraa	hhak	0152	mu	POSS.GEN	rn	rn				
+veraa	hhak	0152	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	5015	
 veraa	hhak	0152	vus	kill	v:pred	v		pred		
 veraa	hhak	0152	ēn	ART	ln	ln				
-veraa	hhak	0152	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0153	#ds		##ds	##ds				
+veraa	hhak	0152	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0153	#	#	##ds	##ds				
 veraa	hhak	0153	ba	but	other	other				
-veraa	hhak	0153	ZERO		0.2:s	0	2	s		
+veraa	hhak	0153	ZERO	ZERO	0.2:s	0	2	s	5013	
 veraa	hhak	0153	'erē	PL	other:voc	other		voc		
 veraa	hhak	0153	su	paddle	vother:pred	vother		pred		
 veraa	hhak	0153	kal	up	rv	rv				
 veraa	hhak	0153	kel	back	rv	rv				
 veraa	hhak	0153	ma	hither	rv	rv				
-veraa	hhak	0153	#ds		##ds	##ds				
+veraa	hhak	0153	#	#	##ds	##ds				
 veraa	hhak	0153	n	ART	ln	ln				
-veraa	hhak	0153	'ama'	devil	np.d:s	np	d	s		
+veraa	hhak	0153	'ama'	devil	np.d:s	np	d	s	5001	
 veraa	hhak	0153	mal	REM.PST	lv	lv				
 veraa	hhak	0153	ma'	dead	v:pred	v		pred		
-veraa	hhak	0154	#ds		##ds	##ds				
+veraa	hhak	0154	#	#	##ds	##ds				
 veraa	hhak	0154	e	PERS.ART	ln	ln				
 veraa	hhak	0154	ruwa	two.people	ln	ln				
-veraa	hhak	0154	m̄ērm̄ēre	kid	dl_np.h:a	dl_np	h	a		
+veraa	hhak	0154	m̄ērm̄ēre	kid	np.h:a	np	h	a	5027	
 veraa	hhak	0154	man	PFV	lv	lv				
 veraa	hhak	0154	vus	kill	v:pred	v		pred		
-veraa	hhak	0154	ZERO		0.d:p	0	d	p		
-veraa	hhak	0155	##		##	##				
-veraa	hhak	0155	ZERO		0.h:s	0	h	s		
+veraa	hhak	0154	ZERO	ZERO	0.d:p	0	d	p	5001	
+veraa	hhak	0155	#	#	##	##				
+veraa	hhak	0155	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0155	so	QUOT	other:pred	other		pred		
-veraa	hhak	0155	#ds		##ds.neg	##ds.neg				
+veraa	hhak	0155	#	#	##ds.neg	##ds.neg				
 veraa	hhak	0155	oo	no	other	other				
-veraa	hhak	0155	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0155	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0155	as	INABIL1	lv	lv				
 veraa	hhak	0155	vus	kill	v:pred	v		pred		
 veraa	hhak	0155	m̄as	INABIL2	rv	rv				
-veraa	hhak	0155	ZERO		0.d:p	0	d	p		
-veraa	hhak	0155	##		#nc	#nc				
-veraa	hhak	0155	ZERO		x	x				
-veraa	hhak	0155	so	QUOT	x	x				
-veraa	hhak	0155	##		##	##				
-veraa	hhak	0155	0.h:s		0.h:s	0	h	s		
+veraa	hhak	0155	ZERO	ZERO	0.d:p	0	d	p	5001	
+veraa	hhak	0155	#	#	#nc	#nc				
+veraa	hhak	0155	ZERO	ZERO	nc_0.h	nc_0	h		5015	
+veraa	hhak	0155	so	QUOT	nc	nc				
+veraa	hhak	0155	#	#	##	##				
+veraa	hhak	0155	ZERO	ZERO	0.h:s	0	h	s	5015	
 veraa	hhak	0155	'an̄	hand.move	v:pred	v		pred		
 veraa	hhak	0155	kal	up	rv	rv				
 veraa	hhak	0155	sag	DIR<sag>	rv	rv				
@@ -2344,255 +2342,254 @@ veraa	hhak	0155	ma	hither	rv	rv
 veraa	hhak	0155	nē	DEM1	other	other				
 veraa	hhak	0155	lē	LOC	adp	adp				
 veraa	hhak	0155	=n	=ART	=ln	=ln				
-veraa	hhak	0155	qōtō	k.o.basket	np:g	np		g		
-veraa	hhak	0156	#nc		#nc	#nc				
-veraa	hhak	0156	qōtō	k.o.basket	x	x				
-veraa	hhak	0156	di	3SG	x	x				
-veraa	hhak	0156	=n	=ART						
-veraa	hhak	0156	ge	THING	x	x				
-veraa	hhak	0156	'alē=n	ASS=ART	x	x				
-veraa	hhak	0156	mom	put	x	x				
-veraa	hhak	0156	n̄ar	nangae	x	x				
-veraa	hhak	0157	si	or	x	x				
-veraa	hhak	0157	'alē=n	ASS=ART	x	x				
-veraa	hhak	0157	ga	STAT	x	x				
-veraa	hhak	0157	nos	insert	x	x				
-veraa	hhak	0157	'ama'	corpse	x	x				
-veraa	hhak	0158	nos	insert	x	x				
-veraa	hhak	0158	ēn	ART	x	x				
-veraa	hhak	0158	'erē	PL	x	x				
-veraa	hhak	0158	'an̄sara	person	x	x				
-veraa	hhak	0158	lē	LOC	x	x				
-veraa	hhak	0158	=n	=ART						
-veraa	hhak	0158	lōlō-gi	inside-3SG	x	x				
-veraa	hhak	0159	n	ART	x	x				
-veraa	hhak	0159	so-gi=n	name-3SG=ART	x	x				
-veraa	hhak	0159	qōtō	k.o.basket	x	x				
-veraa	hhak	0160	##		##	##				
+veraa	hhak	0155	qōtō	k.o.basket	np:g	np		g	5072	new
+veraa	hhak	0156	#	#	#nc	#nc				
+veraa	hhak	0156	qōtō	k.o.basket	nc	nc				
+veraa	hhak	0156	di	3SG	nc	nc				
+veraa	hhak	0156	=n	=ART	nc	nc				
+veraa	hhak	0156	ge	THING	nc	nc				
+veraa	hhak	0156	'alē=n	ASS=ART	nc	nc				
+veraa	hhak	0156	mom	put	nc	nc				
+veraa	hhak	0156	n̄ar	nangae	nc	nc				
+veraa	hhak	0157	si	or	nc	nc				
+veraa	hhak	0157	'alē=n	ASS=ART	nc	nc				
+veraa	hhak	0157	ga	STAT	nc	nc				
+veraa	hhak	0157	nos	insert	nc	nc				
+veraa	hhak	0157	'ama'	corpse	nc	nc				
+veraa	hhak	0158	nos	insert	nc	nc				
+veraa	hhak	0158	ēn	ART	nc	nc				
+veraa	hhak	0158	'erē	PL	nc	nc				
+veraa	hhak	0158	'an̄sara	person	nc	nc				
+veraa	hhak	0158	lē	LOC	nc	nc				
+veraa	hhak	0158	=n	=ART	nc	nc				
+veraa	hhak	0158	lōlō-gi	inside-3SG	nc	nc				
+veraa	hhak	0159	n	ART	nc	nc				
+veraa	hhak	0159	so-gi=n	name-3SG=ART	nc	nc				
+veraa	hhak	0159	qōtō	k.o.basket	nc	nc				
+veraa	hhak	0160	#	#	##	##				
 veraa	hhak	0160	alē	alright	other	other				
 veraa	hhak	0160	qē'	finish	other	other				
 veraa	hhak	0160	direk	3PL=TAM2	nc	nc				
-veraa	hhak	0160	...	...						
-veraa	hhak	0160	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0160	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0160	di	3SG	pro.h:s	pro	h	s	5015	
+veraa	hhak	0160	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0160	'an̄	hand.move	v:pred	v		pred		
 veraa	hhak	0160	kal	up	rv	rv				
 veraa	hhak	0160	sag	DIR<sag>	rv	rv				
 veraa	hhak	0160	lē	LOC	adp	adp				
 veraa	hhak	0160	=n	=ART	=ln	=ln				
-veraa	hhak	0160	qōtō	k.o.basket	np:g	np		g		
-veraa	hhak	0160	##		##	##				
-veraa	hhak	0160	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0160	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0160	qōtō	k.o.basket	np:g	np		g	5072	
+veraa	hhak	0160	#	#	##	##				
+veraa	hhak	0160	di	3SG	pro.h:a	pro	h	a	5015	
+veraa	hhak	0160	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0160	le	transfer	v:pred	v		pred		
 veraa	hhak	0160	qēl	descend	rv	rv				
 veraa	hhak	0160	ma	hither	rv	rv				
 veraa	hhak	0160	=n	=ART	=ln	=ln				
-veraa	hhak	0160	qi'i	head	np:p	np		p		
-veraa	hhak	0160	'ama'	devil	rnp.d:poss	rnp	d	poss		
-veraa	hhak	0160	##		##	##				
-veraa	hhak	0160	di	3SG	pro.h:a	pro	h	a		
-veraa	hhak	0160	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0160	qi'i	head	np:p	np		p	5061	
+veraa	hhak	0160	'ama'	devil	rn_np.d:poss	rn_np	d	poss	5001	
+veraa	hhak	0160	#	#	##	##				
+veraa	hhak	0160	di	3SG	pro.h:a	pro	h	a	5070	
+veraa	hhak	0160	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0160	'ēn	see	v:pred	v		pred		
-veraa	hhak	0160	ZERO		0:p	0		p		
-veraa	hhak	0161	##		##	##				
-veraa	hhak	0161	di	3SG	pro.h:a	pro	h	a		
+veraa	hhak	0160	ZERO	ZERO	0:p	0		p	5061	
+veraa	hhak	0161	#	#	##	##				
+veraa	hhak	0161	di	3SG	pro.h:a	pro	h	a	5070	
 veraa	hhak	0161	=m	=TAM1	=lv	=lv				
 veraa	hhak	0161	'ēn'ēn	RED:see	v:pred	v		pred		
 veraa	hhak	0161	qē'	finish	rv	rv				
-veraa	hhak	0161	ZERO		0:p	0		p		
-veraa	hhak	0161	##		##	##				
-veraa	hhak	0161	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0161	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0161	ZERO	ZERO	0:p	0		p	5061	
+veraa	hhak	0161	#	#	##	##				
+veraa	hhak	0161	di	3SG	pro.h:s	pro	h	s	5070	
+veraa	hhak	0161	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0161	susu	RED:paddle	v:pred	v		pred		
 veraa	hhak	0161	kel	back	rv	rv				
-veraa	hhak	0161	anē	DEM1.A	other_dem1	other_dem1				
-veraa	hhak	0161	##		##	##				
-veraa	hhak	0161	ZERO		0.h:s	0	h	s		
-veraa	hhak	0161	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0161	anē	DEM1.A	dem1_other	dem1_other				
+veraa	hhak	0161	#	#	##	##				
+veraa	hhak	0161	ZERO	ZERO	0.h:s	0	h	s	5070	
+veraa	hhak	0161	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0161	van	go	v:pred	v		pred		
-veraa	hhak	0162	##		##	##				
-veraa	hhak	0162	ZERO		0.h:s	0	h	s		
-veraa	hhak	0162	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0162	#	#	##	##				
+veraa	hhak	0162	ZERO	ZERO	0.h:s	0	h	s	5070	
+veraa	hhak	0162	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0162	van	go	v:pred	v		pred		
-veraa	hhak	0162	##		##	##				
-veraa	hhak	0162	ZERO		0.h:a	0	h	a		
-veraa	hhak	0162	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0162	#	#	##	##				
+veraa	hhak	0162	ZERO	ZERO	0.h:a	0	h	a	5070	
+veraa	hhak	0162	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0162	'aram	inform	v:pred	v		pred		
-veraa	hhak	0162	ZERO		0:p	0		p		
+veraa	hhak	0162	ZERO	ZERO	0:p	0		p		
 veraa	hhak	0162	mē-n	DAT-CS	adp	adp				
 veraa	hhak	0162	e	PERS.ART	ln	ln				
 veraa	hhak	0162	raga	people	ln	ln				
-veraa	hhak	0162	sul	community	np.h:g	np	h	g		
+veraa	hhak	0162	sul	community	np.h:g	np	h	g	5013	
 veraa	hhak	0162	a	LOC.SP	rn	rn				
-veraa	hhak	0162	Ruō	Ruō	rn	rn				
-veraa	hhak	0163	##		##	##				
-veraa	hhak	0163	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0162	Ruō	Ruō	rn	rn			5014	
+veraa	hhak	0163	#	#	##	##				
+veraa	hhak	0163	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0163	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0163	su	paddle	v:pred	v		pred		
 veraa	hhak	0163	kal	up	rv	rv				
 veraa	hhak	0163	ma	hither	rv	rv				
-veraa	hhak	0163	##		##	##				
-veraa	hhak	0163	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0163	#	#	##	##				
+veraa	hhak	0163	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0163	=k	=TAM2	=lv	=lv				
 veraa	hhak	0163	'ōg	stay	v:pred	v		pred		
 veraa	hhak	0163	'i	DEL	rv	rv				
-veraa	hhak	0163	##		##	##				
-veraa	hhak	0163	ZERO		tl_0.h:s	tl_0	h	s		
+veraa	hhak	0163	#	#	##	##				
+veraa	hhak	0163	ZERO	ZERO	0.h:s	0	h	s	5028	
 veraa	hhak	0163	=k	=TAM2	=lv	=lv				
 veraa	hhak	0163	gengen	RED:eat	v:pred	v		pred		
-veraa	hhak	0164	##		##	##				
-veraa	hhak	0164	ZERO		tl_0.h:s	tl_0	h	s		
+veraa	hhak	0164	#	#	##	##				
+veraa	hhak	0164	ZERO	ZERO	0.h:s	0	h	s	5028	
 veraa	hhak	0164	gengen	RED:eat	v:pred	v		pred		
 veraa	hhak	0164	vavan	RED-go	other	other				
-veraa	hhak	0164	##		##	##				
+veraa	hhak	0164	#	#	##	##				
 veraa	hhak	0164	qē'	finish	other	other				
-veraa	hhak	0164	ote	mum	np.h:s_ds	np	h	s_ds		
-veraa	hhak	0164	mu-ru	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
-veraa	hhak	0164	ne	TAM2:3SG	lv-pro.h:s_ds	lv-pro	h	s_ds		
+veraa	hhak	0164	ote	mum	np.h:s_ds	np	h	s_ds	5015	
+veraa	hhak	0164	mu	POSS.GEN	rn	rn				
+veraa	hhak	0164	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0164	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0164	tēk	speak	v:pred	v		pred		
 veraa	hhak	0164	mē	DAT	adp	adp				
-veraa	hhak	0164	duruō	3DL	pro.h:g	pro	h	g		
+veraa	hhak	0164	duruō	3DL	pro.h:g	pro	h	g	5027	
 veraa	hhak	0164	so	QUOT	other	other				
-veraa	hhak	0165	#ds		##ds	##ds				
-veraa	hhak	0165	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0165	#	#	##ds	##ds				
+veraa	hhak	0165	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0165	me	FUT	lv	lv				
 veraa	hhak	0165	'ēn	see	v:pred	v		pred		
 veraa	hhak	0165	ēn	ART	ln	ln				
-veraa	hhak	0165	maru-mruō	uncle-2DL	np.h:p-pro.2:poss	np	h	p-pro.2:poss		
-veraa	hhak	0166	#ds		##ds	##ds				
+veraa	hhak	0165	maru	uncle	np.h:p	np	h	p	5034	
+veraa	hhak	0165	-mruō	-2DL	-rn_pro.2:poss	-rn_pro	2	poss	5027	
+veraa	hhak	0166	#	#	##ds	##ds				
 veraa	hhak	0166	nome	1SG=FUT	nc	nc				
-veraa	hhak	0166	...	...						
 veraa	hhak	0166	nome	1SG=FUT	nc	nc				
-veraa	hhak	0166	...	...						
-veraa	hhak	0166	no	1SG	pro.1:a	pro	1	a		
+veraa	hhak	0166	no	1SG	pro.1:a	pro	1	a	5015	
 veraa	hhak	0166	me	FUT	lv	lv				
 veraa	hhak	0166	'aram	inform	v:pred	v		pred		
 veraa	hhak	0166	mē	DAT	adp	adp				
-veraa	hhak	0166	kumru	2DL	dl_pro.2:g	dl_pro	2	g		
+veraa	hhak	0166	kumru	2DL	pro.2:g	pro	2	g	5027	
 veraa	hhak	0166	=n	=ART	=ln	=ln				
-veraa	hhak	0166	maru-mruō	uncle-2DL	np.h:p-pro.2:poss	np	h	p-pro.2:poss		
-veraa	hhak	0166	#ds		##ds	##ds				
-veraa	hhak	0166	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0166	maru	uncle	np.h:p	np	h	p	5034	
+veraa	hhak	0166	-mruō	-2DL	-rn_pro.2:poss	-rn_pro	2	poss	5027	
+veraa	hhak	0166	#	#	##ds	##ds				
+veraa	hhak	0166	di	3SG	pro.h:s	pro	h	s	5034	
 veraa	hhak	0166	=m	=TAM1	=lv	=lv				
 veraa	hhak	0166	su	paddle	v:pred	v		pred		
 veraa	hhak	0166	kal	up	rv	rv				
 veraa	hhak	0166	ma	hither	rv	rv				
 veraa	hhak	0166	nom	1SG=TAM1	nc	nc				
-veraa	hhak	0166	...	...						
-veraa	hhak	0166	#nc		#nc	#nc				
-veraa	hhak	0166	kēm?	x	x	x				
-veraa	hhak	0166	'ēn	see	x	x				
-veraa	hhak	0166	eraga	PERS.ART=people	x	x				
-veraa	hhak	0166	susuō	RED-paddle	x	x				
-veraa	hhak	0166	#ds		##ds	##ds				
-veraa	hhak	0166	kumru	2DL	dl_pro.2:s	dl_pro	2	s		
+veraa	hhak	0166	#	#	#nc	#nc				
+veraa	hhak	0166	kēm?	NC	nc	nc				
+veraa	hhak	0166	'ēn	see	nc	nc				
+veraa	hhak	0166	eraga	PERS.ART=people	nc	nc				
+veraa	hhak	0166	susuō	RED-paddle	nc	nc				
+veraa	hhak	0166	#	#	##ds	##ds				
+veraa	hhak	0166	kumru	2DL	pro.2:s	pro	2	s	5027	
 veraa	hhak	0166	=m	=TAM1	=lv	=lv				
 veraa	hhak	0166	rōn̄	feel	v:pred	v		pred		
-veraa	hhak	0166	#ds.cc		##ds_cc	##ds_cc				
-veraa	hhak	0166	no	1SG	pro.1:s_ds	pro	1	s_ds		
+veraa	hhak	0166	#	#	#ds_cc	#ds_cc				
+veraa	hhak	0166	no	1SG	pro.1:s_ds	pro	1	s_ds	5015	
 veraa	hhak	0166	=m	=TAM1	=lv	=lv				
 veraa	hhak	0166	tēk	speak	v:pred	v		pred		
 veraa	hhak	0166	so	QUOT	other	other				
-veraa	hhak	0167	#ds		##ds	##ds				
+veraa	hhak	0167	#	#	##ds	##ds				
 veraa	hhak	0167	n	ART	ln	ln				
-veraa	hhak	0167	maru-mruō	uncle-2DL	np.h:pred-pro.2:poss	np	h	pred-pro.2:poss		
+veraa	hhak	0167	maru	uncle	np.h:pred	np	h	pred	5034	
+veraa	hhak	0167	-mruō	-2DL	-rn_pro.2:poss	-rn_pro	2	poss	5027	
 veraa	hhak	0167	gēn	DEM2	dem_pro:s	dem_pro		s		
-veraa	hhak	0168	#ds		##ds	##ds				
+veraa	hhak	0168	#	#	##ds	##ds				
 veraa	hhak	0168	e	DISC	other	other				
 veraa	hhak	0168	wo	and	other	other				
-veraa	hhak	0168	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0168	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0168	=k	=TAM2	=lv	=lv				
 veraa	hhak	0168	vus	kill	v:pred	v		pred		
-veraa	hhak	0168	diē	3SG	pro.h:p	pro	h	p		
-veraa	hhak	0169	##		##	##				
+veraa	hhak	0168	diē	3SG	pro.h:p	pro	h	p	5034	
+veraa	hhak	0169	#	#	##	##				
 veraa	hhak	0169	ba	but	other	other				
 veraa	hhak	0169	dim	3SG=TAM1	nc	nc				
 veraa	hhak	0169	da	do	nc	nc				
-veraa	hhak	0169	...	...						
-veraa	hhak	0169	duru	3DL	pro.h:s	pro	h	s		
+veraa	hhak	0169	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0169	=m	=TAM1	=lv	=lv				
 veraa	hhak	0169	da	do	v:pred	v		pred		
 veraa	hhak	0169	'a-'ag	RED-follow	rv	rv				
 veraa	hhak	0169	wal	once	rv	rv				
 veraa	hhak	0169	sa	EMPH	other	other				
 veraa	hhak	0169	senē	MAN.DEM1	other	other				
-veraa	hhak	0170	##		##	##				
-veraa	hhak	0170	maranaga	chief	np.h:s	np	h	s		
+veraa	hhak	0170	#	#	##	##				
+veraa	hhak	0170	maranaga	chief	np.h:s	np	h	s	5070	
 veraa	hhak	0170	=m	=TAM1	=lv	=lv				
 veraa	hhak	0170	out	leave	v:pred	v		pred		
 veraa	hhak	0170	kel	back	rv	rv				
 veraa	hhak	0170	den	ABL	adp	adp				
 veraa	hhak	0170	sarē	bushwards	other:l	other		l		
-veraa	hhak	0170	##		##	##				
-veraa	hhak	0170	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0170	#	#	##	##				
+veraa	hhak	0170	di	3SG	pro.h:s	pro	h	s	5070	
 veraa	hhak	0170	=m	=TAM1	=lv	=lv				
 veraa	hhak	0170	van	go	v:pred	v		pred		
-veraa	hhak	0171	##		##	##				
-veraa	hhak	0171	ZERO		0.h:s	0	h	s		
+veraa	hhak	0171	#	#	##	##				
+veraa	hhak	0171	ZERO	ZERO	0.h:s	0	h	s	5070	
 veraa	hhak	0171	din̄	reach	v:pred	v		pred		
 veraa	hhak	0171	rōwē	seawards	other:g	other		g		
 veraa	hhak	0171	a	LOC.SP	adp	adp				
-veraa	hhak	0171	Ruō	Ruō	np:g	np		g		
-veraa	hhak	0171	##		##	##				
-veraa	hhak	0171	ZERO		0.h:a	0	h	a		
+veraa	hhak	0171	Ruō	Ruō	np:g	np		g	5014	
+veraa	hhak	0171	#	#	##	##				
+veraa	hhak	0171	ZERO	ZERO	0.h:a	0	h	a	5070	
 veraa	hhak	0171	'aram	inform	v:pred	v		pred		
-veraa	hhak	0171	ZERO		0:p	0		p		
+veraa	hhak	0171	ZERO	ZERO	0:p	0		p	5073	bridging
 veraa	hhak	0171	mē-n	DAT-CS	adp	adp				
 veraa	hhak	0171	e	PERS.ART	ln	ln				
 veraa	hhak	0171	raga	people	ln	ln				
-veraa	hhak	0171	sul	community	np.h:g	np	h	g		
-veraa	hhak	0172	##		##	##				
-veraa	hhak	0172	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0171	sul	community	np.h:g	np	h	g	5013	
+veraa	hhak	0172	#	#	##	##				
+veraa	hhak	0172	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0172	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0172	su	paddle	v:pred	v		pred		
 veraa	hhak	0172	kal	up	rv	rv				
 veraa	hhak	0172	kel	back	rv	rv				
 veraa	hhak	0172	ma	hither	rv	rv				
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	ZERO		pl_0.h:s	pl_0	h	s		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0173	su	paddle	v:pred	v		pred		
 veraa	hhak	0173	kal	up	rv	rv				
 veraa	hhak	0173	kel	back	rv	rv				
 veraa	hhak	0173	ma	hither	rv	rv				
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	ZERO		pl_0.h:s	pl_0	h	s		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0173	van	go	v:pred	v		pred		
 veraa	hhak	0173	ma	hither	rv	rv				
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	ZERO		pl_0.h:s	pl_0	h	s		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	ZERO	ZERO	0.h:s	0	h	s	5013	
 veraa	hhak	0173	van	go	v:pred	v		pred		
 veraa	hhak	0173	ma	hither	rv	rv				
 veraa	hhak	0173	vavavan	RED-go	other	other				
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	dir	3PL	pl_pro.h:s	pl_pro	h	s		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0173	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0173	su	paddle	v:pred	v		pred		
 veraa	hhak	0173	kal	up	rv	rv				
 veraa	hhak	0173	ma	hither	rv	rv				
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0173	=m	=TAM1	=lv	=lv				
 veraa	hhak	0173	van	go	v:pred	v		pred		
 veraa	hhak	0173	rōw	seawards	rv	rv				
 veraa	hhak	0173	lē	LOC	adp	adp				
 veraa	hhak	0173	=n	=ART	=ln	=ln				
-veraa	hhak	0173	mē'ērsa	harbour	np:g	np		g		
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	dir'ōl	3TL	tl_pro.h:s	tl_pro	h	s		
+veraa	hhak	0173	mē'ērsa	harbour	np:g	np		g	5074	unused
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	dir'ōl	3TL	pro.h:s	pro	h	s	5028	
 veraa	hhak	0173	=m	=TAM1	=lv	=lv				
 veraa	hhak	0173	sagsag	RED:sit	v:pred	v		pred		
-veraa	hhak	0173	##		##	##				
-veraa	hhak	0173	ZERO		tl_0.h:a	tl_0	h	a		
+veraa	hhak	0173	#	#	##	##				
+veraa	hhak	0173	ZERO	ZERO	0.h:a	0	h	a	5028	
 veraa	hhak	0173	'ēn'ēn	RED:see	v:pred	v		pred		
 veraa	hhak	0173	gōr	secure	rv	rv				
 veraa	hhak	0173	ēn	ART	ln	ln				
 veraa	hhak	0173	'erē	PL	ln	ln				
-veraa	hhak	0173	nak	canoe	plnp:p	plnp		p		
+veraa	hhak	0173	nak	canoe	np:p	np		p	5075	bridging
 veraa	hhak	0173	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0174	##		##	##				
+veraa	hhak	0174	#	#	##	##				
 veraa	hhak	0174	'erē	PL	ln	ln				
-veraa	hhak	0174	nak	canoe	plnp:s	plnp		s		
+veraa	hhak	0174	nak	canoe	np:s	np		s	5075	
 veraa	hhak	0174	su-suō	RED-paddle	rn	rn				
 veraa	hhak	0174	=m	=TAM1	=lv	=lv				
 veraa	hhak	0174	van	go	v:pred	v		pred		
@@ -2600,233 +2597,238 @@ veraa	hhak	0174	van	go	nc	nc
 veraa	hhak	0174	van	go	nc	nc				
 veraa	hhak	0174	van	go	nc	nc				
 veraa	hhak	0174	vavavan	RED-go	other	other				
-veraa	hhak	0175	##		##	##				
-veraa	hhak	0175	ote	mum	np.h:s	np	h	s		
-veraa	hhak	0175	mu-ru	POSS.GEN-3DL	rn-pro.h:poss	rn-pro	h	poss		
+veraa	hhak	0175	#	#	##	##				
+veraa	hhak	0175	ote	mum	np.h:s	np	h	s	5015	
+veraa	hhak	0175	mu	POSS.GEN	rn	rn				
+veraa	hhak	0175	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
 veraa	hhak	0175	so	QUOT	other:pred	other		pred		
-veraa	hhak	0175	#ds		##ds	##ds				
+veraa	hhak	0175	#	#	##ds	##ds				
 veraa	hhak	0175	=n	=ART	=ln	=ln				
-veraa	hhak	0175	maru-mruō	uncle-2DL	np.h:s-pro.2:poss	np	h	s-pro.2:poss		
+veraa	hhak	0175	maru	uncle	np.h:s	np	h	s	5034	
+veraa	hhak	0175	-mruō	-2DL	-rn_pro.2:poss	-rn_pro	2	poss	5027	
 veraa	hhak	0175	sa	EMPH	other	other				
 veraa	hhak	0175	nē	DEM1	other:pred	other		pred		
-veraa	hhak	0175	#nc		#nc	#nc				
-veraa	hhak	0175	s	SIM	x	x				
-veraa	hhak	0175	lele	RED:transfer	x	x				
-veraa	hhak	0175	'i	DEL	x	x				
-veraa	hhak	0175	anē	DEM1.A	x	x				
-veraa	hhak	0176	##		##	##				
-veraa	hhak	0176	duru	3DL	dl_pro.h:a	dl_pro	h	a		
+veraa	hhak	0175	#	#	#nc	#nc				
+veraa	hhak	0175	s	SIM	nc	nc				
+veraa	hhak	0175	lele	RED:transfer	nc	nc				
+veraa	hhak	0175	'i	DEL	nc	nc				
+veraa	hhak	0175	anē	DEM1.A	nc	nc				
+veraa	hhak	0176	#	#	##	##				
+veraa	hhak	0176	duru	3DL	pro.h:a	pro	h	a	5027	
 veraa	hhak	0176	=m	=TAM1	=lv	=lv				
 veraa	hhak	0176	le	transfer	v:pred	v		pred		
 veraa	hhak	0176	ma	hither	rv	rv				
 veraa	hhak	0176	=n	=ART	=ln	=ln				
-veraa	hhak	0176	vusu-ruō	bow-3DL	np:p-pro.h:poss	np		p-pro.h:poss		
-veraa	hhak	0176	##		##	##				
-veraa	hhak	0176	ZERO		dl_0.h:a	dl_0	h	a		
+veraa	hhak	0176	vusu	bow	np:p	np		p	5036	
+veraa	hhak	0176	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0176	#	#	##	##				
+veraa	hhak	0176	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0176	mom	put	nc	nc				
 veraa	hhak	0176	lēn	LOC=ART	nc	nc				
-veraa	hhak	0176	...	...						
 veraa	hhak	0176	mom	put	v:pred	v		pred		
-veraa	hhak	0176	ZERO		0:p	0		p		
+veraa	hhak	0176	ZERO	ZERO	0:p	0		p	5036	
 veraa	hhak	0176	rōvrōv'e	close.to	adp	adp				
-veraa	hhak	0176	duruō	3DL	dl_pro.h:g	dl_pro	h	g		
-veraa	hhak	0177	##		##	##				
-veraa	hhak	0177	duru	3DL	dl_pro.h:s	dl_pro	h	s		
+veraa	hhak	0176	duruō	3DL	pro.h:g	pro	h	g	5027	
+veraa	hhak	0177	#	#	##	##				
+veraa	hhak	0177	duru	3DL	pro.h:s	pro	h	s	5027	
 veraa	hhak	0177	=k	=TAM2	=lv	=lv				
 veraa	hhak	0177	watchem	watch	v:pred	v		pred		
-veraa	hhak	0177	##		##	##				
-veraa	hhak	0177	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0177	#	#	##	##				
+veraa	hhak	0177	di	3SG	pro.h:s	pro	h	s	5034	
 veraa	hhak	0177	=m	=TAM1	=lv	=lv				
 veraa	hhak	0177	van	go	v:pred	v		pred		
 veraa	hhak	0177	kal	up	rv	rv				
 veraa	hhak	0177	ma	hither	rv	rv				
-veraa	hhak	0177	##		##	##				
-veraa	hhak	0177	ZERO		0.h:s	0	h	s		
+veraa	hhak	0177	#	#	##	##				
+veraa	hhak	0177	ZERO	ZERO	0.h:s	0	h	s	5034	
 veraa	hhak	0177	van	go	v:pred	v		pred		
 veraa	hhak	0177	kal	up	rv	rv				
 veraa	hhak	0177	ma	hither	rv	rv				
-veraa	hhak	0177	##		##	##				
-veraa	hhak	0177	ZERO		0.h:s	0	h	s		
+veraa	hhak	0177	#	#	##	##				
+veraa	hhak	0177	ZERO	ZERO	0.h:s	0	h	s	5034	
 veraa	hhak	0177	van	go	v:pred	v		pred		
 veraa	hhak	0177	kal	up	rv	rv				
 veraa	hhak	0177	ma	hither	rv	rv				
-veraa	hhak	0178	##		##	##				
-veraa	hhak	0178	ZERO		0.h:s	0	h	s		
+veraa	hhak	0178	#	#	##	##				
+veraa	hhak	0178	ZERO	ZERO	0.h:s	0	h	s	5034	
 veraa	hhak	0178	vavavan	RED-go	v:pred	v		pred		
 veraa	hhak	0178	kal	up	rv	rv				
 veraa	hhak	0178	ma	hither	rv	rv				
-veraa	hhak	0178	##		##	##				
-veraa	hhak	0178	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0178	#	#	##	##				
+veraa	hhak	0178	di	3SG	pro.h:s	pro	h	s	5034	
 veraa	hhak	0178	=m	=TAM1	=lv	=lv				
 veraa	hhak	0178	siōl	float	v:pred	v		pred		
 veraa	hhak	0178	kal	up	rv	rv				
 veraa	hhak	0178	sar	bushwards	rv	rv				
 veraa	hhak	0178	lē	LOC	adp	adp				
 veraa	hhak	0178	=n	=ART	=ln	=ln				
-veraa	hhak	0178	nōn	sand	np:g	np		g		
-veraa	hhak	0179	##		##	##				
-veraa	hhak	0179	ZERO		0.h:a	0	h	a		
-veraa	hhak	0179	ne	TAM2:3SG	lv-pro.h:a	lv-pro	h	a		
+veraa	hhak	0178	nōn	sand	np:g	np		g	5076	unused
+veraa	hhak	0179	#	#	##	##				
+veraa	hhak	0179	ZERO	ZERO	0.h:a	0	h	a	5034	
+veraa	hhak	0179	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	hhak	0179	gis	hold	v:pred	v		pred		
 veraa	hhak	0179	ēn	ART	ln	ln				
-veraa	hhak	0179	nak	canoe	np:p	np		p		
+veraa	hhak	0179	nak	canoe	np:p	np		p	5077	bridging
 veraa	hhak	0179	su-suō	RED-paddle	rn	rn				
-veraa	hhak	0179	##		##	##				
+veraa	hhak	0179	#	#	##	##				
 veraa	hhak	0179	e	PERS.ART	ln	ln				
 veraa	hhak	0179	ruwa	two.people	ln	ln				
-veraa	hhak	0179	m̄ērm̄ēre	kid	dl_np.h:a	dl_np	h	a		
+veraa	hhak	0179	m̄ērm̄ēre	kid	np.h:a	np	h	a	5027	
 veraa	hhak	0179	=k	=TAM2	=lv	=lv				
 veraa	hhak	0179	din̄	reach	v:pred	v		pred		
-veraa	hhak	0179	di	3SG	r_pro.h:p	r_pro	h	p		
+veraa	hhak	0179	di	3SG	pro.h:p	pro	h	p	5034	
 veraa	hhak	0179	rōw	seawards	rv	rv				
-veraa	hhak	0180	#ds		##ds	##ds				
-veraa	hhak	0180	nik	2SG	pro.2:dt_a	pro	2	dt_a		
+veraa	hhak	0180	#	#	##ds	##ds				
+veraa	hhak	0180	nik	2SG	pro.2:dt_a	pro	2	dt_a	5034	
 veraa	hhak	0180	agēnē	DEM2.A	rn_dem2	rn_dem2				
 veraa	hhak	0180	sa	EMPH	rn	rn				
-veraa	hhak	0180	nik	2SG	pro.2:a	pro	2	a		
+veraa	hhak	0180	nik	2SG	pro.2:a	pro	2	a	5034	
 veraa	hhak	0180	=ēm	=TAM1	=lv	=lv				
 veraa	hhak	0180	da	do	v:pred	v		pred		
-veraa	hhak	0180	ōsōs	??	rv	rv				
+veraa	hhak	0180	ōsōs	NC	rv	rv				
 veraa	hhak	0180	e	PERS.ART	ln	ln				
-veraa	hhak	0180	ote	mum	np.h:p	np	h	p		
-veraa	hhak	0180	mu-maduō	POSS.GEN-1DL.EX	rn-pro.1:poss	rn-pro	1	poss		
-veraa	hhak	0180	#ds.ac		##ds_ac	##ds_ac				
+veraa	hhak	0180	ote	mum	np.h:p	np	h	p	5015	
+veraa	hhak	0180	mu	POSS.GEN	rn	rn				
+veraa	hhak	0180	-maduō	-1DL.EX	-rn_pro.1:poss	-rn_pro	1	poss	5027	
+veraa	hhak	0180	#	#	#ds_ac	#ds_ac				
 veraa	hhak	0180	lē	LOC	adp	adp				
 veraa	hhak	0180	=n	=ART	=ln	=ln				
 veraa	hhak	0180	masōgi	time	np:other	np		other		
-veraa	hhak	0180	di	3SG	pro.h:s	pro	h	s		
+veraa	hhak	0180	di	3SG	pro.h:s	pro	h	s	5015	
 veraa	hhak	0180	ga	STAT	lv	lv				
 veraa	hhak	0180	wotoqtoqo	pregnant	v:pred	v		pred		
-veraa	hhak	0181	#ds		##ds	##ds				
-veraa	hhak	0181	di	3SG	pro.h:s_ds	pro	h	s_ds		
+veraa	hhak	0181	#	#	##ds	##ds				
+veraa	hhak	0181	di	3SG	pro.h:s_ds	pro	h	s_ds	5015	
 veraa	hhak	0181	=m	=TAM1	=lv	=lv				
 veraa	hhak	0181	tēk	speak	v:pred	v		pred		
 veraa	hhak	0181	so	QUOT	other	other				
-veraa	hhak	0181	#ds.ds		##ds.ds	##ds	ds			
-veraa	hhak	0181	ZERO		0.h:s	0	h	s		
-veraa	hhak	0181	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0181	#	#	##ds	##ds				
+veraa	hhak	0181	ZERO	ZERO	0.h:s	0	h	s	5015	
+veraa	hhak	0181	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0181	van	go	v:pred	v		pred		
 veraa	hhak	0181	birin̄	COM	adp	adp				
-veraa	hhak	0181	nikē	2SG	pro.2:obl	pro	2	obl		
-veraa	hhak	0182	#ds		##ds	##ds				
+veraa	hhak	0181	nikē	2SG	pro.2:obl	pro	2	obl	5034	
+veraa	hhak	0182	#	#	##ds	##ds				
 veraa	hhak	0182	e	DISC	other	other				
-veraa	hhak	0182	nik	2SG	pro.2:s_ds	pro	2	s_ds		
-veraa	hhak	0182	ē	TAM2:2SG	lv-pro.2:s_ds	lv-pro	2	s_ds		
+veraa	hhak	0182	nik	2SG	pro.2:s_ds	pro	2	s_ds	5034	
+veraa	hhak	0182	ē	TAM2:2SG	lv-pro_2_s_ds	lv-pro_2_s_ds				
 veraa	hhak	0182	tēk	speak	v:pred	v		pred		
 veraa	hhak	0182	so	QUOT	other	other				
-veraa	hhak	0182	#ds.ds		##ds.ds	##ds	ds			
+veraa	hhak	0182	#	#	##ds	##ds				
 veraa	hhak	0182	ooo	no	other	other				
 veraa	hhak	0182	den	ABL	other	other				
 veraa	hhak	0182	ēn	ART	ln	ln				
-veraa	hhak	0182	nak	canoe	np:s	np		s		
+veraa	hhak	0182	nak	canoe	np:s	np		s	5077	
 veraa	hhak	0182	susuō	RED-paddle	rn	rn				
-veraa	hhak	0182	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	hhak	0182	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	hhak	0182	'ul	drown	v:pred	v		pred		
-veraa	hhak	0183	#ds		##ds	##ds				
-veraa	hhak	0183	kamaduō	1DL.EX	pro.1:a	pro	1	a		
+veraa	hhak	0183	#	#	##ds	##ds				
+veraa	hhak	0183	kamaduō	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0183	me	FUT	lv	lv				
 veraa	hhak	0183	vus	kill	v:pred	v		pred		
 veraa	hhak	0183	wal	once	rv	rv				
-veraa	hhak	0183	nik	2SG	pro.2:p	pro	2	p		
+veraa	hhak	0183	nik	2SG	pro.2:p	pro	2	p	5034	
 veraa	hhak	0183	sa	EMPH	other	other				
 veraa	hhak	0183	qiri	today	other	other				
-veraa	hhak	0183	anei	DEM4.A	other_dem4	other_dem4				
-veraa	hhak	0184	##		##	##				
-veraa	hhak	0184	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0184	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0183	anei	DEM4.A	dem4_other	dem4_other				
+veraa	hhak	0184	#	#	##	##				
+veraa	hhak	0184	di	3SG	pro.h:s	pro	h	s	5034	
+veraa	hhak	0184	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0184	rara	cry	v:pred	v		pred		
-veraa	hhak	0184	##		##	##				
-veraa	hhak	0184	di	3SG	pro.h:s	pro	h	s		
-veraa	hhak	0184	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0184	#	#	##	##				
+veraa	hhak	0184	di	3SG	pro.h:s	pro	h	s	5034	
+veraa	hhak	0184	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0184	awaw	RED:yell	v:pred	v		pred		
 veraa	hhak	0184	so	QUOT	other	other				
-veraa	hhak	0184	#ds		##ds	##ds				
+veraa	hhak	0184	#	#	##ds	##ds				
 veraa	hhak	0184	'awo	INTERJ	other	other				
 veraa	hhak	0184	e	PERS.ART	ln	ln				
 veraa	hhak	0184	ruwa	two.people	ln	ln				
-veraa	hhak	0184	van-vann̄o-k	RED-nephew-1SK	dl_np.h:voc-pro.1:poss	dl_np	h	voc-pro.1:poss		
-veraa	hhak	0184	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0184	van-vann̄o	RED-nephew	np.h:voc	np	h	voc	5027	
+veraa	hhak	0184	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	5034	
+veraa	hhak	0184	kumru	2DL	pro.2:a	pro	2	a		
 veraa	hhak	0184	'ovi'i	PROH	lv	lv				
 veraa	hhak	0184	da	do	v:pred	v		pred		
 veraa	hhak	0184	magarsin	pity	rv	rv				
-veraa	hhak	0184	no	1SG	pro.1:p	pro	1	p		
-veraa	hhak	0185	#ds		##ds	##ds				
+veraa	hhak	0184	no	1SG	pro.1:p	pro	1	p	5034	
+veraa	hhak	0185	#	#	##ds	##ds				
 veraa	hhak	0185	man	PFV	lv	lv				
 veraa	hhak	0185	qē'	finish	v:pred	v		pred		
-veraa	hhak	0185	#ds		##ds	##ds				
-veraa	hhak	0185	#ds.cc:s		##ds_cc:s	##ds_cc		s		
-veraa	hhak	0185	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0185	#	#	##ds	##ds				
+veraa	hhak	0185	#	#	#ds_cc:s	#ds_cc		s		
+veraa	hhak	0185	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0185	man	PFV	lv	lv				
 veraa	hhak	0185	vus	kill	v:pred	v		pred		
 veraa	hhak	0185	ēn	ART	ln	ln				
-veraa	hhak	0185	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0185	%		%	%				
+veraa	hhak	0185	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0185	%	%	%	%				
 veraa	hhak	0185	ga	STAT	lv	lv				
 veraa	hhak	0185	'i'irisē	equal	v:pred	v		pred		
-veraa	hhak	0186	#ds		##ds	##ds				
+veraa	hhak	0186	#	#	##ds	##ds				
 veraa	hhak	0186	'enei	DEM4.TEMP	other	other				
-veraa	hhak	0186	gidē	1PL.IN	pl_pro.1:s	pl_pro	1	s		
+veraa	hhak	0186	gidē	1PL.IN	pro.1:s	pro	1	s	5013	
 veraa	hhak	0186	=k	=TAM2	=lv	=lv				
 veraa	hhak	0186	van	go	v:pred	v		pred		
 veraa	hhak	0186	kal	up	rv	rv				
 veraa	hhak	0186	wuva	only	other	other				
-veraa	hhak	0186	#ds		##ds	##ds				
-veraa	hhak	0186	gidē	1PL.IN	pl_pro.1:a	pl_pro	1	a		
+veraa	hhak	0186	#	#	##ds	##ds				
+veraa	hhak	0186	gidē	1PL.IN	pro.1:a	pro	1	a	5013	
 veraa	hhak	0186	=k	=TAM2	=lv	=lv				
 veraa	hhak	0186	da	do	v:pred	v		pred		
 veraa	hhak	0186	=n	=ART	=ln	=ln				
-veraa	hhak	0186	lavet	feast	np:p	np		p		
-veraa	hhak	0186	#ds.ac		##ds_ac	##ds_ac				
+veraa	hhak	0186	lavet	feast	np:p	np		p	5064	
+veraa	hhak	0186	#	#	#ds_ac	#ds_ac				
 veraa	hhak	0186	sir	for	adp	adp				
-veraa	hhak	0186	e	??	nc	nc				
-veraa	hhak	0186	kumru	2DL	dl_pro.2:a	dl_pro	2	a		
+veraa	hhak	0186	e	NC	nc	nc				
+veraa	hhak	0186	kumru	2DL	pro.2:a	pro	2	a	5027	
 veraa	hhak	0186	=m	=TAM2	=lv	=lv				
 veraa	hhak	0186	vus	kill	v:pred	v		pred		
 veraa	hhak	0186	ēn	ART	ln	ln				
-veraa	hhak	0186	'ama'	devil	np.d:p	np	d	p		
-veraa	hhak	0187	##		##	##				
-veraa	hhak	0187	ZERO		0.h:s	0	h	s		
+veraa	hhak	0186	'ama'	devil	np.d:p	np	d	p	5001	
+veraa	hhak	0187	#	#	##	##				
+veraa	hhak	0187	ZERO	ZERO	0.h:s	0	h	s	5027	
 veraa	hhak	0187	so	QUOT	other:pred	other		pred		
-veraa	hhak	0187	#ds		##ds	##ds				
-veraa	hhak	0187	kamadu	1DL.EX	dl_pro.1:a	dl_pro	1	a		
+veraa	hhak	0187	#	#	##ds	##ds				
+veraa	hhak	0187	kamadu	1DL.EX	pro.1:a	pro	1	a	5027	
 veraa	hhak	0187	me	FUT	lv	lv				
 veraa	hhak	0187	vus	kill	v:pred	v		pred		
 veraa	hhak	0187	wal	once	rv	rv				
-veraa	hhak	0187	nikē	2SG	pro.2:p	pro	2	p		
+veraa	hhak	0187	nikē	2SG	pro.2:p	pro	2	p	5034	
 veraa	hhak	0187	sa	EMPH	other	other				
 veraa	hhak	0187	qiri	today	other	other				
-veraa	hhak	0187	anei	DEM4.A	other_dem4	other_dem4				
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0187	anei	DEM4.A	dem4_other	dem4_other				
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	n	ART	ln	ln				
-veraa	hhak	0188	maru-ruō	uncle-3DL	np.h:s-pro.h:poss	np	h	s-pro.h:poss		
-veraa	hhak	0188	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0188	maru	uncle	np.h:s	np	h	s	5034	
+veraa	hhak	0188	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	5027	
+veraa	hhak	0188	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0188	awaw	RED:yell	v:pred	v		pred		
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	ge	THING	ln	ln				
-veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s		
-veraa	hhak	0188	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s	5057	
+veraa	hhak	0188	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0188	kar	shoot	v:pred	v		pred		
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	ge	THING	ln	ln				
-veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s		
-veraa	hhak	0188	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s	5058	
+veraa	hhak	0188	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0188	kar	shoot	v:pred	v		pred		
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	ge	THING	ln	ln				
-veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s		
-veraa	hhak	0188	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s	5057	
+veraa	hhak	0188	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0188	kar	shoot	v:pred	v		pred		
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	ge	THING	ln	ln				
-veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s		
-veraa	hhak	0188	ne	TAM2:3SG	lv-pro.h:s	lv-pro	h	s		
+veraa	hhak	0188	'ew'i	other	np.h:s	np	h	s	5058	
+veraa	hhak	0188	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	hhak	0188	kar	shoot	v:pred	v		pred		
 veraa	hhak	0188	vavavan	RED-go	other	other				
-veraa	hhak	0188	##		##	##				
-veraa	hhak	0188	ZERO		dl_0.h:a	dl_0	h	a		
+veraa	hhak	0188	#	#	##	##				
+veraa	hhak	0188	ZERO	ZERO	0.h:a	0	h	a	5027	
 veraa	hhak	0188	kar	shoot	v:pred	v		pred		
 veraa	hhak	0188	mama'	RED-dead	rv	rv				
-veraa	hhak	0188	di	3SG	pro.h:p	pro	h	p		
-veraa	hhak	0188	##		##	##				
+veraa	hhak	0188	di	3SG	pro.h:p	pro	h	p	5034	
+veraa	hhak	0188	#	#	##	##				
 veraa	hhak	0188	e	DISC	other	other				
 veraa	hhak	0188	qē	finish	v:pred	v		pred		

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="veraa">
         <text t_name="pala" annotators="Stefan Schnell" speaker="VR10">
-            <file f_name="mc_veraa_pala_a" audio="mc_veraa_pala_a.wav" updated="2019-04-28">
+            <file f_name="mc_veraa_pala_a" audio="mc_veraa_pala_a.wav" updated="2019-05-08">
                 <unit uid="0001" start_time="2035" end_time="4409">
                     <utterance_id>veraa_pala_0001</utterance_id>
                     <utterance>qōn̄ ne vōwal e ruwa mē gunuruō</utterance>
@@ -10,7 +10,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -37,6 +37,8 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>np:pred</graid>
+                            <refind>10001</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>mē</gword>
@@ -44,9 +46,14 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>gunu-ruō</gword>
-                            <gloss>spouse-3DL</gloss>
-                            <graid>rn_np-pro.h:poss</graid>
+                            <gword>gunu</gword>
+                            <gloss>spouse</gloss>
+                            <graid>rn_np</graid>
+                        </segment>
+                        <segment>
+                            <gword>-ruō</gword>
+                            <gloss>-3DL</gloss>
+                            <graid>-rn_pro.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -57,13 +64,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10001</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -84,18 +92,20 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ren̄e</gword>
                             <gloss>woman</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10002</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>wotoqtoqo</gword>
@@ -104,18 +114,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10002</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:a</graid>
+                            <graid>lv-pro_h_a</graid>
                         </segment>
                         <segment>
                             <gword>visis</gword>
@@ -131,6 +142,8 @@
                             <gword>ni'i</gword>
                             <gloss>child</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10003</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>ren̄e</gword>
@@ -142,11 +155,11 @@
                 <unit uid="0004" start_time="9047" end_time="11454">
                     <utterance_id>veraa_pala_0004</utterance_id>
                     <utterance>'alē duruk 'ēn gōr ēn tētē 'anēn</utterance>
-                    <utterance_translation>Okay, then they looked after the child, </utterance_translation>
+                    <utterance_translation>Okay, then they looked after the child,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -158,10 +171,11 @@
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10001</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -183,6 +197,7 @@
                             <gword>tētē</gword>
                             <gloss>child</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -191,8 +206,8 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
-                            <graid>NA</graid>
+                            <gloss>#</gloss>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
@@ -210,11 +225,12 @@
                             <gword>tētē</gword>
                             <gloss>child</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>'ō-'ō-'ōgo</gword>
@@ -223,23 +239,24 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>luwo</gword>
                             <gloss>big</gloss>
-                            <graid>luwo</graid>
+                            <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -250,7 +267,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -262,11 +279,12 @@
                             <gword>ren̄e</gword>
                             <gloss>woman</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10002</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>'oqo</gword>
@@ -287,7 +305,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -297,13 +315,14 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10002</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:a</graid>
+                            <graid>lv-pro_h_a</graid>
                         </segment>
                         <segment>
                             <gword>visis</gword>
@@ -324,6 +343,8 @@
                             <gword>ni'i</gword>
                             <gloss>child</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10004</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>ren̄e</gword>
@@ -344,7 +365,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -354,8 +375,9 @@
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10001</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -374,8 +396,10 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:p</graid>
+                            <refind>10005</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>va'anē</gword>
@@ -391,7 +415,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -403,6 +427,7 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>ln</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>re-ren̄e</gword>
@@ -416,8 +441,9 @@
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10001</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -438,6 +464,7 @@
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:p</graid>
+                            <refind>10005</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -448,13 +475,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -475,13 +503,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -502,22 +531,23 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
-                            <gloss> =TAM1</gloss>
+                            <gloss>=TAM1</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
                             <gword>'irisē</gword>
-                            <gloss>enough </gloss>
+                            <gloss>enough</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -539,7 +569,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -553,14 +583,22 @@
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>maru-ruō</gword>
-                            <gloss>uncle-3DL</gloss>
-                            <graid>np.h:s-pro.h:poss</graid>
+                            <gword>maru</gword>
+                            <gloss>uncle</gloss>
+                            <graid>np.h:s</graid>
+                            <refind>10006</refind>
+                            <isnref>bridging</isnref>
+                        </segment>
+                        <segment>
+                            <gword>-ruō</gword>
+                            <gloss>-3DL</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>velē</gword>
@@ -586,6 +624,7 @@
                             <gword>ge</gword>
                             <gloss>DEICT</gloss>
                             <graid>np.h:obl</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>'a</gword>
@@ -599,13 +638,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10006</refind>
                         </segment>
                         <segment>
                             <gword>velē</gword>
@@ -631,21 +671,23 @@
                             <gword>ge</gword>
                             <gloss>DEICT</gloss>
                             <graid>np.h:obl</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
-                            <gword>[#rc</gword>
-                            <gloss/>
-                            <graid>rn_#rc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#rc_rn</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
-                            <gloss>REL </gloss>
+                            <gloss>REL</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -663,8 +705,8 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>]</gword>
-                            <gloss/>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
                             <graid>%</graid>
                         </segment>
                         <segment>
@@ -676,40 +718,42 @@
                             <gword>'uwam̄ērē</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:dt_obl</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
-                            <graid>##nc</graid>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>velē</gword>
                             <gloss>send</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>ma</gword>
                             <gloss>hither</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>sirē</gword>
                             <gloss>for</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
                             <gloss>=ART</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>'uwam̄ērē =n</gword>
+                            <gword>'uwam̄ērē=n</gword>
                             <gloss>first.born</gloss>
-                            <graid>x</graid>
+                            <graid>nc_np.h</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -728,11 +772,12 @@
                             <gword>'uwam̄ērē</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>'awis</gword>
@@ -748,7 +793,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -760,11 +805,12 @@
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10006</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>velē</gword>
@@ -795,6 +841,7 @@
                             <gword>'isim̄ērē</gword>
                             <gloss>second.born</gloss>
                             <graid>np.h:obl</graid>
+                            <refind>10004</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -805,7 +852,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -817,11 +864,12 @@
                             <gword>'isim̄ērē</gword>
                             <gloss>second.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>'awis</gword>
@@ -837,7 +885,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -859,11 +907,12 @@
                             <gword>maru-ru</gword>
                             <gloss>uncle-3DL</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10006</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>kalraka</gword>
@@ -872,18 +921,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10006</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>tēk</gword>
@@ -899,6 +949,7 @@
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>np.h:g</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -914,7 +965,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -936,13 +987,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kumru</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -951,7 +1003,7 @@
                         </segment>
                         <segment>
                             <gword>'awi</gword>
-                            <gloss>dislike </gloss>
+                            <gloss>dislike</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -960,13 +1012,21 @@
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>ni'i-k</gword>
-                            <gloss>child-1SG</gloss>
-                            <graid>np.h:p-pro.1:poss</graid>
+                            <gword>ni'i</gword>
+                            <gloss>child</gloss>
+                            <graid>np.h:p</graid>
+                            <refind>10007</refind>
+                            <isnref>bridging</isnref>
+                        </segment>
+                        <segment>
+                            <gword>-k</gword>
+                            <gloss>-1SG</gloss>
+                            <graid>-rn_pro.1:poss</graid>
+                            <refind>10006</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -978,6 +1038,7 @@
                             <gword>kumru</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -1003,13 +1064,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kumru</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -1023,7 +1085,7 @@
                         </segment>
                         <segment>
                             <gword>'ō'</gword>
-                            <gloss>with </gloss>
+                            <gloss>with</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -1035,6 +1097,8 @@
                             <gword>'ama'</gword>
                             <gloss>spirit</gloss>
                             <graid>np.d:p</graid>
+                            <refind>10008</refind>
+                            <isnref>new</isnref>
                         </segment>
                     </annotations>
                 </unit>
@@ -1045,12 +1109,12 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>alē</gword>
-                            <gloss>INTERJ </gloss>
+                            <gloss>INTERJ</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -1079,14 +1143,11 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>...</gword>
-                            <gloss/>
-                            <graid/>
-                        </segment>
-                        <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -1107,6 +1168,8 @@
                             <gword>lavet</gword>
                             <gloss>feast</gloss>
                             <graid>np:p</graid>
+                            <refind>10010</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>vō-wal</gword>
@@ -1122,13 +1185,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>lavet</gword>
                             <gloss>feast</gloss>
                             <graid>np:dt_p</graid>
+                            <refind>10010</refind>
                         </segment>
                         <segment>
                             <gword>vō-wal</gword>
@@ -1142,8 +1206,9 @@
                         </segment>
                         <segment>
                             <gword>dir</gword>
-                            <gloss>3PL </gloss>
+                            <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -1157,7 +1222,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                         </segment>
                     </annotations>
@@ -1169,13 +1234,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -1189,13 +1255,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -1209,7 +1276,7 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
@@ -1231,7 +1298,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1243,10 +1310,11 @@
                             <gword>raga</gword>
                             <gloss>people</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>sul</gword>
-                            <gloss>people </gloss>
+                            <gloss>people</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -1271,13 +1339,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -1298,23 +1367,24 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
-                            <graid>##nc</graid>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>qēqē</gword>
                             <gloss>last</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>na-gi</gword>
                             <gloss>ORD-3SG</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
-                            <graid>x</graid>
+                            <graid>nc_pro.h</graid>
+                            <refind>10005</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -1325,13 +1395,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1347,10 +1418,11 @@
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:p</graid>
+                            <refind>10001</refind>
                         </segment>
                         <segment>
                             <gword>mē</gword>
-                            <gloss>DAT </gloss>
+                            <gloss>DAT</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -1359,9 +1431,17 @@
                             <graid>=rn</graid>
                         </segment>
                         <segment>
-                            <gword>'ama-ruō</gword>
-                            <gloss>father-3DL</gloss>
-                            <graid>rn_np.h-pro.h:poss</graid>
+                            <gword>'ama</gword>
+                            <gloss>father</gloss>
+                            <graid>rn_np.h</graid>
+                            <refind>10011</refind>
+                            <isnref>bridging</isnref>
+                        </segment>
+                        <segment>
+                            <gword>-ruō</gword>
+                            <gloss>-3DL</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=n</gword>
@@ -1369,9 +1449,16 @@
                             <graid>=rn</graid>
                         </segment>
                         <segment>
-                            <gword>vēvē-ruō</gword>
-                            <gloss>mother-3DL</gloss>
-                            <graid>rn_np.h-pro.h:poss</graid>
+                            <gword>vēvē</gword>
+                            <gloss>mother</gloss>
+                            <graid>rn_np.h</graid>
+                            <refind>10002</refind>
+                        </segment>
+                        <segment>
+                            <gword>-ruō</gword>
+                            <gloss>-3DL</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -1387,13 +1474,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>kamadu</gword>
-                            <gloss>1DL.EX </gloss>
+                            <gloss>1DL.EX</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1412,7 +1500,7 @@
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -1424,10 +1512,11 @@
                             <gword>lavet</gword>
                             <gloss>feast</gloss>
                             <graid>np:g</graid>
+                            <refind>10010</refind>
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -1439,6 +1528,8 @@
                             <gword>vunu</gword>
                             <gloss>village</gloss>
                             <graid>rn_np</graid>
+                            <refind>10012</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>agēn</gword>
@@ -1454,7 +1545,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1476,10 +1567,11 @@
                             <gword>vēvē-ruō</gword>
                             <gloss>mother-3DL</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10002</refind>
                         </segment>
                         <segment>
                             <gword>'ō-gi</gword>
-                            <gloss>with-3SG =ART</gloss>
+                            <gloss>with-3SG=ART</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -1491,6 +1583,7 @@
                             <gword>'ama-ruō</gword>
                             <gloss>father-3DL</gloss>
                             <graid>rn_np.h</graid>
+                            <refind>10011</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -1506,7 +1599,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -1523,13 +1616,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kumruō</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>'ovi'i</gword>
@@ -1550,7 +1644,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -1560,8 +1654,9 @@
                         </segment>
                         <segment>
                             <gword>kumru</gword>
-                            <gloss>2DL </gloss>
+                            <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1574,13 +1669,13 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>##ds</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
-                            <gword>[#rc:S</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ds_rc:s</graid>
                         </segment>
                         <segment>
@@ -1589,94 +1684,20 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>marum-ruō</gword>
-                            <gloss>uncle-2DL</gloss>
-                            <graid>np.h:a-pro.2:poss</graid>
+                            <gword>marum</gword>
+                            <gloss>uncle</gloss>
+                            <graid>np.h:a</graid>
+                            <refind>10006</refind>
+                        </segment>
+                        <segment>
+                            <gword>-ruō</gword>
+                            <gloss>-2DL</gloss>
+                            <graid>-rn_pro.2:poss</graid>
                         </segment>
                         <segment>
                             <gword>a</gword>
                             <gloss>REL</gloss>
                             <graid>other</graid>
-                        </segment>
-                        <segment>
-                            <gword>=m</gword>
-                            <gloss> =TAM1</gloss>
-                            <graid>=lv</graid>
-                        </segment>
-                        <segment>
-                            <gword>tēk</gword>
-                            <gloss>speak</gloss>
-                            <graid>v:pred</graid>
-                        </segment>
-                        <segment>
-                            <gword>'i</gword>
-                            <gloss>DEL</gloss>
-                            <graid>rv</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZERO</gword>
-                            <gloss/>
-                            <graid>0:p</graid>
-                        </segment>
-                        <segment>
-                            <gword>%</gword>
-                            <gloss/>
-                            <graid>%</graid>
-                        </segment>
-                        <segment>
-                            <gword>ē</gword>
-                            <gloss>DEM3</gloss>
-                            <graid>rn</graid>
-                        </segment>
-                        <segment>
-                            <gword>ne</gword>
-                            <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro:s</graid>
-                        </segment>
-                        <segment>
-                            <gword>'ir</gword>
-                            <gloss>true</gloss>
-                            <graid>v:pred</graid>
-                        </segment>
-                        <segment>
-                            <gword>bēne</gword>
-                            <gloss>PRO.OBL</gloss>
-                            <graid>other</graid>
-                        </segment>
-                        <segment>
-                            <gword>so </gword>
-                            <gloss>QUOT </gloss>
-                            <graid>other</graid>
-                        </segment>
-                        <segment>
-                            <gword>=n</gword>
-                            <gloss>=ART</gloss>
-                            <graid>=ln</graid>
-                        </segment>
-                        <segment>
-                            <gword>tēktēk</gword>
-                            <gloss>RED:talk</gloss>
-                            <graid>np:dt_s</graid>
-                        </segment>
-                        <segment>
-                            <gword>[#rc</gword>
-                            <gloss/>
-                            <graid>rn_#ds_rc</graid>
-                        </segment>
-                        <segment>
-                            <gword>a</gword>
-                            <gloss>REL</gloss>
-                            <graid>other</graid>
-                        </segment>
-                        <segment>
-                            <gword>rekso</gword>
-                            <gloss>like</gloss>
-                            <graid>other</graid>
-                        </segment>
-                        <segment>
-                            <gword>di</gword>
-                            <gloss>3SG </gloss>
-                            <graid>pro.h:a</graid>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -1695,12 +1716,97 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
+                            <refind>10013</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>%</gword>
-                            <gloss/>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
+                        </segment>
+                        <segment>
+                            <gword>ē</gword>
+                            <gloss>DEM3</gloss>
+                            <graid>rn</graid>
+                        </segment>
+                        <segment>
+                            <gword>ne</gword>
+                            <gloss>TAM2:3SG</gloss>
+                            <graid>lv-pro_s</graid>
+                        </segment>
+                        <segment>
+                            <gword>'ir</gword>
+                            <gloss>true</gloss>
+                            <graid>v:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>bēne</gword>
+                            <gloss>PRO.OBL</gloss>
+                            <graid>other</graid>
+                        </segment>
+                        <segment>
+                            <gword>so</gword>
+                            <gloss>QUOT</gloss>
+                            <graid>other</graid>
+                        </segment>
+                        <segment>
+                            <gword>=n</gword>
+                            <gloss>=ART</gloss>
+                            <graid>=ln</graid>
+                        </segment>
+                        <segment>
+                            <gword>tēktēk</gword>
+                            <gloss>RED:talk</gloss>
+                            <graid>np:dt_s</graid>
+                            <refind>10013</refind>
+                        </segment>
+                        <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#ds_rc_rn</graid>
+                        </segment>
+                        <segment>
+                            <gword>a</gword>
+                            <gloss>REL</gloss>
+                            <graid>other</graid>
+                        </segment>
+                        <segment>
+                            <gword>rekso</gword>
+                            <gloss>like</gloss>
+                            <graid>other</graid>
+                        </segment>
+                        <segment>
+                            <gword>di</gword>
+                            <gloss>3SG</gloss>
+                            <graid>pro.h:a</graid>
+                            <refind>10006</refind>
+                        </segment>
+                        <segment>
+                            <gword>=m</gword>
+                            <gloss>=TAM1</gloss>
+                            <graid>=lv</graid>
+                        </segment>
+                        <segment>
+                            <gword>tēk</gword>
+                            <gloss>speak</gloss>
+                            <graid>v:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>'i</gword>
+                            <gloss>DEL</gloss>
+                            <graid>rv</graid>
+                        </segment>
+                        <segment>
+                            <gword>ZERO</gword>
+                            <gloss>ZERO</gloss>
+                            <graid>0:p</graid>
+                            <refind>10013</refind>
+                        </segment>
+                        <segment>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
                             <graid>%</graid>
                         </segment>
                         <segment>
@@ -1717,7 +1823,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1727,8 +1833,9 @@
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1747,7 +1854,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>#cc:other</graid>
                         </segment>
                         <segment>
@@ -1766,6 +1873,7 @@
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -1791,7 +1899,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -1800,9 +1908,10 @@
                             <graid>other</graid>
                         </segment>
                         <segment>
-                            <gword>duru </gword>
-                            <gloss>3DL </gloss>
+                            <gword>duru</gword>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1816,13 +1925,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -1843,13 +1953,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -1875,8 +1986,9 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>duru</gword>
@@ -1900,17 +2012,18 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -1932,13 +2045,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dirē</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>man</gword>
@@ -1947,7 +2061,7 @@
                         </segment>
                         <segment>
                             <gword>kalu</gword>
-                            <gloss>leave </gloss>
+                            <gloss>leave</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1969,13 +2083,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dirē</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>man</gword>
@@ -1989,7 +2104,7 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
@@ -2006,7 +2121,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2018,6 +2133,7 @@
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -2038,13 +2154,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -2065,6 +2182,8 @@
                             <gword>lak-laka</gword>
                             <gloss>RED-dance</gloss>
                             <graid>np:p</graid>
+                            <refind>10014</refind>
+                            <isnref>new</isnref>
                         </segment>
                     </annotations>
                 </unit>
@@ -2075,13 +2194,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -2102,13 +2222,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -2134,13 +2255,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -2164,13 +2286,15 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>wōm̄ōm̄o</gword>
                             <gloss>bush</gloss>
                             <graid>np:g</graid>
+                            <refind>10015</refind>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>ē</gword>
@@ -2186,13 +2310,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -2211,13 +2336,15 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10016</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>ne</gword>
@@ -2238,13 +2365,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:dt_s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
@@ -2265,11 +2393,12 @@
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>laa-laka</gword>
@@ -2283,13 +2412,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>wo</gword>
@@ -2299,7 +2429,7 @@
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>vrig</gword>
@@ -2313,7 +2443,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2323,13 +2453,14 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -2343,7 +2474,7 @@
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -2355,6 +2486,8 @@
                             <gword>vava</gword>
                             <gloss>underneath</gloss>
                             <graid>np:g</graid>
+                            <refind>10017</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>viē</gword>
@@ -2370,13 +2503,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -2385,7 +2519,7 @@
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -2397,6 +2531,7 @@
                             <gword>vava</gword>
                             <gloss>underneath</gloss>
                             <graid>np:g</graid>
+                            <refind>10017</refind>
                         </segment>
                         <segment>
                             <gword>viē</gword>
@@ -2412,7 +2547,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2422,8 +2557,9 @@
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -2442,13 +2578,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -2479,13 +2616,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>'uwam̄ēre</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -2498,8 +2636,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -2509,18 +2647,25 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>gunu-gi</gword>
-                            <gloss>spouse-3SG</gloss>
-                            <graid>np.h:pred-pro.h:poss</graid>
+                            <gword>gunu</gword>
+                            <gloss>spouse</gloss>
+                            <graid>np.h:pred</graid>
+                            <refind>10016</refind>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10003</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2531,7 +2676,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2543,6 +2688,7 @@
                             <gword>'isim̄ēre</gword>
                             <gloss>second.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -2555,8 +2701,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -2566,18 +2712,25 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>gunu-gi</gword>
-                            <gloss>spouse-3SG</gloss>
-                            <graid>np.h:pred-pro.h:poss</graid>
+                            <gword>gunu</gword>
+                            <gloss>spouse</gloss>
+                            <graid>np.h:pred</graid>
+                            <refind>10016</refind>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10004</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2588,7 +2741,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2603,8 +2756,9 @@
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -2635,7 +2789,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2647,6 +2801,8 @@
                             <gword>ge</gword>
                             <gloss>DEICT</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10018</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>'ewi</gword>
@@ -2664,8 +2820,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -2675,22 +2831,29 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>gunu-gi</gword>
-                            <gloss>spous-3SG</gloss>
-                            <graid>np.h:pred-pro.h:poss</graid>
+                            <gword>gunu</gword>
+                            <gloss>spouse</gloss>
+                            <graid>np.h:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10018</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2702,6 +2865,8 @@
                             <gword>ge</gword>
                             <gloss>DEICT</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10019</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>'ewi</gword>
@@ -2714,8 +2879,8 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -2725,18 +2890,25 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>gunu-gi</gword>
-                            <gloss>spouse-3SG</gloss>
-                            <graid>np.h:pred-pro.h:poss</graid>
+                            <gword>gunu</gword>
+                            <gloss>spouse</gloss>
+                            <graid>np.h:pred</graid>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10019</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2752,7 +2924,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2764,6 +2936,7 @@
                             <gword>'uwam̄ēre</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -2779,7 +2952,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -2797,17 +2970,18 @@
                 <unit uid="0054" start_time="121285" end_time="124725">
                     <utterance_id>veraa_pala_0054</utterance_id>
                     <utterance>gēdu qē' ga moros ba gēdu qē' duk leg birin̄ san lumgav anē</utterance>
-                    <utterance_translation>we both want (him), so we both we are going to marry this young man." </utterance_translation>
+                    <utterance_translation>we both want (him), so we both we are going to marry this young man."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>gidu</gword>
                             <gloss>1DL.IN</gloss>
                             <graid>pro.1:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>qē'</gword>
@@ -2826,12 +3000,12 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2843,6 +3017,7 @@
                             <gword>gidu</gword>
                             <gloss>1DL.IN</gloss>
                             <graid>pro.1:dt_a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>qē'</gword>
@@ -2853,6 +3028,7 @@
                             <gword>du</gword>
                             <gloss>1DL.IN</gloss>
                             <graid>wpro.1:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -2883,6 +3059,7 @@
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -2898,7 +3075,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -2915,6 +3092,7 @@
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:dt</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -2922,14 +3100,15 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>[#</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -2955,16 +3134,19 @@
                             <gword>lak-laka</gword>
                             <gloss>RED-dance</gloss>
                             <graid>np:p</graid>
+                            <refind>10020</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
-                            <gword>]</gword>
-                            <gloss/>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
                             <graid>%</graid>
                         </segment>
                         <segment>
                             <gword>di</gword>
-                            <gloss>3SG </gloss>
+                            <gloss>3SG</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -2978,18 +3160,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>lak-laka</gword>
@@ -3005,13 +3188,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -3020,13 +3204,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>=ēm</gword>
@@ -3047,18 +3232,19 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>lak-laka</gword>
@@ -3067,7 +3253,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3084,6 +3270,7 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ē</gword>
@@ -3107,17 +3294,18 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -3136,19 +3324,27 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>'ōnō-gi</gword>
-                            <gloss>place-3SG</gloss>
-                            <graid>np:p-pro.h:poss</graid>
+                            <gword>'ōnō</gword>
+                            <gloss>place</gloss>
+                            <graid>np:p</graid>
+                            <refind>10017</refind>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>sagsag</gword>
@@ -3162,13 +3358,14 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>vava</gword>
                             <gloss>underneath</gloss>
                             <graid>np:l</graid>
+                            <refind>10017</refind>
                         </segment>
                         <segment>
                             <gword>viē</gword>
@@ -3184,17 +3381,18 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
-                            <gloss> =TAM1</gloss>
+                            <gloss>=TAM1</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -3204,7 +3402,7 @@
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -3216,6 +3414,7 @@
                             <gword>vava</gword>
                             <gloss>underneath</gloss>
                             <graid>np:l</graid>
+                            <refind>10017</refind>
                         </segment>
                         <segment>
                             <gword>viē</gword>
@@ -3223,13 +3422,13 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>anē </gword>
+                            <gword>anē</gword>
                             <gloss>DEM1.A</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3248,10 +3447,11 @@
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ē</gword>
-                            <gloss>DEM.REC </gloss>
+                            <gloss>DEM.REC</gloss>
                             <graid>rn</graid>
                         </segment>
                         <segment>
@@ -3266,18 +3466,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -3291,18 +3492,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -3321,18 +3523,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:a</graid>
+                            <graid>lv-pro_h_a</graid>
                         </segment>
                         <segment>
                             <gword>'ēn</gword>
@@ -3348,6 +3551,7 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>np.h:p</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>m̄alm̄ala</gword>
@@ -3360,14 +3564,15 @@
                             <graid>rn</graid>
                         </segment>
                         <segment>
-                            <gword>#rc</gword>
-                            <gloss/>
-                            <graid>rn_#rc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#rc_rn</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=s</gword>
@@ -3393,7 +3598,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3405,6 +3610,7 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>ln</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>m̄alm̄ala</gword>
@@ -3430,7 +3636,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -3442,6 +3648,7 @@
                             <gword>kamadu</gword>
                             <gloss>1DL.EX</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -3472,6 +3679,7 @@
                             <gword>nik</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:obl</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -3487,13 +3695,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kamadu</gword>
                             <gloss>1DL.EX</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -3507,7 +3716,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>#ds_cc</graid>
                         </segment>
                         <segment>
@@ -3526,6 +3735,7 @@
                             <gword>kamadu</gword>
                             <gloss>1DL.EX</gloss>
                             <graid>pro.1:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -3546,6 +3756,7 @@
                             <gword>nikē</gword>
                             <gloss>2SG</gloss>
                             <graid>pro.2:p</graid>
+                            <refind>10016</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -3556,7 +3767,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3573,6 +3784,7 @@
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -3591,18 +3803,19 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>tēk</gword>
@@ -3618,6 +3831,7 @@
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:g</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -3633,7 +3847,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -3660,7 +3874,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -3672,6 +3886,7 @@
                             <gword>kumru</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>ga</gword>
@@ -3680,12 +3895,12 @@
                         </segment>
                         <segment>
                             <gword>lama'i</gword>
-                            <gloss>know </gloss>
+                            <gloss>know</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>#ds_cc</graid>
                         </segment>
                         <segment>
@@ -3694,9 +3909,17 @@
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>vono-k</gword>
-                            <gloss>home-1SG</gloss>
-                            <graid>np:s-pro.1:poss</graid>
+                            <gword>vono</gword>
+                            <gloss>home</gloss>
+                            <graid>np:s</graid>
+                            <refind>10021</refind>
+                            <isnref>bridging</isnref>
+                        </segment>
+                        <segment>
+                            <gword>-k</gword>
+                            <gloss>-1SG</gloss>
+                            <graid>-rn_pro.1:poss</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>aqit</gword>
@@ -3717,12 +3940,12 @@
                 </unit>
                 <unit uid="0067" start_time="157048" end_time="160177">
                     <utterance_id>veraa_pala_0067</utterance_id>
-                    <utterance>ba ga itok gēdōlk e...  dōl va'anēk laklaka</utterance>
+                    <utterance>ba ga itok gēdōlk e... dōl va'anēk laklaka</utterance>
                     <utterance_translation>But it's okay. So we three then, we dance,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -3741,34 +3964,37 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss/>
-                            <graid>##nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>gēdōl</gword>
-                            <gloss>1TL.IN </gloss>
-                            <graid>x</graid>
+                            <gloss>1TL.IN</gloss>
+                            <graid>nc_pro.1</graid>
+                            <refind>10022</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>=k</gword>
                             <gloss>=TAM2</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>e...</gword>
-                            <gloss/>
-                            <graid>x</graid>
+                            <gword>e--</gword>
+                            <gloss>NC</gloss>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>dōl</gword>
                             <gloss>1TL.IN</gloss>
                             <graid>wpro.1:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>va'anē</gword>
@@ -3794,13 +4020,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>dōl</gword>
                             <gloss>1TL.IN</gloss>
                             <graid>wpro.1:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -3821,13 +4048,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kumru</gword>
-                            <gloss>2DL </gloss>
+                            <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -3841,13 +4069,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
-                            <graid>##ds_cc</graid>
+                            <gloss>#</gloss>
+                            <graid>#ds_cc</graid>
                         </segment>
                         <segment>
                             <gword>no</gword>
-                            <gloss>1SG </gloss>
+                            <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -3868,6 +4097,7 @@
                             <gword>kumruō</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:g</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -3876,17 +4106,18 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>gidō'ōl</gword>
                             <gloss>1TL.IN</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -3896,7 +4127,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -3908,10 +4139,11 @@
                             <gword>gidō'ōl</gword>
                             <gloss>1TL.IN</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -3933,7 +4165,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -3945,6 +4177,7 @@
                             <gword>dir'ōl</gword>
                             <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10002</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -3953,13 +4186,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -3985,13 +4219,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -4000,7 +4235,7 @@
                         </segment>
                         <segment>
                             <gword>mē</gword>
-                            <gloss>DAT </gloss>
+                            <gloss>DAT</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -4011,7 +4246,8 @@
                         <segment>
                             <gword>lak-laka</gword>
                             <gloss>RED-dance</gloss>
-                            <graid>np.g</graid>
+                            <graid>np:g</graid>
+                            <refind>10014</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -4020,13 +4256,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
                             <gloss>3PL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10009</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -4040,7 +4277,7 @@
                         </segment>
                         <segment>
                             <gword>suwō</gword>
-                            <gloss>thither </gloss>
+                            <gloss>thither</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
@@ -4052,6 +4289,7 @@
                             <gword>lak-laka</gword>
                             <gloss>NMLZ-dance</gloss>
                             <graid>np:p</graid>
+                            <refind>10014</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -4062,13 +4300,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=m</gword>
@@ -4082,13 +4321,14 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=ēk</gword>
@@ -4105,26 +4345,27 @@
                 <unit uid="0073" start_time="171962" end_time="175363">
                     <utterance_id>veraa_pala_0073</utterance_id>
                     <utterance>laalakan tōo ne tōrtōrōk vag wal</utterance>
-                    <utterance_translation>Danced and danced, until the  fowls crowed for the first time.</utterance_translation>
+                    <utterance_translation>Danced and danced, until the fowls crowed for the first time.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>laa-laka</gword>
-                            <gloss>RED-dance </gloss>
+                            <gloss>RED-dance</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4140,7 +4381,7 @@
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro:s</graid>
+                            <graid>lv-pro_s</graid>
                         </segment>
                         <segment>
                             <gword>tōrtōrōk</gword>
@@ -4160,43 +4401,39 @@
                     <utterance_translation>So the two ... now this young man said:</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>e</gword>
                             <gloss>CC</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>sōw</gword>
                             <gloss>DISC</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>lē</gword>
                             <gloss>LOC</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>duru </gword>
-                            <gloss>3DL </gloss>
-                            <graid>x</graid>
+                            <gword>duru</gword>
+                            <gloss>3DL</gloss>
+                            <graid>nc_pro.h</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
                             <gloss>=TAM2</gloss>
-                            <graid>x</graid>
-                        </segment>
-                        <segment>
-                            <gword>...</gword>
-                            <gloss/>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4208,6 +4445,7 @@
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -4217,7 +4455,7 @@
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>tēk</gword>
@@ -4243,13 +4481,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.2:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -4270,13 +4509,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>gidō'ōl</gword>
-                            <gloss>1TL.IN </gloss>
+                            <gloss>1TL.IN</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -4284,7 +4524,7 @@
                             <graid>=lv</graid>
                         </segment>
                         <segment>
-                            <gword>(eh)</gword>
+                            <gword>eh</gword>
                             <gloss>HES</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -4307,7 +4547,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4324,6 +4564,7 @@
                             <gword>ruwa</gword>
                             <gloss>two.people</gloss>
                             <graid>np.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=s</gword>
@@ -4344,6 +4585,7 @@
                             <gword>diē</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:p</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -4359,13 +4601,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
-                            <gloss>3DL </gloss>
+                            <gloss>3DL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>=s</gword>
@@ -4386,6 +4629,7 @@
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:p</graid>
+                            <refind>10016</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -4396,13 +4640,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##neg</graid>
                         </segment>
                         <segment>
                             <gword>duru</gword>
                             <gloss>3DL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10005</refind>
                         </segment>
                         <segment>
                             <gword>e</gword>
@@ -4421,7 +4666,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -4431,23 +4676,24 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
-                            <graid>x</graid>
+                            <gloss>=ART</gloss>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>'an̄sara</gword>
-                            <gloss>person </gloss>
-                            <graid>x</graid>
+                            <gloss>person</gloss>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
                             <gword>lumgav</gword>
                             <gloss>young.man</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>anē</gword>
@@ -4473,7 +4719,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4483,8 +4729,9 @@
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
-                            <gloss>3TL </gloss>
+                            <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -4508,17 +4755,18 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -4540,11 +4788,19 @@
                             <gword>m̄ōglēge</gword>
                             <gloss>thing</gloss>
                             <graid>np:p</graid>
+                            <refind>10023</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
-                            <gword>mu-r'ōl</gword>
-                            <gloss>POSS.GEN-3TL</gloss>
-                            <graid>rn-pro.h:poss</graid>
+                            <gword>mu</gword>
+                            <gloss>POSS.GEN</gloss>
+                            <graid>rn</graid>
+                        </segment>
+                        <segment>
+                            <gword>-r'ōl</gword>
+                            <gloss>-3TL</gloss>
+                            <graid>-rn_pro.h:poss</graid>
+                            <refind>10022</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -4555,13 +4811,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
-                            <gloss>3TL </gloss>
+                            <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -4582,13 +4839,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>vaa:van</gword>
@@ -4614,6 +4872,8 @@
                             <gword>lo</gword>
                             <gloss>seaside</gloss>
                             <graid>np:g</graid>
+                            <refind>10024</refind>
+                            <isnref>unused</isnref>
                         </segment>
                     </annotations>
                 </unit>
@@ -4624,17 +4884,18 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
                             <gloss>3TL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
-                            <gloss> =TAM2</gloss>
+                            <gloss>=TAM2</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -4656,6 +4917,8 @@
                             <gword>nak</gword>
                             <gloss>canoe</gloss>
                             <graid>np:p</graid>
+                            <refind>10025</refind>
+                            <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>su-suō</gword>
@@ -4671,13 +4934,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
-                            <gloss>3TL </gloss>
+                            <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -4703,7 +4967,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4720,6 +4984,7 @@
                             <gword>dir'ōl</gword>
                             <gloss>3TL</gloss>
                             <graid>pro.h:a</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>rēv</gword>
@@ -4740,6 +5005,7 @@
                             <gword>nak</gword>
                             <gloss>canoe</gloss>
                             <graid>np:p</graid>
+                            <refind>10025</refind>
                         </segment>
                         <segment>
                             <gword>su-suō</gword>
@@ -4753,7 +5019,7 @@
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4765,11 +5031,12 @@
                             <gword>'uwam̄ēre</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>tēk</gword>
@@ -4790,13 +5057,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>no</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -4822,7 +5090,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4839,6 +5107,7 @@
                             <gword>'isim̄ēre</gword>
                             <gloss>second.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -4853,8 +5122,8 @@
                     <utterance_translation>No!</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
@@ -4871,13 +5140,15 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kumruō</gword>
                             <gloss>2DL</gloss>
                             <graid>pro.2:s</graid>
+                            <refind>10026</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>'erē</gword>
@@ -4903,18 +5174,20 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>no</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:dt_s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>no</gword>
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -4940,7 +5213,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -4952,11 +5225,12 @@
                             <gword>'uwam̄ēre</gword>
                             <gloss>first.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10003</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -4965,7 +5239,7 @@
                         </segment>
                         <segment>
                             <gword>lē</gword>
-                            <gloss>LOC </gloss>
+                            <gloss>LOC</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -4977,6 +5251,8 @@
                             <gword>qi'i</gword>
                             <gloss>head</gloss>
                             <graid>np:g</graid>
+                            <refind>10027</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>nak</gword>
@@ -4997,7 +5273,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5009,11 +5285,12 @@
                             <gword>'ama'</gword>
                             <gloss>spirit</gloss>
                             <graid>np.d:s</graid>
+                            <refind>10016</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.d:s</graid>
+                            <graid>lv-pro_d_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -5027,13 +5304,21 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
-                            <gword>vene-gi</gword>
-                            <gloss>middle-3SG</gloss>
-                            <graid>np:g-pro:poss</graid>
+                            <gword>vene</gword>
+                            <gloss>middle</gloss>
+                            <graid>np:g</graid>
+                            <refind>10028</refind>
+                            <isnref>bridging</isnref>
+                        </segment>
+                        <segment>
+                            <gword>-gi</gword>
+                            <gloss>-3SG</gloss>
+                            <graid>-rn_pro:poss</graid>
+                            <refind>10025</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -5044,12 +5329,12 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>alē</gword>
-                            <gloss>INTERJ </gloss>
+                            <gloss>INTERJ</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -5061,11 +5346,12 @@
                             <gword>'isim̄ēre</gword>
                             <gloss>second.born</gloss>
                             <graid>np.h:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -5086,7 +5372,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5096,8 +5382,9 @@
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
-                            <gloss>3TL </gloss>
+                            <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -5123,13 +5410,14 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>dir'ōl</gword>
                             <gloss>3TL</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>suō</gword>
@@ -5138,18 +5426,19 @@
                         </segment>
                         <segment>
                             <gword>su</gword>
-                            <gloss>paddle </gloss>
+                            <gloss>paddle</gloss>
                             <graid>rv</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss/>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:a</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
@@ -5173,7 +5462,7 @@
                         </segment>
                         <segment>
                             <gword>=n</gword>
-                            <gloss> =ART</gloss>
+                            <gloss>=ART</gloss>
                             <graid>=ln</graid>
                         </segment>
                         <segment>
@@ -5185,6 +5474,7 @@
                             <gword>poen</gword>
                             <gloss>point</gloss>
                             <graid>np:p</graid>
+                            <refind>10028</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
@@ -5205,7 +5495,7 @@
                     <annotations>
                         <segment>
                             <gword>#</gword>
-                            <gloss/>
+                            <gloss>#</gloss>
                             <graid>##</graid>
                         </segment>
                         <segment>
@@ -5217,11 +5507,12 @@
                             <gword>di</gword>
                             <gloss>3SG</gloss>
                             <graid>pro.h:s</graid>
+                            <refind>10004</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>lv-pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>lukun</gword>
@@ -5246,79 +5537,80 @@
                     <utterance_translation>All right, the three paddled, paddled and paddled, until they reached the another one ...</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss/>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>'alē</gword>
                             <gloss>INTERJ</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>dērōl</gword>
-                            <gloss>3TL </gloss>
-                            <graid>x</graid>
+                            <gloss>3TL</gloss>
+                            <graid>nc_pro.h</graid>
+                            <refind>10022</refind>
                         </segment>
                         <segment>
                             <gword>=k</gword>
                             <gloss>=TAM2</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>suō</gword>
                             <gloss>paddle</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>suō</gword>
                             <gloss>paddle</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>suu:suō</gword>
                             <gloss>RED:paddle</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>suō</gword>
                             <gloss>paddle</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>din̄</gword>
                             <gloss>reach</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>ma</gword>
-                            <gloss>hither </gloss>
-                            <graid>x</graid>
+                            <gloss>hither</gloss>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>=n</gword>
                             <gloss>=ART</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>n</gword>
                             <gloss>ART</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>ge</gword>
                             <gloss>DEICT</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>'ew'i</gword>
                             <gloss>other</gloss>
-                            <graid>x</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>e...</gword>
-                            <gloss/>
-                            <graid>x</graid>
+                            <gword>e--</gword>
+                            <gloss>NC</gloss>
+                            <graid>nc</graid>
                         </segment>
                     </annotations>
                 </unit>

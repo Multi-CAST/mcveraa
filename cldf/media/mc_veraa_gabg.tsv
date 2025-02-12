@@ -1,715 +1,720 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
-veraa	gabg	0001	##	##	##	##				
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+veraa	gabg	0001	#	#	##	##				
 veraa	gabg	0001	lē	LOC	adp	adp				
 veraa	gabg	0001	=n	=ART	=ln	=ln				
 veraa	gabg	0001	qōn̄	night	np:other	np		other		
 veraa	gabg	0001	ne	NUM.ART	rn	rn				
 veraa	gabg	0001	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0001	n	ART	ln	ln				
-veraa	gabg	0001	buskat	cat	np.d:pred	np	d	pred		
+veraa	gabg	0001	buskat	cat	np.d:pred	np	d	pred	3001	new
 veraa	gabg	0001	wo	and	rn	rn				
 veraa	gabg	0001	=n	=ART	=rn	=rn				
-veraa	gabg	0001	gōsuwō	rat	rn_np.d	rn_np	d			
-veraa	gabg	0002	##	##	##	##				
-veraa	gabg	0002	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0001	gōsuwō	rat	rn_np.d	rn_np	d		3002	new
+veraa	gabg	0002	#	#	##	##				
+veraa	gabg	0002	duru	3DL	pro.d:s	pro	d	s	3003	bridging
 veraa	gabg	0002	ga	STAT	lv	lv				
 veraa	gabg	0002	'ōg'ōg	RED:stay	v:pred	v		pred		
 veraa	gabg	0002	lē	LOC	adp	adp				
 veraa	gabg	0002	=n	=ART	=ln	=ln				
-veraa	gabg	0002	vunu	island	np:l	np		l		
+veraa	gabg	0002	vunu	island	np:l	np		l	3004	new
 veraa	gabg	0002	ne	NUM.ART	rn	rn				
 veraa	gabg	0002	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0002	lē	LOC	adp	adp				
 veraa	gabg	0002	=n	=ART	=ln	=ln				
-veraa	gabg	0002	nim̄ē	house	np:l	np		l		
+veraa	gabg	0002	nim̄ē	house	np:l	np		l	3005	new
 veraa	gabg	0002	ne	NUM.ART	rn	rn				
 veraa	gabg	0002	vō-wal	NUM-one	rn	rn				
-veraa	gabg	0003	##	##	##	##				
-veraa	gabg	0003	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0003	#	#	##	##				
+veraa	gabg	0003	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0003	=m	=TAM1	=lv	=lv				
 veraa	gabg	0003	'ōg	stay	v:pred	v		pred		
 veraa	gabg	0003	kēlkēl	RED:back	rv	rv				
-veraa	gabg	0004	##	##	##	##				
+veraa	gabg	0004	#	#	##	##				
 veraa	gabg	0004	qōn̄	night	np:other	np		other		
 veraa	gabg	0004	ne	NUM.ART	rn	rn				
 veraa	gabg	0004	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0004	n	ART	ln	ln				
-veraa	gabg	0004	'ekē	place	np:s	np		s		
+veraa	gabg	0004	'ekē	place	np:s	np		s	3005	
 veraa	gabg	0004	ga	STAT	lv	lv				
 veraa	gabg	0004	i'in	hot	v:pred	v		pred		
 veraa	gabg	0004	lē	LOC	adp	adp				
 veraa	gabg	0004	=n	=ART	=ln	=ln				
 veraa	gabg	0004	lōlō	inside	ln	ln				
-veraa	gabg	0004	m̄o-ruō	POSS.HOUSE-3DL	np:l-pro.d:poss	np		l-pro.d:poss		
-veraa	gabg	0005	##	##	##	##				
-veraa	gabg	0005	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0005	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0004	m̄o	POSS.HOUSE	np:l	np		l	3005	
+veraa	gabg	0004	-ruō	-3DL	-rn_pro.d:poss	-rn_pro	d	poss	3003	
+veraa	gabg	0005	#	#	##	##				
+veraa	gabg	0005	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0005	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0005	tēk	speak	v:pred	v		pred		
 veraa	gabg	0005	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0005	e	PERS.ART	ln	ln				
-veraa	gabg	0005	gōsuwō	rat	np.d:g	np	d	g		
-veraa	gabg	0006	##ds	##ds	##ds	##ds				
-veraa	gabg	0006	bulsal	friend	np.d:voc	np	d	voc		
-veraa	gabg	0006	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	gabg	0005	gōsuwō	rat	np.d:g	np	d	g	3002	
+veraa	gabg	0006	#	#	##ds	##ds				
+veraa	gabg	0006	bulsal	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0006	gidu	1DL.IN	pro.1:s	pro	1	s	3003	
 veraa	gabg	0006	=k	=TAM2	=lv	=lv				
 veraa	gabg	0006	van	go	v:pred	v		pred		
 veraa	gabg	0006	tetel	walking	rv	rv				
 veraa	gabg	0006	a	LOC.SP	adp	adp				
-veraa	gabg	0006	lo	seaside	np:g	np		g		
-veraa	gabg	0007	##	##	##	##				
-veraa	gabg	0007	gōsuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0007	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0006	lo	seaside	np:g	np		g	3006	bridging
+veraa	gabg	0007	#	#	##	##				
+veraa	gabg	0007	gōsuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0007	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0007	tēk	speak	v:pred	v		pred		
 veraa	gabg	0007	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0007	e	PERS.ART	ln	ln				
-veraa	gabg	0007	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0008	##ds	##ds	##ds	##ds				
+veraa	gabg	0007	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0008	#	#	##ds	##ds				
 veraa	gabg	0008	'alē	INTERJ	other	other				
-veraa	gabg	0008	bulsal	friend	np.d:voc	np	d	voc		
-veraa	gabg	0008	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0008	bulsal	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0008	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0008	=k	=TAM2	=lv	=lv				
 veraa	gabg	0008	van	go	v:pred	v		pred		
-veraa	gabg	0009	##	##	##	##				
-veraa	gabg	0009	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0009	#	#	##	##				
+veraa	gabg	0009	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0009	=m	=TAM2	=lv	=lv				
 veraa	gabg	0009	van	go	v:pred	v		pred		
 veraa	gabg	0009	van	go	nc	nc				
 veraa	gabg	0009	van	go	nc	nc				
-veraa	gabg	0009	##	##	##	##				
-veraa	gabg	0009	ZERO	ZERO	0.d:s	0	d	s		
-veraa	gabg	0009	'ēqel	descend	'ēqel	'ēqel				
+veraa	gabg	0009	#	#	##	##				
+veraa	gabg	0009	ZERO	ZERO	0.d:s	0	d	s	3003	
+veraa	gabg	0009	'ēqel	descend	v:pred	v		pred		
 veraa	gabg	0009	din̄	reach	rv	rv				
 veraa	gabg	0009	suw	down	rv	rv				
 veraa	gabg	0009	a	LOC.SP	adp	adp				
-veraa	gabg	0009	lo	sea	np:g	np		g		
-veraa	gabg	0010	##	##	##	##				
-veraa	gabg	0010	me'	reef	np:s	np		s		
+veraa	gabg	0009	lo	sea	np:g	np		g	3006	
+veraa	gabg	0010	#	#	##	##				
+veraa	gabg	0010	me'	reef	np:s	np		s	3007	bridging
 veraa	gabg	0010	ga	STAT	lv	lv				
 veraa	gabg	0010	kō'	dry	v:pred	v		pred		
-veraa	gabg	0011	##	##	##	##				
+veraa	gabg	0011	#	#	##	##				
 veraa	gabg	0011	n	ART	ln	ln				
-veraa	gabg	0011	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0011	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0011	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0011	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0011	tēk	speak	v:pred	v		pred		
 veraa	gabg	0011	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0011	e	PERS.ART	ln	ln				
-veraa	gabg	0011	gōsuwō	rat	np.d:g	np	d	g		
-veraa	gabg	0012	##ds	##ds	##ds	##ds				
+veraa	gabg	0011	gōsuwō	rat	np.d:g	np	d	g	3002	
+veraa	gabg	0012	#	#	##ds	##ds				
 veraa	gabg	0012	'ō	INTERJ	adp	adp				
-veraa	gabg	0012	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0012	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0012	bul	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0012	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0012	=m	=TAM1	=lv	=lv				
 veraa	gabg	0012	van	go	v:pred	v		pred		
 veraa	gabg	0012	ma	hither	rv	rv				
 veraa	gabg	0012	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0012	##ds	##ds	##ds	##ds				
+veraa	gabg	0012	#	#	##ds	##ds				
 veraa	gabg	0012	n	ART	ln	ln				
-veraa	gabg	0013	me'	reef	np:s	np		s		
+veraa	gabg	0013	me'	reef	np:s	np		s	3007	
 veraa	gabg	0013	ga	STAT	lv	lv				
 veraa	gabg	0013	rōrvō	deeply	lv	lv				
 veraa	gabg	0013	kō'	dry	v:pred	v		pred		
-veraa	gabg	0014	##	##	##	##				
-veraa	gabg	0014	gōsuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0014	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0014	#	#	##	##				
+veraa	gabg	0014	gōsuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0014	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0014	tēk	speak	v:pred	v		pred		
 veraa	gabg	0014	kel	back	rv	rv				
 veraa	gabg	0014	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0014	e	PERS.ART	ln	ln				
-veraa	gabg	0014	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0015	##ds	##ds	##ds	##ds				
-veraa	gabg	0015	bul	friend	np.d:voc	np	d	voc		
+veraa	gabg	0014	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0015	#	#	##ds	##ds				
+veraa	gabg	0015	bul	friend	np.d:voc	np	d	voc	3001	
 veraa	gabg	0015	si	or	other	other				
 veraa	gabg	0015	wo	and	other	other				
-veraa	gabg	0015	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	gabg	0015	gidu	1DL.IN	pro.1:s	pro	1	s	3003	
 veraa	gabg	0015	vanvan	RED:go	v:pred	v		pred		
 veraa	gabg	0015	lē	LOC	adp	adp				
 veraa	gabg	0015	=n	=ART	=ln	=ln				
-veraa	gabg	0015	me'	reef	np:g	np		g		
+veraa	gabg	0015	me'	reef	np:g	np		g	3007	
 veraa	gabg	0015	lē	LOC	adp	adp				
 veraa	gabg	0015	=n	=ART	=ln	=ln				
 veraa	gabg	0015	vo-von̄odo	RED-fish	np:other	np		other		
-veraa	gabg	0016	##ds	##ds	##ds	##ds				
+veraa	gabg	0016	#	#	##ds	##ds				
 veraa	gabg	0016	ba	but	other	other				
-veraa	gabg	0016	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0016	nik	2SG	pro.2:s	pro	2	s	3001	
 veraa	gabg	0016	me	FUT	lv	lv				
 veraa	gabg	0016	'a-'aram	RED-inform	v:pred	v		pred		
 veraa	gabg	0016	enteg	well	rv	rv				
 veraa	gabg	0016	mē	DAT	adp	adp				
-veraa	gabg	0016	no	1SG	pro.1:g	pro	1	g		
-veraa	gabg	0017	#ds.cc	#ds.cc	#ds_cc	#ds_cc				
+veraa	gabg	0016	no	1SG	pro.1:g	pro	1	g	3002	
+veraa	gabg	0017	#	#	#ds_cc	#ds_cc				
 veraa	gabg	0017	si	or	other	other				
 veraa	gabg	0017	=n	=ART	=ln	=ln				
-veraa	gabg	0017	me'	reef	np:s	np		s		
+veraa	gabg	0017	me'	reef	np:s	np		s	3007	
 veraa	gabg	0017	=m	=TAM1	=lv	=lv				
 veraa	gabg	0017	lōl	flooded	v:pred	v		pred		
-veraa	gabg	0017	##	##	##	##				
-veraa	gabg	0017	nik	2SG	pro.2:a	pro	2	a		
+veraa	gabg	0017	#	#	##	##				
+veraa	gabg	0017	nik	2SG	pro.2:a	pro	2	a	3001	
 veraa	gabg	0017	me	FUT	lv	lv				
 veraa	gabg	0017	'a-'aram	RED-inform	v:pred	v		pred		
 veraa	gabg	0017	enteg	well	rv	rv				
-veraa	gabg	0017	ZERO		0:p	0		p		
+veraa	gabg	0017	ZERO	ZERO	0:p	0		p		
 veraa	gabg	0017	mē	DAT	adp	adp				
-veraa	gabg	0017	no	1SG	pro.1:g	pro	1	g		
-veraa	gabg	0018	##ds	##ds	##ds.neg	##ds.neg				
+veraa	gabg	0017	no	1SG	pro.1:g	pro	1	g	3002	
+veraa	gabg	0018	#	#	##ds.neg	##ds.neg				
 veraa	gabg	0018	wōle	you.know	other	other				
-veraa	gabg	0018	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0018	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0018	dowdow	RED:wet	v:pred	v		pred		
 veraa	gabg	0018	rōs	GEN.NEG2	rv	rv				
-veraa	gabg	0019	##ds	##ds	##ds	##ds				
+veraa	gabg	0019	#	#	##ds	##ds				
 veraa	gabg	0019	wo	and	other	other				
-veraa	gabg	0019	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0019	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0019	ga	STAT	lv	lv				
 veraa	gabg	0019	se'	bad	v:pred	v		pred		
-veraa	gabg	0019	lē...	LOC	nc	nc				
+veraa	gabg	0019	lē--	NC	nc	nc				
 veraa	gabg	0019	lē	LOC	adp	adp				
 veraa	gabg	0019	=n	=ART	=ln	=ln				
-veraa	gabg	0019	naw	saltwater	np:obl	np		obl		
-veraa	gabg	0020	##ds	##ds	##ds	##ds				
+veraa	gabg	0019	naw	saltwater	np:obl	np		obl	3009	bridging
+veraa	gabg	0020	#	#	##ds	##ds				
 veraa	gabg	0020	si	or	other	other				
 veraa	gabg	0020	=n	=ART	=ln	=ln				
-veraa	gabg	0020	naw	saltwater	np:a	np		a		
+veraa	gabg	0020	naw	saltwater	np:a	np		a	3009	
 veraa	gabg	0020	=m	=TAM1	=lv	=lv				
 veraa	gabg	0020	qal	hit	v:pred	v		pred		
-veraa	gabg	0020	no	1SG	pro.1:p	pro	1	p		
-veraa	gabg	0020	##ds	##ds	##ds	##ds				
+veraa	gabg	0020	no	1SG	pro.1:p	pro	1	p	3002	
+veraa	gabg	0020	#	#	##ds	##ds				
 veraa	gabg	0020	si	and	other	other				
-veraa	gabg	0020	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0020	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0020	=m	=TAM1	=lv	=lv				
 veraa	gabg	0020	dow	wet	v:pred	v		pred		
-veraa	gabg	0020	##		##ds	##ds				
-veraa	gabg	0020	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0020	#	#	##ds	##ds				
+veraa	gabg	0020	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0020	me	FUT	lv	lv				
 veraa	gabg	0020	ma'	dead	v:pred	v		pred		
-veraa	gabg	0021	#nc	#nc	#nc	#nc				
-veraa	gabg	0021	gōsuwō	rat	x	x				
-veraa	gabg	0021	ne	TAM2	x	x				
-veraa	gabg	0021	ka...	ka...	x	x				
-veraa	gabg	0022	##	##	##	##				
-veraa	gabg	0022	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0022	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0021	#	#	#nc	#nc				
+veraa	gabg	0021	gōsuwō	rat	nc_np.d	nc_np	d		3002	
+veraa	gabg	0021	ne	TAM2	nc	nc				
+veraa	gabg	0021	ka--	NC	nc	nc				
+veraa	gabg	0022	#	#	##	##				
+veraa	gabg	0022	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0022	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0022	kalraka	get.up	v:pred	v		pred		
-veraa	gabg	0022	##	##	##	##				
-veraa	gabg	0022	ZERO		0.d:s_ds	0	d	s_ds		
-veraa	gabg	0022	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0022	#	#	##	##				
+veraa	gabg	0022	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3001	
+veraa	gabg	0022	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0022	tēk	speak	v:pred	v		pred		
 veraa	gabg	0022	mē	DAT	adp	adp				
-veraa	gabg	0022	di	3SG	pro.d:g	pro	d	g		
+veraa	gabg	0022	di	3SG	pro.d:g	pro	d	g	3002	
 veraa	gabg	0022	so	QUOT	other	other				
-veraa	gabg	0023	##ds	##ds	##ds	##ds				
+veraa	gabg	0023	#	#	##ds	##ds				
 veraa	gabg	0023	o	INTERJ	other	other				
 veraa	gabg	0023	ga	STAT	lv	lv				
 veraa	gabg	0023	itok	good	v:pred	v		pred		
-veraa	gabg	0023	bulsal	friend	np.d:voc	np	d	voc		
-veraa	gabg	0024	##ds	##ds	##ds	##ds				
-veraa	gabg	0024	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0023	bulsal	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0024	#	#	##ds	##ds				
+veraa	gabg	0024	no	1SG	pro.1:s	pro	1	s	3001	
 veraa	gabg	0024	me	FUT	lv	lv				
 veraa	gabg	0024	'ēn'ēn	RED:see	v:pred	v		pred		
-veraa	gabg	0025	##ds	##ds	##ds	##ds				
-veraa	gabg	0025	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0025	#	#	##ds	##ds				
+veraa	gabg	0025	no	1SG	pro.1:s	pro	1	s	3001	
 veraa	gabg	0025	=m	=TAM1	=lv	=lv				
 veraa	gabg	0025	'ēn	see	v:pred	v		pred		
-veraa	gabg	0025	#ds.cc	#ds.cc	#ds_cc	#ds_cc				
+veraa	gabg	0025	#	#	#ds_cc	#ds_cc				
 veraa	gabg	0025	si	or	other	other				
 veraa	gabg	0025	so	QUOT	other	other				
 veraa	gabg	0025	=n	=ART	=ln	=ln				
-veraa	gabg	0025	me'	reef	np:s	np		s		
+veraa	gabg	0025	me'	reef	np:s	np		s	3007	
 veraa	gabg	0025	=m	=TAM1	=lv	=lv				
 veraa	gabg	0025	lōl	flooded	v:pred	v		pred		
-veraa	gabg	0025	##ds	##ds	##ds	##ds				
-veraa	gabg	0025	no	1SG	nc	nc				
+veraa	gabg	0025	#	#	##ds	##ds				
+veraa	gabg	0025	no	1SG	nc_pro.1	nc_pro	1		3001	
 veraa	gabg	0025	me	FUT	nc	nc				
-veraa	gabg	0025	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0025	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0025	mak	IMM	lv	lv				
 veraa	gabg	0025	'aram	inform	v:pred	v		pred		
 veraa	gabg	0025	enteg	well	rv	rv				
-veraa	gabg	0025	ZERO		0:p	0		p		
+veraa	gabg	0025	ZERO	ZERO	0:p	0		p		
 veraa	gabg	0025	mē	DAT	adp	adp				
-veraa	gabg	0025	nikē	2SG	pro.2:g	pro	2	g		
-veraa	gabg	0026	##	##	##	##				
-veraa	gabg	0026	duru	1DL.IN	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0025	nikē	2SG	pro.2:g	pro	2	g	3002	
+veraa	gabg	0026	#	#	##	##				
+veraa	gabg	0026	duru	1DL.IN	pro.d:s	pro	d	s	3003	
 veraa	gabg	0026	=m	=TAM1	=lv	=lv				
 veraa	gabg	0026	van	go	v:pred	v		pred		
 veraa	gabg	0026	rōw	seawards	rv	rv				
-veraa	gabg	0026	##	##	##	##				
-veraa	gabg	0026	ZERO		0.d:s	0	d	s		
+veraa	gabg	0026	#	#	##	##				
+veraa	gabg	0026	ZERO	ZERO	0.d:s	0	d	s	3003	
 veraa	gabg	0026	vo-von̄odo	RED-fish	v:pred	v		pred		
-veraa	gabg	0027	#nc	#nc	#nc	#nc				
-veraa	gabg	0027	buskat	cat	x	x				
-veraa	gabg	0027	di	3SG	x	x				
-veraa	gabg	0027	'ō'	with	x	x				
-veraa	gabg	0027	=n	=ART	x	x				
-veraa	gabg	0027	qē	LONG.THING	x	x				
-veraa	gabg	0027	gogo'	RED:hook	x	x				
-veraa	gabg	0028	magarsine	sorry	x	x				
-veraa	gabg	0028	bus...	bus...	x	x				
-veraa	gabg	0028	##	##	##	##				
-veraa	gabg	0028	buskat	cat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0028	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0027	#	#	#nc	#nc				
+veraa	gabg	0027	buskat	cat	nc_np.d	nc_np	d		3001	
+veraa	gabg	0027	di	3SG	nc	nc				
+veraa	gabg	0027	'ō'	with	nc	nc				
+veraa	gabg	0027	=n	=ART	nc	nc				
+veraa	gabg	0027	qē	LONG.THING	nc	nc				
+veraa	gabg	0027	gogo'	RED:hook	nc	nc				
+veraa	gabg	0028	magarsine	sorry	nc	nc				
+veraa	gabg	0028	bus--	NC	nc	nc				
+veraa	gabg	0028	#	#	##	##				
+veraa	gabg	0028	buskat	cat	np.d:dt_s	np	d	dt_s	3002	
+veraa	gabg	0028	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0028	'ō'	with	adp	adp				
 veraa	gabg	0028	=n	=ART	=ln	=ln				
-veraa	gabg	0028	vus	bow	np:pred	np		pred		
-veraa	gabg	0028	##	##	##	##				
+veraa	gabg	0028	vus	bow	np:pred	np		pred	3010	new
+veraa	gabg	0028	#	#	##	##				
 veraa	gabg	0028	wo	and	other	other				
 veraa	gabg	0028	=n	=ART	=ln	=ln				
 veraa	gabg	0028	n	ART	nc	nc				
-veraa	gabg	0028	gōsuwō	rat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0028	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0028	gōsuwō	rat	np.d:dt_s	np	d	dt_s	3002	
+veraa	gabg	0028	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0028	'ō'	with	adp	adp				
 veraa	gabg	0028	=n	=ART	=ln	=ln				
-veraa	gabg	0028	qē	rod	np:pred	np		pred		
-veraa	gabg	0029	##	##	##	##				
-veraa	gabg	0029	duru	3DL 	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0028	qē	rod	np:pred	np		pred	3011	new
+veraa	gabg	0029	#	#	##	##				
+veraa	gabg	0029	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0029	=m	=TAM1	=lv	=lv				
 veraa	gabg	0029	vo-von̄odo	RED-fish	v:pred	v		pred		
 veraa	gabg	0029	vo-von̄odo	RED-fish	nc	nc				
 veraa	gabg	0029	vo-von̄odo	RED-fish	nc	nc				
 veraa	gabg	0029	va-van	RED-go	other	other				
-veraa	gabg	0030	##	##	##	##				
+veraa	gabg	0030	#	#	##	##				
 veraa	gabg	0030	n	ART	ln	ln				
-veraa	gabg	0030	bēlēl	basket	np:dt_s	np		dt_s		
-veraa	gabg	0030	#rc	#rc	rn_#rc	rn_#rc				
+veraa	gabg	0030	bēlēl	basket	np:dt_s	np		dt_s	3012	new
+veraa	gabg	0030	#	#	#rc_rn	#rc_rn				
 veraa	gabg	0030	a	REL	other	other				
 veraa	gabg	0030	rekso	like	other	other				
 veraa	gabg	0030	=n	=ART	=ln	=ln				
-veraa	gabg	0030	gōsuwō	rat	np.d:a	np	d	a		
+veraa	gabg	0030	gōsuwō	rat	np.d:a	np	d	a	3002	
 veraa	gabg	0030	ga	STAT	lv	lv				
 veraa	gabg	0030	gis	hold	v:pred	v		pred		
-veraa	gabg	0030	ZERO		0:p	0		p		
+veraa	gabg	0030	ZERO	ZERO	0:p	0		p	3012	
 veraa	gabg	0030	%	%	%	%				
-veraa	gabg	0030	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0030	di	3SG	pro.d:s	pro	d	s	3012	
 veraa	gabg	0030	=m	=TAM1	=lv	=lv				
 veraa	gabg	0030	wur	full	v:pred	v		pred		
 veraa	gabg	0030	nēnēn	completely	rv	rv				
-veraa	gabg	0031	##	##	##	##				
-veraa	gabg	0031	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0031	#	#	##	##				
+veraa	gabg	0031	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0031	=k	=TAM2	=lv	=lv				
 veraa	gabg	0031	van	go	v:pred	v		pred		
 veraa	gabg	0031	kal	upwards	rv	rv				
-veraa	gabg	0031	##	##	##	##				
-veraa	gabg	0031	ZERO		dl_0.d:s	dl_0	d	s		
+veraa	gabg	0031	#	#	##	##				
+veraa	gabg	0031	ZERO	ZERO	0.d:s	0	d	s	3003	
 veraa	gabg	0031	van	go	v:pred	v		pred		
 veraa	gabg	0031	kal	upwards	rv	rv				
 veraa	gabg	0031	sar	landwards	rv	rv				
 veraa	gabg	0031	lē	LOC	adp	adp				
 veraa	gabg	0031	=n	=ART	=ln	=ln				
-veraa	gabg	0031	n̄ērē'iē	shore	np:g	np		g		
-veraa	gabg	0032	##	##	##	##				
-veraa	gabg	0032	me'	reef	np:s	np		s		
-veraa	gabg	0032	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	gabg	0031	n̄ērē'iē	shore	np:g	np		g	3013	bridging
+veraa	gabg	0032	#	#	##	##				
+veraa	gabg	0032	me'	reef	np:s	np		s	3007	
+veraa	gabg	0032	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	gabg	0032	lōl	flooded	v:pred	v		pred		
 veraa	gabg	0032	kal	upwards	rv	rv				
 veraa	gabg	0032	ma	hither	rv	rv				
-veraa	gabg	0033	##	##	##	##				
-veraa	gabg	0033	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0033	#	#	##	##				
+veraa	gabg	0033	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0033	=m	=TAM1	=lv	=lv				
 veraa	gabg	0033	din̄	reach	v:pred	v		pred		
 veraa	gabg	0033	sar	landwards	rv	rv				
-veraa	gabg	0034	##	##	##	##				
-veraa	gabg	0034	gōsuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0034	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0034	#	#	##	##				
+veraa	gabg	0034	gōsuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0034	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0034	tēk	speak	v:pred	v		pred		
 veraa	gabg	0034	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0034	e	PERS.ART	ln	ln				
-veraa	gabg	0034	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0035	##ds	##ds	##ds	##ds				
-veraa	gabg	0035	bulsal	friend	np.d:voc	np	d	voc		
-veraa	gabg	0035	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0034	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0035	#	#	##ds	##ds				
+veraa	gabg	0035	bulsal	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0035	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0035	=n	=ART	=ln	=ln				
 veraa	gabg	0035	milin̄sal	hungry	np:pred	np		pred		
-veraa	gabg	0036	##	##	##	##				
-veraa	gabg	0036	gōsuwō	rat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0036	gōsuwō	rat	np.d:s	np	d	s		
+veraa	gabg	0036	#	#	##	##				
+veraa	gabg	0036	gōsuwō	rat	np.d:dt_s	np	d	dt_s	3002	
+veraa	gabg	0036	gōsuwō	rat	np.d:s	np	d	s	3002	
 veraa	gabg	0036	nē	DEM1	rn_dem1	rn_dem1				
 veraa	gabg	0036	=m	=TAM1	=lv	=lv				
 veraa	gabg	0036	tēk	speak	v:pred	v		pred		
 veraa	gabg	0036	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0036	e	PERS.ART	ln	ln				
-veraa	gabg	0036	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0037	##ds	##ds	##ds	##ds				
-veraa	gabg	0037	bulsal	friend	np.d:voc	np	d	voc		
-veraa	gabg	0037	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0036	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0037	#	#	##ds	##ds				
+veraa	gabg	0037	bulsal	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0037	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0037	=n	=ART	=ln	=ln				
 veraa	gabg	0037	milin̄sal	hungry	np:pred	np		pred		
-veraa	gabg	0038	##	##	##	##				
-veraa	gabg	0038	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0038	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0038	#	#	##	##				
+veraa	gabg	0038	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0038	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0038	kalraka	get.up	v:pred	v		pred		
-veraa	gabg	0038	##	##	##	##				
-veraa	gabg	0038	ZERO		0.d:s_ds	0	d	s_ds		
-veraa	gabg	0038	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0038	#	#	##	##				
+veraa	gabg	0038	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3001	
+veraa	gabg	0038	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0038	tēk	speak	v:pred	v		pred		
 veraa	gabg	0038	so	QUOT	other	other				
-veraa	gabg	0039	##ds	##ds	##ds	##ds				
-veraa	gabg	0039	'ēqē-k	garden-1SG	np:s-pro.1:poss	np		s-pro.1:poss		
+veraa	gabg	0039	#	#	##ds	##ds				
+veraa	gabg	0039	'ēqē	garden	np:s	np		s	3014	new
+veraa	gabg	0039	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	3001	
 veraa	gabg	0039	'a	ASS.SP	rn	rn				
 veraa	gabg	0039	'ow'ow	before	rn	rn				
-veraa	gabg	0039	#ds.rc	#ds.rc	#ds_rc	#ds_rc				
-veraa	gabg	0039	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0039	#	#	#ds_rc	#ds_rc				
+veraa	gabg	0039	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0039	=m	=TAM1	=lv	=lv				
 veraa	gabg	0039	da	do	v:pred	v		pred		
 veraa	gabg	0039	'i	DEL	rv	rv				
-veraa	gabg	0039	ZERO		0:p	0		p		
+veraa	gabg	0039	ZERO	ZERO	0:p	0		p	3014	
 veraa	gabg	0039	%	%	%	%				
 veraa	gabg	0039	sa	EMPH	other	other				
 veraa	gabg	0039	sarmanē	up.there	other:pred	other		pred		
-veraa	gabg	0040	##ds	##ds	##ds	##ds				
-veraa	gabg	0040	duō	1DL.IN	dl_wpro.1:a	dl_wpro	1	a		
+veraa	gabg	0040	#	#	##ds	##ds				
+veraa	gabg	0040	duō	1DL.IN	wpro.1:a	wpro	1	a	3003	
 veraa	gabg	0040	vekres	gut	v:pred	v		pred		
 veraa	gabg	0040	qē'	finish	rv	rv				
 veraa	gabg	0040	=n	=ART	=ln	=ln				
-veraa	gabg	0040	mes	fish	np:p	np		p		
-veraa	gabg	0041	##ds	##ds	##ds	##ds				
-veraa	gabg	0041	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0040	mes	fish	np:p	np		p	3015	bridging
+veraa	gabg	0041	#	#	##ds	##ds				
+veraa	gabg	0041	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0041	=k	=TAM2	=lv	=lv				
 veraa	gabg	0041	van	go	v:pred	v		pred		
 veraa	gabg	0041	sar	up	rv	rv				
-veraa	gabg	0041	##ds	##ds	##ds	##ds				
-veraa	gabg	0041	du	1DL.IN	dl_wpro.1:a	dl_wpro	1	a		
+veraa	gabg	0041	#	#	##ds	##ds				
+veraa	gabg	0041	du	1DL.IN	wpro.1:a	wpro	1	a	3003	
 veraa	gabg	0041	=k	=TAM2	=lv	=lv				
 veraa	gabg	0041	'ēn	see	v:pred	v		pred		
-veraa	gabg	0041	ZERO		0:p	0		p		
-veraa	gabg	0042	##ds	##ds	##ds	##ds				
-veraa	gabg	0042	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0041	ZERO	ZERO	0:p	0		p	3014	
+veraa	gabg	0042	#	#	##ds	##ds				
+veraa	gabg	0042	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0042	=k	=TAM2	=lv	=lv				
 veraa	gabg	0042	van	go	v:pred	v		pred		
 veraa	gabg	0042	lulu	RED:through	rv	rv				
-veraa	gabg	0042	##ds	##ds	##ds	##ds				
-veraa	gabg	0042	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0042	#	#	##ds	##ds				
+veraa	gabg	0042	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0042	=k	=TAM2	=lv	=lv				
 veraa	gabg	0042	van	go	v:pred	v		pred		
 veraa	gabg	0042	lu	through	rv	rv				
-veraa	gabg	0042	bēne	PRO.OBL	other:g	other		g		
-veraa	gabg	0043	##ds	##ds	##ds	##ds				
-veraa	gabg	0043	du	1DL.IN	dl_wpro.1:s	dl_wpro	1	s		
+veraa	gabg	0042	bēne	PRO.OBL	other:g	other		g	3014	
+veraa	gabg	0043	#	#	##ds	##ds				
+veraa	gabg	0043	du	1DL.IN	wpro.1:s	wpro	1	s	3003	
 veraa	gabg	0043	=k	=TAM2	=lv	=lv				
 veraa	gabg	0043	'ēn	see	v:pred	v		pred		
-veraa	gabg	0043	#ds.cc	#ds.cc	#ds_cc	#ds_cc				
+veraa	gabg	0043	#	#	#ds_cc	#ds_cc				
 veraa	gabg	0043	so	CPL	other	other				
 veraa	gabg	0043	si	or	other	other				
 veraa	gabg	0043	=n	=ART	=ln	=ln				
-veraa	gabg	0043	wova'al	pawpaw	np:s	np		s		
+veraa	gabg	0043	wova'al	pawpaw	np:s	np		s	3016	new
 veraa	gabg	0043	bēne	exist	other:pred	other		pred		
-veraa	gabg	0043	##ds	##ds	##ds	##ds				
-veraa	gabg	0043	du	1DL.IN	dl_wpro.1:a	dl_wpro	1	a		
+veraa	gabg	0043	#	#	##ds	##ds				
+veraa	gabg	0043	du	1DL.IN	wpro.1:a	wpro	1	a	3003	
 veraa	gabg	0043	=k	=TAM2	=lv	=lv				
 veraa	gabg	0043	gen	eat	v:pred	v		pred		
-veraa	gabg	0043	ZERO		0:p	0		p		
-veraa	gabg	0044	##ds	##ds	##ds	##ds				
+veraa	gabg	0043	ZERO	ZERO	0:p	0		p	3016	
+veraa	gabg	0044	#	#	##ds	##ds				
 veraa	gabg	0044	qē'	finish	other	other				
-veraa	gabg	0044	gidu	1DL.IN	pro.1:s	pro	1	s		
+veraa	gabg	0044	gidu	1DL.IN	pro.1:s	pro	1	s	3003	
 veraa	gabg	0044	mak	IMM	lv	lv				
 veraa	gabg	0044	mulō	go	v:pred	v		pred		
-veraa	gabg	0045	##	##	##	##				
-veraa	gabg	0045	gōsuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0045	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0045	#	#	##	##				
+veraa	gabg	0045	gōsuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0045	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0045	tēk	speak	v:pred	v		pred		
 veraa	gabg	0045	mē-n	DAT-CS	adp	adp				
 veraa	gabg	0045	e	PERS.ART	ln	ln				
-veraa	gabg	0045	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0046	##ds	##ds	##ds	##ds				
+veraa	gabg	0045	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0046	#	#	##ds	##ds				
 veraa	gabg	0046	o	INTERJ	other	other				
 veraa	gabg	0046	ga	STAT	lv	lv				
 veraa	gabg	0046	itok	good	v:pred	v		pred		
-veraa	gabg	0047	##	##	##	##				
-veraa	gabg	0047	duru	3DL	dl_pro.d:a	dl_pro	d	a		
+veraa	gabg	0047	#	#	##	##				
+veraa	gabg	0047	duru	3DL	pro.d:a	pro	d	a	3003	
 veraa	gabg	0047	=m	=TAM1	=lv	=lv				
 veraa	gabg	0047	vekres	gut	v:pred	v		pred		
 veraa	gabg	0047	qē'	finish	rv	rv				
 veraa	gabg	0047	ēn	ART	ln	ln				
-veraa	gabg	0047	mes	fish	np:p	np		p		
-veraa	gabg	0047	##	##	##	##				
-veraa	gabg	0047	ZERO		dl_0.d:s	dl_0	d	s		
+veraa	gabg	0047	mes	fish	np:p	np		p	3015	
+veraa	gabg	0047	#	#	##	##				
+veraa	gabg	0047	ZERO	ZERO	0.d:s	0	d	s	3003	
 veraa	gabg	0047	van	go	v:pred	v		pred		
-veraa	gabg	0047	kal	upwards	kal	kal				
-veraa	gabg	0048	##	##	##	##				
-veraa	gabg	0048	ZERO		dl_0.d:s	dl_0	d	s		
+veraa	gabg	0047	kal	upwards	rv	rv				
+veraa	gabg	0048	#	#	##	##				
+veraa	gabg	0048	ZERO	ZERO	0.d:s	0	d	s	3003	
 veraa	gabg	0048	van	go	v:pred	v		pred		
 veraa	gabg	0048	kal	upwards	rv	rv				
 veraa	gabg	0048	sar	up	rv	rv				
 veraa	gabg	0048	lē	LOC	adp	adp				
 veraa	gabg	0048	=n	=ART	=ln	=ln				
-veraa	gabg	0048	'ēqē	garden	np:g	np		g		
-veraa	gabg	0048	##	##	##	##				
-veraa	gabg	0048	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0048	'ēqē	garden	np:g	np		g	3014	
+veraa	gabg	0048	#	#	##	##				
+veraa	gabg	0048	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0048	=k	=TAM2	=lv	=lv				
 veraa	gabg	0048	'ēn	see	v:pred	v		pred		
 veraa	gabg	0048	sagēn	up	other:g	other		g		
-veraa	gabg	0048	##	##	##	##				
-veraa	gabg	0048	ZERO		dl_0.d:a	dl_0	d	a		
+veraa	gabg	0048	#	#	##	##				
+veraa	gabg	0048	ZERO	ZERO	0.d:a	0	d	a	3003	
 veraa	gabg	0048	'ēn'ēn	RED:see	v:pred	v		pred		
 veraa	gabg	0048	volvol	around	rv	rv				
 veraa	gabg	0048	n	ART	ln	ln				
 veraa	gabg	0048	'erē	PL	ln	ln				
 veraa	gabg	0048	'uvu'	base	nc	nc				
-veraa	gabg	0048	'uvu'	base	np:p	np		p		
+veraa	gabg	0048	'uvu'	base	np:p	np		p	3017	bridging
 veraa	gabg	0048	wova'al	pawpaw	rn	rn				
 veraa	gabg	0048	anē'ē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0048	##	##	##	##				
-veraa	gabg	0048	ne	??	other	other				
+veraa	gabg	0048	#	#	##	##				
+veraa	gabg	0048	ne	NC	other	other				
 veraa	gabg	0048	gitag	not.exist	other:pred	other		pred		
 veraa	gabg	0048	qē'	finish	rv	rv				
-veraa	gabg	0048	ZERO		0:s	0		s		
+veraa	gabg	0048	ZERO	ZERO	0:s	0		s		
 veraa	gabg	0048	bēne	PRO.OBL	other:l	other		l		
-veraa	gabg	0049	##	##	##	##				
+veraa	gabg	0049	#	#	##	##				
 veraa	gabg	0049	'uvu'	base	nc	nc				
-veraa	gabg	0049	'uvu'	base	np:dt	np		dt		
+veraa	gabg	0049	'uvu'	base	np:dt	np		dt	3018	bridging
 veraa	gabg	0049	va'al	pawpaw	rn	rn				
 veraa	gabg	0049	ne	NUM.ART	rn	rn				
 veraa	gabg	0049	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0049	wuva	only	other	other				
-veraa	gabg	0049	wēwē	fruit	nc	nc				
+veraa	gabg	0049	wēwē	fruit	nc_np	nc_np			3019	bridging
 veraa	gabg	0049	ne	NUM.ART	nc	nc				
-veraa	gabg	0049	wēwē	fruit	np:s	np		s		
+veraa	gabg	0049	wēwē	fruit	np:s	np		s	3020	bridging
 veraa	gabg	0049	ne	NUM.ART	rn	rn				
 veraa	gabg	0049	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0049	ga	STAT	lv	lv				
 veraa	gabg	0049	mine	ripe	v:pred	v		pred		
-veraa	gabg	0050	##	##	##	##				
-veraa	gabg	0050	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0050	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0050	#	#	##	##				
+veraa	gabg	0050	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0050	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0050	kalraka	get.up	v:pred	v		pred		
-veraa	gabg	0050	##	##	##	##				
-veraa	gabg	0050	ZERO		0.d:s_ds	0	d	s_ds		
-veraa	gabg	0050	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0050	#	#	##	##				
+veraa	gabg	0050	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3001	
+veraa	gabg	0050	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0050	tēk	speak	v:pred	v		pred		
 veraa	gabg	0050	so	QUOT	other	other				
-veraa	gabg	0051	##ds	##ds	##ds	##ds				
+veraa	gabg	0051	#	#	##ds	##ds				
 veraa	gabg	0051	o	INTERJ	other	other				
-veraa	gabg	0051	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0051	wēwē	fruit	np:s	np		s		
+veraa	gabg	0051	bul	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0051	wēwē	fruit	np:s	np		s	3020	
 veraa	gabg	0051	wova'al	pawpaw	rn	rn				
 veraa	gabg	0051	ne	NUM.ART	rn	rn				
 veraa	gabg	0051	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0051	sarēnē	up.there	rn	rn				
 veraa	gabg	0051	ga	STAT	lv	lv				
 veraa	gabg	0051	mine	ripe	v:pred	v		pred		
-veraa	gabg	0052	##ds	##ds	##ds	##ds				
-veraa	gabg	0052	nē'ē	DEM1	dem_pro:dt_p	dem_pro		dt_p		
+veraa	gabg	0052	#	#	##ds	##ds				
+veraa	gabg	0052	nē'ē	DEM1	dem_pro:dt_p	dem_pro		dt_p	3020	
 veraa	gabg	0052	sa	EMPH	other	other				
-veraa	gabg	0052	gidu	1DL.IN	pro.1:a	pro	1	a		
+veraa	gabg	0052	gidu	1DL.IN	pro.1:a	pro	1	a	3003	
 veraa	gabg	0052	me	FUT	lv	lv				
 veraa	gabg	0052	gen	eat	v:pred	v		pred		
-veraa	gabg	0052	ZERO		0:p	0		p		
-veraa	gabg	0052	ē	DEM3	other_dem3	other_dem3				
-veraa	gabg	0053	##ds	##ds	##ds	##ds				
+veraa	gabg	0052	ZERO	ZERO	0:p	0		p	3020	
+veraa	gabg	0052	ē	DEM3	dem3_other	dem3_other				
+veraa	gabg	0053	#	#	##ds	##ds				
 veraa	gabg	0053	ba	but	other	other				
 veraa	gabg	0053	enei	now	other	other				
 veraa	gabg	0053	e	PERS.ART	ln	ln				
 veraa	gabg	0053	sē	who	np.d:s	np	d	s		
 veraa	gabg	0053	me	FUT	lv	lv				
 veraa	gabg	0053	rem	climb	v:pred	v		pred		
-veraa	gabg	0054	##	##	##	##				
-veraa	gabg	0054	gusuwō	rat	np.d:s	np	d	s		
-veraa	gabg	0054	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0054	#	#	##	##				
+veraa	gabg	0054	gusuwō	rat	np.d:s	np	d	s	3002	
+veraa	gabg	0054	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0054	kalraka	get.up	v:pred	v		pred		
-veraa	gabg	0054	##	##	##	##				
-veraa	gabg	0054	ZERO		0.d:s_ds	0	d	s_ds		
-veraa	gabg	0054	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0054	#	#	##	##				
+veraa	gabg	0054	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3002	
+veraa	gabg	0054	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0054	tēk	speak	v:pred	v		pred		
 veraa	gabg	0054	so	QUOT	other	other				
-veraa	gabg	0055	##ds	##ds	##ds	##ds				
+veraa	gabg	0055	#	#	##ds	##ds				
 veraa	gabg	0055	o	INTERJ	other	other				
-veraa	gabg	0055	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0055	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0055	bul	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0055	nik	2SG	pro.2:s	pro	2	s	3001	
 veraa	gabg	0055	sa	EMPH	other	other				
 veraa	gabg	0055	me	FUT	lv	lv				
 veraa	gabg	0055	rem	climb	v:pred	v		pred		
-veraa	gabg	0055	ē	DEM3	other_dem3	other_dem3				
-veraa	gabg	0056	##	##	##	##				
+veraa	gabg	0055	ē	DEM3	dem3_other	dem3_other				
+veraa	gabg	0056	#	#	##	##				
 veraa	gabg	0056	wanag	and.then	other	other				
 veraa	gabg	0056	e	PERS.ART	ln	ln				
-veraa	gabg	0056	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0056	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0056	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0056	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0056	tēk	speak	v:pred	v		pred		
 veraa	gabg	0056	so	QUOT	other	other				
-veraa	gabg	0057	##ds	##ds	##ds	##ds				
+veraa	gabg	0057	#	#	##ds	##ds				
 veraa	gabg	0057	o	INTERJ	other	other				
 veraa	gabg	0057	wōlē	you.know	other	other				
-veraa	gabg	0057	ZERO		0:s	0		s		
+veraa	gabg	0057	ZERO	ZERO	0:s	0		s	3014	
 veraa	gabg	0057	=n	=ART	=ln	=ln				
-veraa	gabg	0057	'ēqē-k	garden-1SG	np:pred-pro.1:poss	np		pred-pro.1:poss		
-veraa	gabg	0058	#ds.rc	#ds.rc	#ds_rc	#ds_rc				
-veraa	gabg	0058	gidu	1DL.IN	dl_pro.1:s	dl_pro	1	s		
+veraa	gabg	0057	'ēqē	garden	np:pred	np		pred		
+veraa	gabg	0057	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	3001	
+veraa	gabg	0058	#	#	#ds_rc	#ds_rc				
+veraa	gabg	0058	gidu	1DL.IN	pro.1:s	pro	1	s	3003	
 veraa	gabg	0058	=m	=TAM1	=lv	=lv				
 veraa	gabg	0058	van	go	v:pred	v		pred		
 veraa	gabg	0058	ma	hither	rv	rv				
-veraa	gabg	0058	##ds	##ds	##ds	##ds				
-veraa	gabg	0058	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0058	#	#	##ds	##ds				
+veraa	gabg	0058	nik	2SG	pro.2:s	pro	2	s	3002	
 veraa	gabg	0058	me	FUT	lv	lv				
 veraa	gabg	0058	rem	climb	v:pred	v		pred		
-veraa	gabg	0059	##	##	##	##				
+veraa	gabg	0059	#	#	##	##				
 veraa	gabg	0059	e	PERS.ART	ln	ln				
-veraa	gabg	0059	gōsuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0059	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0059	gōsuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0059	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0059	tēk	speak	v:pred	v		pred		
 veraa	gabg	0059	so	QUOT	other	other				
-veraa	gabg	0060	##ds.neg	##ds.neg	##ds.neg	##ds.neg				
-veraa	gabg	0060	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0060	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0060	#	#	##ds.neg	##ds.neg				
+veraa	gabg	0060	bul	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0060	no	1SG	pro.1:s	pro	1	s	3002	
 veraa	gabg	0060	mas	INABIL1	lv	lv				
 veraa	gabg	0060	rem	climb	v:pred	v		pred		
 veraa	gabg	0060	m̄as	INABIL2	rv	rv				
-veraa	gabg	0060	#ds.ac	#ds.ac	#ds_ac	#ds_ac				
+veraa	gabg	0060	#	#	#ds_ac	#ds_ac				
 veraa	gabg	0060	sirē	because	other	other				
 veraa	gabg	0060	=n	=ART	=ln	=ln				
 veraa	gabg	0060	'erē	PL	ln	ln				
-veraa	gabg	0060	wulen	nail	pl_np:s	pl_np		s		
-veraa	gabg	0060	busu-k	finger-1SG	rn_np-pro.1:poss	rn_np-pro	1	poss		
+veraa	gabg	0060	wulen	nail	np:s	np		s	3021	bridging
+veraa	gabg	0060	busu	finger	rn_np	rn_np				
+veraa	gabg	0060	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	3002	
 veraa	gabg	0060	ga	STAT	lv	lv				
 veraa	gabg	0060	tiktik	RED:small	v:pred	v		pred		
-veraa	gabg	0060	#ds.ac	#ds.ac	#ds_ac	#ds_ac				
+veraa	gabg	0060	#	#	#ds_ac	#ds_ac				
 veraa	gabg	0060	si	or	other	other				
-veraa	gabg	0060	ZERO		pl_0:s	pl_0		s		
+veraa	gabg	0060	ZERO	ZERO	0:s	0		s	3021	
 veraa	gabg	0060	ga	STAT	lv	lv				
 veraa	gabg	0060	qōqō	RED:short	v:pred	v		pred		
 veraa	gabg	0060	soksok	too	rv	rv				
-veraa	gabg	0060	#ds.cc	#ds.cc	#ds_cc	#ds_cc				
+veraa	gabg	0060	#	#	#ds_cc	#ds_cc				
 veraa	gabg	0060	'amēn	PURP	other	other				
-veraa	gabg	0060	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0060	no	1SG	pro.1:a	pro	1	a	3002	
 veraa	gabg	0060	=k	=TAM2	=lv	=lv				
 veraa	gabg	0060	kor	scratch	v:pred	v		pred		
 veraa	gabg	0060	ēn	ART	ln	ln				
-veraa	gabg	0060	qan̄	side	np:p	np		p		
+veraa	gabg	0060	qan̄	side	np:p	np		p	3018	
 veraa	gabg	0060	wova'al	pawpaw	rn	rn				
-veraa	gabg	0061	##	##	##	##				
-veraa	gabg	0061	gusuwō	rat	np.d:s_ds	np	d	s_ds		
+veraa	gabg	0061	#	#	##	##				
+veraa	gabg	0061	gusuwō	rat	np.d:s_ds	np	d	s_ds	3002	
 veraa	gabg	0061	ne	TAM2:3SG	nc	nc				
 veraa	gabg	0061	tēk	speak	nc	nc				
-veraa	gabg	0061	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0061	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0061	tēk	speak	v:pred	v		pred		
 veraa	gabg	0061	mē	DAT	adp	adp				
 veraa	gabg	0061	=n	=ART	=ln	=ln				
-veraa	gabg	0061	buskat	cat	np.d:g	np	d	g		
-veraa	gabg	0062	##ds	##ds	##ds	##ds				
-veraa	gabg	0062	buskat	cat	np.d:voc	np	d	voc		
+veraa	gabg	0061	buskat	cat	np.d:g	np	d	g	3001	
+veraa	gabg	0062	#	#	##ds	##ds				
+veraa	gabg	0062	buskat	cat	np.d:voc	np	d	voc	3001	
 veraa	gabg	0062	si	or	other	other				
-veraa	gabg	0062	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0062	nik	2SG	pro.2:a	pro	2	a		
+veraa	gabg	0062	bul	friend	np.d:voc	np	d	voc	3001	
+veraa	gabg	0062	nik	2SG	pro.2:a	pro	2	a	3001	
 veraa	gabg	0062	sa	EMPH	other	other				
 veraa	gabg	0062	me	FUT	lv	lv				
 veraa	gabg	0062	rem	climb	v:pred	v		pred		
 veraa	gabg	0062	ēn	ART	ln	ln				
-veraa	gabg	0062	wova'al	pawpaw	np:p	np		p		
+veraa	gabg	0062	wova'al	pawpaw	np:p	np		p	3018	
 veraa	gabg	0062	ē	DEM3	rn_dem3	rn_dem3				
-veraa	gabg	0062	#ds.ac	#ds.ac	#ds_ac	#ds_ac				
+veraa	gabg	0062	#	#	#ds_ac	#ds_ac				
 veraa	gabg	0062	sirē	because	other	other				
 veraa	gabg	0062	'erē	PL	ln	ln				
-veraa	gabg	0062	wō-wōle	RED-nail	pl_np:dt_s	pl_np		dt_s		
+veraa	gabg	0062	wō-wōle	RED-nail	np:dt_s	np		dt_s	3022	bridging
 veraa	gabg	0062	qē	end	rn	rn				
-veraa	gabg	0062	busu-m	finger-2SG	rn_np-pro.2:poss	rn_np-pro	2	poss		
-veraa	gabg	0062	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0062	busu	finger	rn_np	rn_np				
+veraa	gabg	0062	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	3001	
+veraa	gabg	0062	di	3SG	pro.d:s	pro	d	s	3022	
 veraa	gabg	0062	ga	STAT	lv	lv				
 veraa	gabg	0062	lu-luwō	RED-big	v:pred	v		pred		
-veraa	gabg	0063	##ds	##ds	##ds	##ds				
-veraa	gabg	0063	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0063	#	#	##ds	##ds				
+veraa	gabg	0063	nik	2SG	pro.2:s	pro	2	s	3001	
 veraa	gabg	0063	=ēm	=TAM1	=lv	=lv				
 veraa	gabg	0063	'aq	duck	v:pred	v		pred		
 veraa	gabg	0063	mē	DAT	adp	adp				
 veraa	gabg	0063	=n	=ART	=ln	=ln				
-veraa	gabg	0063	qan̄	side	np:g	np		g		
+veraa	gabg	0063	qan̄	side	np:g	np		g	3018	
 veraa	gabg	0063	wova'al	pawpaw	rn	rn				
-veraa	gabg	0064	##ds	##ds	##ds	##ds				
-veraa	gabg	0064	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0064	#	#	##ds	##ds				
+veraa	gabg	0064	nik	2SG	pro.2:s	pro	2	s	3001	
 veraa	gabg	0064	me	ABIL1	lv	lv				
 veraa	gabg	0064	kor	scratch	v:pred	v		pred		
 veraa	gabg	0064	marmar	strong	rv	rv				
 veraa	gabg	0064	m̄as	ABIL2	rv	rv				
-veraa	gabg	0065	##ds	##ds	##ds	##ds				
-veraa	gabg	0065	nik	2SG	pro.2:s	pro	2	s		
-veraa	gabg	0065	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	gabg	0065	#	#	##ds	##ds				
+veraa	gabg	0065	nik	2SG	pro.2:s	pro	2	s	3001	
+veraa	gabg	0065	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	gabg	0065	van	go	v:pred	v		pred		
 veraa	gabg	0065	kal	upwards	rv	rv				
 veraa	gabg	0065	m̄as	ABIL2	rv	rv				
-veraa	gabg	0066	##	##	##	##				
-veraa	gabg	0066	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0066	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0066	#	#	##	##				
+veraa	gabg	0066	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0066	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0066	tēk	speak	v:pred	v		pred		
 veraa	gabg	0066	mē-n	DAT-CS	adp	adp				
-veraa	gabg	0066	e	PERS:ART	ln	ln				
-veraa	gabg	0066	gōsuwō	rat	np.d:g	np	d	g		
+veraa	gabg	0066	e	PERS.ART	ln	ln				
+veraa	gabg	0066	gōsuwō	rat	np.d:g	np	d	g	3002	
 veraa	gabg	0066	so	QUOT	other	other				
-veraa	gabg	0067	##ds.neg	##ds.neg	##ds.neg	##ds.neg				
-veraa	gabg	0067	no	1SG	nc	nc				
+veraa	gabg	0067	#	#	##ds.neg	##ds.neg				
+veraa	gabg	0067	no	1SG	nc_pro.1	nc_pro	1		3001	
 veraa	gabg	0067	mas	INABIL1	nc	nc				
 veraa	gabg	0067	rem	climb	nc	nc				
-veraa	gabg	0067	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0067	no	1SG	pro.1:s	pro	1	s	3001	
 veraa	gabg	0067	mas	INABIL1	lv	lv				
 veraa	gabg	0067	rem	climb	v:pred	v		pred		
 veraa	gabg	0067	rōs	INABIL2	rv	rv				
-veraa	gabg	0068	##ds	##ds	##ds	##ds				
-veraa	gabg	0068	nikē	2SG	pro.2:dt_s	pro	2	dt_s		
-veraa	gabg	0068	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0068	#	#	##ds	##ds				
+veraa	gabg	0068	nikē	2SG	pro.2:dt_s	pro	2	dt_s	3002	
+veraa	gabg	0068	nik	2SG	pro.2:s	pro	2	s	3002	
 veraa	gabg	0068	me	FUT	lv	lv				
 veraa	gabg	0068	rem	climb	v:pred	v		pred		
-veraa	gabg	0069	##	##	##	##				
-veraa	gabg	0069	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0069	#	#	##	##				
+veraa	gabg	0069	duru	3DL	pro.d:s	pro	d	s	3003	
 veraa	gabg	0069	=m	=TAM1	=lv	=lv				
 veraa	gabg	0069	tēk	speak	v:pred	v		pred		
 veraa	gabg	0069	kēlkēl	RED:back	rv	rv				
 veraa	gabg	0069	mē	DAT	adp	adp				
-veraa	gabg	0069	duru	3DL	dl_pro.d:g	dl_pro	d	g		
+veraa	gabg	0069	duru	3DL	pro.d:g	pro	d	g	3003	
 veraa	gabg	0069	senē	MAN.DEM1	other	other				
 veraa	gabg	0069	vavavavan	go	other	other				
-veraa	gabg	0070	##	##	##	##				
-veraa	gabg	0070	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0070	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0070	#	#	##	##				
+veraa	gabg	0070	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0070	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0070	tēk	speak	v:pred	v		pred		
-veraa	gabg	0070	mē-n	DAT-CS 	adp	adp				
-veraa	gabg	0070	e	PERS:ART	ln	ln				
-veraa	gabg	0070	gōsuwō	rat	np.d:g	np	d	g		
+veraa	gabg	0070	mē-n	DAT-CS	adp	adp				
+veraa	gabg	0070	e	PERS.ART	ln	ln				
+veraa	gabg	0070	gōsuwō	rat	np.d:g	np	d	g	3002	
 veraa	gabg	0070	so	QUOT	other	other				
-veraa	gabg	0071	##ds	##ds	##ds	##ds				
-veraa	gabg	0071	nik	2SG	pro.2:s	pro	2	s		
-veraa	gabg	0071	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	gabg	0071	#	#	##ds	##ds				
+veraa	gabg	0071	nik	2SG	pro.2:s	pro	2	s	3002	
+veraa	gabg	0071	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	gabg	0071	rem	climb	v:pred	v		pred		
-veraa	gabg	0072	##	##	##	##				
+veraa	gabg	0072	#	#	##	##				
 veraa	gabg	0072	alē	INTERJ	other	other				
-veraa	gabg	0072	gōsuwō	rat	np.d:s	np	d	s		
-veraa	gabg	0072	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0072	gōsuwō	rat	np.d:s	np	d	s	3002	
+veraa	gabg	0072	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0072	rem	climb	v:pred	v		pred		
-veraa	gabg	0073	##	##	##	##				
-veraa	gabg	0073	gusuwō	rat	np.d:s	np	d	s		
+veraa	gabg	0073	#	#	##	##				
+veraa	gabg	0073	gusuwō	rat	np.d:s	np	d	s	3002	
 veraa	gabg	0073	=m	=TAM1	=lv	=lv				
 veraa	gabg	0073	rem	climb	v:pred	v		pred		
 veraa	gabg	0073	rem	climb	nc	nc				
 veraa	gabg	0073	re-rem	RED-climb	nc	nc				
 veraa	gabg	0073	rem	climb	nc	nc				
 veraa	gabg	0073	re-rem	RED-climb	nc	nc				
-veraa	gabg	0073	##	##	##	##				
-veraa	gabg	0073	ZERO		0.d:s	0	d	s		
+veraa	gabg	0073	#	#	##	##				
+veraa	gabg	0073	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0073	rem	climb	v:pred	v		pred		
 veraa	gabg	0073	din̄	reach	rv	rv				
 veraa	gabg	0073	sagē	up	other:g	other		g		
-veraa	gabg	0074	##	##	##	##				
-veraa	gabg	0074	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0074	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0074	#	#	##	##				
+veraa	gabg	0074	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0074	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0074	sagsag	RED:sit	v:pred	v		pred		
 veraa	gabg	0074	lē	LOC	adp	adp				
 veraa	gabg	0074	=n	=ART	=ln	=ln				
-veraa	gabg	0074	qe'an	ground	np:l	np		l		
-veraa	gabg	0074	##	##	##	##				
-veraa	gabg	0074	ZERO		0.d:s_ds	0	d	s_ds		
-veraa	gabg	0074	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0074	qe'an	ground	np:l	np		l	3023	bridging
+veraa	gabg	0074	#	#	##	##				
+veraa	gabg	0074	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3001	
+veraa	gabg	0074	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0074	tēk	speak	v:pred	v		pred		
 veraa	gabg	0074	mē	DAT	adp	adp				
-veraa	gabg	0074	di	3SG	pro.d:g	pro	d	g		
-veraa	gabg	0075	##ds	##ds	##ds	##ds				
-veraa	gabg	0075	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0075	wova'al	pawpaw	np:dt_s	np		dt_s		
+veraa	gabg	0074	di	3SG	pro.d:g	pro	d	g	3002	
+veraa	gabg	0075	#	#	##ds	##ds				
+veraa	gabg	0075	bul	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0075	wova'al	pawpaw	np:dt_s	np		dt_s	3020	
 veraa	gabg	0075	ē	DEM3	rn_dem3	rn_dem3				
-veraa	gabg	0075	di	3SG	pro:s	pro		s		
+veraa	gabg	0075	di	3SG	pro:s	pro		s	3020	
 veraa	gabg	0075	sa	EMPH	other	other				
 veraa	gabg	0075	nē	DEM1	dem_pro:pred	dem_pro		pred		
-veraa	gabg	0076	##	##	##	##				
+veraa	gabg	0076	#	#	##	##				
 veraa	gabg	0076	alē	INTERJ	other	other				
-veraa	gabg	0076	gōsuwō	rat	np.d:s	np	d	s		
-veraa	gabg	0076	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0076	gōsuwō	rat	np.d:s	np	d	s	3002	
+veraa	gabg	0076	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0076	van	go	v:pred	v		pred		
-veraa	gabg	0076	aval	other.side	np:g	np		g		
-veraa	gabg	0076	wova'al	pawpaw	rn	rn				
+veraa	gabg	0076	aval	other.side	np:g	np		g	3024	bridging
+veraa	gabg	0076	wova'al	pawpaw	rn	rn			3018	
 veraa	gabg	0076	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0076	##	##	##	##				
-veraa	gabg	0076	ZERO		0.d:s	0	d	s		
+veraa	gabg	0076	#	#	##	##				
+veraa	gabg	0076	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0076	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0076	ma	hither	rv	rv				
 veraa	gabg	0076	wal	one	rv	rv				
@@ -718,70 +723,70 @@ veraa	gabg	0076	=n	=ART	nc	nc
 veraa	gabg	0076	gakō	stalk	nc	nc				
 veraa	gabg	0076	wova'al	pawpaw	nc	nc				
 veraa	gabg	0076	anē	DEM1.A	nc	nc				
-veraa	gabg	0077	##	##	##	##				
-veraa	gabg	0077	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0077	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0077	#	#	##	##				
+veraa	gabg	0077	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0077	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0077	'aram	inform	v:pred	v		pred		
 veraa	gabg	0077	enteg	well	rv	rv				
 veraa	gabg	0077	mē	DAT	adp	adp				
-veraa	gabg	0077	diē	3SG	pro.d:g	pro	d	g		
-veraa	gabg	0078	##	##	##	##				
-veraa	gabg	0078	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0077	diē	3SG	pro.d:g	pro	d	g	3002	
+veraa	gabg	0078	#	#	##	##				
+veraa	gabg	0078	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0078	=m	=TAM1	=lv	=lv				
 veraa	gabg	0078	sag	sit	v:pred	v		pred		
 veraa	gabg	0078	sur	down	rv	rv				
 veraa	gabg	0078	suwō	down	rv	rv				
-veraa	gabg	0078	##	##	##	##				
-veraa	gabg	0078	di	3SG	pro.d:a	pro	d	a		
+veraa	gabg	0078	#	#	##	##				
+veraa	gabg	0078	di	3SG	pro.d:a	pro	d	a	3002	
 veraa	gabg	0078	=m	=TAM1	=lv	=lv				
 veraa	gabg	0078	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0078	'ēn	try	rv	rv				
 veraa	gabg	0078	sa	EMPH	other	other				
 veraa	gabg	0078	=n	=ART	=ln	=ln				
-veraa	gabg	0078	gako	stalk	np:p	np		p		
-veraa	gabg	0078	wova'al	pawpaw	rn	rn				
+veraa	gabg	0078	gako	stalk	np:p	np		p	3025	bridging
+veraa	gabg	0078	wova'al	pawpaw	rn	rn			3018	
 veraa	gabg	0078	ē	DEM3	rn_dem3	rn_dem3				
-veraa	gabg	0079	##	##	##	##				
-veraa	gabg	0079	buskat	cat	np.d:s	np	d	s		
-veraa	gabg	0079	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0079	#	#	##	##				
+veraa	gabg	0079	buskat	cat	np.d:s	np	d	s	3001	
+veraa	gabg	0079	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0079	al	move.head	v:pred	v		pred		
 veraa	gabg	0079	qēl	descend	rv	rv				
 veraa	gabg	0079	suwē	down	rv	rv				
 veraa	gabg	0079	lē	LOC	adp	adp				
 veraa	gabg	0079	=n	=ART	=ln	=ln				
-veraa	gabg	0079	qe'an	ground	np:g	np		g		
-veraa	gabg	0080	##	##	##	##				
-veraa	gabg	0080	gusuwō	rat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0080	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0079	qe'an	ground	np:g	np		g	3023	
+veraa	gabg	0080	#	#	##	##				
+veraa	gabg	0080	gusuwō	rat	np.d:dt_s	np	d	dt_s	3002	
+veraa	gabg	0080	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0080	=m	=TAM1	=lv	=lv				
 veraa	gabg	0080	'ēn	see	v:pred	v		pred		
 veraa	gabg	0080	esenē	MAN.DEM1.E	other	other				
-veraa	gabg	0080	##	##	##	##				
-veraa	gabg	0080	ZERO		0.d:s	0	d	s		
+veraa	gabg	0080	#	#	##	##				
+veraa	gabg	0080	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0080	vidir	jump	v:pred	v		pred		
 veraa	gabg	0080	kal	upwards	rv	rv				
 veraa	gabg	0080	ma	hither	rv	rv				
 veraa	gabg	0080	sagē	up	other:g	other		g		
 veraa	gabg	0080	lē	LOC	adp	adp				
 veraa	gabg	0080	=n	=ART	=ln	=ln				
-veraa	gabg	0080	wova'al	pawpaw	np:g	np		g		
+veraa	gabg	0080	wova'al	pawpaw	np:g	np		g	3018	
 veraa	gabg	0080	lumasagē	at.top.end	rn	rn				
-veraa	gabg	0080	##		##	##				
-veraa	gabg	0080	ZERO		0.d:a	0	d	a		
+veraa	gabg	0080	#	#	##	##				
+veraa	gabg	0080	ZERO	ZERO	0.d:a	0	d	a	3002	
 veraa	gabg	0080	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0080	ēn	ART	ln	ln				
-veraa	gabg	0080	qoro-gi	hole-3SG	np:p	np		p		
-veraa	gabg	0080	##	##	##	##				
-veraa	gabg	0080	ZERO		0.d:a	0	d	a		
-veraa	gabg	0080	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0080	qoro-gi	hole-3SG	np:p	np		p	3026	new
+veraa	gabg	0080	#	#	##	##				
+veraa	gabg	0080	ZERO	ZERO	0.d:a	0	d	a	3002	
+veraa	gabg	0080	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0080	qē'ēg	start	lv	lv				
 veraa	gabg	0080	kurkur	RED:gnaw	v:pred	v		pred		
 veraa	gabg	0080	ēn	ART	ln	ln				
-veraa	gabg	0080	qoro-gi	hole-3SG	np::p	np		:p		
+veraa	gabg	0080	qoro-gi	hole-3SG	np:p	np		p	3026	
 veraa	gabg	0080	lumasagē	at.top.end	other:l	other		l		
-veraa	gabg	0081	##	##	##	##				
-veraa	gabg	0081	buskat	cat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0081	di 	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0081	#	#	##	##				
+veraa	gabg	0081	buskat	cat	np.d:dt_s	np	d	dt_s	3001	
+veraa	gabg	0081	di	3SG	pro.d:s	pro	d	s	3001	
 veraa	gabg	0081	=m	=TAM1	=lv	=lv				
 veraa	gabg	0081	sag	sit	v:pred	v		pred		
 veraa	gabg	0081	dar	wait	rv	rv				
@@ -793,391 +798,395 @@ veraa	gabg	0081	dar	wait	nc	nc
 veraa	gabg	0082	van	go	other	other				
 veraa	gabg	0082	van	go	other	other				
 veraa	gabg	0082	vavavavan	go	other	other				
-veraa	gabg	0083	##ds	##ds	##ds	##ds				
+veraa	gabg	0083	#	#	##ds	##ds				
 veraa	gabg	0083	o	INTERJ	other	other				
-veraa	gabg	0083	bul	friend	np.d:voc	np	d	voc		
+veraa	gabg	0083	bul	friend	np.d:voc	np	d	voc	3002	
 veraa	gabg	0083	rōv-rōv'ē	RED-close	other	other				
-veraa	gabg	0083	nik	2SG	pro.2:a	pro	2	a		
-veraa	gabg	0083	ē	TAM2:2SG	lv-pro.2:a	lv-pro	2	a		
+veraa	gabg	0083	nik	2SG	pro.2:a	pro	2	a	3002	
+veraa	gabg	0083	ē	TAM2:2SG	lv-pro_2_a	lv-pro_2_a				
 veraa	gabg	0083	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0083	kirm̄ō	break	rv	rv				
 veraa	gabg	0083	=n	=ART	=ln	=ln				
-veraa	gabg	0083	gako	stalk	np:p	np		p		
-veraa	gabg	0083	wova'al	pawpaw	rn	rn				
+veraa	gabg	0083	gako	stalk	np:p	np		p	3025	
+veraa	gabg	0083	wova'al	pawpaw	rn	rn			3018	
 veraa	gabg	0083	ē	DEM3	rn_dem3	rn_dem3				
-veraa	gabg	0084	##ds	##ds	##ds	##ds				
+veraa	gabg	0084	#	#	##ds	##ds				
 veraa	gabg	0084	o	INTERJ	other	other				
-veraa	gabg	0084	bul	friend	np.d:voc	np	d	voc		
+veraa	gabg	0084	bul	friend	np.d:voc	np	d	voc	3001	
 veraa	gabg	0084	rō-rōv'e	RED-close	other:pred	other		pred		
-veraa	gabg	0084	##ds	##ds	##ds	##ds				
+veraa	gabg	0084	#	#	##ds	##ds				
 veraa	gabg	0084	qe'i	a.moment	other:pred	other		pred		
 veraa	gabg	0084	mōnō-gi	small-3SG	other	other				
 veraa	gabg	0084	lik	more	other	other				
-veraa	gabg	0085	##neg	##neg	##neg	##neg				
+veraa	gabg	0085	#	#	##neg	##neg				
 veraa	gabg	0085	ba	but	other	other				
-veraa	gabg	0085	di	3SG	nc	nc				
+veraa	gabg	0085	di	3SG	nc_pro.d	nc_pro	d		3001	
 veraa	gabg	0085	e	GEN.NEG1	nc	nc				
 veraa	gabg	0085	lama'i	know	nc	nc				
-veraa	gabg	0085	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0085	di	3SG	pro.d:s	pro	d	s	3001	
 veraa	gabg	0085	e	GEN.NEG1	lv	lv				
 veraa	gabg	0085	lama'i	know	v:pred	v		pred		
 veraa	gabg	0085	rōs	GEN.NEG2	rv	rv				
 veraa	gabg	0085	bēne	PRO.OBL	other:obl	other		obl		
-veraa	gabg	0085	#cc	#cc	#cc	#cc				
+veraa	gabg	0085	#	#	#cc	#cc				
 veraa	gabg	0085	so	CPL	other	other				
 veraa	gabg	0085	sagē	up	other:l	other		l		
 veraa	gabg	0086	gōsuwō	rat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0086	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0086	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0086	man	PFV	lv	lv				
 veraa	gabg	0086	tēv	tunnel	v:pred	v		pred		
 veraa	gabg	0086	lu	through	rv	rv				
 veraa	gabg	0086	lumasagē	at.top.end	other:g	other		g		
-veraa	gabg	0087	#cc	#cc	#cc	#cc				
-veraa	gabg	0087	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0087	#	#	#cc	#cc				
+veraa	gabg	0087	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0087	man	PFV	lv	lv				
 veraa	gabg	0087	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0087	van	go	other	other				
-veraa	gabg	0087	#cc	#cc	#cc	#cc				
-veraa	gabg	0087	ZERO		0.d:a	0	d	a		
+veraa	gabg	0087	#	#	#cc	#cc				
+veraa	gabg	0087	ZERO	ZERO	0.d:a	0	d	a	3002	
 veraa	gabg	0087	da	do	v:pred	v		pred		
 veraa	gabg	0087	=n	=ART	=ln	=ln				
-veraa	gabg	0087	qoro-gi	hole-3SG =ART	np:p	np		p		
-veraa	gabg	0088	##	##	##	##				
-veraa	gabg	0088	di	3SG	pro.d:a	pro	d	a		
+veraa	gabg	0087	qoro-gi	hole-3SG=ART	np:p	np		p	3026	
+veraa	gabg	0088	#	#	##	##				
+veraa	gabg	0088	di	3SG	pro.d:a	pro	d	a	3002	
 veraa	gabg	0088	man	PFV	lv	lv				
 veraa	gabg	0088	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0088	ēn	ART	ln	ln				
 veraa	gabg	0088	'erē	PL	ln	ln				
-veraa	gabg	0088	wēwē	fruit	np:p	np		p		
+veraa	gabg	0088	wēwē	fruit	np:p	np		p	3020	
 veraa	gabg	0088	wova'al	pawpaw	rn	rn				
 veraa	gabg	0088	'alēn	ASS	rn	rn				
 veraa	gabg	0088	lōlō-gi	inside-3SG	rn	rn				
-veraa	gabg	0088	##	##	##	##				
+veraa	gabg	0088	#	#	##	##				
 veraa	gabg	0088	ēn	ART	ln	ln				
-veraa	gabg	0088	'aqa-gi	belly-3SG	np:s-pro.d:poss	np		s-pro.d:poss		
+veraa	gabg	0088	'aqa	belly	np:s	np		s	3027	bridging
+veraa	gabg	0088	-gi	-3SG	-rn_pro.d:poss	-rn_pro	d	poss	3002	
 veraa	gabg	0088	man	PFV	lv	lv				
 veraa	gabg	0088	'ōq	full	v:pred	v		pred		
-veraa	gabg	0089	##	##	##	##				
-veraa	gabg	0089	di	3SG	pro.d:s	pro	d	s		
-veraa	gabg	0089	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0089	#	#	##	##				
+veraa	gabg	0089	di	3SG	pro.d:s	pro	d	s	3002	
+veraa	gabg	0089	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0089	'av'av	RED:shit	v:pred	v		pred		
 veraa	gabg	0089	luō	through	rv	rv				
-veraa	gabg	0090	#nc	#nc	#nc	#nc				
-veraa	gabg	0090	di	3SG	x	x				
-veraa	gabg	0090	nē	DEM1	x	x				
-veraa	gabg	0090	=k	=TAM2	x	x				
-veraa	gabg	0090	gen	eat	x	x				
-veraa	gabg	0090	vēlē	empty	x	x				
-veraa	gabg	0091	gusuwō	rat	x	x				
-veraa	gabg	0091	n	ART	x	x				
-veraa	gabg	0091	buskat	cat	x	x				
-veraa	gabg	0091	suwēn	down	x	x				
-veraa	gabg	0091	a	REL	x	x				
-veraa	gabg	0091	milin̄sal	hungry	x	x				
-veraa	gabg	0091	a	REL	x	x				
-veraa	gabg	0091	=n	=ART	x	x				
-veraa	gabg	0091	milin̄sal	hungry	x	x				
-veraa	gabg	0092	##ds	##ds	##ds	##ds				
-veraa	gabg	0092	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0092	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0090	#	#	#nc	#nc				
+veraa	gabg	0090	di	3SG	nc_pro.d	nc_pro	d		3002	
+veraa	gabg	0090	nē	DEM1	nc	nc				
+veraa	gabg	0090	=k	=TAM2	nc	nc				
+veraa	gabg	0090	gen	eat	nc	nc				
+veraa	gabg	0090	vēlē	empty	nc	nc				
+veraa	gabg	0091	gusuwō	rat	nc_np.d	nc_np	d		3002	
+veraa	gabg	0091	n	ART	nc	nc				
+veraa	gabg	0091	buskat	cat	nc_np.d	nc_np	d		3001	
+veraa	gabg	0091	suwēn	down	nc	nc				
+veraa	gabg	0091	a	REL	nc	nc				
+veraa	gabg	0091	milin̄sal	hungry	nc	nc				
+veraa	gabg	0091	a	REL	nc	nc				
+veraa	gabg	0091	=n	=ART	nc	nc				
+veraa	gabg	0091	milin̄sal	hungry	nc	nc				
+veraa	gabg	0092	#	#	##ds	##ds				
+veraa	gabg	0092	bul	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0092	no	1SG	pro.1:s	pro	1	s	3001	
 veraa	gabg	0092	=m	=TAM1	=lv	=lv				
 veraa	gabg	0092	dar	wait	v:pred	v		pred		
 veraa	gabg	0092	vavavavavan	RED-go	other	other				
-veraa	gabg	0092	##ds	##ds	##ds	##ds				
-veraa	gabg	0092	ne	??	other	other				
+veraa	gabg	0092	#	#	##ds	##ds				
+veraa	gabg	0092	ne	NC	other	other				
 veraa	gabg	0092	gitag	not.exist	other:pred	other		pred		
 veraa	gabg	0092	va'anē	TEMP.DEM1	other	other				
-veraa	gabg	0093	##	##	##	##				
-veraa	gabg	0093	gusuwō	rat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0093	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0093	#	#	##	##				
+veraa	gabg	0093	gusuwō	rat	np.d:s_ds	np	d	s_ds	3002	
+veraa	gabg	0093	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0093	tēk	speak	v:pred	v		pred		
 veraa	gabg	0093	qēl	downwards	rv	rv				
 veraa	gabg	0093	ma	hither	rv	rv				
 veraa	gabg	0093	mē	DAT	adp	adp				
-veraa	gabg	0093	die	3SG	pro.d:g	pro	d	g		
-veraa	gabg	0094	##ds	##ds	##ds	##ds				
-veraa	gabg	0094	bulsal	cat	np.d:voc	np	d	voc		
+veraa	gabg	0093	die	3SG	pro.d:g	pro	d	g	3001	
+veraa	gabg	0094	#	#	##ds	##ds				
+veraa	gabg	0094	bulsal	cat	np.d:voc	np	d	voc	3001	
 veraa	gabg	0094	rōv-rōv'e	RED-close	other	other				
 veraa	gabg	0094	rōvrōv'e	close	other	other				
-veraa	gabg	0094	ZERO		0:s	0		s		
-veraa	gabg	0094	ne	TAM2:3SG	lv-pro:s	lv-pro		s		
+veraa	gabg	0094	ZERO	ZERO	0:s	0		s	3025	
+veraa	gabg	0094	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	gabg	0094	kirm̄ō	break	v:pred	v		pred		
-veraa	gabg	0095	##	##	##	##				
-veraa	gabg	0095	ZERO		0.d:s	0	d	s		
+veraa	gabg	0095	#	#	##	##				
+veraa	gabg	0095	ZERO	ZERO	0.d:s	0	d	s	3001	
 veraa	gabg	0095	dar	wait	v:pred	v		pred		
 veraa	gabg	0095	kēlkēl	RED:back	rv	rv				
-veraa	gabg	0095	##	##	##	##				
-veraa	gabg	0095	ZERO		0.d:s	0	d	s		
+veraa	gabg	0095	#	#	##	##				
+veraa	gabg	0095	ZERO	ZERO	0.d:s	0	d	s	3001	
 veraa	gabg	0095	dar	wait	v:pred	v		pred		
 veraa	gabg	0095	kēlkēl	RED:back	rv	rv				
 veraa	gabg	0095	vavan	go	other	other				
-veraa	gabg	0096	##	##	##	##				
+veraa	gabg	0096	#	#	##	##				
 veraa	gabg	0096	n	ART	ln	ln				
-veraa	gabg	0096	buskat	cat	np.d:s_ds	np	d	s_ds		
-veraa	gabg	0096	ne	TAM2:3SG	lv-pro.d:s_ds	lv-pro	d	s_ds		
+veraa	gabg	0096	buskat	cat	np.d:s_ds	np	d	s_ds	3001	
+veraa	gabg	0096	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	gabg	0096	tēk	speak	v:pred	v		pred		
 veraa	gabg	0096	kal	upwards	rv	rv				
 veraa	gabg	0096	lik	again	rv	rv				
 veraa	gabg	0096	ma	hither	rv	rv				
 veraa	gabg	0096	mē	DAT	adp	adp				
-veraa	gabg	0096	diē	3SG	pro.d:g	pro	d	g		
-veraa	gabg	0097	##ds	##ds	##ds	##ds				
-veraa	gabg	0097	bul	friend	np.d:voc	np	d	voc		
-veraa	gabg	0097	nik	2SG	pro.2:s	pro	2	s		
+veraa	gabg	0096	diē	3SG	pro.d:g	pro	d	g	3002	
+veraa	gabg	0097	#	#	##ds	##ds				
+veraa	gabg	0097	bul	friend	np.d:voc	np	d	voc	3002	
+veraa	gabg	0097	nik	2SG	pro.2:s	pro	2	s	3002	
 veraa	gabg	0097	ga	STAT	lv	lv				
 veraa	gabg	0097	misin	long.time	v:pred	v		pred		
 veraa	gabg	0097	va'i	still	other	other				
-veraa	gabg	0097	##ds	##ds	##ds	##ds				
-veraa	gabg	0097	no	1SG	pro.1:s	pro	1	s		
+veraa	gabg	0097	#	#	##ds	##ds				
+veraa	gabg	0097	no	1SG	pro.1:s	pro	1	s	3001	
 veraa	gabg	0097	=k	=TAM2	=lv	=lv				
 veraa	gabg	0097	rem	climb	v:pred	v		pred		
 veraa	gabg	0097	kal	upwards	rv	rv				
 veraa	gabg	0097	sag	up	rv	rv				
 veraa	gabg	0097	sa	EMPH	other	other				
-veraa	gabg	0097	'ēnē	??	other	other				
-veraa	gabg	0098	##ds	##ds	##ds	##ds				
-veraa	gabg	0098	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0097	'ēnē	NC	other	other				
+veraa	gabg	0098	#	#	##ds	##ds				
+veraa	gabg	0098	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0098	=k	=TAM2	=lv	=lv				
 veraa	gabg	0098	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0098	ma-ma'	RED-dead	rv	rv				
-veraa	gabg	0098	nikē	2SG	pro.2:p	pro	2	p		
+veraa	gabg	0098	nikē	2SG	pro.2:p	pro	2	p	3002	
 veraa	gabg	0098	birin̄	with	adp	adp				
 veraa	gabg	0098	sa	EMPH	other	other				
 veraa	gabg	0098	=n	=ART	=ln	=ln				
-veraa	gabg	0098	wova'al	pawpaw	np:obl	np		obl		
+veraa	gabg	0098	wova'al	pawpaw	np:obl	np		obl	3020	
 veraa	gabg	0098	anē'ē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0099	##	##	##	##				
-veraa	gabg	0099	gusuwō	rat	np.d:dt_s	np	d	dt_s		
+veraa	gabg	0099	#	#	##	##				
+veraa	gabg	0099	gusuwō	rat	np.d:dt_s	np	d	dt_s	3002	
 veraa	gabg	0099	nē	DEM1	rn_dem1	rn_dem1				
-veraa	gabg	0099	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0099	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0099	=m	=TAM1	=lv	=lv				
 veraa	gabg	0099	rōn̄	hear	v:pred	v		pred		
 veraa	gabg	0099	'i	DEL	rv	rv				
 veraa	gabg	0099	senē	MAN.DEM1	other	other				
-veraa	gabg	0100	##	##	##	##				
-veraa	gabg	0100	ZERO		0.d:a	0	d	a		
+veraa	gabg	0100	#	#	##	##				
+veraa	gabg	0100	ZERO	ZERO	0.d:a	0	d	a	3002	
 veraa	gabg	0100	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0100	kur	gnaw	nc	nc				
 veraa	gabg	0100	kur	gnaw	nc	nc				
-veraa	gabg	0100	lōlō	inside	np:p	np		p		
+veraa	gabg	0100	lōlō	inside	np:p	np		p	3020	
 veraa	gabg	0100	wova'al	pawpaw	rn	rn				
-veraa	gabg	0100	##	##	##	##				
-veraa	gabg	0100	ZERO		0.d:a	0	d	a		
+veraa	gabg	0100	#	#	##	##				
+veraa	gabg	0100	ZERO	ZERO	0.d:a	0	d	a	3002	
 veraa	gabg	0100	m	TAM1	lv	lv				
 veraa	gabg	0100	kur	gnaw	v:pred	v		pred		
 veraa	gabg	0100	qē'	finish	rv	rv				
-veraa	gabg	0100	ZERO		0:p	0		p		
-veraa	gabg	0100	##	##	##	##				
-veraa	gabg	0100	ZERO		0.d:s	0	d	s		
+veraa	gabg	0100	ZERO	ZERO	0:p	0		p	3020	
+veraa	gabg	0100	#	#	##	##				
+veraa	gabg	0100	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0100	'av'av	RED:shit	v:pred	v		pred		
 veraa	gabg	0100	suw	down	rv	rv				
 veraa	gabg	0100	lē	LOC	adp	adp				
 veraa	gabg	0100	=n	=ART	=ln	=ln				
 veraa	gabg	0100	lōlō	inside	ln	ln				
-veraa	gabg	0100	wova'al	pawpaw	np:g	np		g		
+veraa	gabg	0100	wova'al	pawpaw	np:g	np		g	3020	
 veraa	gabg	0100	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0100	##	##	##	##				
-veraa	gabg	0100	ZERO		0.d:s	0	d	s		
+veraa	gabg	0100	#	#	##	##				
+veraa	gabg	0100	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0100	kalu	exit	v:pred	v		pred		
 veraa	gabg	0100	kel	back	rv	rv				
 veraa	gabg	0100	den	ABL	adp	adp				
 veraa	gabg	0100	ēn	ART	ln	ln				
-veraa	gabg	0100	qoro	hole	np:obl	np		obl		
+veraa	gabg	0100	qoro	hole	np:obl	np		obl	3026	
 veraa	gabg	0100	wova'al	pawpaw	rn	rn				
-veraa	gabg	0100	qoro	hole	np:dt_obl	np		dt_obl		
+veraa	gabg	0100	qoro	hole	np:dt_obl	np		dt_obl	3026	
 veraa	gabg	0100	wēwē	fruit	rn	rn				
 veraa	gabg	0100	wova'al	pawpaw	rn	rn				
 veraa	gabg	0100	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0101	#nc	#nc	#nc	#nc				
-veraa	gabg	0101	ZERO		x	x				
-veraa	gabg	0101	van	go	x	x				
-veraa	gabg	0101	lē	LOC	x	x				
-veraa	gabg	0101	=n	=ART	x	x				
-veraa	gabg	0101	##	##	##	##				
-veraa	gabg	0101	ZERO		0.d:s	0	d	s		
+veraa	gabg	0101	#	#	#nc	#nc				
+veraa	gabg	0101	ZERO	ZERO	nc_0.d	nc_0	d		3002	
+veraa	gabg	0101	van	go	nc	nc				
+veraa	gabg	0101	lē	LOC	nc	nc				
+veraa	gabg	0101	=n	=ART	nc	nc				
+veraa	gabg	0101	#	#	##	##				
+veraa	gabg	0101	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0101	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0101	lē	LOC	adp	adp				
 veraa	gabg	0101	=n	=ART	=ln	=ln				
 veraa	gabg	0101	'aval	other.side	np:g	np		g		
-veraa	gabg	0101	wō...	wō...	nc	nc				
+veraa	gabg	0101	wō--	NC	nc	nc				
 veraa	gabg	0101	wōva'al	pawpaw	rn	rn				
-veraa	gabg	0102	##	##	##	##				
-veraa	gabg	0102	ZERO		0.d:s	0	d	s		
+veraa	gabg	0102	#	#	##	##				
+veraa	gabg	0102	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0102	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0102	'ēqēl	descend	nc	nc				
 veraa	gabg	0102	'ēqēl	descend	nc	nc				
 veraa	gabg	0102	'ēqēl	descend	nc	nc				
-veraa	gabg	0102	##	##	##	##				
-veraa	gabg	0102	ZERO		0.d:s	0	d	s		
+veraa	gabg	0102	#	#	##	##				
+veraa	gabg	0102	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0102	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0102	suw	down	rv	rv				
 veraa	gabg	0102	lē	LOC	adp	adp				
 veraa	gabg	0102	=n	=ART	=ln	=ln				
-veraa	gabg	0102	qe'an	ground	np:g	np		g		
-veraa	gabg	0103	##neg	##neg	##neg	##neg				
-veraa	gabg	0103	buskat	cat	np.d:a	np	d	a		
+veraa	gabg	0102	qe'an	ground	np:g	np		g	3023	
+veraa	gabg	0103	#	#	##neg	##neg				
+veraa	gabg	0103	buskat	cat	np.d:a	np	d	a	3001	
 veraa	gabg	0103	e	GEN.NEG1	lv	lv				
 veraa	gabg	0103	'ēn	see	v:pred	v		pred		
 veraa	gabg	0103	wal	once	rv	rv				
 veraa	gabg	0103	rōs	GEN.NEG2	rv	rv				
-veraa	gabg	0103	diē	3SG	pro.d:p	pro	d	p		
-veraa	gabg	0104	##	##	##	##				
-veraa	gabg	0104	ZERO		0.d:s	0	d	s		
+veraa	gabg	0103	diē	3SG	pro.d:p	pro	d	p	3002	
+veraa	gabg	0104	#	#	##	##				
+veraa	gabg	0104	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0104	'ēqēl	descend	v:pred	v		pred		
 veraa	gabg	0104	din̄	reach	rv	rv				
 veraa	gabg	0104	suwō	down	rv	rv				
-veraa	gabg	0105	##	##	##	##				
-veraa	gabg	0105	ZERO		0.d:s	0	d	s		
+veraa	gabg	0105	#	#	##	##				
+veraa	gabg	0105	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0105	van	go	v:pred	v		pred		
 veraa	gabg	0105	rak	out	rv	rv				
 veraa	gabg	0105	sar	landwards	rv	rv				
 veraa	gabg	0105	lē	LOC	adp	adp				
 veraa	gabg	0105	=n	=ART	=ln	=ln				
-veraa	gabg	0105	m̄ō'	bush	np:g	np		g		
-veraa	gabg	0106	#rc	#rc	rn_#rc	rn_#rc				
+veraa	gabg	0105	m̄ō'	bush	np:g	np		g	3028	new
+veraa	gabg	0106	#	#	#rc_rn	#rc_rn				
 veraa	gabg	0106	a	a	other	other				
 veraa	gabg	0106	viē	where	other:l	other		l		
 veraa	gabg	0106	=n	=ART	=ln	=ln				
-veraa	gabg	0106	wōm̄ōm̄ō'	bush	np:pred	np		pred		
-veraa	gabg	0106	##	##	##	##				
-veraa	gabg	0106	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0106	wōm̄ōm̄ō'	bush	np:pred	np		pred	3028	
+veraa	gabg	0106	#	#	##	##				
+veraa	gabg	0106	di	3SG	pro.d:s	pro	d	s	3002	
 veraa	gabg	0106	=m	=TAM1	=lv	=lv				
 veraa	gabg	0106	'ōg	stay	v:pred	v		pred		
 veraa	gabg	0106	bēne	PRO.OBL	other:l	other		l		
-veraa	gabg	0107	##	##	##	##				
-veraa	gabg	0107	ZERO		0.d:a	0	d	a		
+veraa	gabg	0107	#	#	##	##				
+veraa	gabg	0107	ZERO	ZERO	0.d:a	0	d	a	3002	
 veraa	gabg	0107	gil	dig	v:pred	v		pred		
 veraa	gabg	0107	ēn	ART	ln	ln				
-veraa	gabg	0107	qaran̄a	hole	np:p	np		p		
+veraa	gabg	0107	qaran̄a	hole	np:p	np		p	3029	new
 veraa	gabg	0107	ne	NUM.ART	rn	rn				
 veraa	gabg	0107	vō-wal	NUM-one	rn	rn				
 veraa	gabg	0107	kēnē'	LOC.DEM1	other:l	other		l		
-veraa	gabg	0108	##	##	##	##				
-veraa	gabg	0108	ZERO		0.d:s	0	d	s		
+veraa	gabg	0108	#	#	##	##				
+veraa	gabg	0108	ZERO	ZERO	0.d:s	0	d	s	3002	
 veraa	gabg	0108	sagsag	RED:sit	v:pred	v		pred		
 veraa	gabg	0108	'i	DEL	rv	rv				
 veraa	gabg	0108	sar	inwards	rv	rv				
 veraa	gabg	0108	lē	LOC	adp	adp				
 veraa	gabg	0108	=n	=ART	=ln	=ln				
-veraa	gabg	0108	ma'a	eye	np:g	np		g		
+veraa	gabg	0108	ma'a	eye	np:g	np		g	3029	
 veraa	gabg	0108	qaran̄a	hole	rn	rn				
 veraa	gabg	0108	anē	DEM1.A	rn_dem1	rn_dem1				
-veraa	gabg	0109	##	##	##	##				
-veraa	gabg	0109	buskat	cat	np.d:dt_s	np	d	dt_s		
-veraa	gabg	0109	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0109	#	#	##	##				
+veraa	gabg	0109	buskat	cat	np.d:dt_s	np	d	dt_s	3001	
+veraa	gabg	0109	di	3SG	pro.d:s	pro	d	s	3001	
 veraa	gabg	0109	=m	=TAM1	=lv	=lv				
 veraa	gabg	0109	dar	wait	v:pred	v		pred		
 veraa	gabg	0109	kēlkēl	RED:back	rv	rv				
-veraa	gabg	0109	##	##	##	##				
-veraa	gabg	0109	ZERO		0.d:s	0	d	s		
+veraa	gabg	0109	#	#	##	##				
+veraa	gabg	0109	ZERO	ZERO	0.d:s	0	d	s	3001	
 veraa	gabg	0109	dar	wait	v:pred	v		pred		
 veraa	gabg	0109	kēlkēl	RED:back	rv	rv				
 veraa	gabg	0109	vanvan	RED:go	other	other				
-veraa	gabg	0109	##	##	##	##				
-veraa	gabg	0109	ZERO		0.d:s	0	d	s		
-veraa	gabg	0109	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0109	#	#	##	##				
+veraa	gabg	0109	ZERO	ZERO	0.d:s	0	d	s	3001	
+veraa	gabg	0109	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0109	rem	climb	v:pred	v		pred		
-veraa	gabg	0110	##	##	##	##				
-veraa	gabg	0110	ZERO		0.d:a	0	d	a		
-veraa	gabg	0110	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0110	#	#	##	##				
+veraa	gabg	0110	ZERO	ZERO	0.d:a	0	d	a	3001	
+veraa	gabg	0110	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0110	rem	climb	v:pred	v		pred		
 veraa	gabg	0110	kal	upwards	rv	rv				
 veraa	gabg	0110	sag	up	rv	rv				
 veraa	gabg	0110	din̄	reach	rv	rv				
 veraa	gabg	0110	ma	hither	rv	rv				
 veraa	gabg	0110	=n	=ART	=ln	=ln				
-veraa	gabg	0110	wova'al	pawpaw	np:p	np		p		
-veraa	gabg	0110	#rc	#rc	rn_#rc	rn_#rc				
+veraa	gabg	0110	wova'al	pawpaw	np:p	np		p	3020	
+veraa	gabg	0110	#	#	#rc_rn	#rc_rn				
 veraa	gabg	0110	a	REL	other	other				
 veraa	gabg	0110	rekso	like	other	other				
-veraa	gabg	0110	ZERO		0:s	0		s		
+veraa	gabg	0110	ZERO	ZERO	0:s	0		s	3020	
 veraa	gabg	0110	=n	=ART	=ln	=ln				
 veraa	gabg	0110	ga	STAT	ln	ln				
 veraa	gabg	0110	mine	ripe	np:pred	np		pred		
-veraa	gabg	0110	##	##	##	##				
-veraa	gabg	0110	ZERO		0.d:s	0	d	s		
-veraa	gabg	0110	ne	TAM2:3SG	lv-pro.d:s	lv-pro	d	s		
+veraa	gabg	0110	#	#	##	##				
+veraa	gabg	0110	ZERO	ZERO	0.d:s	0	d	s	3001	
+veraa	gabg	0110	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	gabg	0110	'ēn	see	v:pred	v		pred		
 veraa	gabg	0110	suw	down	rv	rv				
 veraa	gabg	0110	lē	LOC	adp	adp				
 veraa	gabg	0110	=n	=ART	=ln	=ln				
-veraa	gabg	0110	lōlō-gi	inside-3SG	np:g	np		g		
-veraa	gabg	0111	##ds	##ds	##ds	##ds				
+veraa	gabg	0110	lōlō-gi	inside-3SG	np:g	np		g	3020	
+veraa	gabg	0111	#	#	##ds	##ds				
 veraa	gabg	0111	o	INTERJ	other	other				
-veraa	gabg	0111	bulsal	friend	np.d:voc	np	d	voc		
+veraa	gabg	0111	bulsal	friend	np.d:voc	np	d	voc	3002	
 veraa	gabg	0111	ba	but	other	other				
 veraa	gabg	0111	sogo	INTERJ	other	other				
-veraa	gabg	0111	nik	2SG	pro.2:a	pro	2	a		
+veraa	gabg	0111	nik	2SG	pro.2:a	pro	2	a	3002	
 veraa	gabg	0111	=ēm	=TAM1	=lv	=lv				
 veraa	gabg	0111	durug	betray	v:pred	v		pred		
 veraa	gabg	0111	gal	lie	rv	rv				
-veraa	gabg	0111	no	1SG	pro.1:p	pro	1	p		
-veraa	gabg	0112	##ds	##ds	##ds	##ds				
+veraa	gabg	0111	no	1SG	pro.1:p	pro	1	p	3001	
+veraa	gabg	0112	#	#	##ds	##ds				
 veraa	gabg	0112	ga	STAT	lv	lv				
 veraa	gabg	0112	itok	good	v:pred	v		pred		
-veraa	gabg	0112	##ds	##ds	##ds	##ds				
-veraa	gabg	0112	nik	2SG	pro.2:s	pro	2	s		
-veraa	gabg	0112	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	gabg	0112	#	#	##ds	##ds				
+veraa	gabg	0112	nik	2SG	pro.2:s	pro	2	s	3002	
+veraa	gabg	0112	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	gabg	0112	van	go	v:pred	v		pred		
-veraa	gabg	0113	##ds	##ds	##ds	##ds				
-veraa	gabg	0113	no	1SG 	pro.1:a	pro	1	a		
+veraa	gabg	0113	#	#	##ds	##ds				
+veraa	gabg	0113	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0113	=m	=TAM1	=lv	=lv				
 veraa	gabg	0113	sōk	find	v:pred	v		pred		
 veraa	gabg	0113	sier	realise	rv	rv				
-veraa	gabg	0113	nik	2SG	pro.2:p	pro	2	p		
+veraa	gabg	0113	nik	2SG	pro.2:p	pro	2	p	3002	
 veraa	gabg	0113	a	LOC.SP	adp	adp				
 veraa	gabg	0113	viē	where	other:l	other		l		
-veraa	gabg	0114	##ds	##ds	##ds	##ds				
-veraa	gabg	0114	qin̄i-m	death-2SG	np:pred-pro.2:poss	np		pred-pro.2:poss		
+veraa	gabg	0114	#	#	##ds	##ds				
+veraa	gabg	0114	qin̄i	death	np:pred	np		pred		
+veraa	gabg	0114	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	3002	
 veraa	gabg	0114	sa	EMPH	other	other				
 veraa	gabg	0114	kēnē'	LOC.DEM1	other:s	other		s		
-veraa	gabg	0115	##ds	##ds	##ds	##ds				
-veraa	gabg	0115	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0115	#	#	##ds	##ds				
+veraa	gabg	0115	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0115	me	FUT	lv	lv				
 veraa	gabg	0115	kur	eat	v:pred	v		pred		
-veraa	gabg	0115	nikē	2SG	pro.2:p	pro	2	p		
-veraa	gabg	0116	##ds	##ds	##ds	##ds				
-veraa	gabg	0116	no	1SG	pro.1:a	pro	1	a		
+veraa	gabg	0115	nikē	2SG	pro.2:p	pro	2	p	3002	
+veraa	gabg	0116	#	#	##ds	##ds				
+veraa	gabg	0116	no	1SG	pro.1:a	pro	1	a	3001	
 veraa	gabg	0116	me	FUT	lv	lv				
 veraa	gabg	0116	kur	eat	v:pred	v		pred		
 veraa	gabg	0116	qēqē'	RED:finish	rv	rv				
-veraa	gabg	0116	ZERO		0.2:p	0	2	p		
-veraa	gabg	0116	##ds	##ds	##ds	##ds				
+veraa	gabg	0116	ZERO	ZERO	0.2:p	0	2	p	3002	
+veraa	gabg	0116	#	#	##ds	##ds				
 veraa	gabg	0116	ba	but	other	other				
 veraa	gabg	0116	=n	=ART	=ln	=ln				
-veraa	gabg	0116	qi'i-m	head-2SG	np:dt_s-pro.2:poss	np		dt_s-pro.2:poss		
+veraa	gabg	0116	qi'i	head	np:dt_s	np		dt_s	3030	bridging
+veraa	gabg	0116	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	3002	
 veraa	gabg	0116	vuva	only	other	other				
-veraa	gabg	0116	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0116	di	3SG	pro.d:s	pro	d	s	3030	
 veraa	gabg	0116	me	FUT	lv	lv				
 veraa	gabg	0116	'ōg	stay	v:pred	v		pred		
 veraa	gabg	0116	'i	DEL	rv	rv				
-veraa	gabg	0117	##ds	##ds	##ds	##ds				
+veraa	gabg	0117	#	#	##ds	##ds				
 veraa	gabg	0117	si	or	other	other				
 veraa	gabg	0117	=n	=ART	=ln	=ln				
-veraa	gabg	0117	gō...	gō...	nc	nc				
-veraa	gabg	0117	gōlō-m	tail-2SG	np:dt_s-pro.2:poss	np		dt_s-pro.2:poss		
+veraa	gabg	0117	gō--	NC	nc	nc				
+veraa	gabg	0117	gōlō	tail	np:dt_s	np		dt_s	3031	bridging
+veraa	gabg	0117	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	3002	
 veraa	gabg	0117	vuva	only	other	other				
-veraa	gabg	0117	di	3SG	pro.d:s	pro	d	s		
+veraa	gabg	0117	di	3SG	pro.d:s	pro	d	s	3031	
 veraa	gabg	0117	me	FUT	lv	lv				
 veraa	gabg	0117	'ōg	stay	v:pred	v		pred		
 veraa	gabg	0117	'i	DEL	rv	rv				
-veraa	gabg	0118	##	##	##	##				
-veraa	gabg	0118	so	??	other	other				
+veraa	gabg	0118	#	#	##	##				
+veraa	gabg	0118	so	NC	other	other				
 veraa	gabg	0118	n	ART	ln	ln				
 veraa	gabg	0118	kakaka	story	np:dt_s	np		dt_s		
 veraa	gabg	0118	di	3SG	pro.d:s	pro	d	s		
 veraa	gabg	0118	=m	=TAM1	=lv	=lv				
 veraa	gabg	0118	din̄	reach	v:pred	v		pred		
 veraa	gabg	0118	kēnē'	LOC.DEM1	other:g	other		g		
-veraa	gabg	0119	##	##	##	##				
+veraa	gabg	0119	#	#	##	##				
 veraa	gabg	0119	si	or	other	other				
 veraa	gabg	0119	nik	2SG	pro.2:s	pro	2	s		
-veraa	gabg	0119	ē	TAM2:2SG	lv-pro.2:s	lv-pro	2	s		
+veraa	gabg	0119	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	gabg	0119	'ēn'ēn	RED:see	v:pred	v		pred		
 veraa	gabg	0119	menteg	well	rv	rv				
 veraa	gabg	0119	qiri	today	other	other				
 veraa	gabg	0119	enei	now	other	other				
-veraa	gabg	0120	##	##	##	##				
+veraa	gabg	0120	#	#	##	##				
 veraa	gabg	0120	buskat	cat	np.d:dt_a	np	d	dt_a		
 veraa	gabg	0120	di	3SG	pro.d:a	pro	d	a		
 veraa	gabg	0120	=m	=TAM1	=lv	=lv				
@@ -1185,43 +1194,43 @@ veraa	gabg	0120	sōk	find	v:pred	v		pred
 veraa	gabg	0120	sier	realise	rv	rv				
 veraa	gabg	0120	ēn	ART	ln	ln				
 veraa	gabg	0120	gusuwō	rat	np.d:p	np	d	p		
-veraa	gabg	0121	##	##	##	##				
+veraa	gabg	0121	#	#	##	##				
 veraa	gabg	0121	di	3SG	pro.d:a	pro	d	a		
 veraa	gabg	0121	me	FUT	lv	lv				
 veraa	gabg	0121	kur	eat	v:pred	v		pred		
 veraa	gabg	0121	ma-ma'	RED-dead	rv	rv				
 veraa	gabg	0121	ēn	ART	ln	ln				
 veraa	gabg	0121	gusuwō	rat	np.d:p	np	d	p		
-veraa	gabg	0122	#ac	#ac	#ac	#ac				
+veraa	gabg	0122	#	#	#ac	#ac				
 veraa	gabg	0122	sirē	because	adp	adp				
 veraa	gabg	0122	=n	=ART	=ln	=ln				
 veraa	gabg	0122	sava	what	np:pred	np		pred		
-veraa	gabg	0122	#ac	#ac	#ac	#ac				
+veraa	gabg	0122	#	#	#ac	#ac				
 veraa	gabg	0122	sirē	because	adp	adp				
 veraa	gabg	0122	=n	=ART	=ln	=ln				
 veraa	gabg	0122	wova'al	pawpaw	np:pred	np		pred		
-veraa	gabg	0123	##	##	##	##				
+veraa	gabg	0123	#	#	##	##				
 veraa	gabg	0123	rekso	like	other	other				
 veraa	gabg	0123	milin̄sal	hungry	np:a	np		a		
 veraa	gabg	0123	m	TAM1	lv	lv				
 veraa	gabg	0123	qal	hit	v:pred	v		pred		
-veraa	gabg	0123	duruō	3DL	dl_pro.d:p	dl_pro	d	p		
-veraa	gabg	0123	##	##	##	##				
-veraa	gabg	0123	duru	3DL	dl_pro.d:s	dl_pro	d	s		
+veraa	gabg	0123	duruō	3DL	pro.d:p	pro	d	p		
+veraa	gabg	0123	#	#	##	##				
+veraa	gabg	0123	duru	3DL	pro.d:s	pro	d	s		
 veraa	gabg	0123	=m	=TAM1	=lv	=lv				
 veraa	gabg	0123	van	go	v:pred	v		pred		
 veraa	gabg	0123	lē	LOC	adp	adp				
 veraa	gabg	0123	=n	=ART	=ln	=ln				
 veraa	gabg	0123	'ēqē'	garden	np:g	np		g		
-veraa	gabg	0124	##	##	##	##				
+veraa	gabg	0124	#	#	##	##				
 veraa	gabg	0124	gusuwō	rat	np.d:dt_a	np	d	dt_a		
 veraa	gabg	0124	di	3SG	pro.d:a	pro	d	a		
 veraa	gabg	0124	=m	=TAM1	=lv	=lv				
 veraa	gabg	0124	durug	betray	v:pred	v		pred		
 veraa	gabg	0124	ēn	ART	ln	ln				
 veraa	gabg	0124	buskat	cat	np.d:p	np	d	p		
-veraa	gabg	0125	##	##	##	##				
-veraa	gabg	0125	so	??	other	other				
+veraa	gabg	0125	#	#	##	##				
+veraa	gabg	0125	so	NC	other	other				
 veraa	gabg	0125	n	ART	ln	ln				
 veraa	gabg	0125	kakaka	story	np:dt_s	np		dt_s		
 veraa	gabg	0125	di	3SG	pro.d:s	pro	d	s		
