@@ -20,7 +20,7 @@ veraa	hhak	0002	ēn	ART	ln	ln
 veraa	hhak	0002	'an̄sara	person	np.h:p	np	h	p	5002	new
 veraa	hhak	0002	deln̄e	around	adp	adp				
 veraa	hhak	0002	=n	=ART	=ln	=ln				
-veraa	hhak	0002	Vunu	Vunu	np:l	np		l	5003	unused
+veraa	hhak	0002	Vunu	Vunu	pn_np:l	pn_np		l	5003	unused
 veraa	hhak	0002	Lava	Lava	rn	rn				
 veraa	hhak	0003	#	#	##	##				
 veraa	hhak	0003	di	3SG	pro.d:s	pro	d	s	5001	
@@ -328,13 +328,13 @@ veraa	hhak	0017	dir	3PL	pro.h:s	pro	h	s	5013
 veraa	hhak	0017	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0017	suō	paddle	v:pred	v		pred		
 veraa	hhak	0017	a	LOC.SP	adp	adp				
-veraa	hhak	0017	Rōu	Rōu	np:g	np		g	5014	
+veraa	hhak	0017	Rōu	Rōu	pn_np:g	pn_np		g	5014	
 veraa	hhak	0018	#	#	##	##				
 veraa	hhak	0018	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0018	=ēk	=TAM2	=lv	=lv				
 veraa	hhak	0018	van	go	v:pred	v		pred		
 veraa	hhak	0018	a	LOC.SP	adp	adp				
-veraa	hhak	0018	Rōu	Rōu	np:g	np		g	5014	
+veraa	hhak	0018	Rōu	Rōu	pn_np:g	pn_np		g	5014	
 veraa	hhak	0019	#	#	##	##				
 veraa	hhak	0019	n	ART	ln	ln				
 veraa	hhak	0019	ren̄e	woman	np.h:s	np	h	s	5015	
@@ -886,7 +886,7 @@ veraa	hhak	0053	raga	people	ln	ln
 veraa	hhak	0053	sul	community	np.h:p	np	h	p	5002	
 veraa	hhak	0053	deln̄e	around	adp	adp				
 veraa	hhak	0053	=n	=ART	=ln	=ln				
-veraa	hhak	0053	Vunu	Vunu	np:l	np		l	5003	
+veraa	hhak	0053	Vunu	Vunu	pn_np:l	pn_np		l	5003	
 veraa	hhak	0053	Lava	Lava	rn	rn				
 veraa	hhak	0053	anei	DEM4.A	rn_dem4	rn_dem4				
 veraa	hhak	0054	#	#	##ds	##ds				
@@ -895,7 +895,7 @@ veraa	hhak	0054	=ēm	=TAM1	=lv	=lv
 veraa	hhak	0054	susu	RED:paddle	v:pred	v		pred		
 veraa	hhak	0054	kal	up	rv	rv				
 veraa	hhak	0054	a	LOC.SP	adp	adp				
-veraa	hhak	0054	Ruō	Ruō	np:g	np		g	5014	
+veraa	hhak	0054	Ruō	Ruō	pn_np:g	pn_np		g	5014	
 veraa	hhak	0055	#	#	##ds	##ds				
 veraa	hhak	0055	ba	but	other	other				
 veraa	hhak	0055	=n	=ART	=ln	=ln				
@@ -958,7 +958,7 @@ veraa	hhak	0058	ga	STAT	lv	lv
 veraa	hhak	0058	van	go	v:pred	v		pred		
 veraa	hhak	0058	deln̄e	around	adp	adp				
 veraa	hhak	0058	=n	=ART	=ln	=ln				
-veraa	hhak	0058	Vunu	Vunu	np:obl	np		obl	5003	
+veraa	hhak	0058	Vunu	Vunu	pn_np:obl	pn_np		obl	5003	
 veraa	hhak	0058	Lava	Lava	rn	rn				
 veraa	hhak	0059	#	#	##	##				
 veraa	hhak	0059	ZERO	ZERO	0.h:s	0	h	s	5027	
@@ -1141,14 +1141,14 @@ veraa	hhak	0069	=n	=ART	=ln	=ln
 veraa	hhak	0069	so	name	np:s	np		s	5040	bridging
 veraa	hhak	0069	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5039	
 veraa	hhak	0069	e	PERS.ART	ln	ln				
-veraa	hhak	0069	Mulēmulēo	Mulēmulēo	np:pred	np		pred		
+veraa	hhak	0069	Mulēmulēo	Mulēmulēo	pn_np:pred	pn_np		pred		
 veraa	hhak	0069	#	#	##	##				
 veraa	hhak	0069	ge	THING	np.h:dt_poss	np	h	dt_poss	5041	bridging
 veraa	hhak	0069	'ew'i	other	rn	rn				
 veraa	hhak	0069	=n	=ART	=ln	=ln				
 veraa	hhak	0069	so	name	np:s	np		s	5042	bridging
 veraa	hhak	0069	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	5041	
-veraa	hhak	0069	Mulēmulēmarinō	Mulēmulēmarinō	np:pred	np		pred		
+veraa	hhak	0069	Mulēmulēmarinō	Mulēmulēmarinō	pn_np:pred	pn_np		pred		
 veraa	hhak	0070	#	#	##	##				
 veraa	hhak	0070	alē	alright	other	other				
 veraa	hhak	0070	duru	3DL	pro.h:s	pro	h	s	5027	
@@ -1263,7 +1263,7 @@ veraa	hhak	0076	tēk	speak	v:pred	v		pred
 veraa	hhak	0076	so	QUOT	other	other				
 veraa	hhak	0076	#	#	##ds	##ds				
 veraa	hhak	0076	hei	INTERJ	other	other				
-veraa	hhak	0076	Marino	Marino	np.h:voc	np	h	voc	5041	
+veraa	hhak	0076	Marino	Marino	pn_np.h:voc	pn_np	h	voc	5041	
 veraa	hhak	0076	#	#	##ds	##ds				
 veraa	hhak	0076	ZERO	ZERO	0.2:s	0	2	s	5041	
 veraa	hhak	0076	rōn̄	feel	vother:pred	vother		pred		
@@ -1296,7 +1296,7 @@ veraa	hhak	0079	'm	HES	nc	nc
 veraa	hhak	0079	mm--	NC	nc	nc				
 veraa	hhak	0079	Mulē--	NC	nc	nc				
 veraa	hhak	0079	#	#	##	##				
-veraa	hhak	0079	Mulēo	Mulēo	np.h:s	np	h	s		
+veraa	hhak	0079	Mulēo	Mulēo	pn_np.h:s	pn_np	h	s		
 veraa	hhak	0079	so	QUOT	other:pred	other		pred		
 veraa	hhak	0079	#	#	##ds	##ds				
 veraa	hhak	0079	'oo	no	other	other				
@@ -1306,7 +1306,7 @@ veraa	hhak	0080	n--	NC	nc	nc
 veraa	hhak	0080	e	PERS.ART	nc	nc				
 veraa	hhak	0080	Mulē--	NC	nc	nc				
 veraa	hhak	0080	#	#	##	##				
-veraa	hhak	0080	Marino	Marino	np.h:s_ds	np	h	s_ds	5041	
+veraa	hhak	0080	Marino	Marino	pn_np.h:s_ds	pn_np	h	s_ds	5041	
 veraa	hhak	0080	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0080	tēk	speak	v:pred	v		pred		
 veraa	hhak	0080	mē	DAT	adp	adp				
@@ -1379,15 +1379,15 @@ veraa	hhak	0085	#	#	##	##
 veraa	hhak	0085	alē	alright	other	other				
 veraa	hhak	0085	Mari--	NC	nc	nc				
 veraa	hhak	0085	Mulē--	NC	nc	nc				
-veraa	hhak	0085	Mulēmulēo	Mulēmulēo	np.h:s_ds	np	h	s_ds	5039	
+veraa	hhak	0085	Mulēmulēo	Mulēmulēo	pn_np.h:s_ds	pn_np	h	s_ds	5039	
 veraa	hhak	0085	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	hhak	0085	tēk	speak	v:pred	v		pred		
 veraa	hhak	0085	mē-n	DAT-CS	adp	adp				
 veraa	hhak	0085	e	PERS.ART	ln	ln				
-veraa	hhak	0085	Mulēmarino	Mulēmarino	np.h:g	np	h	g	5041	
+veraa	hhak	0085	Mulēmarino	Mulēmarino	pn_np.h:g	pn_np	h	g	5041	
 veraa	hhak	0085	so	QUOT	other	other				
 veraa	hhak	0086	#	#	##ds	##ds				
-veraa	hhak	0086	Marino	Marino	np.h:voc	np	h	voc	5041	
+veraa	hhak	0086	Marino	Marino	pn_np.h:voc	pn_np	h	voc	5041	
 veraa	hhak	0086	ZERO	ZERO	0.2:s	0	2	s	5041	
 veraa	hhak	0086	rōn̄	feel	vother:pred	vother		pred		
 veraa	hhak	0086	'i	DEL	rv	rv				
@@ -1439,7 +1439,7 @@ veraa	hhak	0088	so	QUOT	nc	nc
 veraa	hhak	0088	o	INTERJ	nc	nc				
 veraa	hhak	0088	#	#	##	##				
 veraa	hhak	0088	e	PERS.ART	ln	ln				
-veraa	hhak	0088	Mulēo	Mulēo	np.h:s	np	h	s	5039	
+veraa	hhak	0088	Mulēo	Mulēo	pn_np.h:s	pn_np	h	s	5039	
 veraa	hhak	0088	so	QUOT	other:pred	other		pred		
 veraa	hhak	0088	#	#	##ds	##ds				
 veraa	hhak	0088	qe'i	for.a.moment	other:pred	other		pred		
@@ -1795,7 +1795,7 @@ veraa	hhak	0120	raga	people	ln	ln
 veraa	hhak	0120	sul	folks	np.h:p	np	h	p	5002	
 veraa	hhak	0120	'alē=n	ASS=ART	nc	nc				
 veraa	hhak	0120	'alē	ASS	rn	rn				
-veraa	hhak	0120	Vunu	Vunu	rn	rn			5003	
+veraa	hhak	0120	Vunu	Vunu	rn_pn_np	rn_pn_np			5003	
 veraa	hhak	0120	Lava	Lava	rn	rn				
 veraa	hhak	0120	anē	DEM1.A	rn_dem1	rn_dem1				
 veraa	hhak	0120	#	#	#ds	#ds				
@@ -2074,7 +2074,7 @@ veraa	hhak	0140	lēn	LOC=ART	nc	nc
 veraa	hhak	0140	e	PERS.ART	ln	ln				
 veraa	hhak	0140	raga	people	np.h:s	np	h	s	5013	
 veraa	hhak	0140	a	LOC.SP	rn	rn				
-veraa	hhak	0140	Rōw	Rōw	rn	rn			5014	
+veraa	hhak	0140	Rōw	Rōw	rn_pn_np	rn_pn_np			5014	
 veraa	hhak	0140	=m	=TAM1	=lv	=lv				
 veraa	hhak	0140	'ēn	see	v:pred	v		pred		
 veraa	hhak	0140	kal	up	rv	rv				
@@ -2082,7 +2082,7 @@ veraa	hhak	0140	ma	hither	rv	rv
 veraa	hhak	0140	=n	=ART	=ln	=ln				
 veraa	hhak	0140	nos	smoke	np:p	np		p	5065	bridging
 veraa	hhak	0141	'aval	one.side	ln	ln				
-veraa	hhak	0141	Vunu	Vunu	np:l	np		l	5003	
+veraa	hhak	0141	Vunu	Vunu	pn_np:l	pn_np		l	5003	
 veraa	hhak	0141	Lava	Lava	rn	rn				
 veraa	hhak	0141	agēn	DEM2.A	rn_dem2	rn_dem2				
 veraa	hhak	0142	#	#	##	##				
@@ -2422,7 +2422,7 @@ veraa	hhak	0162	e	PERS.ART	ln	ln
 veraa	hhak	0162	raga	people	ln	ln				
 veraa	hhak	0162	sul	community	np.h:g	np	h	g	5013	
 veraa	hhak	0162	a	LOC.SP	rn	rn				
-veraa	hhak	0162	Ruō	Ruō	rn	rn			5014	
+veraa	hhak	0162	Ruō	Ruō	rn_pn_np	rn_pn_np			5014	
 veraa	hhak	0163	#	#	##	##				
 veraa	hhak	0163	dir	3PL	pro.h:s	pro	h	s	5013	
 veraa	hhak	0163	=ēk	=TAM2	=lv	=lv				
@@ -2530,7 +2530,7 @@ veraa	hhak	0171	ZERO	ZERO	0.h:s	0	h	s	5070
 veraa	hhak	0171	din̄	reach	v:pred	v		pred		
 veraa	hhak	0171	rōwē	seawards	other:g	other		g		
 veraa	hhak	0171	a	LOC.SP	adp	adp				
-veraa	hhak	0171	Ruō	Ruō	np:g	np		g	5014	
+veraa	hhak	0171	Ruō	Ruō	pn_np:g	pn_np		g	5014	
 veraa	hhak	0171	#	#	##	##				
 veraa	hhak	0171	ZERO	ZERO	0.h:a	0	h	a	5070	
 veraa	hhak	0171	'aram	inform	v:pred	v		pred		

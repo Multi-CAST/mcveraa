@@ -300,7 +300,7 @@ veraa	mvbw	0019	ēn	ART	ln	ln
 veraa	mvbw	0019	so	name	np:p	np		p	9009	bridging
 veraa	mvbw	0019	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	9005	
 veraa	mvbw	0019	e	PERS.ART	ln	ln				
-veraa	mvbw	0019	Wedin̄gōr	Wedin̄gōr	np:other	np		other		
+veraa	mvbw	0019	Wedin̄gōr	Wedin̄gōr	pn_np:other	pn_np		other		
 veraa	mvbw	0020	#	#	##	##				
 veraa	mvbw	0020	#	#	#ac	#ac				
 veraa	mvbw	0020	alē	alright	other	other				
@@ -324,7 +324,7 @@ veraa	mvbw	0020	ēn	ART	ln	ln
 veraa	mvbw	0020	so	name	np:p	np		p	9010	bridging
 veraa	mvbw	0020	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	9007	
 veraa	mvbw	0020	e	PERS.ART	ln	ln				
-veraa	mvbw	0020	Bōar	Bōar	np:other	np		other		
+veraa	mvbw	0020	Bōar	Bōar	pn_np:other	pn_np		other		
 veraa	mvbw	0021	#	#	##	##				
 veraa	mvbw	0021	duru	3DL	pro.h:a	pro	h	a	9001	
 veraa	mvbw	0021	=m	=TAM1	=lv	=lv				
@@ -390,7 +390,7 @@ veraa	mvbw	0025	=m	=TAM1	=lv	=lv
 veraa	mvbw	0025	'ōg	stay	v:pred	v		pred		
 veraa	mvbw	0025	'i	DEL	rv	rv				
 veraa	mvbw	0025	#	#	#ds	#ds				
-veraa	mvbw	0025	Wēdin̄gōr	Wēdin̄gōr	np.h:voc	np	h	voc	9005	
+veraa	mvbw	0025	Wēdin̄gōr	Wēdin̄gōr	pn_np.h:voc	pn_np	h	voc	9005	
 veraa	mvbw	0025	nik	2SG	pro.2:s	pro	2	s	9005	
 veraa	mvbw	0025	ga	STAT	lv	lv				
 veraa	mvbw	0025	luwo	big	v:pred	v		pred		
@@ -402,7 +402,7 @@ veraa	mvbw	0025	gōr	secure	rv	rv
 veraa	mvbw	0025	'enteg	well	rv	rv				
 veraa	mvbw	0025	sa	EMPH	other	other				
 veraa	mvbw	0025	e	PERS.ART	ln	ln				
-veraa	mvbw	0025	Bōar	Bōar	np.h:p	np	h	p	9007	
+veraa	mvbw	0025	Bōar	Bōar	pn_np.h:p	pn_np	h	p	9007	
 veraa	mvbw	0026	#	#	#ds_ac	#ds_ac				
 veraa	mvbw	0026	sirē	because	other	other				
 veraa	mvbw	0026	no	1SG	pro.1:s	pro	1	s	9002	
@@ -691,7 +691,7 @@ veraa	mvbw	0041	so	QUOT	other	other
 veraa	mvbw	0042	#	#	#ds	#ds				
 veraa	mvbw	0042	'ege	VOC.m	other:voc	other		voc	9007	
 veraa	mvbw	0042	e	PERS.ART	ln	ln				
-veraa	mvbw	0042	Bōar	Bōar	np.h:voc	np	h	voc	9007	
+veraa	mvbw	0042	Bōar	Bōar	pn_np.h:voc	pn_np	h	voc	9007	
 veraa	mvbw	0042	nik	2SG	pro.2:s	pro	2	s	9007	
 veraa	mvbw	0042	ga	STAT	lv	lv				
 veraa	mvbw	0042	rōn̄	feel	v:pred	v		pred		
@@ -885,7 +885,7 @@ veraa	mvbw	0052	nik	2SG	pro.2:s	pro	2	s	9007
 veraa	mvbw	0052	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	mvbw	0052	'ir'ir	RED:stand	v:pred	v		pred		
 veraa	mvbw	0052	kēgēn	LOC.DEM2	other:l	other		l	9023	
-veraa	mvbw	0052	Bōar	Bōar	np.h:voc	np	h	voc	9007	
+veraa	mvbw	0052	Bōar	Bōar	pn_np.h:voc	pn_np	h	voc	9007	
 veraa	mvbw	0052	#	#	#ds	#ds				
 veraa	mvbw	0052	no	1SG	pro.1:s	pro	1	s	9005	
 veraa	mvbw	0052	=k	=TAM2	=lv	=lv				
@@ -998,7 +998,7 @@ veraa	mvbw	0058	-ru	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	9008
 veraa	mvbw	0058	wal	once	other	other				
 veraa	mvbw	0058	lē	LOC	adp	adp				
 veraa	mvbw	0058	=n	=ART	=ln	=ln				
-veraa	mvbw	0058	Wērēsurō	Wērēsurō	np:pred	np		pred	9026	new
+veraa	mvbw	0058	Wērēsurō	Wērēsurō	pn_np:pred	pn_np		pred	9026	new
 veraa	mvbw	0058	e	NC	nc	nc				
 veraa	mvbw	0058	birin̄	with	adp	adp				
 veraa	mvbw	0058	ēn	ART	ln	ln				
@@ -1171,7 +1171,7 @@ veraa	mvbw	0067	vanvan	RED:go	v:pred	v		pred
 veraa	mvbw	0067	rōv'e	close.to	rv	rv				
 veraa	mvbw	0067	ma	hither	rv	rv				
 veraa	mvbw	0067	=n	=ART	=ln	=ln				
-veraa	mvbw	0067	Wērēsurō	Wērēsurō	np:p	np		p	9026	
+veraa	mvbw	0067	Wērēsurō	Wērēsurō	pn_np:p	pn_np		p	9026	
 veraa	mvbw	0067	va'anē	TEMP.DEM1	other	other				
 veraa	mvbw	0068	#	#	##	##				
 veraa	mvbw	0068	di	3SG	pro.h:s	pro	h	s	9005	
@@ -1192,7 +1192,7 @@ veraa	mvbw	0070	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	9008
 veraa	mvbw	0070	so	QUOT	nc	nc				
 veraa	mvbw	0070	lē	LOC	rn	rn				
 veraa	mvbw	0070	=n	=ART	=rn	=rn				
-veraa	mvbw	0070	Wērēsurō	Wērēsurō	rn_np	rn_np			9026	
+veraa	mvbw	0070	Wērēsurō	Wērēsurō	rn_pn_np	rn_pn_np			9026	
 veraa	mvbw	0070	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	mvbw	0070	sag	sit	v:pred	v		pred		
 veraa	mvbw	0070	'i	DEL	rv	rv				
@@ -1294,7 +1294,7 @@ veraa	mvbw	0074	wal	INTENS	rv	rv
 veraa	mvbw	0074	ma	hither	rv	rv				
 veraa	mvbw	0074	=n	=ART	=ln	=ln				
 veraa	mvbw	0074	n	ART	nc	nc				
-veraa	mvbw	0074	Wērēsurō	Wērēsurō	np:p	np		p	9026	
+veraa	mvbw	0074	Wērēsurō	Wērēsurō	pn_np:p	pn_np		p	9026	
 veraa	mvbw	0074	#	#	#rc_rn	#rc_rn				
 veraa	mvbw	0074	a	LOC.SP	adp	adp				
 veraa	mvbw	0074	viē	where	other:l	other		l		
@@ -1310,7 +1310,7 @@ veraa	mvbw	0075	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s
 veraa	mvbw	0075	rem	climb	v:pred	v		pred		
 veraa	mvbw	0075	lik	more	rv	rv				
 veraa	mvbw	0075	#	#	##	##				
-veraa	mvbw	0075	Wēdin̄gōr	Wēdin̄gōr	np.h:s	np	h	s	9005	
+veraa	mvbw	0075	Wēdin̄gōr	Wēdin̄gōr	pn_np.h:s	pn_np	h	s	9005	
 veraa	mvbw	0075	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	mvbw	0075	rem	climb	v:pred	v		pred		
 veraa	mvbw	0075	lik	more	rv	rv				
@@ -1338,7 +1338,7 @@ veraa	mvbw	0078	sag	sit	v:pred	v		pred
 veraa	mvbw	0078	'i	DEL	rv	rv				
 veraa	mvbw	0078	lē	LOC	adp	adp				
 veraa	mvbw	0078	=n	=ART	=ln	=ln				
-veraa	mvbw	0078	Wērēsurō	Wērēsurō	np:l	np		l	9026	
+veraa	mvbw	0078	Wērēsurō	Wērēsurō	pn_np:l	pn_np		l	9026	
 veraa	mvbw	0078	#	#	##	##				
 veraa	mvbw	0078	ZERO	ZERO	0.h:a	0	h	a	9002	
 veraa	mvbw	0078	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
@@ -1511,7 +1511,7 @@ veraa	mvbw	0089	'ō	carry	v:pred	v		pred
 veraa	mvbw	0089	duru	3DL	pro.h:p	pro	h	p	9008	
 veraa	mvbw	0089	lē	LOC	adp	adp				
 veraa	mvbw	0089	=n	=ART	=ln	=ln				
-veraa	mvbw	0089	Wērēsurō	Wērēsurō	np:g	np		g	9026	
+veraa	mvbw	0089	Wērēsurō	Wērēsurō	pn_np:g	pn_np		g	9026	
 veraa	mvbw	0090	#	#	##	##				
 veraa	mvbw	0090	ZERO	ZERO	0.h:a	0	h	a	9002	
 veraa	mvbw	0090	le	transfer	v:pred	v		pred		
@@ -2133,7 +2133,7 @@ veraa	mvbw	0129	van	go	v:pred	v		pred
 veraa	mvbw	0129	din̄	reach	rv	rv				
 veraa	mvbw	0129	lē	LOC	adp	adp				
 veraa	mvbw	0129	=n	=ART	=ln	=ln				
-veraa	mvbw	0129	Wērēsurō	Wērēsurō	np:g	np		g	9026	
+veraa	mvbw	0129	Wērēsurō	Wērēsurō	pn_np:g	pn_np		g	9026	
 veraa	mvbw	0130	#	#	#ds	#ds				
 veraa	mvbw	0130	di	3SG	pro.h:a	pro	h	a	9002	
 veraa	mvbw	0130	=m	=TAM1	=lv	=lv				

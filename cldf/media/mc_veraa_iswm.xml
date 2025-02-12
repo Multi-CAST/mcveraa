@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="iswm" annotators="Stefan Schnell" speaker="VR07">
-            <file f_name="mc_veraa_iswm" audio="mc_veraa_iswm.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_iswm" audio="mc_veraa_iswm.wav" updated="2020-09-20">
                 <unit uid="0001" start_time="0" end_time="7750">
                     <utterance_id>veraa_iswm_0001</utterance_id>
                     <utterance>itok nēn tēk ... kaka ... nok kakan neln̄o vu' 'agēnē</utterance>
@@ -123,7 +123,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -140,7 +140,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>rn_np.h</graid>
+                            <graid>rn_pn_np.h</graid>
                             <refind>7002</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -159,7 +159,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:dt_poss</graid>
+                            <graid>pn_np.h:dt_poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -175,7 +175,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>rn_np.h</graid>
+                            <graid>rn_pn_np.h</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -270,7 +270,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -281,7 +281,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -357,7 +357,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -386,7 +386,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -520,7 +520,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -541,7 +541,7 @@
                         <segment>
                             <gword>n̄erelan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>7007</refind>
                         </segment>
                     </annotations>
@@ -559,7 +559,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -580,7 +580,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>7006</refind>
                         </segment>
                     </annotations>
@@ -1721,7 +1721,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:other</graid>
+                            <graid>pn_np.h:other</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -1750,7 +1750,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>v:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>wuva</gword>
@@ -1781,7 +1781,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>sir</gword>
@@ -1899,7 +1899,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -1927,7 +1927,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -2094,7 +2094,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -2148,7 +2148,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -2644,7 +2644,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2921,7 +2921,7 @@
                 <unit uid="0046" start_time="154411" end_time="159940">
                     <utterance_id>veraa_iswm_0046</utterance_id>
                     <utterance>sar sir ēn Laln̄e'ak ne van ne din̄ ēn n̄erelan̄tir</utterance>
-                    <utterance_translation>bushwards towards L. and on and on reaching N2..</utterance_translation>
+                    <utterance_translation>bushwards towards Laln̄e'ak and on and on reaching N̄erelan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>sar</gword>
@@ -2941,7 +2941,7 @@
                         <segment>
                             <gword>Laln̄e'ak</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7022</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -2983,7 +2983,7 @@
                         <segment>
                             <gword>n̄erelan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>7007</refind>
                         </segment>
                     </annotations>
@@ -3514,8 +3514,8 @@
                 </unit>
                 <unit uid="0052" start_time="179605" end_time="182137">
                     <utterance_id>veraa_iswm_0052</utterance_id>
-                    <utterance>'e Meter ne vovo'</utterance>
-                    <utterance_translation>(it is) M2eter weaving.</utterance_translation>
+                    <utterance>'e m̄eter ne vovo'</utterance>
+                    <utterance_translation>(it is) m̄eter weaving.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>e</gword>
@@ -3523,9 +3523,9 @@
                             <graid>ln</graid>
                         </segment>
                         <segment>
-                            <gword>Meter</gword>
-                            <gloss>Meter</gloss>
-                            <graid>np.h:s</graid>
+                            <gword>m̄eter</gword>
+                            <gloss>m̄eter</gloss>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -4131,7 +4131,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>dir</gword>
@@ -4274,7 +4274,7 @@
                 <unit uid="0062" start_time="214529" end_time="221933">
                     <utterance_id>veraa_iswm_0062</utterance_id>
                     <utterance>vol qōn̄ lēn qōn̄ ma lēn qōn̄ 'asegēnē 'e m̄eter e rō m̄eter ne sagsag ne vovo'</utterance>
-                    <utterance_translation>Every day, when it's getting night, at night, M2eter will be sitting and weaving.</utterance_translation>
+                    <utterance_translation>Every day, when it's getting night, at night, M̄eter will be sitting and weaving.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4339,7 +4339,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>nc_np.h</graid>
+                            <graid>nc_pn_np.h</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -4350,7 +4350,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -5001,7 +5001,7 @@
                 <unit uid="0071" start_time="253852" end_time="256909">
                     <utterance_id>veraa_iswm_0071</utterance_id>
                     <utterance>dir ga ... 'eraga ga ... e m̄eter ga 'awis dirē</utterance>
-                    <utterance_translation>M2eter didn't want them.</utterance_translation>
+                    <utterance_translation>M̄eter didn't want them.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5042,7 +5042,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>nc_np.h</graid>
+                            <graid>nc_pn_np.h</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -5179,7 +5179,7 @@
                 <unit uid="0074" start_time="261616" end_time="265136">
                     <utterance_id>veraa_iswm_0074</utterance_id>
                     <utterance>'e dirēk van mak 'anam̄ēg 'erō m̄eter ba di ga 'awis dirē</utterance>
-                    <utterance_translation>they came and begged M2eter, but she didn't want them.</utterance_translation>
+                    <utterance_translation>they came and begged M̄eter, but she didn't want them.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5241,7 +5241,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -5316,7 +5316,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -5471,7 +5471,7 @@
                 <unit uid="0078" start_time="277637" end_time="283006">
                     <utterance_id>veraa_iswm_0078</utterance_id>
                     <utterance>so 'ēn gōr nikē e Wowōt nikē 'ēn gōr ēn ren̄e din m̄eter rekse e nikē</utterance>
-                    <utterance_translation>You watch (it): you are Wowōt, you watch this woman, she is a M2eter [i.e. a beautiful woman] like you (are a handsome man, [i.e. a Wowōt]).</utterance_translation>
+                    <utterance_translation>You watch (it): you are Wowōt, you watch this woman, she is a M̄eter [i.e. a beautiful woman] like you (are a handsome man, [i.e. a Wowōt]).</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>so</gword>
@@ -5518,7 +5518,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5576,7 +5576,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>rekse</gword>
@@ -6069,7 +6069,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -6795,7 +6795,7 @@
                         <segment>
                             <gword>Alkētreva</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6857,7 +6857,7 @@
                 <unit uid="0096" start_time="338131" end_time="342587">
                     <utterance_id>veraa_iswm_0096</utterance_id>
                     <utterance>dim gor legan bē 'anē ne gor kal sag lēn vum vrig vrigē ne din̄ 'a Ban̄lav</utterance>
-                    <utterance_translation>When he had crossed this river, swam bushwards to a navele tree, ran and ran until (he) reached Ban2lav.</utterance_translation>
+                    <utterance_translation>When he had crossed this river, swam bushwards to a navele tree, ran and ran until (he) reached Ban̄lav.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7004,7 +7004,7 @@
                         <segment>
                             <gword>Ban̄lav</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7049</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7013,7 +7013,7 @@
                 <unit uid="0097" start_time="342587" end_time="346897">
                     <utterance_id>veraa_iswm_0097</utterance_id>
                     <utterance>dim v... 'ukeg den 'a Ban̄lav ne vivirigēm kal 'a Laln̄ē'ak lēn qōn̄</utterance>
-                    <utterance_translation>He left Ban2lav, ran and ran on until he came into Laln2e'ak, at night.</utterance_translation>
+                    <utterance_translation>He left Ban̄lav, ran and ran on until he came into Laln̄e'ak, at night.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7054,7 +7054,7 @@
                         <segment>
                             <gword>Ban̄lav</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7049</refind>
                         </segment>
                         <segment>
@@ -7107,7 +7107,7 @@
                         <segment>
                             <gword>Laln̄ē'ak</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7050</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7131,7 +7131,7 @@
                 <unit uid="0098" start_time="346897" end_time="351467">
                     <utterance_id>veraa_iswm_0098</utterance_id>
                     <utterance>'ukeg den ēn Laln̄ē'ak ne kal 'a Qugemel</utterance>
-                    <utterance_translation>Left Laln2e'ak and entered Qugemel.</utterance_translation>
+                    <utterance_translation>Left Laln̄e'ak and entered Qugemel.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7162,7 +7162,7 @@
                         <segment>
                             <gword>Laln̄ē'ak</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7050</refind>
                         </segment>
                         <segment>
@@ -7194,7 +7194,7 @@
                         <segment>
                             <gword>Qugemel</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7051</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7234,7 +7234,7 @@
                         <segment>
                             <gword>Qugemel</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7051</refind>
                         </segment>
                         <segment>
@@ -7266,7 +7266,7 @@
                         <segment>
                             <gword>Mamles</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7052</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7284,7 +7284,7 @@
                         <segment>
                             <gword>Mamles</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -7327,7 +7327,7 @@
                         <segment>
                             <gword>Mamles</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7052</refind>
                         </segment>
                         <segment>
@@ -7359,7 +7359,7 @@
                         <segment>
                             <gword>Kalon</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7053</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7399,7 +7399,7 @@
                         <segment>
                             <gword>Kalen</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7053</refind>
                         </segment>
                         <segment>
@@ -7431,7 +7431,7 @@
                         <segment>
                             <gword>Qesōw</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7054</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7476,7 +7476,7 @@
                         <segment>
                             <gword>Qesōw</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>7054</refind>
                         </segment>
                     </annotations>
@@ -7601,7 +7601,7 @@
                 <unit uid="0104" start_time="373648" end_time="376373">
                     <utterance_id>veraa_iswm_0104</utterance_id>
                     <utterance>rōv'e nok din̄ sa e ... 'erō m̄eter ē</utterance>
-                    <utterance_translation>Soon I will reach this M2eter.</utterance_translation>
+                    <utterance_translation>Soon I will reach this M̄eter.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7647,7 +7647,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -7969,7 +7969,7 @@
                 <unit uid="0108" start_time="388064" end_time="391278">
                     <utterance_id>veraa_iswm_0108</utterance_id>
                     <utterance>managi di ga lama'i son ren̄es sag 'i ē din m̄eter</utterance>
-                    <utterance_translation>because he knew that the woman sitting there was a M2eter [i.e. a beautiful woman].</utterance_translation>
+                    <utterance_translation>because he knew that the woman sitting there was a M̄eter [i.e. a beautiful woman].</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8068,7 +8068,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -8865,7 +8865,7 @@
                 <unit uid="0120" start_time="425368" end_time="429528">
                     <utterance_id>veraa_iswm_0120</utterance_id>
                     <utterance>lēn n̄ērēgi 'anē'ē sag dir ga ul so n̄ērēlan̄tir</utterance>
-                    <utterance_translation>At its shore up there, they call (it [i.e. this place]) N2ērēlan2tir.</utterance_translation>
+                    <utterance_translation>At its shore up there, they call (it [i.e. this place]) N̄ērēlan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>lē</gword>
@@ -9262,7 +9262,7 @@
                 <unit uid="0124" start_time="441655" end_time="444296">
                     <utterance_id>veraa_iswm_0124</utterance_id>
                     <utterance>managin 'erē 'an̄sar dōl ga mōrōs e m̄eter ē</utterance>
-                    <utterance_translation>Because all the people wanted that M2eter</utterance_translation>
+                    <utterance_translation>Because all the people wanted that M̄eter</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9313,7 +9313,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -9326,7 +9326,7 @@
                 <unit uid="0125" start_time="444296" end_time="446859">
                     <utterance_id>veraa_iswm_0125</utterance_id>
                     <utterance>'eraga lumlumgav dōl dir ga mōrōs e m̄eter ē</utterance>
-                    <utterance_translation>All the young men they wanted M2eter.</utterance_translation>
+                    <utterance_translation>All the young men they wanted M̄eter.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9378,7 +9378,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -9467,7 +9467,7 @@
                 <unit uid="0127" start_time="449309" end_time="452321">
                     <utterance_id>veraa_iswm_0127</utterance_id>
                     <utterance>'aklēgi ga sag wal lēn [UNCLEAR] m̄on e m̄eter lēn qōn̄</utterance>
-                    <utterance_translation>some sat right at [UNCLEAR] M2eter's house at night.</utterance_translation>
+                    <utterance_translation>some sat right at [UNCLEAR] M̄eter's house at night.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9531,7 +9531,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -10259,7 +10259,7 @@
                 <unit uid="0137" start_time="482012" end_time="485754">
                     <utterance_id>veraa_iswm_0137</utterance_id>
                     <utterance>dim 'ēn'ēn sar segēn m̄eters da 'i gēn ne vovo'</utterance>
-                    <utterance_translation>he was looking inside like this M2eter who was there weaving.</utterance_translation>
+                    <utterance_translation>he was looking inside like this M̄eter who was there weaving.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10300,7 +10300,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -10350,7 +10350,7 @@
                 <unit uid="0138" start_time="485754" end_time="491732">
                     <utterance_id>veraa_iswm_0138</utterance_id>
                     <utterance>ba lēn masōgi m̄eter ne rōn̄ son sava ne 'ēn'ēn no si dim rōn̄ rak lēn 'irbēgi so</utterance>
-                    <utterance_translation>But when M2eter had the feeling: something is looking at me, or she felt it on her body:</utterance_translation>
+                    <utterance_translation>But when M̄eter had the feeling: something is looking at me, or she felt it on her body:</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10380,7 +10380,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -10717,7 +10717,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -10778,7 +10778,7 @@
                 <unit uid="0143" start_time="503819" end_time="505571">
                     <utterance_id>veraa_iswm_0143</utterance_id>
                     <utterance>m̄.. m̄eter mal 'ēn qal diē</utterance>
-                    <utterance_translation>M2eter had already spotted him.</utterance_translation>
+                    <utterance_translation>M̄eter had already spotted him.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10793,7 +10793,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -10990,7 +10990,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -11931,7 +11931,7 @@
                 <unit uid="0156" start_time="548810" end_time="553318">
                     <utterance_id>veraa_iswm_0156</utterance_id>
                     <utterance>'enei di ne le e Wowōt m̄eter ne le e Wowōt</utterance>
-                    <utterance_translation>Then she took Wowōt, M2eter took Wowōt.</utterance_translation>
+                    <utterance_translation>Then she took Wowōt, M̄eter took Wowōt.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -11967,7 +11967,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -11978,7 +11978,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -11999,7 +11999,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -12865,7 +12865,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -12988,7 +12988,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -13006,7 +13006,7 @@
                 <unit uid="0170" start_time="592998" end_time="596046">
                     <utterance_id>veraa_iswm_0170</utterance_id>
                     <utterance>'an kelegin masōgi m̄eter ne rara sir</utterance>
-                    <utterance_translation>After this when M2eter was crying for (him)</utterance_translation>
+                    <utterance_translation>After this when m̄eter was crying for (him)</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13046,7 +13046,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -13226,7 +13226,7 @@
                         <segment>
                             <gword>Wowōt</gword>
                             <gloss>Wowōt</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -13234,7 +13234,7 @@
                 <unit uid="0174" start_time="601754" end_time="604057">
                     <utterance_id>veraa_iswm_0174</utterance_id>
                     <utterance>van mam din̄ ēn n̄ērēgi 'a Lan̄tir</utterance>
-                    <utterance_translation>Came and reached the shore at Lan2tir.</utterance_translation>
+                    <utterance_translation>Came and reached the shore at Lan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13304,7 +13304,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>7007</refind>
                         </segment>
                     </annotations>
@@ -13862,7 +13862,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>7006</refind>
                         </segment>
                     </annotations>
@@ -14273,7 +14273,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -14480,7 +14480,7 @@
                 <unit uid="0191" start_time="658375" end_time="665848">
                     <utterance_id>veraa_iswm_0191</utterance_id>
                     <utterance>wunva dim ... dim van gēr suwēn sir e Wō... eh.. m̄eter si siviē kadu e lama'i rōs</utterance>
-                    <utterance_translation>Probably he went down for M2eter or what? We don't know.</utterance_translation>
+                    <utterance_translation>Probably he went down for M̄eter or what? We don't know.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -14547,7 +14547,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -15122,7 +15122,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -15304,7 +15304,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>Lava</gword>
@@ -15414,7 +15414,7 @@
                         <segment>
                             <gword>Lates</gword>
                             <gloss>Lates</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7091</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -15497,7 +15497,7 @@
                         <segment>
                             <gword>Mē'ēsarig</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7092</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -15506,7 +15506,7 @@
                 <unit uid="0204" start_time="703836" end_time="706029">
                     <utterance_id>veraa_iswm_0204</utterance_id>
                     <utterance>dim van rak suw ma lēn Lan̄tir wo</utterance>
-                    <utterance_translation>he went out down to Lan2tir and</utterance_translation>
+                    <utterance_translation>he went out down to Lan̄tir and</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -15557,7 +15557,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7007</refind>
                         </segment>
                         <segment>
@@ -15839,7 +15839,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -15927,7 +15927,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>%</gword>
@@ -15997,7 +15997,7 @@
                 <unit uid="0209" start_time="722008" end_time="724074">
                     <utterance_id>veraa_iswm_0209</utterance_id>
                     <utterance>sag 'a Lan̄tir</utterance>
-                    <utterance_translation>Up at Lan2tir.</utterance_translation>
+                    <utterance_translation>Up at Lan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>sag</gword>
@@ -16012,7 +16012,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>7007</refind>
                         </segment>
                     </annotations>
@@ -16470,7 +16470,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -16988,7 +16988,7 @@
                         <segment>
                             <gword>Bēgorwa'ag</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7100</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -17207,7 +17207,7 @@
                 <unit uid="0229" start_time="790846" end_time="795770">
                     <utterance_id>veraa_iswm_0229</utterance_id>
                     <utterance>dirēm vetren̄ di 'ō dim van van van dim kal lēn vunu 'a Lan̄tir</utterance>
-                    <utterance_translation>They sent him with (it), and he went on and on until he came into the village of Lan2tir.</utterance_translation>
+                    <utterance_translation>They sent him with (it), and he went on and on until he came into the village of Lan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -17323,14 +17323,14 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0230" start_time="795770" end_time="799214">
                     <utterance_id>veraa_iswm_0230</utterance_id>
                     <utterance>dim kal lēn vunu Lan̄tir</utterance>
-                    <utterance_translation>When he came into the village of Lan2tir</utterance_translation>
+                    <utterance_translation>When he came into the village of Lan̄tir</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -17372,7 +17372,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -17489,7 +17489,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                     </annotations>
@@ -17856,7 +17856,7 @@
                         <segment>
                             <gword>Gek</gword>
                             <gloss>Gek</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -18429,7 +18429,7 @@
                 <unit uid="0242" start_time="842416" end_time="844220">
                     <utterance_id>veraa_iswm_0242</utterance_id>
                     <utterance>dirēm sas rak den 'a Lan̄tir</utterance>
-                    <utterance_translation>they carried it out of Lan2tir,</utterance_translation>
+                    <utterance_translation>they carried it out of Lan̄tir,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -18476,7 +18476,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>7007</refind>
                         </segment>
                     </annotations>
@@ -18536,7 +18536,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7006</refind>
                         </segment>
                     </annotations>
@@ -18585,7 +18585,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7006</refind>
                         </segment>
                         <segment>
@@ -19160,7 +19160,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -19829,7 +19829,7 @@
                 <unit uid="0258" start_time="904840" end_time="909114">
                     <utterance_id>veraa_iswm_0258</utterance_id>
                     <utterance>di ga gis ēn du m̄ēl valgi 'agēnē won seg valgi 'agēnē</utterance>
-                    <utterance_translation>he held a m2ēl leaf on its back side here and a seg (leaf) on its back side here</utterance_translation>
+                    <utterance_translation>he held a m̄ēl leaf on its back side here and a seg (leaf) on its back side here</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -20024,7 +20024,8 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np.h</graid>
+                            <refind>7002</refind>
                         </segment>
                         <segment>
                             <gword>dim</gword>
@@ -20039,7 +20040,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -21015,7 +21016,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -21192,7 +21193,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -21340,7 +21341,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -21651,7 +21652,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -22189,7 +22190,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -22449,7 +22450,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -23357,7 +23358,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -23714,7 +23715,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>7006</refind>
                         </segment>
                         <segment>
@@ -23805,7 +23806,7 @@
                         <segment>
                             <gword>Bēgōrwa'ag</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>7143</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -23964,7 +23965,7 @@
                 <unit uid="0317" start_time="1151354" end_time="1155276">
                     <utterance_id>veraa_iswm_0317</utterance_id>
                     <utterance>wo dirēk kalu lēn vunu 'a Lan̄tir</utterance>
-                    <utterance_translation>then they went into the village of Lan2tir.</utterance_translation>
+                    <utterance_translation>then they went into the village of Lan̄tir.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -24016,14 +24017,14 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0318" start_time="1155276" end_time="1158143">
                     <utterance_id>veraa_iswm_0318</utterance_id>
                     <utterance>dirēm kalu lēn vunu 'a Lan̄tir</utterance>
-                    <utterance_translation>When they came into the village of Lan2tir</utterance_translation>
+                    <utterance_translation>When they came into the village of Lan̄tir</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -24070,7 +24071,7 @@
                         <segment>
                             <gword>Lan̄tir</gword>
                             <gloss>place.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -24214,7 +24215,7 @@
                 <unit uid="0322" start_time="1164419" end_time="1167943">
                     <utterance_id>veraa_iswm_0322</utterance_id>
                     <utterance>'erō m̄eter ne van ma ne kalkal rērē segēne?</utterance>
-                    <utterance_translation>M2eter came and crawled craning her neck like this</utterance_translation>
+                    <utterance_translation>M̄eter came and crawled craning her neck like this</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -24229,7 +24230,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -24688,7 +24689,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -25190,7 +25191,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -25408,7 +25409,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>sir</gword>
@@ -25871,7 +25872,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -25911,7 +25912,7 @@
                 <unit uid="0342" start_time="1236550" end_time="1238961">
                     <utterance_id>veraa_iswm_0342</utterance_id>
                     <utterance>dim 'an̄ sarav ēn nōgōn e Wōwut 'esegēn</utterance>
-                    <utterance_translation>She reached out for and rubbed Wowōt's face likie this.</utterance_translation>
+                    <utterance_translation>She reached out for and rubbed Wowōt's face like this.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -25958,7 +25959,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -25971,7 +25972,7 @@
                 <unit uid="0343" start_time="1238961" end_time="1242600">
                     <utterance_id>veraa_iswm_0343</utterance_id>
                     <utterance>di ne 'ēn ēn 'ekē gam.. ga sin̄sin̄ lēn nōgōgi di Wōwut</utterance>
-                    <utterance_translation>She saw a bright spot in his face, that was Woswōt.</utterance_translation>
+                    <utterance_translation>She saw a bright spot in his face, that was Wowōt.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -26057,7 +26058,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -26744,7 +26745,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -26845,7 +26846,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -26948,7 +26949,7 @@
                 <unit uid="0358" start_time="1281854" end_time="1286613">
                     <utterance_id>veraa_iswm_0358</utterance_id>
                     <utterance>wo Wōwut dim le e m̄eter reksen gunugi durum mul kel ma 'a Nōs</utterance>
-                    <utterance_translation>and Wowōt took M2eter as his wife and they moved back to Nōs.</utterance_translation>
+                    <utterance_translation>and Wowōt took M̄eter as his wife and they moved back to Nōs.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -26963,7 +26964,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>np.h:dt_a</graid>
+                            <graid>pn_np.h:dt_a</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>
@@ -26990,7 +26991,7 @@
                         <segment>
                             <gword>m̄eter</gword>
                             <gloss>m̄eter</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>7002</refind>
                         </segment>
                         <segment>
@@ -27053,7 +27054,7 @@
                         <segment>
                             <gword>Nōs</gword>
                             <gloss>place.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>7006</refind>
                         </segment>
                     </annotations>
@@ -27318,7 +27319,7 @@
                         <segment>
                             <gword>Wōwut</gword>
                             <gloss>Wōwut</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>7001</refind>
                         </segment>
                         <segment>

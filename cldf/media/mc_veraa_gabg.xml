@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="gabg" annotators="Stefan Schnell" speaker="VR03">
-            <file f_name="mc_veraa_gabg" audio="mc_veraa_gabg.wav" updated="2019-05-07">
+            <file f_name="mc_veraa_gabg" audio="mc_veraa_gabg.wav" updated="2020-06-18">
                 <unit uid="0001" start_time="0" end_time="8166">
                     <utterance_id>veraa_gabg_0001</utterance_id>
                     <utterance>lēn qōn̄ ne vōwal n buskat won gōsuwō</utterance>
@@ -1931,7 +1931,7 @@
                 <unit uid="0036" start_time="166855" end_time="171577">
                     <utterance_id>veraa_gabg_0036</utterance_id>
                     <utterance>gōsuwō gōsuwō nēm tek mēn e buskat</utterance>
-                    <utterance_translation>Rat, rat said to cat:</utterance_translation>
+                    <utterance_translation>Rat, Rat said to Cat:</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3950,7 +3950,7 @@
                 <unit uid="0070" start_time="302476" end_time="304832">
                     <utterance_id>veraa_gabg_0070</utterance_id>
                     <utterance>buskat ne tek mēne gōsuwō so</utterance>
-                    <utterance_translation>cat said to rat:</utterance_translation>
+                    <utterance_translation>Cat said to rat:</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5714,7 +5714,7 @@
                 <unit uid="0099" start_time="413518" end_time="417996">
                     <utterance_id>veraa_gabg_0099</utterance_id>
                     <utterance>gusuwō ne dim rōn̄ 'i sene</utterance>
-                    <utterance_translation>Rat ... hearing this</utterance_translation>
+                    <utterance_translation>Rat ... hearing this,</utterance_translation>
                     <add_comments>TAM marker not adjacent to V.</add_comments>
                     <annotations>
                         <segment>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="isam" annotators="Stefan Schnell" speaker="VR06">
-            <file f_name="mc_veraa_isam" audio="mc_veraa_isam.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_isam" audio="mc_veraa_isam.wav" updated="2020-07-31">
                 <unit uid="0001" start_time="0" end_time="14079">
                     <utterance_id>veraa_isam_0001</utterance_id>
                     <utterance>lēn qōn̄ ne vōwal kaka din 'a kelgi lusuwēn so lēn 'a lēn mērig</utterance>
@@ -426,7 +426,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>6005</refind>
                         </segment>
@@ -630,7 +630,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>6002</refind>
                         </segment>
                         <segment>
@@ -2485,7 +2485,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>6019</refind>
                         </segment>
@@ -2502,7 +2502,7 @@
                         <segment>
                             <gword>Torres</gword>
                             <gloss>Torres</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                         <segment>
                             <gword>lē</gword>
@@ -2578,14 +2578,14 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>6019</refind>
                         </segment>
                         <segment>
                             <gword>Torres</gword>
                             <gloss>Torres</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2683,7 +2683,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:a</graid>
                             <refind>6016</refind>
                         </segment>
@@ -2732,7 +2732,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>kalraka</gword>
@@ -2753,7 +2753,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>'ir</gword>
@@ -2891,7 +2891,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -3149,7 +3149,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>6023</refind>
                         </segment>
@@ -3161,7 +3161,7 @@
                         <segment>
                             <gword>Hiw</gword>
                             <gloss>Hiw</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                         <segment>
                             <gword>lē</gword>
@@ -3176,7 +3176,7 @@
                         <segment>
                             <gword>Torres</gword>
                             <gloss>Torres</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                             <refind>6019</refind>
                         </segment>
                         <segment>
@@ -3217,7 +3217,7 @@
                         <segment>
                             <gword>Torres</gword>
                             <gloss>Torres</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>6019</refind>
                         </segment>
                         <segment>
@@ -3243,14 +3243,14 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>6023</refind>
                         </segment>
                         <segment>
                             <gword>Hiw</gword>
                             <gloss>Hiw</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3986,7 +3986,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>row</gword>
@@ -4061,7 +4061,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -4111,7 +4111,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>dar</gword>
@@ -4295,7 +4295,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>dar</gword>
@@ -4476,7 +4476,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>mi'ir</gword>
@@ -4504,7 +4504,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>on</gword>
@@ -4530,7 +4530,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>mi'ir</gword>
@@ -4742,7 +4742,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:s</graid>
                             <refind>6010</refind>
                         </segment>
@@ -5958,7 +5958,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>'ir</gword>
@@ -6015,7 +6015,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>sag</gword>
@@ -6883,7 +6883,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>vidir</gword>
@@ -6914,7 +6914,7 @@
                         <segment>
                             <gword>ē</gword>
                             <gloss>TAM2:2SG</gloss>
-                            <graid>lv_pro_2_s</graid>
+                            <graid>lv-pro_2_s</graid>
                         </segment>
                         <segment>
                             <gword>van</gword>
@@ -7506,7 +7506,7 @@
                         <segment>
                             <gword>Vunu Lava</gword>
                             <gloss>Vunu.Lava</gloss>
-                            <graid>np:appos</graid>
+                            <graid>pn_np:appos</graid>
                             <refind>6045</refind>
                         </segment>
                     </annotations>
@@ -7706,7 +7706,7 @@
                         <segment>
                             <gword>Maltetrag</gword>
                             <gloss>Maltetrag</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -8131,7 +8131,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>6010</refind>
                         </segment>
                         <segment>
@@ -9407,7 +9407,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:obl</graid>
                             <refind>6010</refind>
                         </segment>
@@ -9594,7 +9594,7 @@
                         <segment>
                             <gword>Torres</gword>
                             <gloss>Torres</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>6019</refind>
                         </segment>
                     </annotations>
@@ -9952,7 +9952,7 @@
                         <segment>
                             <gword>Lēnmerig</gword>
                             <gloss>Lēnmerig</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>6001</refind>
                         </segment>
                     </annotations>

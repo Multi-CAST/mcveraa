@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Schnell, Stefan. 2019. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)
+  > Schnell, Stefan. 2021. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -111,27 +111,27 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 8 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 13 |
+| **⟨0.1⟩** | 9 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 14 |
 | **⟨0.2⟩** | 29 | 13 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 43 |
-| **⟨0.h⟩** | 367 | 181 | 0 | 20 | 10 | 1 | 0 | 0 | 0 | 0 | 579 |
+| **⟨0.h⟩** | 369 | 181 | 0 | 20 | 10 | 1 | 0 | 0 | 0 | 0 | 581 |
 | **⟨0.d⟩** | 134 | 86 | 0 | 14 | 1 | 0 | 0 | 0 | 0 | 0 | 235 |
-| **⟨0⟩** | 79 | 17 | 0 | 155 | 14 | 8 | 3 | 0 | 0 | 0 | 276 |
-| **⟨pro.1⟩** | 230 | 97 | 0 | 38 | 11 | 6 | 0 | 3 | 66 | 1 | 452 |
+| **⟨0⟩** | 79 | 17 | 0 | 154 | 14 | 8 | 3 | 0 | 0 | 0 | 275 |
+| **⟨pro.1⟩** | 231 | 97 | 0 | 38 | 11 | 6 | 0 | 3 | 69 | 1 | 456 |
 | **⟨pro.2⟩** | 124 | 65 | 0 | 38 | 5 | 8 | 0 | 0 | 41 | 1 | 282 |
-| **⟨pro.h⟩** | 705 | 350 | 0 | 117 | 11 | 54 | 0 | 0 | 281 | 0 | 1518 |
-| **⟨pro.d⟩** | 125 | 38 | 0 | 15 | 0 | 13 | 0 | 0 | 23 | 0 | 214 |
-| **⟨pro⟩** | 64 | 9 | 0 | 3 | 0 | 1 | 0 | 5 | 26 | 1 | 109 |
+| **⟨pro.h⟩** | 693 | 345 | 0 | 116 | 11 | 54 | 0 | 0 | 278 | 0 | 1497 |
+| **⟨pro.d⟩** | 132 | 43 | 0 | 16 | 0 | 13 | 0 | 0 | 23 | 0 | 227 |
+| **⟨pro⟩** | 64 | 9 | 0 | 4 | 0 | 1 | 0 | 5 | 26 | 1 | 110 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 261 | 62 | 0 | 87 | 11 | 45 | 0 | 47 | 53 | 4 | 570 |
-| **⟨np.d⟩** | 109 | 27 | 0 | 24 | 5 | 21 | 0 | 12 | 11 | 0 | 209 |
-| **⟨np⟩** | 175 | 26 | 0 | 478 | 68 | 245 | 100 | 89 | 4 | 204 | 1389 |
+| **⟨np.h⟩** | 260 | 62 | 0 | 87 | 11 | 45 | 0 | 48 | 53 | 5 | 571 |
+| **⟨np.d⟩** | 110 | 27 | 0 | 24 | 5 | 21 | 0 | 12 | 11 | 0 | 210 |
+| **⟨np⟩** | 175 | 26 | 0 | 478 | 68 | 245 | 100 | 90 | 4 | 204 | 1390 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 5 | 0 | 0 | 0 | 12 | 59 | 111 | 284 | 0 | 0 | 471 |
-| | 2415 | 974 | 0 | 992 | 148 | 461 | 214 | 440 | 505 | 211 | 6360 |
+| **⟨other⟩** | 5 | 0 | 0 | 0 | 12 | 59 | 111 | 283 | 0 | 0 | 470 |
+| | 2414 | 974 | 0 | 992 | 148 | 461 | 214 | 441 | 505 | 212 | 6361 |
 
 
 **Clause boundaries**

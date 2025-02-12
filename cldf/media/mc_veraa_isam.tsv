@@ -72,7 +72,7 @@ veraa	isam	0005	#	#	#rc_rn	#rc_rn
 veraa	isam	0005	dir	3PL	pro.h:a	pro	h	a	6002	
 veraa	isam	0005	=ēm	=TAM1	=lv	=lv				
 veraa	isam	0005	da	do	v:pred	v		pred		
-veraa	isam	0005	ZERO	3SG	0:p	0		p	6005	
+veraa	isam	0005	ZERO	ZERO	0:p	0		p	6005	
 veraa	isam	0005	%	%	%	%				
 veraa	isam	0005	si	or	rn	rn				
 veraa	isam	0005	=n	=ART	=rn	=rn				
@@ -107,7 +107,7 @@ veraa	isam	0007	da	do	v:pred	v		pred
 veraa	isam	0007	senē	MAN.DEM1	other	other				
 veraa	isam	0007	vaga	always=TAM1	other	other				
 veraa	isam	0007	#	#	##	##				
-veraa	isam	0007	ZERO	ZERO	pro.h:s	pro	h	s	6002	
+veraa	isam	0007	ZERO	ZERO	0.h:s	0	h	s	6002	
 veraa	isam	0007	=m	=TAM1	=lv	=lv				
 veraa	isam	0007	da	do	v:pred	v		pred		
 veraa	isam	0007	vaga	always	other	other				
@@ -433,10 +433,10 @@ veraa	isam	0027	#	#	#ds_rc_rn	#ds_rc_rn
 veraa	isam	0027	dir	3PL	pro.h:a	pro	h	a	6020	new
 veraa	isam	0027	ga	STAT	lv	lv				
 veraa	isam	0027	ul	call	v:pred	v		pred		
-veraa	isam	0027	ZERO	3SG	0:p	0		p	6019	
+veraa	isam	0027	ZERO	ZERO	0:p	0		p	6019	
 veraa	isam	0027	so	QUOT	other	other				
 veraa	isam	0027	=n	=ART	=ln	=ln				
-veraa	isam	0027	Torres	Torres	np:other	np		other		
+veraa	isam	0027	Torres	Torres	pn_np:other	pn_np		other		
 veraa	isam	0027	lē	LOC	adp	adp				
 veraa	isam	0027	=n	=ART	=ln	=ln				
 veraa	isam	0027	suwē	downwind	np:other	np		other		
@@ -451,8 +451,8 @@ veraa	isam	0027	#	#	#ds_rc_rn	#ds_rc_rn
 veraa	isam	0027	dir	3PL	pro.h:a	pro	h	a	6020	
 veraa	isam	0027	ga	STAT	lv	lv				
 veraa	isam	0027	ul	call	v:pred	v		pred		
-veraa	isam	0027	ZERO	3SG	0:p	0		p	6019	
-veraa	isam	0027	Torres	Torres	np:other	np		other		
+veraa	isam	0027	ZERO	ZERO	0:p	0		p	6019	
+veraa	isam	0027	Torres	Torres	pn_np:other	pn_np		other		
 veraa	isam	0028	#	#	##ds	##ds				
 veraa	isam	0028	ba	but	other	other				
 veraa	isam	0028	nik	2SG	pro.2:s	pro	2	s	6010	
@@ -470,7 +470,7 @@ veraa	isam	0028	luwo	big	rv	rv
 veraa	isam	0028	ma	hither	rv	rv				
 veraa	isam	0028	#	#	#cc	#cc				
 veraa	isam	0028	si	or	other	other				
-veraa	isam	0028	ZERO	3SG	0:a	0		a	6016	
+veraa	isam	0028	ZERO	ZERO	0:a	0		a	6016	
 veraa	isam	0028	wo	and	other	other				
 veraa	isam	0028	=m	=TAM1	=lv	=lv				
 veraa	isam	0028	van	go	v:pred	v		pred		
@@ -479,11 +479,11 @@ veraa	isam	0028	gōr	block	rv	rv
 veraa	isam	0028	giduō	1DL.IN	pro.1:p	pro	1	p	6003	
 veraa	isam	0028	#	#	##ds	##ds				
 veraa	isam	0028	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0028	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0028	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0028	kalraka	get.up	v:pred	v		pred		
 veraa	isam	0028	#	#	##ds	##ds				
 veraa	isam	0028	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0028	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0028	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0028	'ir	stand	v:pred	v		pred		
 veraa	isam	0028	kal	upwards	rv	rv				
 veraa	isam	0028	#	#	##ds	##ds				
@@ -508,7 +508,7 @@ veraa	isam	0029	'ēqēl	descend	v:pred	v		pred
 veraa	isam	0029	kel	back	rv	rv				
 veraa	isam	0029	#	#	##ds	##ds				
 veraa	isam	0029	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0029	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0029	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0029	sag	sit	v:pred	v		pred		
 veraa	isam	0029	sur	down	rv	rv				
 veraa	isam	0029	kel	back	rv	rv				
@@ -552,12 +552,12 @@ veraa	isam	0033	#	#	#rc_rn	#rc_rn
 veraa	isam	0033	dir	3PL	pro.h:a	pro	h	a	6020	
 veraa	isam	0033	ga	STAT	lv	lv				
 veraa	isam	0033	ul	call	v:pred	v		pred		
-veraa	isam	0033	ZERO	3SG	0:p	0		p	6023	
+veraa	isam	0033	ZERO	ZERO	0:p	0		p	6023	
 veraa	isam	0033	so	QUOT	other	other				
-veraa	isam	0033	Hiw	Hiw	np:other	np		other		
+veraa	isam	0033	Hiw	Hiw	pn_np:other	pn_np		other		
 veraa	isam	0033	lē	LOC	adp	adp				
 veraa	isam	0033	=n	=ART	=ln	=ln				
-veraa	isam	0033	Torres	Torres	np:other	np		other	6019	
+veraa	isam	0033	Torres	Torres	pn_np:other	pn_np		other	6019	
 veraa	isam	0033	'erē	PL	ln	ln				
 veraa	isam	0033	vunuō	land	np:other	np		other		
 veraa	isam	0033	'arn̄i	group	np:other	np		other		
@@ -565,13 +565,13 @@ veraa	isam	0033	vunuō	land	rn	rn
 veraa	isam	0033	a	LOC.SP	rn	rn				
 veraa	isam	0033	suwēn	downwind	rn	rn				
 veraa	isam	0033	a	LOC.SP	rn	rn				
-veraa	isam	0033	Torres	Torres	rn	rn			6019	
+veraa	isam	0033	Torres	Torres	rn_pn_np	rn_pn_np			6019	
 veraa	isam	0033	#	#	##	##				
 veraa	isam	0033	dir	3PL	pro.h:a	pro	h	a	6020	
 veraa	isam	0033	ga	STAT	lv	lv				
 veraa	isam	0033	ul	call	v:pred	v		pred		
-veraa	isam	0033	ZERO	3SG	0:p	0		p	6023	
-veraa	isam	0033	Hiw	Hiw	np:other	np		other		
+veraa	isam	0033	ZERO	ZERO	0:p	0		p	6023	
+veraa	isam	0033	Hiw	Hiw	pn_np:other	pn_np		other		
 veraa	isam	0034	#	#	##	##				
 veraa	isam	0034	duru	3DL	pro.h:s	pro	h	s	6018	
 veraa	isam	0034	=m	=TAM1	=lv	=lv				
@@ -700,7 +700,7 @@ veraa	isam	0041	#	#	##ds	##ds
 veraa	isam	0041	bul	friend	np.h:voc	np	h	voc	6010	
 veraa	isam	0041	#	#	##ds	##ds				
 veraa	isam	0041	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0041	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0041	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0041	row	jump	v:pred	v		pred		
 veraa	isam	0041	kal	upwards	rv	rv				
 veraa	isam	0041	sar	inland	rv	rv				
@@ -713,7 +713,7 @@ veraa	isam	0041	mamasa	dry	rn	rn
 veraa	isam	0041	anē'ē	DEM1.A	rn	rn				
 veraa	isam	0042	#	#	##ds	##ds				
 veraa	isam	0042	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0042	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0042	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0042	van	go	v:pred	v		pred		
 veraa	isam	0042	kal	upwards	rv	rv				
 veraa	isam	0042	lē	LOC	adp	adp				
@@ -721,7 +721,7 @@ veraa	isam	0042	=n	=ART	=ln	=ln
 veraa	isam	0042	n̄ērē'iē	shore	np:g	np		g	6026	
 veraa	isam	0043	#	#	##ds	##ds				
 veraa	isam	0043	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0043	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0043	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0043	dar	wait	v:pred	v		pred		
 veraa	isam	0043	'ekēnē	LOC.DEM1	other:l	other		l	6026	
 veraa	isam	0043	#	#	##ds	##ds				
@@ -754,7 +754,7 @@ veraa	isam	0043	gen	eat	v:pred	v		pred
 veraa	isam	0043	ZERO	ZERO	0:p	0		p	6028	
 veraa	isam	0044	#	#	##ds	##ds				
 veraa	isam	0044	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0044	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0044	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0044	dar	wait	v:pred	v		pred		
 veraa	isam	0044	gōr	secure	rv	rv				
 veraa	isam	0044	#	#	##ds	##ds				
@@ -787,16 +787,16 @@ veraa	isam	0045	nō	POSS.DOM	rn	rn
 veraa	isam	0045	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	6010	
 veraa	isam	0045	#	#	##ds	##ds				
 veraa	isam	0045	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0045	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0045	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0045	mi'ir	sleep	v:pred	v		pred		
 veraa	isam	0046	#	#	##ds	##ds				
 veraa	isam	0046	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0046	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0046	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0046	on	lie	v:pred	v		pred		
 veraa	isam	0046	sur	down	rv	rv				
 veraa	isam	0046	#	#	##ds	##ds				
 veraa	isam	0046	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0046	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0046	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0046	mi'ir	sleep	v:pred	v		pred		
 veraa	isam	0047	#	#	##ds	##ds				
 veraa	isam	0047	alē	INTERJ	nc	nc				
@@ -834,7 +834,7 @@ veraa	isam	0048	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s
 veraa	isam	0048	van	go	v:pred	v		pred		
 veraa	isam	0048	kal	upwards	rv	rv				
 veraa	isam	0048	#	#	##	##				
-veraa	isam	0048	ZERO	3SG	0.h:s	0	h	s	6010	
+veraa	isam	0048	ZERO	ZERO	0.h:s	0	h	s	6010	
 veraa	isam	0048	row	jump	v:pred	v		pred		
 veraa	isam	0048	kal	upwards	rv	rv				
 veraa	isam	0048	sarē	inland	other:g	other		g		
@@ -1052,7 +1052,7 @@ veraa	isam	0058	ga	STAT	rv	rv
 veraa	isam	0058	lōwōo	big	rv	rv				
 veraa	isam	0058	#	#	##ds	##ds				
 veraa	isam	0058	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0058	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0058	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0058	'ir	stand	v:pred	v		pred		
 veraa	isam	0058	kal	upwards	rv	rv				
 veraa	isam	0058	#	#	##ds	##ds				
@@ -1063,7 +1063,7 @@ veraa	isam	0058	=m	=TAM1	=lv	=lv
 veraa	isam	0058	'ēqēl	descend	v:pred	v		pred		
 veraa	isam	0058	#	#	##ds	##ds				
 veraa	isam	0058	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0058	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0058	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0058	sag	sit	v:pred	v		pred		
 veraa	isam	0058	sur	down	rv	rv				
 veraa	isam	0059	#	#	##	##				
@@ -1217,13 +1217,13 @@ veraa	isam	0067	ē	DEM3	rn	rn
 veraa	isam	0067	so	QUOT	other	other				
 veraa	isam	0067	#	#	##ds	##ds				
 veraa	isam	0067	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0067	ē	TAM2	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0067	ē	TAM2	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0067	vidir	jump.up	v:pred	v		pred		
 veraa	isam	0067	kal	upwards	rv	rv				
 veraa	isam	0067	va'anē	TEMP.DEM1	other	other				
 veraa	isam	0067	#	#	##ds	##ds				
 veraa	isam	0067	nik	2SG	pro.2:s	pro	2	s	6010	
-veraa	isam	0067	ē	TAM2:2SG	lv_pro_2_s	lv_pro_2_s				
+veraa	isam	0067	ē	TAM2:2SG	lv-pro_2_s	lv-pro_2_s				
 veraa	isam	0067	van	go	v:pred	v		pred		
 veraa	isam	0067	kal	upwards	rv	rv				
 veraa	isam	0067	#	#	##ds	##ds				
@@ -1330,7 +1330,7 @@ veraa	isam	0071	den	ABL	adp	adp
 veraa	isam	0071	ēn	ART	ln	ln				
 veraa	isam	0071	vunu	land	np:obl	np		obl	6045	new
 veraa	isam	0071	luwo	big	rn	rn				
-veraa	isam	0071	Vunu Lava	Vunu.Lava	np:appos	np		appos	6045	
+veraa	isam	0071	Vunu Lava	Vunu.Lava	pn_np:appos	pn_np		appos	6045	
 veraa	isam	0072	#	#	##	##				
 veraa	isam	0072	wo	and	other	other				
 veraa	isam	0072	=n	=ART	=ln	=ln				
@@ -1365,7 +1365,7 @@ veraa	isam	0073	so	QUOT	other	other
 veraa	isam	0073	#	#	#cc:obl	#cc		obl		
 veraa	isam	0073	di	3SG	pro.d:s	pro	d	s	6039	
 veraa	isam	0073	=n	=ART	=ln	=ln				
-veraa	isam	0073	Maltetrag	Maltetrag	np:pred	np		pred		
+veraa	isam	0073	Maltetrag	Maltetrag	pn_np:pred	pn_np		pred		
 veraa	isam	0074	#	#	##	##				
 veraa	isam	0074	sow	DISC	other	other				
 veraa	isam	0074	'an̄sar	person	np.d:dt_s	np	d	dt_s	6024	
@@ -1442,7 +1442,7 @@ veraa	isam	0076	aklē	some	ln	ln
 veraa	isam	0076	dudu	leaf	np:p	np		p	6048	new
 veraa	isam	0076	woqe'enge	tree	rn	rn				
 veraa	isam	0076	#	#	##	##				
-veraa	isam	0076	ZERO	ZERO	pro.h:s	pro	h	s	6010	
+veraa	isam	0076	ZERO	ZERO	0.h:s	0	h	s	6010	
 veraa	isam	0076	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	isam	0076	da	do	v:pred	v		pred		
 veraa	isam	0076	so	NC	other	other				
@@ -1669,7 +1669,7 @@ veraa	isam	0088	da	do	v:pred	v		pred
 veraa	isam	0088	=n	=ART	=ln	=ln				
 veraa	isam	0088	gengen	food	np:p	np		p	6055	bridging
 veraa	isam	0088	sir	for	adp	adp				
-veraa	isam	0088	ZERO	3SG	0.h:obl	0	h	obl	6010	
+veraa	isam	0088	ZERO	ZERO	0.h:obl	0	h	obl	6010	
 veraa	isam	0088	qiri	today	other	other				
 veraa	isam	0088	anē	DEM1.A	other	other				
 veraa	isam	0089	#	#	##	##				
@@ -1703,7 +1703,7 @@ veraa	isam	0089	'ēqēl	descend	v:pred	v		pred
 veraa	isam	0089	suw	thither	rv	rv				
 veraa	isam	0089	lē	LOC	adp	adp				
 veraa	isam	0089	=n	=ART	=ln	=ln				
-veraa	isam	0089	Torres	Torres	np:g	np		g	6019	
+veraa	isam	0089	Torres	Torres	pn_np:g	pn_np		g	6019	
 veraa	isam	0090	#	#	##	##				
 veraa	isam	0090	di	3SG	pro.h:s	pro	h	s	6010	
 veraa	isam	0090	=m	=TAM1	=lv	=lv				
@@ -1764,7 +1764,7 @@ veraa	isam	0094	lē	LOC	rn	rn
 veraa	isam	0094	=n	=ART	=rn	=rn				
 veraa	isam	0094	vunuō	land	rn	rn				
 veraa	isam	0094	'a	ASS.SP	rn	rn				
-veraa	isam	0094	Lēnmerig	Lēnmerig	rn	rn			6001	
+veraa	isam	0094	Lēnmerig	Lēnmerig	rn_pn_np	rn_pn_np			6001	
 veraa	isam	0095	#	#	##	##				
 veraa	isam	0095	wunva	probably	other	other				
 veraa	isam	0095	=n	=ART	=ln	=ln				

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="as1" annotators="Stefan Schnell" speaker="VR02">
-            <file f_name="mc_veraa_as1" audio="mc_veraa_as1.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_as1" audio="mc_veraa_as1.wav" updated="2020-11-08">
                 <unit uid="0001" start_time="0" end_time="3633">
                     <utterance_id>veraa_as1_0001</utterance_id>
                     <utterance>ok gēnē kaka neln̄ovu a gēnē</utterance>
@@ -163,7 +163,7 @@
                         <segment>
                             <gword>Lēmērig</gword>
                             <gloss>Lēmērig</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>2004</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -208,7 +208,7 @@
                         <segment>
                             <gword>Lēmērig</gword>
                             <gloss>Lēmērig</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>2004</refind>
                         </segment>
                     </annotations>
@@ -355,7 +355,7 @@
                         <segment>
                             <gword>Vatov</gword>
                             <gloss>Vatov</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>2005</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -405,7 +405,7 @@
                         <segment>
                             <gword>Vatov</gword>
                             <gloss>Vatov</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>2005</refind>
                         </segment>
                     </annotations>
@@ -502,7 +502,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>2006</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -1313,7 +1313,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s_ds</graid>
+                            <graid>pn_np.d:s_ds</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -1415,7 +1415,7 @@
                 <unit uid="0023" start_time="57097" end_time="60857">
                     <utterance_id>veraa_as1_0023</utterance_id>
                     <utterance>dir'ōl ov ēn qe'e wok gin ēn rōrō'</utterance>
-                    <utterance_translation>They pulled some taro and pinched off some cabage,</utterance_translation>
+                    <utterance_translation>They pulled some taro and pinched off some cabbage,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2120,7 +2120,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s_ds</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -2558,7 +2558,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s_ds</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -2823,7 +2823,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -4246,7 +4246,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s_ds</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -4756,7 +4756,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:voc</graid>
+                            <graid>pn_np.d:voc</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -4964,7 +4964,7 @@
                         <segment>
                             <gword>Lēmērig</gword>
                             <gloss>Lēmērig</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>2004</refind>
                         </segment>
                         <segment>
@@ -5076,7 +5076,7 @@
                         <segment>
                             <gword>Bē'elmamgin</gword>
                             <gloss>Bē'elmamgin</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5299,7 +5299,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -6301,7 +6301,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -6523,7 +6523,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:p</graid>
+                            <graid>pn_np.d:p</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -7056,7 +7056,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>nc_np.d</graid>
+                            <graid>nc_pn_np.d</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -7175,7 +7175,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:dt_s</graid>
+                            <graid>pn_np.d:dt_s</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -7186,7 +7186,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -7749,7 +7749,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:g</graid>
+                            <graid>pn_np.d:g</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -8075,7 +8075,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -8277,7 +8277,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:pred</graid>
+                            <graid>pn_np.d:pred</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -8571,7 +8571,7 @@
                         <segment>
                             <gword>Dōl</gword>
                             <gloss>Dōl</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -8624,7 +8624,7 @@
                         <segment>
                             <gword>Vatov</gword>
                             <gloss>Vatov</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>2005</refind>
                         </segment>
                         <segment>
@@ -8742,7 +8742,7 @@
                         <segment>
                             <gword>Lēmērig</gword>
                             <gloss>Lēmērig</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>2004</refind>
                         </segment>
                     </annotations>

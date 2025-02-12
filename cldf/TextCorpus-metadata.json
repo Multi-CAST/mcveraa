@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Schnell, Stefan. 2019. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)",
+    "dc:bibliographicCitation": "Schnell, Stefan. 2021. Multi-CAST Vera'a. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#veraa) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Vera'a** ([vera1241](https://glottolog.org/resource/languoid/id/vera1241)) is an Oceanic (Austronesian) language from the village of the same name on Vanua Lava (13.80\u00b0S 167.47\u00b0E), one of the Banks Islands in North Vanuatu. The language has approximately 450 speakers and is the first language of most inhabitants of Vera'a and the coastline to the north of it. Vera'a is closely related to the neighbouring language Vur\u00ebs, and speakers of Vera'a also speak Vur\u00ebs.\n\nBoth languages have been extensively documented within a VolkswagenStiftung-funded [DOBES documentation project](http://dobes.mpi.nl/projects/vures_veraa/) (2006\u20132012; PI: Dr Catriona Hyslop-Malau). Vera'a has been the focus of Stefan Schnell's PhD project at Kiel University (2007\u20132010, see [Schnell 2011](Source#cldf:schnell2011)), and Stefan has subsequently been undertaking additional documentary work on Vera'a as part of his ARC-funded DECRA project *Typology of Language Use* (ARC grant no. DE120102017) in 2012\u20132015, hosted by La Trobe University (Melbourne, Australia).\n\nThe Multi-CAST Vera'a corpus consists of 10 folkloristic narrative texts collected and annotated by Stefan Schnell. They constitute a subcorpus of a larger corpus of Vera'a compiled and curated by Stefan Schnell in close collaboration with speakers of the language and researchers of other disciplines from outside the community. Annotations with RefIND were added to the corpus in 2019 by Stefan Schnell and Maria Vollmer.\n\nThe texts in this corpus (version 2207) have been time-aligned at the phone level for a [data set](https://doreco.huma-num.fr/languages/vera1241) in the [DoReCo project](https://doreco.huma-num.fr/).",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#veraa",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcveraa",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1905",
+            "dc:created": "v1907",
             "dc:title": "Repository"
         },
         {

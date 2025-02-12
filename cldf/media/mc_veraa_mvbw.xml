@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="mvbw" annotators="Stefan Schnell" speaker="VR09">
-            <file f_name="mc_veraa_mvbw" audio="mc_veraa_mvbw.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_mvbw" audio="mc_veraa_mvbw.wav" updated="2020-09-08">
                 <unit uid="0001" start_time="0" end_time="3612">
                     <utterance_id>veraa_mvbw_0001</utterance_id>
                     <utterance>varian Stefan nome kakan kaka ne vōwal</utterance>
@@ -736,7 +736,7 @@
                 <unit uid="0010" start_time="40087" end_time="48006">
                     <utterance_id>veraa_mvbw_0010</utterance_id>
                     <utterance>'ōg sier durum 'ōgo 'ōgo van din̄ ēn vul ne livi'ie 'amēn ... vul ne liviva 'amēn dine len tētē</utterance>
-                    <utterance_translation>Expecting. They lived like this, until the nineth month, so that she would give birth.</utterance_translation>
+                    <utterance_translation>Expecting. They lived like this, until the ninth month, so that she would give birth.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1707,7 +1707,7 @@
                         <segment>
                             <gword>Wedin̄gōr</gword>
                             <gloss>Wedin̄gōr</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -1841,7 +1841,7 @@
                         <segment>
                             <gword>Bōar</gword>
                             <gloss>Bōar</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2221,7 +2221,7 @@
                         <segment>
                             <gword>Wēdin̄gōr</gword>
                             <gloss>Wēdin̄gōr</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>9005</refind>
                         </segment>
                         <segment>
@@ -2284,7 +2284,7 @@
                         <segment>
                             <gword>Bōar</gword>
                             <gloss>Bōar</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>9007</refind>
                         </segment>
                     </annotations>
@@ -3924,7 +3924,7 @@
                         <segment>
                             <gword>Bōar</gword>
                             <gloss>Bōar</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>9007</refind>
                         </segment>
                         <segment>
@@ -4608,7 +4608,7 @@
                 <unit uid="0050" start_time="244276" end_time="254659">
                     <utterance_id>veraa_mvbw_0050</utterance_id>
                     <utterance>ba 'uvu wōqe 'enge ne vōwal lēn wōm̄ōm̄ō' dir ga ul son wōn̄arn̄ar n wēwē ga marmar</utterance>
-                    <utterance_translation>But this one tree in the bush, they call it 'wōn2arn2ar' tree. Its fruits are very solid.</utterance_translation>
+                    <utterance_translation>But this one tree in the bush, they call it 'wōn̄arn̄ar' tree. Its fruits are very solid.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5015,7 +5015,7 @@
                         <segment>
                             <gword>Bōar</gword>
                             <gloss>Bōar</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>9007</refind>
                         </segment>
                         <segment>
@@ -5653,7 +5653,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                             <refind>9026</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -6624,7 +6624,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>9026</refind>
                         </segment>
                         <segment>
@@ -6756,7 +6756,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>9026</refind>
                         </segment>
                         <segment>
@@ -7323,7 +7323,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>9026</refind>
                         </segment>
                         <segment>
@@ -7378,7 +7378,7 @@
                 <unit uid="0075" start_time="381381" end_time="385338">
                     <utterance_id>veraa_mvbw_0075</utterance_id>
                     <utterance>'uwam̄ēre ne rem lik Wēdin̄gōr ne rem lik</utterance>
-                    <utterance_translation>Then the first born, Wēdin2gōr, climbed again.</utterance_translation>
+                    <utterance_translation>Then the first born, Wēdin̄gōr, climbed again.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7414,7 +7414,7 @@
                         <segment>
                             <gword>Wēdin̄gōr</gword>
                             <gloss>Wēdin̄gōr</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>9005</refind>
                         </segment>
                         <segment>
@@ -7582,7 +7582,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>9026</refind>
                         </segment>
                         <segment>
@@ -8572,7 +8572,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>9026</refind>
                         </segment>
                     </annotations>
@@ -12148,7 +12148,7 @@
                         <segment>
                             <gword>Wērēsurō</gword>
                             <gloss>Wērēsurō</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>9026</refind>
                         </segment>
                     </annotations>

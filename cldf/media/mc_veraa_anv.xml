@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="anv" annotators="Stefan Schnell" speaker="VR01">
-            <file f_name="mc_veraa_anv" audio="mc_veraa_anv.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_anv" audio="mc_veraa_anv.wav" updated="2020-06-16">
                 <unit uid="0001" start_time="0" end_time="4396">
                     <utterance_id>veraa_anv_0001</utterance_id>
                     <utterance>qōn̄ vōwal e ruwa mēn gunuruō</utterance>
@@ -2129,7 +2129,7 @@
                         <segment>
                             <gword>duruō</gword>
                             <gloss>3DL</gloss>
-                            <graid>rn_pro.h:p</graid>
+                            <graid>pro.h:p</graid>
                             <refind>1009</refind>
                         </segment>
                     </annotations>
@@ -6053,7 +6053,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>0:p</graid>
+                            <graid>pro:p</graid>
                             <refind>1029</refind>
                         </segment>
                         <segment>

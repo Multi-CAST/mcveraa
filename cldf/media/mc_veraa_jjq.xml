@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="jjq" annotators="Stefan Schnell" speaker="VR08">
-            <file f_name="mc_veraa_jjq" audio="mc_veraa_jjq.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_jjq" audio="mc_veraa_jjq.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="0" end_time="3863">
                     <utterance_id>veraa_jjq_0001</utterance_id>
                     <utterance>qōn̄ ne vōwal</utterance>
@@ -43,7 +43,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                             <refind>8001</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -186,7 +186,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>8004</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -210,7 +210,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:dt</graid>
+                            <graid>pn_np:dt</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -243,7 +243,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -325,7 +325,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -363,7 +363,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -623,7 +623,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -790,7 +790,7 @@
                         </segment>
                         <segment>
                             <gword>kal</gword>
-                            <gloss>go.uwards</gloss>
+                            <gloss>go.upwards</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -821,7 +821,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -963,7 +963,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -1416,7 +1416,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:p</graid>
+                            <graid>pn_np.h:p</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -1460,7 +1460,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                         </segment>
                         <segment>
                             <gword>nikē</gword>
@@ -1529,7 +1529,7 @@
                         <segment>
                             <gword>kamak</gword>
                             <gloss>1PL.EX:TAM2</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.1:s</graid>
                             <refind>8002</refind>
                         </segment>
                         <segment>
@@ -1837,7 +1837,7 @@
                         <segment>
                             <gword>-mam</gword>
                             <gloss>-1PL.EX</gloss>
-                            <graid>-rv_pro.h:poss</graid>
+                            <graid>-rv_pro.1:poss</graid>
                             <refind>8002</refind>
                         </segment>
                         <segment>
@@ -1912,7 +1912,7 @@
                         <segment>
                             <gword>Serewan</gword>
                             <gloss>Serewan</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8010</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -1972,7 +1972,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -2061,7 +2061,7 @@
                         <segment>
                             <gword>Narwē</gword>
                             <gloss>Narwē</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8012</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -2645,7 +2645,7 @@
                         <segment>
                             <gword>-de</gword>
                             <gloss>-1PL.IN</gloss>
-                            <graid>-rn_pro.h:poss</graid>
+                            <graid>-rn_pro.1:poss</graid>
                             <refind>8002</refind>
                         </segment>
                     </annotations>
@@ -2776,7 +2776,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8004</refind>
                         </segment>
                     </annotations>
@@ -3120,7 +3120,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_a</graid>
+                            <graid>pn_np.h:dt_a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -3622,7 +3622,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -3914,7 +3914,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -4826,7 +4826,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -5218,7 +5218,7 @@
                         <segment>
                             <gword>Qo</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -6291,7 +6291,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -6549,7 +6549,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -7065,7 +7065,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -7349,7 +7349,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -7560,7 +7560,7 @@
                         <segment>
                             <gword>-k</gword>
                             <gloss>-1SG</gloss>
-                            <graid>-rn_pro.h:poss</graid>
+                            <graid>-rn_pro.1:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -7884,7 +7884,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -8081,7 +8081,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -8142,7 +8142,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -8946,7 +8946,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -8973,7 +8973,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8004</refind>
                         </segment>
                     </annotations>
@@ -9358,7 +9358,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -9464,7 +9464,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -9784,7 +9784,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -9935,7 +9935,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -10019,7 +10019,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -10280,7 +10280,7 @@
                         <segment>
                             <gword>Qo</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -10805,7 +10805,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -10914,7 +10914,8 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>other</graid>
+                            <graid>pn_np.h:other</graid>
+                            <refind>8001</refind>
                         </segment>
                         <segment>
                             <gword>n</gword>
@@ -11579,7 +11580,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -11818,7 +11819,7 @@
                         <segment>
                             <gword>Vera'a</gword>
                             <gloss>Vera'a</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -11980,7 +11981,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -12571,7 +12572,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -12619,7 +12620,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -12884,7 +12885,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8045</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -12975,7 +12976,7 @@
                         <segment>
                             <gword>Rev</gword>
                             <gloss>Rev</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>8004</refind>
                         </segment>
                         <segment>
@@ -13012,7 +13013,7 @@
                         <segment>
                             <gword>Sisiol</gword>
                             <gloss>Sisiol</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8047</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -13067,7 +13068,7 @@
                         <segment>
                             <gword>Sisiol</gword>
                             <gloss>Sisiol</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>8047</refind>
                         </segment>
                         <segment>
@@ -13107,7 +13108,7 @@
                         <segment>
                             <gword>Tatgan</gword>
                             <gloss>Tatgan</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -13179,7 +13180,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -13211,7 +13212,7 @@
                         <segment>
                             <gword>Tamlin̄lin̄</gword>
                             <gloss>Tamlin̄lin̄</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -13228,7 +13229,7 @@
                         <segment>
                             <gword>Sisiol</gword>
                             <gloss>Sisiol</gloss>
-                            <graid>np:dt</graid>
+                            <graid>pn_np:dt</graid>
                         </segment>
                         <segment>
                             <gword>ba</gword>
@@ -13403,7 +13404,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -13849,7 +13850,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -13958,7 +13959,7 @@
                         <segment>
                             <gword>Tatgan</gword>
                             <gloss>Tatgan</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8049</refind>
                         </segment>
                     </annotations>
@@ -14002,7 +14003,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8045</refind>
                         </segment>
                     </annotations>
@@ -14025,7 +14026,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -14475,7 +14476,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -15721,7 +15722,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -15912,7 +15913,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -16415,7 +16416,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8045</refind>
                         </segment>
                     </annotations>
@@ -16985,7 +16986,7 @@
                         <segment>
                             <gword>Rōlē</gword>
                             <gloss>Rōlē</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -17218,7 +17219,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -17721,7 +17722,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -17770,7 +17771,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -17781,7 +17782,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -17812,7 +17813,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -17942,7 +17943,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -18336,7 +18337,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -18548,7 +18549,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -18719,7 +18720,8 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np.h</graid>
+                            <refind>8001</refind>
                         </segment>
                         <segment>
                             <gword>ne</gword>
@@ -18739,7 +18741,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19099,7 +19101,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -19164,7 +19166,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19250,7 +19252,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8045</refind>
                         </segment>
                     </annotations>
@@ -19315,7 +19317,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8045</refind>
                         </segment>
                     </annotations>
@@ -19584,7 +19586,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19596,7 +19598,7 @@
                 </unit>
                 <unit uid="0250" start_time="972059" end_time="975144">
                     <utterance_id>veraa_jjq_0250</utterance_id>
-                    <utterance>e Qo' nē Qo sas van kelkel 'i 'anē 'e raga 'anē so</utterance>
+                    <utterance>e Qo' nē Qo' sas van kelkel 'i 'anē 'e raga 'anē so</utterance>
                     <utterance_translation>'Qo'! It must be Qo' walking there.'</utterance_translation>
                     <annotations>
                         <segment>
@@ -19618,7 +19620,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19634,7 +19636,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19730,7 +19732,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19741,7 +19743,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19779,7 +19781,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -19949,7 +19951,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -20107,7 +20109,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -20196,7 +20198,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -20396,7 +20398,7 @@
                         <segment>
                             <gword>Lokon</gword>
                             <gloss>Lokon</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>8045</refind>
                         </segment>
                         <segment>
@@ -20553,7 +20555,7 @@
                         <segment>
                             <gword>'ekē</gword>
                             <gloss>place</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_np</graid>
                             <refind>8076</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -20596,8 +20598,7 @@
                         <segment>
                             <gword>Lebot</gword>
                             <gloss>Lebot</gloss>
-                            <graid>other:pred</graid>
-                            <refind>8076</refind>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -20619,7 +20620,8 @@
                         <segment>
                             <gword>Lebot</gword>
                             <gloss>Lebot</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np</graid>
+                            <refind>8076</refind>
                         </segment>
                         <segment>
                             <gword>'an</gword>
@@ -20727,7 +20729,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>rn_np.d:poss</graid>
+                            <graid>rn_pn_np.d:poss</graid>
                             <refind>8077</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -20746,7 +20748,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -20987,7 +20989,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -21115,7 +21117,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -21551,7 +21553,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>8081</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -21613,7 +21615,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -21909,7 +21911,7 @@
                         <segment>
                             <gword>Wōqōn̄qōn̄</gword>
                             <gloss>Wōqōn̄qōn̄</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>pn_np.h:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -21926,7 +21928,7 @@
                         <segment>
                             <gword>Wōqōn̄qōn̄</gword>
                             <gloss>Wōqōn̄qōn̄</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8082</refind>
                         </segment>
                         <segment>
@@ -22490,7 +22492,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -22684,7 +22686,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np.h</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -22919,7 +22921,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -22945,7 +22947,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23003,7 +23005,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23039,7 +23041,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23093,7 +23095,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23145,7 +23147,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23189,7 +23191,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23388,7 +23390,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -23611,7 +23613,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -23870,7 +23872,8 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np.h</graid>
+                            <refind>8001</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -23907,7 +23910,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                     </annotations>
@@ -23935,7 +23938,7 @@
                         <segment>
                             <gword>Tagar</gword>
                             <gloss>Tagar</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8082</refind>
                         </segment>
                         <segment>
@@ -24441,7 +24444,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s_ds</graid>
+                            <graid>pn_np.d:s_ds</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -24695,7 +24698,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -24893,7 +24896,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -25144,7 +25147,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -25410,7 +25413,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:dt_s</graid>
+                            <graid>pn_np.d:dt_s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -26127,7 +26130,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -26299,7 +26302,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -26777,7 +26780,7 @@
                         <segment>
                             <gword>Tagarlōlqōn̄</gword>
                             <gloss>Tagarlōlqōn̄</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8082</refind>
                         </segment>
                         <segment>
@@ -26920,7 +26923,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -27006,7 +27009,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -27255,7 +27258,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -27363,7 +27366,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:s_ds</graid>
+                            <graid>pro.d:s_ds</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -27394,7 +27397,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -27704,7 +27707,7 @@
                         <segment>
                             <gword>Lōkōno</gword>
                             <gloss>Lōkōno</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>8045</refind>
                         </segment>
                     </annotations>
@@ -27739,7 +27742,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -27899,7 +27902,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -28179,7 +28182,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -28271,7 +28274,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -28971,7 +28974,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -29250,7 +29253,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -29454,7 +29457,7 @@
                         <segment>
                             <gword>Tagarlōlqōn̄</gword>
                             <gloss>Tagarlōlqōn̄</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8082</refind>
                         </segment>
                         <segment>
@@ -30390,7 +30393,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -30427,7 +30430,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_a</graid>
+                            <graid>pn_np.h:dt_a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -30467,7 +30470,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_a</graid>
+                            <graid>pn_np.h:dt_a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -30929,7 +30932,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:dt_s</graid>
+                            <graid>pn_np.d:dt_s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -31142,7 +31145,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:dt_s</graid>
+                            <graid>pn_np.d:dt_s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -31174,7 +31177,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -31748,7 +31751,7 @@
                         <segment>
                             <gword>Tagarlōlqōn̄</gword>
                             <gloss>Tagarlōlqōn̄</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8082</refind>
                         </segment>
                         <segment>
@@ -31989,7 +31992,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -32133,7 +32136,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -32353,7 +32356,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -32815,7 +32818,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>rn_np.d:poss</graid>
+                            <graid>rn_pn_np.d:poss</graid>
                             <refind>8077</refind>
                         </segment>
                     </annotations>
@@ -32828,7 +32831,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -32933,7 +32936,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -33030,7 +33033,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:a</graid>
+                            <graid>pn_np.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -33110,7 +33113,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:p</graid>
+                            <graid>pn_np.d:p</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -33313,7 +33316,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -33349,7 +33352,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:obl</graid>
+                            <graid>pn_np.d:obl</graid>
                             <refind>8077</refind>
                         </segment>
                     </annotations>
@@ -33367,7 +33370,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -33439,7 +33442,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.d:a</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -33633,7 +33636,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>nc_np.h</graid>
+                            <graid>nc_pn_np.h</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -33804,7 +33807,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>nc_np.h</graid>
+                            <graid>nc_pn_np.h</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -33847,7 +33850,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -34095,7 +34098,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8074</refind>
                         </segment>
                         <segment>
@@ -34157,7 +34160,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -34434,7 +34437,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:obl</graid>
+                            <graid>pn_np.h:obl</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -34614,7 +34617,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -34680,7 +34683,7 @@
                         <segment>
                             <gword>di</gword>
                             <gloss>3SG</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>pro.d:p</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -34791,7 +34794,7 @@
                         <segment>
                             <gword>Tumeren</gword>
                             <gloss>Tumeren</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>8077</refind>
                         </segment>
                         <segment>
@@ -35009,7 +35012,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -35226,7 +35229,7 @@
                         <segment>
                             <gword>Vunu Lava</gword>
                             <gloss>Vanua.Lava</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>8081</refind>
                         </segment>
                     </annotations>
@@ -35421,7 +35424,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -35545,7 +35548,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>
@@ -35985,7 +35988,7 @@
                         <segment>
                             <gword>Qo'</gword>
                             <gloss>Qo'</gloss>
-                            <graid>np.h:a</graid>
+                            <graid>pn_np.h:a</graid>
                             <refind>8001</refind>
                         </segment>
                         <segment>

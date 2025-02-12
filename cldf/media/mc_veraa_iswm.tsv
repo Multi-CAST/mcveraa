@@ -20,15 +20,15 @@ veraa	iswm	0002	me	FUT	lv	lv
 veraa	iswm	0002	kaka	story	v:pred	v		pred		
 veraa	iswm	0002	'ar	chop	rv	rv				
 veraa	iswm	0002	e	PERS.ART	ln	ln				
-veraa	iswm	0002	Wowōt	Wowōt	np.h:p	np	h	p	7001	new
+veraa	iswm	0002	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	new
 veraa	iswm	0002	wo	and	rn	rn				
 veraa	iswm	0002	e	PERS.ART	rn	rn				
-veraa	iswm	0002	m̄eter	m̄eter	rn_np.h	rn_np	h		7002	new
+veraa	iswm	0002	m̄eter	m̄eter	rn_pn_np.h	rn_pn_np	h		7002	new
 veraa	iswm	0003	#	#	##	##				
-veraa	iswm	0003	Wowōt	Wowōt	np.h:dt_poss	np	h	dt_poss	7001	
+veraa	iswm	0003	Wowōt	Wowōt	pn_np.h:dt_poss	pn_np	h	dt_poss	7001	
 veraa	iswm	0003	'o-gi	'o-3SG	rn_adp	rn_adp				
 veraa	iswm	0003	e	PERS.ART	rn	rn				
-veraa	iswm	0003	m̄eter	m̄eter	rn_np.h	rn_np	h		7002	
+veraa	iswm	0003	m̄eter	m̄eter	rn_pn_np.h	rn_pn_np	h		7002	
 veraa	iswm	0003	eh	HES	nc	nc				
 veraa	iswm	0003	n	ART	ln	ln				
 veraa	iswm	0003	vono	vono	np:s	np		s	7003	new
@@ -44,9 +44,9 @@ veraa	iswm	0004	lē	LOC	adp	adp
 veraa	iswm	0004	=n	=ART	=ln	=ln				
 veraa	iswm	0004	vono-n	vono-CS	np:l	np		l	7006	new
 veraa	iswm	0004	e	PERS.ART	rn	rn				
-veraa	iswm	0004	Wowōt	Wowōt	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0004	Wowōt	Wowōt	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0004	a	LOC.SP	rn	rn				
-veraa	iswm	0004	Nōs	place.name	rn_np	rn_np				
+veraa	iswm	0004	Nōs	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0005	#	#	##	##				
 veraa	iswm	0005	ZERO	ZERO	0:s	0		s	7006	
 veraa	iswm	0005	so	name	np:pred	np		pred		
@@ -59,11 +59,11 @@ veraa	iswm	0005	ga	STAT	lv	lv
 veraa	iswm	0005	ul	call	v:pred	v		pred		
 veraa	iswm	0005	ZERO	ZERO	0:p	0		p	7006	
 veraa	iswm	0005	a	LOC.SP	adp	adp				
-veraa	iswm	0005	Nōs	place.name	np:other	np		other		
+veraa	iswm	0005	Nōs	place.name	pn_np:other	pn_np		other		
 veraa	iswm	0006	#	#	##	##				
 veraa	iswm	0006	vono-n	home-CS	np:dt	np		dt	7007	bridging
 veraa	iswm	0006	e	PERS.ART	rn	rn				
-veraa	iswm	0006	m̄eter	m̄eter	rn_np.h:poss	rn_np	h	poss	7002	
+veraa	iswm	0006	m̄eter	m̄eter	rn_pn_np.h:poss	rn_pn_np	h	poss	7002	
 veraa	iswm	0006	#	#	#nc	#nc				
 veraa	iswm	0006	dir	3PL	nc_pro.h	nc_pro	h		7005	
 veraa	iswm	0006	ga	STAT	nc	nc				
@@ -85,17 +85,17 @@ veraa	iswm	0009	'a	'a	nc	nc
 veraa	iswm	0009	n̄ere	NC	nc	nc				
 veraa	iswm	0009	eh	HES	nc	nc				
 veraa	iswm	0009	%	%	%	%				
-veraa	iswm	0009	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0009	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0009	ga	STAT	lv	lv				
 veraa	iswm	0009	'ōg	stay	v:pred	v		pred		
 veraa	iswm	0009	a	LOC.SP	adp	adp				
-veraa	iswm	0009	n̄erelan̄tir	place.name	np:l	np		l	7007	
+veraa	iswm	0009	n̄erelan̄tir	place.name	pn_np:l	pn_np		l	7007	
 veraa	iswm	0010	#	#	##	##				
-veraa	iswm	0010	Wowōt	Wowōt	np.h:s	np	h	s	7001	
+veraa	iswm	0010	Wowōt	Wowōt	pn_np.h:s	pn_np	h	s	7001	
 veraa	iswm	0010	ga	STAT	lv	lv				
 veraa	iswm	0010	'ōg	stay	v:pred	v		pred		
 veraa	iswm	0010	a	LOC.SP	adp	adp				
-veraa	iswm	0010	Nōs	place.name	np:l	np		l	7006	
+veraa	iswm	0010	Nōs	place.name	pn_np:l	pn_np		l	7006	
 veraa	iswm	0011	#	#	##	##				
 veraa	iswm	0011	n	ART	ln	ln				
 veraa	iswm	0011	qōn̄	night	np:other	np		other		
@@ -287,17 +287,17 @@ veraa	iswm	0028	ēn	ART	ln	ln
 veraa	iswm	0028	so	name	np:p	np		p	7014	new
 veraa	iswm	0028	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	7001	
 veraa	iswm	0028	so	CPL	other	other				
-veraa	iswm	0028	Wowōt	Wowōt	np.h:other	np	h	other	7001	
+veraa	iswm	0028	Wowōt	Wowōt	pn_np.h:other	pn_np	h	other	7001	
 veraa	iswm	0029	#	#	##ds	##ds				
 veraa	iswm	0029	nik	2SG	pro.2:s	pro	2	s	7001	
 veraa	iswm	0029	e	GEN.NEG1	lv	lv				
-veraa	iswm	0029	Wowōt	Wowōt	v:pred	v		pred		
+veraa	iswm	0029	Wowōt	Wowōt	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0029	wuva	only	rv	rv				
 veraa	iswm	0029	rōs	GEN.NEG2	rv	rv				
 veraa	iswm	0029	#	#	##ds	##ds				
 veraa	iswm	0029	ba	but	other	other				
 veraa	iswm	0029	nik	2SG	pro.2:s	pro	2	s	7001	
-veraa	iswm	0029	Wowōt	Wowōt	np.h:pred	np	h	pred		
+veraa	iswm	0029	Wowōt	Wowōt	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0029	sir	for	adp	adp				
 veraa	iswm	0029	ēn	ART	ln	ln				
 veraa	iswm	0029	sava	what	np:other	np		other		
@@ -318,12 +318,12 @@ veraa	iswm	0030	ba	but	other	other
 veraa	iswm	0030	dirēm	dirēm	nc	nc				
 veraa	iswm	0030	'ama-n	father-CS	np.h:s	np	h	s	7010	
 veraa	iswm	0030	e	PERS.ART	rn	rn				
-veraa	iswm	0030	Wowōt	Wowōt	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0030	Wowōt	Wowōt	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0030	wo	and	rn	rn				
 veraa	iswm	0030	=n	=ART	=rn	=rn				
 veraa	iswm	0030	vēvē-n	mother-CS	rn_np.h	rn_np	h		7015	bridging
 veraa	iswm	0030	e	PERS.ART	rn	rn				
-veraa	iswm	0030	Wowōt	Wowōt	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0030	Wowōt	Wowōt	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0030	m	TAM1	lv	lv				
 veraa	iswm	0030	da	do	v:pred	v		pred		
 veraa	iswm	0030	mē	DAT	adp	adp				
@@ -352,7 +352,7 @@ veraa	iswm	0032	di	3SG	pro.h:a	pro	h	a	7001
 veraa	iswm	0032	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0032	van	go	v:pred	v		pred		
 veraa	iswm	0032	ma	hither	rv	rv				
-veraa	iswm	0032	Wowōt	Wowōt	np.h:p	np	h	p	7001	
+veraa	iswm	0032	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0033	#	#	##	##				
 veraa	iswm	0033	'ōw'ōw	before	other	other				
 veraa	iswm	0033	den	ABL	adp	adp				
@@ -361,7 +361,7 @@ veraa	iswm	0033	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s
 veraa	iswm	0033	van	go	v:pred	v		pred		
 veraa	iswm	0033	lē	LOC	adp	adp				
 veraa	iswm	0033	=n	=ART	=ln	=ln				
-veraa	iswm	0033	Wowōt	Wowōt	np.h:g	np	h	g	7001	
+veraa	iswm	0033	Wowōt	Wowōt	pn_np.h:g	pn_np	h	g	7001	
 veraa	iswm	0034	#	#	##	##				
 veraa	iswm	0034	masō-gi	time-3SG	np:other	np		other		
 veraa	iswm	0034	duru	3DL	pro.h:s	pro	h	s	7008	
@@ -446,7 +446,7 @@ veraa	iswm	0040	#	#	#ac	#ac
 veraa	iswm	0040	mana-gi	reason-3SG	other	other				
 veraa	iswm	0040	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0040	=n	=ART	=ln	=ln				
-veraa	iswm	0040	Wowōt	Wowōt	np.h:pred	np	h	pred		
+veraa	iswm	0040	Wowōt	Wowōt	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0041	#	#	##	##				
 veraa	iswm	0041	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0041	m	TAM1	lv	lv				
@@ -495,7 +495,7 @@ veraa	iswm	0045	qēl	descend	rv	rv
 veraa	iswm	0046	sar	inwards	rv	rv				
 veraa	iswm	0046	sir	for	adp	adp				
 veraa	iswm	0046	ēn	ART	ln	ln				
-veraa	iswm	0046	Laln̄e'ak	place.name	np:g	np		g	7022	new
+veraa	iswm	0046	Laln̄e'ak	place.name	pn_np:g	pn_np		g	7022	new
 veraa	iswm	0046	#	#	##	##				
 veraa	iswm	0046	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	iswm	0046	van	go	v:pred	v		pred		
@@ -503,7 +503,7 @@ veraa	iswm	0046	#	#	##	##
 veraa	iswm	0046	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	iswm	0046	din̄	reach	v:pred	v		pred		
 veraa	iswm	0046	ēn	ART	ln	ln				
-veraa	iswm	0046	n̄erelan̄tir	place.name	np:p	np		p	7007	
+veraa	iswm	0046	n̄erelan̄tir	place.name	pn_np:p	pn_np		p	7007	
 veraa	iswm	0047	#	#	##	##				
 veraa	iswm	0047	vaga	always	other	other				
 veraa	iswm	0047	di	3SG	nc	nc				
@@ -598,7 +598,7 @@ veraa	iswm	0051	qōn̄	night	np:other	np		other
 veraa	iswm	0051	%	%	%	%				
 veraa	iswm	0051	anē'ē	DEM1.A	rn_dem1	rn_dem1				
 veraa	iswm	0052	e	PERS.ART	ln	ln				
-veraa	iswm	0052	Meter	Meter	np.h:s	np	h	s	7002	
+veraa	iswm	0052	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0052	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0052	vo-vo'	RED-plait	v:pred	v		pred		
 veraa	iswm	0053	#	#	##	##				
@@ -703,7 +703,7 @@ veraa	iswm	0059	e	PERS.ART	ln	ln
 veraa	iswm	0059	raga	people	ln	ln				
 veraa	iswm	0059	m̄ērm̄ēr	kid	np.h:dt_a	np	h	dt_a	7024	
 veraa	iswm	0059	'a	ASS.SP	rn	rn				
-veraa	iswm	0059	Nōs	place.name	rn_np	rn_np				
+veraa	iswm	0059	Nōs	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0059	dir	3PL	pro.h:a	pro	h	a	7024	
 veraa	iswm	0059	=ēk	=TAM2	=lv	=lv				
 veraa	iswm	0059	vesir	ask	v:pred	v		pred		
@@ -739,9 +739,9 @@ veraa	iswm	0062	=n	=ART	=ln	=ln
 veraa	iswm	0062	qōn̄	night	np:other	np		other		
 veraa	iswm	0062	asegēnē	MAN.DEM2.A	rn_dem2	rn_dem2				
 veraa	iswm	0062	e	PERS.ART	nc	nc				
-veraa	iswm	0062	m̄eter	m̄eter	nc_np.h	nc_np	h		7002	
+veraa	iswm	0062	m̄eter	m̄eter	nc_pn_np.h	nc_pn_np	h		7002	
 veraa	iswm	0062	erō	PERS.ART.F	ln	ln				
-veraa	iswm	0062	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0062	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0062	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0062	sagsag	RED:sit	v:pred	v		pred		
 veraa	iswm	0062	#	#	##	##				
@@ -859,7 +859,7 @@ veraa	iswm	0071	'eraga	'eraga	nc	nc
 veraa	iswm	0071	ga	STAT	nc	nc				
 veraa	iswm	0071	%	%	nc	nc				
 veraa	iswm	0071	e	PERS.ART	nc	nc				
-veraa	iswm	0071	m̄eter	m̄eter	nc_np.h	nc_np	h		7002	
+veraa	iswm	0071	m̄eter	m̄eter	nc_pn_np.h	nc_pn_np	h		7002	
 veraa	iswm	0071	ga	STAT	nc	nc				
 veraa	iswm	0071	'awis	dislike	nc	nc				
 veraa	iswm	0071	dirē	3PL	nc_np.h	nc_np	h		7042	
@@ -892,7 +892,7 @@ veraa	iswm	0074	ZERO	ZERO	0.h:a	0	h	a	7043
 veraa	iswm	0074	=k	=TAM2	=lv	=lv				
 veraa	iswm	0074	'anam̄ēg	try.on	v:pred	v		pred		
 veraa	iswm	0074	erō	PERS.ART.F	ln	ln				
-veraa	iswm	0074	m̄eter	m̄eter	np.h:p	np	h	p	7002	
+veraa	iswm	0074	m̄eter	m̄eter	pn_np.h:p	pn_np	h	p	7002	
 veraa	iswm	0074	#	#	##	##				
 veraa	iswm	0074	ba	but	other	other				
 veraa	iswm	0074	di	3SG	pro.h:a	pro	h	a	7002	
@@ -905,7 +905,7 @@ veraa	iswm	0075	=n	=ART	=ln	=ln
 veraa	iswm	0075	qōn̄	night	np:other	np		other		
 veraa	iswm	0075	ne	NUM.ART	rn	rn				
 veraa	iswm	0075	vō-wal	NUM-one	rn	rn				
-veraa	iswm	0075	Wowōt	Wowōt	np.h:a	np	h	a	7001	
+veraa	iswm	0075	Wowōt	Wowōt	pn_np.h:a	pn_np	h	a	7001	
 veraa	iswm	0075	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0075	vesir	ask	v:pred	v		pred		
 veraa	iswm	0075	e	PERS.ART	ln	ln				
@@ -939,7 +939,7 @@ veraa	iswm	0078	gōr	secure	rv	rv
 veraa	iswm	0078	#	#	##ds	##ds				
 veraa	iswm	0078	nikē	2SG	pro.2:s	pro	2	s	7001	
 veraa	iswm	0078	e	PERS.ART	ln	ln				
-veraa	iswm	0078	Wowōt	Wowōt	np.h:pred	np	h	pred		
+veraa	iswm	0078	Wowōt	Wowōt	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0078	#	#	##	##				
 veraa	iswm	0078	nik	2SG	pro.2:a	pro	2	a	7001	
 veraa	iswm	0078	ē	TAM2	lv-pro_2_a	lv-pro_2_a				
@@ -950,7 +950,7 @@ veraa	iswm	0078	ren̄e	woman	np.h:p	np	h	p	7002
 veraa	iswm	0078	#	#	##ds	##ds				
 veraa	iswm	0078	di	3SG	pro.h:s	pro	h	s	7002	
 veraa	iswm	0078	=n	=ART	=ln	=ln				
-veraa	iswm	0078	m̄eter	m̄eter	np.h:pred	np	h	pred		
+veraa	iswm	0078	m̄eter	m̄eter	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0078	rekse	like	adp	adp				
 veraa	iswm	0078	e	PERS.ART	ln	ln				
 veraa	iswm	0078	nikē	2SG	pro.2:other	pro	2	other	7001	
@@ -1035,7 +1035,7 @@ veraa	iswm	0086	=n	=ART	=ln	=ln
 veraa	iswm	0086	dōdōmia	thought	np:g	np		g		
 veraa	iswm	0086	mu-n	POSS.GEN-CS	rn	rn				
 veraa	iswm	0086	e	PERS.ART	rn	rn				
-veraa	iswm	0086	Wowōt	Wowōt	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0086	Wowōt	Wowōt	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0086	#	#	#cc:s	#cc		s		
 veraa	iswm	0086	so	CPL	other	other				
 veraa	iswm	0086	di	3SG	pro.h:s	pro	h	s	7001	
@@ -1161,7 +1161,7 @@ veraa	iswm	0095	ul	call	v:pred	v		pred
 veraa	iswm	0095	ZERO	ZERO	0:p	0		p		
 veraa	iswm	0095	so	QUOT	other	other				
 veraa	iswm	0095	=n	=ART	=ln	=ln				
-veraa	iswm	0095	Alkētreva	place.name	np:other	np		other		
+veraa	iswm	0095	Alkētreva	place.name	pn_np:other	pn_np		other		
 veraa	iswm	0095	#	#	##	##				
 veraa	iswm	0095	ba	but	other	other				
 veraa	iswm	0095	'ōw'ōw	before	other	other				
@@ -1200,7 +1200,7 @@ veraa	iswm	0096	ZERO	ZERO	0.h:s	0	h	s	7001
 veraa	iswm	0096	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0096	din̄	reach	v:pred	v		pred		
 veraa	iswm	0096	a	LOC.SP	adp	adp				
-veraa	iswm	0096	Ban̄lav	place.name	np:g	np		g	7049	new
+veraa	iswm	0096	Ban̄lav	place.name	pn_np:g	pn_np		g	7049	new
 veraa	iswm	0097	#	#	##	##				
 veraa	iswm	0097	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0097	=m	=TAM1	=lv	=lv				
@@ -1208,7 +1208,7 @@ veraa	iswm	0097	v--	NC	nc	nc
 veraa	iswm	0097	'ukeg	letgo	v:pred	v		pred		
 veraa	iswm	0097	den	ABL	adp	adp				
 veraa	iswm	0097	a	LOC.SP	adp	adp				
-veraa	iswm	0097	Ban̄lav	place.name	np:obl	np		obl	7049	
+veraa	iswm	0097	Ban̄lav	place.name	pn_np:obl	pn_np		obl	7049	
 veraa	iswm	0097	#	#	##	##				
 veraa	iswm	0097	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0097	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
@@ -1218,7 +1218,7 @@ veraa	iswm	0097	ZERO	ZERO	0.h:s	0	h	s	7001
 veraa	iswm	0097	=m	=TAM1	=lv	=lv				
 veraa	iswm	0097	kal	upwards	v:pred	v		pred		
 veraa	iswm	0097	a	LOC.SP	adp	adp				
-veraa	iswm	0097	Laln̄ē'ak	place.name	np:g	np		g	7050	new
+veraa	iswm	0097	Laln̄ē'ak	place.name	pn_np:g	pn_np		g	7050	new
 veraa	iswm	0097	lē	LOC	adp	adp				
 veraa	iswm	0097	=n	=ART	=ln	=ln				
 veraa	iswm	0097	qōn̄	night	np:other	np		other		
@@ -1227,60 +1227,60 @@ veraa	iswm	0098	ZERO	ZERO	0.h:s	0	h	s	7001
 veraa	iswm	0098	'ukeg	letgo	v:pred	v		pred		
 veraa	iswm	0098	den	ABL	adp	adp				
 veraa	iswm	0098	ēn	ART	ln	ln				
-veraa	iswm	0098	Laln̄ē'ak	place.name	np:obl	np		obl	7050	
+veraa	iswm	0098	Laln̄ē'ak	place.name	pn_np:obl	pn_np		obl	7050	
 veraa	iswm	0098	#	#	##	##				
 veraa	iswm	0098	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0098	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0098	kal	enter	v:pred	v		pred		
 veraa	iswm	0098	a	LOC.SP	adp	adp				
-veraa	iswm	0098	Qugemel	place.name	np:g	np		g	7051	new
+veraa	iswm	0098	Qugemel	place.name	pn_np:g	pn_np		g	7051	new
 veraa	iswm	0099	#	#	##	##				
 veraa	iswm	0099	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0099	'ukeg	letgo	v:pred	v		pred		
 veraa	iswm	0099	den	ABL	adp	adp				
 veraa	iswm	0099	ēn	ART	ln	ln				
-veraa	iswm	0099	Qugemel	place.name	np:obl	np		obl	7051	
+veraa	iswm	0099	Qugemel	place.name	pn_np:obl	pn_np		obl	7051	
 veraa	iswm	0099	#	#	##	##				
 veraa	iswm	0099	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0099	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0099	kal	enter	v:pred	v		pred		
 veraa	iswm	0099	a	LOC.SP	adp	adp				
-veraa	iswm	0099	Mamles	place.name	np:g	np		g	7052	new
+veraa	iswm	0099	Mamles	place.name	pn_np:g	pn_np		g	7052	new
 veraa	iswm	0099	vunu	land	np:dt_g	np		dt_g	7052	
 veraa	iswm	0099	a	LOC.SP	rn	rn				
-veraa	iswm	0099	Mamles	place.name	rn_np	rn_np				
+veraa	iswm	0099	Mamles	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0100	#	#	##	##				
 veraa	iswm	0100	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0100	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0100	'ukeg	letgo	v:pred	v		pred		
 veraa	iswm	0100	den	ABL	adp	adp				
 veraa	iswm	0100	NC	NC	nc	nc				
-veraa	iswm	0100	Mamles	place.name	np:obl	np		obl	7052	
+veraa	iswm	0100	Mamles	place.name	pn_np:obl	pn_np		obl	7052	
 veraa	iswm	0100	#	#	##	##				
 veraa	iswm	0100	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0100	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0100	kal	enter	v:pred	v		pred		
 veraa	iswm	0100	a	LOC.SP	adp	adp				
-veraa	iswm	0100	Kalon	place.name	np:g	np		g	7053	new
+veraa	iswm	0100	Kalon	place.name	pn_np:g	pn_np		g	7053	new
 veraa	iswm	0101	#	#	##	##				
 veraa	iswm	0101	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0101	'ukeg	letgo	v:pred	v		pred		
 veraa	iswm	0101	den	ABL	adp	adp				
 veraa	iswm	0101	ēn	ART	ln	ln				
-veraa	iswm	0101	Kalen	place.name	np:obl	np		obl	7053	
+veraa	iswm	0101	Kalen	place.name	pn_np:obl	pn_np		obl	7053	
 veraa	iswm	0101	#	#	##	##				
 veraa	iswm	0101	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0101	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0101	kal	enter	v:pred	v		pred		
 veraa	iswm	0101	a	LOC.SP	adp	adp				
-veraa	iswm	0101	Qesōw	place.name	np:g	np		g	7054	new
+veraa	iswm	0101	Qesōw	place.name	pn_np:g	pn_np		g	7054	new
 veraa	iswm	0102	#	#	##	##				
 veraa	iswm	0102	masō-gi	time-3SG	np:other	np		other		
 veraa	iswm	0102	di	3SG	pro.h:a	pro	h	a	7001	
 veraa	iswm	0102	=m	=TAM1	=lv	=lv				
 veraa	iswm	0102	rōv-rōv'e	RED-close.to	v:pred	v		pred		
 veraa	iswm	0102	=n	=ART	=ln	=ln				
-veraa	iswm	0102	Qesōw	place.name	np:p	np		p	7054	
+veraa	iswm	0102	Qesōw	place.name	pn_np:p	pn_np		p	7054	
 veraa	iswm	0103	#	#	##	##				
 veraa	iswm	0103	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0103	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
@@ -1310,7 +1310,7 @@ veraa	iswm	0104	din̄	reach	v:pred	v		pred
 veraa	iswm	0104	sa	EMPH	other	other				
 veraa	iswm	0104	e	PERS.ART	nc	nc				
 veraa	iswm	0104	erō	PERS.ART.F	ln	ln				
-veraa	iswm	0104	m̄eter	m̄eter	np.h:p	np	h	p	7002	
+veraa	iswm	0104	m̄eter	m̄eter	pn_np.h:p	pn_np	h	p	7002	
 veraa	iswm	0104	ē	DEM3	rn	rn				
 veraa	iswm	0105	#	#	##	##				
 veraa	iswm	0105	ZERO	ZERO	0.h:s	0	h	s	7001	
@@ -1384,7 +1384,7 @@ veraa	iswm	0108	%	%	%	%
 veraa	iswm	0108	ē	DEM3	rn_dem3	rn_dem3				
 veraa	iswm	0108	di	3SG	pro.h:s	pro	h	s	7002	
 veraa	iswm	0108	=n	=ART	=ln	=ln				
-veraa	iswm	0108	m̄eter	m̄eter	np.h:pred	np	h	pred		
+veraa	iswm	0108	m̄eter	m̄eter	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0109	#	#	#nc	#nc				
 veraa	iswm	0109	m--	TAM1	nc	nc				
 veraa	iswm	0109	ZERO	ZERO	nc_0.h	nc_0	h		7001	
@@ -1599,7 +1599,7 @@ veraa	iswm	0124	dōl	all	rn	rn
 veraa	iswm	0124	ga	STAT	lv	lv				
 veraa	iswm	0124	mōrōs	want	v:pred	v		pred		
 veraa	iswm	0124	e	PERS.ART	ln	ln				
-veraa	iswm	0124	m̄eter	m̄eter	np.h:p	np	h	p	7002	
+veraa	iswm	0124	m̄eter	m̄eter	pn_np.h:p	pn_np	h	p	7002	
 veraa	iswm	0124	ē	DEM3	rn	rn				
 veraa	iswm	0125	#	#	##	##				
 veraa	iswm	0125	e	PERS.ART	ln	ln				
@@ -1610,7 +1610,7 @@ veraa	iswm	0125	dir	3PL	pro.h:a	pro	h	a	7042
 veraa	iswm	0125	ga	STAT	lv	lv				
 veraa	iswm	0125	mōrōs	want	v:pred	v		pred		
 veraa	iswm	0125	e	PERS.ART	ln	ln				
-veraa	iswm	0125	m̄eter	m̄eter	np.h:p	np	h	p	7002	
+veraa	iswm	0125	m̄eter	m̄eter	pn_np.h:p	pn_np	h	p	7002	
 veraa	iswm	0125	ē	DEM3	rn	rn				
 veraa	iswm	0126	#	#	##	##				
 veraa	iswm	0126	e	PERS.ART	ln	ln				
@@ -1636,7 +1636,7 @@ veraa	iswm	0127	=n	=ART	=ln	=ln
 veraa	iswm	0127	NC	NC	nc	nc				
 veraa	iswm	0127	m̄o-n	POSS.HOUSE-CS	np:l	np		l	7038	
 veraa	iswm	0127	e	PERS.ART	rn	rn				
-veraa	iswm	0127	m̄eter	m̄eter	rn_np.h:poss	rn_np	h	poss	7002	
+veraa	iswm	0127	m̄eter	m̄eter	rn_pn_np.h:poss	rn_pn_np	h	poss	7002	
 veraa	iswm	0127	lē	LOC	adp	adp				
 veraa	iswm	0127	=n	=ART	=ln	=ln				
 veraa	iswm	0127	qōn̄	night	np:other	np		other		
@@ -1770,7 +1770,7 @@ veraa	iswm	0137	'ēn'ēn	RED:see	v:pred	v		pred
 veraa	iswm	0137	sar	inwards	rv	rv				
 veraa	iswm	0137	segēn	MAN.DEM2	dem2_other	dem2_other				
 veraa	iswm	0137	#	#	#cc	#cc				
-veraa	iswm	0137	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0137	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0137	=s	=SIM	=lv	=lv				
 veraa	iswm	0137	da	do	v:pred	v		pred		
 veraa	iswm	0137	'i	DEL	rv	rv				
@@ -1784,7 +1784,7 @@ veraa	iswm	0138	ba	but	other	other
 veraa	iswm	0138	lē	LOC	adp	adp				
 veraa	iswm	0138	=n	=ART	=ln	=ln				
 veraa	iswm	0138	masō-gi	time-3SG	np:other	np		other		
-veraa	iswm	0138	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0138	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0138	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0138	rōn̄	feel	v:pred	v		pred		
 veraa	iswm	0138	#	#	#ds_cc	#ds_cc				
@@ -1845,7 +1845,7 @@ veraa	iswm	0141	segēn	MAN.DEM2	dem2_other	dem2_other
 veraa	iswm	0141	#	#	##	##				
 veraa	iswm	0141	wo	and	other	other				
 veraa	iswm	0141	e	PERS.ART	ln	ln				
-veraa	iswm	0141	Wowōt	Wowōt	np.h:s	np	h	s	7001	
+veraa	iswm	0141	Wowōt	Wowōt	pn_np.h:s	pn_np	h	s	7001	
 veraa	iswm	0141	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0141	sus	duck.away	v:pred	v		pred		
 veraa	iswm	0142	#	#	#nc	#nc				
@@ -1857,7 +1857,7 @@ veraa	iswm	0142	mal	REM.PST	lv	lv
 veraa	iswm	0142	qē'	finish	v:pred	v		pred		
 veraa	iswm	0143	#	#	##	##				
 veraa	iswm	0143	m̄--	NC	nc	nc				
-veraa	iswm	0143	m̄eter	m̄eter	np.h:a	np	h	a	7002	
+veraa	iswm	0143	m̄eter	m̄eter	pn_np.h:a	pn_np	h	a	7002	
 veraa	iswm	0143	mal	REM.PST	lv	lv				
 veraa	iswm	0143	'ēn	see	v:pred	v		pred		
 veraa	iswm	0143	qal	hit	rv	rv				
@@ -1892,7 +1892,7 @@ veraa	iswm	0145	'irm--	NC	nc	nc
 veraa	iswm	0145	n	ART	nc	nc				
 veraa	iswm	0145	nōgō-n	face-CS	np:p	np		p	7070	bridging
 veraa	iswm	0145	e	PERS.ART	rn	rn				
-veraa	iswm	0145	Wowōt	Wowōt	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0145	Wowōt	Wowōt	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0145	#	#	##	##				
 veraa	iswm	0145	ZERO	ZERO	0.h:s	0	h	s	7002	
 veraa	iswm	0145	so	QUOT	other:pred	other		pred		
@@ -2065,13 +2065,13 @@ veraa	iswm	0156	di	3SG	pro.h:a	pro	h	a	7002
 veraa	iswm	0156	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0156	le	transfer	v:pred	v		pred		
 veraa	iswm	0156	e	PERS.ART	ln	ln				
-veraa	iswm	0156	Wowōt	Wowōt	np.h:p	np	h	p	7001	
+veraa	iswm	0156	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0156	#	#	##	##				
-veraa	iswm	0156	m̄eter	m̄eter	np.h:a	np	h	a	7002	
+veraa	iswm	0156	m̄eter	m̄eter	pn_np.h:a	pn_np	h	a	7002	
 veraa	iswm	0156	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0156	le	transfer	v:pred	v		pred		
 veraa	iswm	0156	e	PERS.ART	ln	ln				
-veraa	iswm	0156	Wowōt	Wowōt	np.h:p	np	h	p	7001	
+veraa	iswm	0156	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0157	#	#	##	##				
 veraa	iswm	0157	duru	3DL	pro.h:s	pro	h	s	7004	
 veraa	iswm	0157	=k	=TAM2	=lv	=lv				
@@ -2223,7 +2223,7 @@ veraa	iswm	0166	=ēm	=TAM1	=lv	=lv
 veraa	iswm	0166	gis	hold	v:pred	v		pred		
 veraa	iswm	0166	varga	tight	rv	rv				
 veraa	iswm	0166	e	PERS.ART	ln	ln				
-veraa	iswm	0166	Wowōt	Wowōt	np.h:p	np	h	p	7001	
+veraa	iswm	0166	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0167	#	#	##	##				
 veraa	iswm	0167	dir	3PL	pro.h:a	pro	h	a	7042	
 veraa	iswm	0167	=ēm	=TAM1	=lv	=lv				
@@ -2242,7 +2242,7 @@ veraa	iswm	0168	=m	=TAM1	=lv	=lv
 veraa	iswm	0168	da	do	v:pred	v		pred		
 veraa	iswm	0168	#	#	#cc	#cc				
 veraa	iswm	0168	so	CPL	other	other				
-veraa	iswm	0169	Wowōt	Wowōt	np.h:s	np	h	s	7001	
+veraa	iswm	0169	Wowōt	Wowōt	pn_np.h:s	pn_np	h	s	7001	
 veraa	iswm	0169	m	TAM1	lv	lv				
 veraa	iswm	0169	ma'	dead	v:pred	v		pred		
 veraa	iswm	0170	#	#	##	##				
@@ -2252,7 +2252,7 @@ veraa	iswm	0170	kele-gi	behind-3SG	np:other	np		other
 veraa	iswm	0170	#	#	#ac	#ac				
 veraa	iswm	0170	=n	=ART	=ln	=ln				
 veraa	iswm	0170	masō-gi	time-3SG	np:other	np		other		
-veraa	iswm	0170	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0170	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0170	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0170	rara	cry	v:pred	v		pred		
 veraa	iswm	0170	sir	for	adp	adp				
@@ -2282,7 +2282,7 @@ veraa	iswm	0173	ot	lug	v:pred	v		pred
 veraa	iswm	0173	rak	remove	rv	rv				
 veraa	iswm	0173	ēn	ART	nc	nc				
 veraa	iswm	0173	e	PERS.ART	ln	ln				
-veraa	iswm	0173	Wowōt	Wowōt	np.h:p	np	h	p	7001	
+veraa	iswm	0173	Wowōt	Wowōt	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0174	#	#	##	##				
 veraa	iswm	0174	ZERO	ZERO	0.h:s	0	h	s	7042	
 veraa	iswm	0174	van	go	v:pred	v		pred		
@@ -2295,7 +2295,7 @@ veraa	iswm	0174	ēn	ART	ln	ln
 veraa	iswm	0174	n̄ērē	shore/point	np:p	np		p	7076	new
 veraa	iswm	0174	-gi	-3SG	-rn_pro:poss	-rn_pro		poss	7007	
 veraa	iswm	0174	'a	ASS.SP	rn	rn				
-veraa	iswm	0174	Lan̄tir	place.name	rn_np	rn_np			7007	
+veraa	iswm	0174	Lan̄tir	place.name	rn_pn_np	rn_pn_np			7007	
 veraa	iswm	0175	#	#	##	##				
 veraa	iswm	0175	kēl	large	ln	ln				
 veraa	iswm	0175	qa-qan̄	RED-wall	np:dt_poss	np		dt_poss	7078	new
@@ -2390,7 +2390,7 @@ veraa	iswm	0182	nim̄ē	house	np:p	np		p	7081	new
 veraa	iswm	0182	rekse	like	other	other				
 veraa	iswm	0182	ma	hither	other	other				
 veraa	iswm	0182	a	LOC.SP	adp	adp				
-veraa	iswm	0182	Nōs	place.name	np:l	np		l	7006	
+veraa	iswm	0182	Nōs	place.name	pn_np:l	pn_np		l	7006	
 veraa	iswm	0183	#	#	##	##				
 veraa	iswm	0183	ZERO	ZERO	0.h:a	0	h	a	7008	
 veraa	iswm	0183	siksik	RED:search	v:pred	v		pred		
@@ -2461,7 +2461,7 @@ veraa	iswm	0187	=n	=ART	=ln	=ln
 veraa	iswm	0187	nēnēn	nēnēn	nc	nc				
 veraa	iswm	0187	'ubu-n	grandparent/child-CS	np.h:g	np	h	g	7083	new
 veraa	iswm	0187	e	PERS.ART	rn	rn				
-veraa	iswm	0187	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0187	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0188	#	#	##	##				
 veraa	iswm	0188	ZERO	ZERO	0.h:s_ds	0	h	s_ds	7010	
 veraa	iswm	0188	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
@@ -2508,7 +2508,7 @@ veraa	iswm	0191	sir	for	adp	adp
 veraa	iswm	0191	e	PERS.ART	ln	ln				
 veraa	iswm	0191	Wō--	NC	nc	nc				
 veraa	iswm	0191	eh	HES	nc	nc				
-veraa	iswm	0191	m̄eter	m̄eter	np.h:g	np	h	g	7002	
+veraa	iswm	0191	m̄eter	m̄eter	pn_np.h:g	pn_np	h	g	7002	
 veraa	iswm	0191	si	or	other	other				
 veraa	iswm	0191	siviē	how	other	other				
 veraa	iswm	0191	#	#	##ds.neg	##ds.neg				
@@ -2606,7 +2606,7 @@ veraa	iswm	0198	kēgēn	LOC.DEM2	dem_other:pred	dem_other		pred
 veraa	iswm	0199	#	#	##	##				
 veraa	iswm	0199	'ubu-n	grandparent/child-CS	np.h:a	np	h	a	7083	
 veraa	iswm	0199	e	PERS.ART	rn	rn				
-veraa	iswm	0199	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0199	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0199	m	TAM1	lv	lv				
 veraa	iswm	0199	da	do	v:pred	v		pred		
 veraa	iswm	0199	n	ART	nc	nc				
@@ -2639,7 +2639,7 @@ veraa	iswm	0200	=n	=ART	=ln	=ln
 veraa	iswm	0200	n̄ē-n̄ērē-gi	shore/point-3SG	np:p	np		p	7090	new
 veraa	iswm	0200	dōl	all	rn	rn				
 veraa	iswm	0200	'a	ASS.SP	rn	rn				
-veraa	iswm	0200	Vunu	Vunu	rn	rn				
+veraa	iswm	0200	Vunu	Vunu	rn_pn_np	rn_pn_np				
 veraa	iswm	0200	Lava	Lava	rn	rn				
 veraa	iswm	0201	#	#	##	##				
 veraa	iswm	0201	di	3SG	pro.h:s	pro	h	s	7083	
@@ -2659,7 +2659,7 @@ veraa	iswm	0201	=m	=TAM1	=lv	=lv
 veraa	iswm	0201	din̄	reach	v:pred	v		pred		
 veraa	iswm	0201	lē	LOC	adp	adp				
 veraa	iswm	0201	=n	=ART	=ln	=ln				
-veraa	iswm	0201	Lates	Lates	np:g	np		g	7091	new
+veraa	iswm	0201	Lates	Lates	pn_np:g	pn_np		g	7091	new
 veraa	iswm	0202	#	#	##	##				
 veraa	iswm	0202	di	3SG	pro.h:s	pro	h	s	7083	
 veraa	iswm	0202	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
@@ -2672,7 +2672,7 @@ veraa	iswm	0203	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s
 veraa	iswm	0203	van	go	v:pred	v		pred		
 veraa	iswm	0203	suw	down	rv	rv				
 veraa	iswm	0203	a	LOC.SP	adp	adp				
-veraa	iswm	0203	Mē'ēsarig	place.name	np:g	np		g	7092	new
+veraa	iswm	0203	Mē'ēsarig	place.name	pn_np:g	pn_np		g	7092	new
 veraa	iswm	0204	#	#	##	##				
 veraa	iswm	0204	di	3SG	pro.h:s	pro	h	s	7083	
 veraa	iswm	0204	=m	=TAM1	=lv	=lv				
@@ -2682,7 +2682,7 @@ veraa	iswm	0204	suw	down	rv	rv
 veraa	iswm	0204	ma	hither	rv	rv				
 veraa	iswm	0204	lē	LOC	adp	adp				
 veraa	iswm	0204	=n	=ART	=ln	=ln				
-veraa	iswm	0204	Lan̄tir	place.name	np:g	np		g	7007	
+veraa	iswm	0204	Lan̄tir	place.name	pn_np:g	pn_np		g	7007	
 veraa	iswm	0204	#	#	##	##				
 veraa	iswm	0204	wo	and	other	other				
 veraa	iswm	0205	nō	POSS.DOM	ln	ln				
@@ -2731,7 +2731,7 @@ veraa	iswm	0207	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	7083
 veraa	iswm	0207	n	ART	ln	ln				
 veraa	iswm	0207	'ama-n	father-CS	np.h:dt_p	np	h	dt_p	7010	
 veraa	iswm	0207	e	PERS.ART	rn	rn				
-veraa	iswm	0207	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0207	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0207	#	#	##	##				
 veraa	iswm	0207	ZERO	ZERO	0.h:s_ds	0	h	s_ds	7083	
 veraa	iswm	0207	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
@@ -2746,7 +2746,7 @@ veraa	iswm	0208	#	#	#ds.ac	#ds.ac
 veraa	iswm	0208	mana-gi	reason-3SG	other	other				
 veraa	iswm	0208	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0208	=n	=ART	=ln	=ln				
-veraa	iswm	0208	Wōwut	Wōwut	np.h:pred	np	h	pred		
+veraa	iswm	0208	Wōwut	Wōwut	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0208	%	%	%	%				
 veraa	iswm	0208	dir	3PL	pro.h:a	pro	h	a	7042	
 veraa	iswm	0208	=m	=TAM1	=lv	=lv				
@@ -2761,7 +2761,7 @@ veraa	iswm	0208	sag	up	rv	rv
 veraa	iswm	0208	'i	DEL	rv	rv				
 veraa	iswm	0209	sag	up	other	other				
 veraa	iswm	0209	a	LOC.SP	adp	adp				
-veraa	iswm	0209	Lan̄tir	place.name	np:l	np		l	7007	
+veraa	iswm	0209	Lan̄tir	place.name	pn_np:l	pn_np		l	7007	
 veraa	iswm	0210	#	#	##	##				
 veraa	iswm	0210	qē'	finish	other	other				
 veraa	iswm	0210	n	ART	ln	ln				
@@ -2840,7 +2840,7 @@ veraa	iswm	0216	eh	HES	nc	nc
 veraa	iswm	0216	n	ART	ln	ln				
 veraa	iswm	0216	'ama-n	father-CS	np.h:s_ds	np	h	s_ds	7010	
 veraa	iswm	0216	e	PERS.ART	rn	rn				
-veraa	iswm	0216	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0216	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0216	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	iswm	0216	tēk	speak	v:pred	v		pred		
 veraa	iswm	0216	mē	DAT	adp	adp				
@@ -2927,7 +2927,7 @@ veraa	iswm	0224	vavavan	RED-go	v:pred	v		pred
 veraa	iswm	0224	din̄	reach	rv	rv				
 veraa	iswm	0224	'a	'a	nc	nc				
 veraa	iswm	0224	a	LOC.SP	adp	adp				
-veraa	iswm	0224	Bēgorwa'ag	place.name	np:g	np		g	7100	new
+veraa	iswm	0224	Bēgorwa'ag	place.name	pn_np:g	pn_np		g	7100	new
 veraa	iswm	0225	#	#	##	##				
 veraa	iswm	0225	dir	3PL	pro.h:s	pro	h	s	7096	
 veraa	iswm	0225	dōl	all	rn	rn				
@@ -2983,7 +2983,7 @@ veraa	iswm	0229	lē	LOC	adp	adp
 veraa	iswm	0229	=n	=ART	=ln	=ln				
 veraa	iswm	0229	vunu	land	np:g	np		g	7007	
 veraa	iswm	0229	'a	ASS.SP	rn	rn				
-veraa	iswm	0229	Lan̄tir	place.name	rn_np	rn_np				
+veraa	iswm	0229	Lan̄tir	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0230	#	#	##	##				
 veraa	iswm	0230	di	3SG	pro.h:s	pro	h	s	7101	
 veraa	iswm	0230	=m	=TAM1	=lv	=lv				
@@ -2991,7 +2991,7 @@ veraa	iswm	0230	kal	enter	v:pred	v		pred
 veraa	iswm	0230	lē	LOC	adp	adp				
 veraa	iswm	0230	=n	=ART	=ln	=ln				
 veraa	iswm	0230	vunu	land	np:g	np		g	7007	
-veraa	iswm	0230	Lan̄tir	place.name	rn_np	rn_np				
+veraa	iswm	0230	Lan̄tir	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0231	#	#	##	##				
 veraa	iswm	0231	di	3SG	pro.h:s_ds	pro	h	s_ds	7101	
 veraa	iswm	0231	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
@@ -3012,7 +3012,7 @@ veraa	iswm	0231	ēn	ART	ln	ln
 veraa	iswm	0231	'irbē-n	body-CS	nc	nc				
 veraa	iswm	0231	'irbē-n	body-CS	np:obl	np		obl	7056	
 veraa	iswm	0231	e	PERS.ART	rn	rn				
-veraa	iswm	0231	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0231	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0232	#	#	##	##				
 veraa	iswm	0232	maranaga	chief	np.h:a	np	h	a	7104	new
 veraa	iswm	0232	'a	ASS.SP	rn	rn				
@@ -3074,7 +3074,7 @@ veraa	iswm	0236	ma	hither	rv	rv
 veraa	iswm	0236	=n	=ART	=ln	=ln				
 veraa	iswm	0236	p	place	np:p	np		p	7106	bridging
 veraa	iswm	0236	'a	ASS.SP	rn	rn				
-veraa	iswm	0236	Gek	Gek	rn_np	rn_np				
+veraa	iswm	0236	Gek	Gek	rn_pn_np	rn_pn_np				
 veraa	iswm	0236	#	#	##	##				
 veraa	iswm	0236	e	DISC	other	other				
 veraa	iswm	0236	di	3SG	pro.h:s	pro	h	s	7001	
@@ -3183,7 +3183,7 @@ veraa	iswm	0242	rak	remove	rv	rv
 veraa	iswm	0242	ZERO	ZERO	0:p	0		p	7056	
 veraa	iswm	0242	den	ABL	adp	adp				
 veraa	iswm	0242	a	LOC.SP	adp	adp				
-veraa	iswm	0242	Lan̄tir	place.name	np:obl	np		obl	7007	
+veraa	iswm	0242	Lan̄tir	place.name	pn_np:obl	pn_np		obl	7007	
 veraa	iswm	0243	#	#	##	##				
 veraa	iswm	0243	dir	3PL	pro.h:a	pro	h	a	7096	
 veraa	iswm	0243	=ēm	=TAM1	=lv	=lv				
@@ -3193,7 +3193,7 @@ veraa	iswm	0243	din̄	reach	rv	rv
 veraa	iswm	0243	kēl	back	rv	rv				
 veraa	iswm	0243	ZERO	ZERO	0:p	0		p	7056	
 veraa	iswm	0243	a	LOC.SP	adp	adp				
-veraa	iswm	0243	Nōs	place.name	np:g	np		g	7006	
+veraa	iswm	0243	Nōs	place.name	pn_np:g	pn_np		g	7006	
 veraa	iswm	0244	#	#	##	##				
 veraa	iswm	0244	di	3SG	pro.h:s	pro	h	s	7010	
 veraa	iswm	0244	=m	=TAM1	=lv	=lv				
@@ -3201,7 +3201,7 @@ veraa	iswm	0244	din̄	reach	v:pred	v		pred
 veraa	iswm	0244	kēl	back	rv	rv				
 veraa	iswm	0244	ma	hither	rv	rv				
 veraa	iswm	0244	a	LOC.SP	adp	adp				
-veraa	iswm	0244	Nōs	place.name	np:g	np		g	7006	
+veraa	iswm	0244	Nōs	place.name	pn_np:g	pn_np		g	7006	
 veraa	iswm	0244	#	#	##	##				
 veraa	iswm	0244	n	ART	ln	ln				
 veraa	iswm	0244	'ubu	grandparent/child	np.h:s_ds	np	h	s_ds	7083	
@@ -3302,7 +3302,7 @@ veraa	iswm	0249	=n	=ART	=ln	=ln
 veraa	iswm	0249	'am̄a-n	'am̄a-CS	nc	nc				
 veraa	iswm	0249	'ama-n	father-CS	np.h:appos	np	h	appos	7010	
 veraa	iswm	0249	e	PERS.ART	rn	rn				
-veraa	iswm	0249	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0249	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0249	#	#	##	##				
 veraa	iswm	0249	ZERO	ZERO	0.h:s_ds	0	h	s_ds	7083	
 veraa	iswm	0249	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
@@ -3452,10 +3452,10 @@ veraa	iswm	0260	van	go	v:pred	v		pred
 veraa	iswm	0260	#	#	#nc	#nc				
 veraa	iswm	0260	wo	and	nc	nc				
 veraa	iswm	0260	e	PERS.ART	nc	nc				
-veraa	iswm	0260	m̄eter	m̄eter	nc	nc				
+veraa	iswm	0260	m̄eter	m̄eter	nc_pn_np.h	nc_pn_np	h		7002	
 veraa	iswm	0260	dim	3SG=TAM1	nc	nc				
 veraa	iswm	0260	e	PERS.ART	ln	ln				
-veraa	iswm	0260	Wōwut	Wōwut	np.h:dt_s	np	h	dt_s	7001	
+veraa	iswm	0260	Wōwut	Wōwut	pn_np.h:dt_s	pn_np	h	dt_s	7001	
 veraa	iswm	0260	dim	3SG=TAM1	nc	nc				
 veraa	iswm	0260	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0260	=m	=TAM1	=lv	=lv				
@@ -3614,7 +3614,7 @@ veraa	iswm	0282	ēn	ART	ln	ln
 veraa	iswm	0282	es	life	np:p	np		p	7122	bridging
 veraa	iswm	0282	nō-n	POSS.DOM-CS	rn	rn				
 veraa	iswm	0282	e	PERS.ART	rn	rn				
-veraa	iswm	0282	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0282	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0282	#	#	#rc_rn	#rc_rn				
 veraa	iswm	0282	ZERO	ZERO	0.h:s	0	h	s	7001	
 veraa	iswm	0282	s	SIM	lv	lv				
@@ -3645,7 +3645,7 @@ veraa	iswm	0283	vō-ve	NUM-four	rn	rn
 veraa	iswm	0284	#	#	##	##				
 veraa	iswm	0284	'irbē-n	body-CS	np:a	np		a	7056	
 veraa	iswm	0284	e	PERS.ART	rn	rn				
-veraa	iswm	0284	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0284	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0284	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0284	rōn̄rōn̄	RED:feel	v:pred	v		pred		
 veraa	iswm	0284	dōl	all	rv	rv				
@@ -3670,7 +3670,7 @@ veraa	iswm	0286	kēl	back	rv	rv
 veraa	iswm	0286	sag	up	rv	rv				
 veraa	iswm	0286	ma	hither	rv	rv				
 veraa	iswm	0286	#	#	##	##				
-veraa	iswm	0286	Wōwut	Wōwut	np.h:a	np	h	a	7001	
+veraa	iswm	0286	Wōwut	Wōwut	pn_np.h:a	pn_np	h	a	7001	
 veraa	iswm	0286	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	iswm	0286	baer	beg	v:pred	v		pred		
 veraa	iswm	0286	go	POSS.EAT	ln	ln				
@@ -3725,7 +3725,7 @@ veraa	iswm	0288	es	alive	v:pred	v		pred
 veraa	iswm	0288	qiri	today	other	other				
 veraa	iswm	0288	anei	DEM4.A?	rn	rn				
 veraa	iswm	0289	#	#	##	##				
-veraa	iswm	0289	Wōwut	Wōwut	np.h:dt_s	np	h	dt_s	7001	
+veraa	iswm	0289	Wōwut	Wōwut	pn_np.h:dt_s	pn_np	h	dt_s	7001	
 veraa	iswm	0289	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0289	=m	=TAM1	=lv	=lv				
 veraa	iswm	0289	es	alive	v:pred	v		pred		
@@ -3817,7 +3817,7 @@ veraa	iswm	0296	=n	=ART	=ln	=ln
 veraa	iswm	0296	es	life	np:dt_s	np		dt_s	7122	
 veraa	iswm	0296	nō-n	POSS.DOM-CS	rn	rn				
 veraa	iswm	0296	e	PERS.ART	rn	rn				
-veraa	iswm	0296	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0296	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0296	di	3SG	pro:s	pro		s	7122	
 veraa	iswm	0296	=m	=TAM1	=lv	=lv				
 veraa	iswm	0296	kēl	back	v:pred	v		pred		
@@ -3862,7 +3862,7 @@ veraa	iswm	0298	won	won	rn	rn
 veraa	iswm	0298	vēvē-gi	mother-3SG	rn_np.h:poss	rn_np	h	poss	7015	
 veraa	iswm	0298	so	QUOT	other	other				
 veraa	iswm	0299	#	#	##ds	##ds				
-veraa	iswm	0299	Wōwut	Wōwut	np.h:s	np	h	s	7001	
+veraa	iswm	0299	Wōwut	Wōwut	pn_np.h:s	pn_np	h	s	7001	
 veraa	iswm	0299	enei	now	other	other				
 veraa	iswm	0299	=m	=TAM1	=lv	=lv				
 veraa	iswm	0299	es	alive	v:pred	v		pred		
@@ -4023,7 +4023,7 @@ veraa	iswm	0308	mōrōs	want	v:pred	v		pred
 veraa	iswm	0308	lak	dance	rv	rv				
 veraa	iswm	0308	'ō'	carry	rv	rv				
 veraa	iswm	0308	e	PERS.ART	ln	ln				
-veraa	iswm	0308	Wōwut	Wōwut	np.h:p	np	h	p	7001	
+veraa	iswm	0308	Wōwut	Wōwut	pn_np.h:p	pn_np	h	p	7001	
 veraa	iswm	0308	#	#	#nc	#nc				
 veraa	iswm	0308	lu	through	nc	nc				
 veraa	iswm	0308	kēl	back	nc	nc				
@@ -4085,7 +4085,7 @@ veraa	iswm	0313	=n	=ART	=ln	=ln
 veraa	iswm	0313	n̄ērē	shore/point	np:p	np		p	7142	new
 veraa	iswm	0313	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss		
 veraa	iswm	0313	'a	ASS.SP	rn	rn				
-veraa	iswm	0313	Nōs	place.name	rn_np	rn_np			7006	
+veraa	iswm	0313	Nōs	place.name	rn_pn_np	rn_pn_np			7006	
 veraa	iswm	0313	#	#	##	##				
 veraa	iswm	0313	dir	3PL	pro.h:s	pro	h	s	7138	
 veraa	iswm	0313	=ēk	=TAM2	=lv	=lv				
@@ -4101,7 +4101,7 @@ veraa	iswm	0314	dir	3PL	pro.h:a	pro	h	a	7138
 veraa	iswm	0314	=ēm	=TAM1	=lv	=lv				
 veraa	iswm	0314	din̄	reach	v:pred	v		pred		
 veraa	iswm	0314	ēn	ART	ln	ln				
-veraa	iswm	0314	Bēgōrwa'ag	place.name	np:p	np		p	7143	new
+veraa	iswm	0314	Bēgōrwa'ag	place.name	pn_np:p	pn_np		p	7143	new
 veraa	iswm	0315	#	#	##	##				
 veraa	iswm	0315	dir	3PL	pro.h:s	pro	h	s	7138	
 veraa	iswm	0315	=ēk	=TAM2	=lv	=lv				
@@ -4137,7 +4137,7 @@ veraa	iswm	0317	lē	LOC	adp	adp
 veraa	iswm	0317	=n	=ART	=ln	=ln				
 veraa	iswm	0317	vunu	land	np:g	np		g	7007	
 veraa	iswm	0317	'a	ASS.SP	rn	rn				
-veraa	iswm	0317	Lan̄tir	place.name	rn_np	rn_np				
+veraa	iswm	0317	Lan̄tir	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0318	#	#	##	##				
 veraa	iswm	0318	dir	3PL	pro.h:s	pro	h	s	7138	
 veraa	iswm	0318	=ēm	=TAM1	=lv	=lv				
@@ -4146,7 +4146,7 @@ veraa	iswm	0318	lē	LOC	adp	adp
 veraa	iswm	0318	=n	=ART	=ln	=ln				
 veraa	iswm	0318	vunu	land	np:g	np		g	7007	
 veraa	iswm	0318	'a	ASS.SP	rn	rn				
-veraa	iswm	0318	Lan̄tir	place.name	rn_np	rn_np				
+veraa	iswm	0318	Lan̄tir	place.name	rn_pn_np	rn_pn_np				
 veraa	iswm	0319	#	#	##	##				
 veraa	iswm	0319	lak-laka	RED-dance	np:s	np		s	7145	new
 veraa	iswm	0319	ē	DEM3	rn	rn				
@@ -4171,7 +4171,7 @@ veraa	iswm	0321	ge	THING	np:l	np		l	7146	bridging
 veraa	iswm	0321	anē'ē	DEM1.A	rn_dem1	rn_dem1				
 veraa	iswm	0322	#	#	#	#				
 veraa	iswm	0322	erō	PERS.ART.F	ln	ln				
-veraa	iswm	0322	m̄eter	m̄eter	np.h:s	np	h	s	7002	
+veraa	iswm	0322	m̄eter	m̄eter	pn_np.h:s	pn_np	h	s	7002	
 veraa	iswm	0322	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	iswm	0322	van	go	v:pred	v		pred		
 veraa	iswm	0322	ma	hither	rv	rv				
@@ -4252,7 +4252,7 @@ veraa	iswm	0327	wal	once	rv	rv
 veraa	iswm	0327	#	#	#cc	#cc				
 veraa	iswm	0327	so	CPL	other	other				
 veraa	iswm	0327	e	PERS.ART	ln	ln				
-veraa	iswm	0327	Wōwut	Wōwut	np.h:s	np	h	s	7001	
+veraa	iswm	0327	Wōwut	Wōwut	pn_np.h:s	pn_np	h	s	7001	
 veraa	iswm	0327	mal	REM.PST	lv	lv				
 veraa	iswm	0327	es	alive	v:pred	v		pred		
 veraa	iswm	0327	kēl	back	rv	rv				
@@ -4338,7 +4338,7 @@ veraa	iswm	0334	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	7001
 veraa	iswm	0334	din	din	nc	nc				
 veraa	iswm	0334	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0334	=n	=ART	=ln	=ln				
-veraa	iswm	0334	Wōwut	Wōwut	np.h:pred	np	h	pred		
+veraa	iswm	0334	Wōwut	Wōwut	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0334	#	#	##	##				
 veraa	iswm	0334	manana-gi	reason-3SG	other	other				
 veraa	iswm	0334	=n	=ART	=ln	=ln				
@@ -4377,7 +4377,7 @@ veraa	iswm	0336	da	do	other	other
 veraa	iswm	0336	'i	DEL	other	other				
 veraa	iswm	0336	di	3SG	pro.h:s	pro	h	s	7001	
 veraa	iswm	0336	=n	=ART	=ln	=ln				
-veraa	iswm	0336	Wōwut	Wōwut	np.h:pred	np	h	pred		
+veraa	iswm	0336	Wōwut	Wōwut	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0336	sir	for	adp	adp				
 veraa	iswm	0336	sa	EMPH	other	other				
 veraa	iswm	0336	nē'ē	DEM1	dem_pro:other	dem_pro		other		
@@ -4459,7 +4459,7 @@ veraa	iswm	0341	a	LOC.SP	adp	adp
 veraa	iswm	0341	=n	=ART	=ln	=ln				
 veraa	iswm	0341	nōgō-n	face-CS	np:g	np		g	7070	
 veraa	iswm	0341	e	PERS.ART	rn	rn				
-veraa	iswm	0341	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0341	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0341	#	#	##	##				
 veraa	iswm	0341	di	3SG	pro.h:a	pro	h	a	7002	
 veraa	iswm	0341	=m	=TAM1	=lv	=lv				
@@ -4474,7 +4474,7 @@ veraa	iswm	0342	sarav	rub	rv	rv
 veraa	iswm	0342	ēn	ART	ln	ln				
 veraa	iswm	0342	nōgō-n	face-CS	np:p	np		p	7070	
 veraa	iswm	0342	e	PERS.ART	rn	rn				
-veraa	iswm	0342	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0342	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0342	esegēn	MAN.DEM2	dem2_other	dem2_other				
 veraa	iswm	0343	#	#	##	##				
 veraa	iswm	0343	di	3SG	pro.h:a	pro	h	a	7002	
@@ -4491,7 +4491,7 @@ veraa	iswm	0343	nōgō	face	rn_np	rn_np			7070
 veraa	iswm	0343	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	7001	
 veraa	iswm	0343	#	#	##	##				
 veraa	iswm	0343	di	3SG	pro.h:s	pro	h	s	7001	
-veraa	iswm	0343	Wōwut	Wōwut	np.h:pred	np	h	pred		
+veraa	iswm	0343	Wōwut	Wōwut	pn_np.h:pred	pn_np	h	pred		
 veraa	iswm	0344	#	#	##	##				
 veraa	iswm	0344	di	3SG	pro.h:a	pro	h	a	7002	
 veraa	iswm	0344	=m	=TAM1	=lv	=lv				
@@ -4606,7 +4606,7 @@ veraa	iswm	0355	manana-gi	reason-3SG	other	other
 veraa	iswm	0355	=n	=ART	=ln	=ln				
 veraa	iswm	0355	'ama-n	father-CS	np.h:a	np	h	a	7010	
 veraa	iswm	0355	e	PERS.ART	rn	rn				
-veraa	iswm	0355	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0355	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0355	ga	STAT	lv	lv				
 veraa	iswm	0355	gis	hold	v:pred	v		pred		
 veraa	iswm	0355	ēn	ART	ln	ln				
@@ -4624,7 +4624,7 @@ veraa	iswm	0356	=n	=ART	=ln	=ln
 veraa	iswm	0356	kaaka	kaaka	np:dt_s	np		dt_s		
 veraa	iswm	0356	mu-n	POSS.GEN-CS	rn	rn				
 veraa	iswm	0356	e	PERS.ART	rn	rn				
-veraa	iswm	0356	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0356	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0356	duru	3DL	nc_pro.h	nc_pro	h		7004	
 veraa	iswm	0356	wunva	probably	other	other				
 veraa	iswm	0356	di	3SG	pro.h:s	pro	h	s		
@@ -4644,12 +4644,12 @@ veraa	iswm	0357	lōlō	inside	ln	ln
 veraa	iswm	0357	ge	THING	np:g	np		g	7038	
 veraa	iswm	0358	#	#	##	##				
 veraa	iswm	0358	wo	and	other	other				
-veraa	iswm	0358	Wōwut	Wōwut	np.h:dt_a	np	h	dt_a	7001	
+veraa	iswm	0358	Wōwut	Wōwut	pn_np.h:dt_a	pn_np	h	dt_a	7001	
 veraa	iswm	0358	di	3SG	pro.h:a	pro	h	a	7001	
 veraa	iswm	0358	=m	=TAM1	=lv	=lv				
 veraa	iswm	0358	le	transfer	v:pred	v		pred		
 veraa	iswm	0358	e	PERS.ART	ln	ln				
-veraa	iswm	0358	m̄eter	m̄eter	np.h:p	np	h	p	7002	
+veraa	iswm	0358	m̄eter	m̄eter	pn_np.h:p	pn_np	h	p	7002	
 veraa	iswm	0358	rekse	like	other	other				
 veraa	iswm	0358	=n	=ART	=ln	=ln				
 veraa	iswm	0358	gunu	spouse	np.h:other	np	h	other		
@@ -4661,7 +4661,7 @@ veraa	iswm	0358	mul	change.place	v:pred	v		pred
 veraa	iswm	0358	kēl	back	rv	rv				
 veraa	iswm	0358	ma	hither	rv	rv				
 veraa	iswm	0358	a	LOC.SP	adp	adp				
-veraa	iswm	0358	Nōs	place.name	np:g	np		g	7006	
+veraa	iswm	0358	Nōs	place.name	pn_np:g	pn_np		g	7006	
 veraa	iswm	0359	#	#	##	##				
 veraa	iswm	0359	duru	3DL	pro.h:s	pro	h	s	7004	
 veraa	iswm	0359	=m	=TAM1	=lv	=lv				
@@ -4707,7 +4707,7 @@ veraa	iswm	0362	=n	=ART	=ln	=ln
 veraa	iswm	0362	kaka	story	np:p	np		p		
 veraa	iswm	0362	mu-n	POSS.GEN-CS	rn	rn				
 veraa	iswm	0362	e	PERS.ART	rn	rn				
-veraa	iswm	0362	Wōwut	Wōwut	rn_np.h:poss	rn_np	h	poss	7001	
+veraa	iswm	0362	Wōwut	Wōwut	rn_pn_np.h:poss	rn_pn_np	h	poss	7001	
 veraa	iswm	0362	%	%	%	%				
 veraa	iswm	0362	di	3SG	pro:s	pro		s		
 veraa	iswm	0362	wunva	probably	other	other				

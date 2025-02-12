@@ -4,7 +4,7 @@ veraa	jjq	0001	qōn̄	day	np:other	np		other
 veraa	jjq	0001	ne	NUM.ART	rn	rn				
 veraa	jjq	0001	vo	NUM	rn	rn				
 veraa	jjq	0001	-wal	-one	rn	rn				
-veraa	jjq	0002	Qo'	Qo'	np.h:pred	np	h	pred	8001	new
+veraa	jjq	0002	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred	8001	new
 veraa	jjq	0002	birin̄	with	rn	rn				
 veraa	jjq	0002	e	ART	rn	rn				
 veraa	jjq	0002	raga	people	rn	rn				
@@ -28,16 +28,16 @@ veraa	jjq	0004	dir	3PL	pro.h:s	pro	h	s	8003	bridging
 veraa	jjq	0004	=m	=TAM1	=lv	=lv				
 veraa	jjq	0004	'ōg'ōg	RED:stay	v:pred	v		pred		
 veraa	jjq	0004	a	LOC.SP	adp	adp				
-veraa	jjq	0004	Rev	Rev	np:l	np		l	8004	unused
+veraa	jjq	0004	Rev	Rev	pn_np:l	pn_np		l	8004	unused
 veraa	jjq	0005	#	#	##	##				
 veraa	jjq	0005	a	LOC.SP	adp	adp				
-veraa	jjq	0005	Rev	Rev	np:dt	np		dt	8004	
+veraa	jjq	0005	Rev	Rev	pn_np:dt	pn_np		dt	8004	
 veraa	jjq	0005	si	if	other	other				
 veraa	jjq	0005	nik	2SG	pro.2:s	pro	2	s	8005	unused
 veraa	jjq	0005	van	go	v:pred	v		pred		
 veraa	jjq	0005	din̄	reach	rv	rv				
 veraa	jjq	0005	a	LOC.SP	adp	adp				
-veraa	jjq	0005	Rev	Rev	np:g	np		g	8004	
+veraa	jjq	0005	Rev	Rev	pn_np:g	pn_np		g	8004	
 veraa	jjq	0005	#	#	##	##				
 veraa	jjq	0005	nik	2SG	pro.2:a	pro	2	a	8005	
 veraa	jjq	0005	ē	TAM2:2SG	lv-pro_2_a	lv-pro_2_a				
@@ -52,14 +52,14 @@ veraa	jjq	0005	nē	DEM1	rn	rn
 veraa	jjq	0005	bēne	PRO.OBL	other:predex	other		predex		
 veraa	jjq	0005	#	#	#	#				
 veraa	jjq	0005	a	LOC.SP	adp	adp				
-veraa	jjq	0005	Rev	Rev	np:pred	np		pred	8004	
+veraa	jjq	0005	Rev	Rev	pn_np:pred	pn_np		pred	8004	
 veraa	jjq	0005	sa	EMPH	ln	ln				
 veraa	jjq	0005	nē	DEM1	dem1_pro:s	dem1_pro		s	8004	
 veraa	jjq	0005	n	ART	ln	ln				
 veraa	jjq	0005	vono	home	np:dt_pred	np		dt_pred		
 veraa	jjq	0005	-n	-CS	rn	rn			8001	
 veraa	jjq	0005	e	PERS.ART	rn	rn				
-veraa	jjq	0005	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss		
+veraa	jjq	0005	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss		
 veraa	jjq	0006	#	#	##	##				
 veraa	jjq	0006	dir	3PL	pro.h:s	pro	h	s	8003	
 veraa	jjq	0006	=m	=TAM1	=lv	=lv				
@@ -104,7 +104,7 @@ veraa	jjq	0008	wōm̄ōm̄ō'	bush	np:g	np		g	8008	unused
 veraa	jjq	0009	#	#	##neg	##neg				
 veraa	jjq	0009	ba	but	other	other				
 veraa	jjq	0009	e	ART	ln	ln				
-veraa	jjq	0009	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0009	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0009	e	GEN.NEG1	lv	lv				
 veraa	jjq	0009	van	go	v:pred	v		pred		
 veraa	jjq	0009	rōs	GEN.NEG2	rv	rv				
@@ -132,13 +132,13 @@ veraa	jjq	0012	van	go	v:pred	v		pred
 veraa	jjq	0012	#	#	##	##				
 veraa	jjq	0012	dir	3PL	pro.h:a	pro	h	a	8002	
 veraa	jjq	0012	=k	=TAM2	=lv	=lv				
-veraa	jjq	0012	kal	go.uwards	v:pred	v		pred		
+veraa	jjq	0012	kal	go.upwards	v:pred	v		pred		
 veraa	jjq	0012	'ar	cut	rv	rv				
 veraa	jjq	0012	ēn	ART	ln	ln				
 veraa	jjq	0012	naka	canoe	np:p	np		p		
 veraa	jjq	0012	#	#	##	##				
 veraa	jjq	0012	ba	but	other	other				
-veraa	jjq	0012	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0012	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0012	ga	STAT	lv	lv				
 veraa	jjq	0012	'ōg'ōg	RED:stay	v:pred	v		pred		
 veraa	jjq	0012	lē	LOC	adp	adp				
@@ -164,7 +164,7 @@ veraa	jjq	0013	galal	know	v:pred	v		pred
 veraa	jjq	0013	rōs	GEN.NEG2	rv	rv				
 veraa	jjq	0013	#	#	#cc	#cc				
 veraa	jjq	0013	so	CPL	other	other				
-veraa	jjq	0013	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0013	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0013	=m	=TAM1	=lv	=lv				
 veraa	jjq	0013	van	go	v:pred	v		pred		
 veraa	jjq	0013	rek	too	other	other				
@@ -245,14 +245,14 @@ veraa	jjq	0017	dir	3PL	pro.h:a	pro	h	a	8002
 veraa	jjq	0017	=k	=TAM2	=lv	=lv				
 veraa	jjq	0017	'ēn	see	v:pred	v		pred		
 veraa	jjq	0017	e	e	ln	ln				
-veraa	jjq	0017	Qo'	Qo'	np.h:p	np	h	p	8001	
+veraa	jjq	0017	Qo'	Qo'	pn_np.h:p	pn_np	h	p	8001	
 veraa	jjq	0017	#	#	#rc	#rc				
 veraa	jjq	0017	ZERO	ZERO	0.h:s	0	h	s	8001	
 veraa	jjq	0017	=s	=SIM	=lv	=lv				
 veraa	jjq	0017	'ōg	stay	v:pred	v		pred		
 veraa	jjq	0017	'i	DEL	rv	rv				
 veraa	jjq	0018	#	#	##	##				
-veraa	jjq	0018	Qo'	Qo'	np.h:voc	np	h	voc		
+veraa	jjq	0018	Qo'	Qo'	pn_np.h:voc	pn_np	h	voc		
 veraa	jjq	0018	nikē	2SG	pro.2:s	pro	2	s	8001	
 veraa	jjq	0018	'ēnē	DEM?	nc	nc				
 veraa	jjq	0018	da	do	v:pred	v		pred		
@@ -264,7 +264,7 @@ veraa	jjq	0019	van	go	v:pred	v		pred
 veraa	jjq	0019	kēlkēl	RED-back	rv	rv				
 veraa	jjq	0019	#	#	##ds	##ds				
 veraa	jjq	0019	si	or	other	other				
-veraa	jjq	0019	kamak	1PL.EX:TAM2	pro.h:s	pro	h	s	8002	
+veraa	jjq	0019	kamak	1PL.EX:TAM2	pro.1:s	pro	1	s	8002	
 veraa	jjq	0019	van	go	v:pred	v		pred		
 veraa	jjq	0019	lē	LOC	adp	adp				
 veraa	jjq	0019	#	#	#cc:g	#cc		g		
@@ -322,7 +322,7 @@ veraa	jjq	0020	ZERO	ZERO	0.1:s	0	1	s	8002
 veraa	jjq	0020	=k	=TAM2	=lv	=lv				
 veraa	jjq	0020	'ar'ar	RED:chop	v:pred	v		pred		
 veraa	jjq	0020	ko	POSS.VES	rv	rv			8009	
-veraa	jjq	0020	-mam	-1PL.EX	-rv_pro.h:poss	-rv_pro	h	poss	8002	
+veraa	jjq	0020	-mam	-1PL.EX	-rv_pro.1:poss	-rv_pro	1	poss	8002	
 veraa	jjq	0020	#	#	#ds_cc	#ds_cc				
 veraa	jjq	0020	'amēn	ASS	other	other				
 veraa	jjq	0020	kamam	1PL.EX	pro.1:s	pro	1	s	8002	
@@ -335,7 +335,7 @@ veraa	jjq	0021	wuva	only	rv	rv
 veraa	jjq	0021	rōw	seawards	rv	rv				
 veraa	jjq	0021	ma	hither	rv	rv				
 veraa	jjq	0021	a	LOC.SP	adp	adp				
-veraa	jjq	0021	Serewan	Serewan	np:g	np		g	8010	unused
+veraa	jjq	0021	Serewan	Serewan	pn_np:g	pn_np		g	8010	unused
 veraa	jjq	0021	anē	DEM1.A	rn	rn				
 veraa	jjq	0021	#	#	##ds	##ds				
 veraa	jjq	0021	si	or	other	other				
@@ -346,7 +346,7 @@ veraa	jjq	0021	lē	LOC	adp	adp
 veraa	jjq	0021	=n	=ART	=ln	=ln				
 veraa	jjq	0021	mē'ērsa	harbour	np:g	np		g	8011	bridging
 veraa	jjq	0021	'a	ASS.SP	rn	rn				
-veraa	jjq	0021	Rev	Rev	rn	rn			8004	
+veraa	jjq	0021	Rev	Rev	rn_pn_np	rn_pn_np			8004	
 veraa	jjq	0021	anē	DEM1.A	rn	rn				
 veraa	jjq	0022	#	#	#ds_cc	#ds_cc				
 veraa	jjq	0022	'amēn	ASS	other	other				
@@ -362,7 +362,7 @@ veraa	jjq	0022	suō	paddle	v:pred	v		pred
 veraa	jjq	0022	din̄	reach	rv	rv				
 veraa	jjq	0022	sar	in	rv	rv				
 veraa	jjq	0022	a	LOC.SP	adp	adp				
-veraa	jjq	0022	Narwē	Narwē	np:g	np		g	8012	unused
+veraa	jjq	0022	Narwē	Narwē	pn_np:g	pn_np		g	8012	unused
 veraa	jjq	0023	#	#	#nc	#nc				
 veraa	jjq	0023	qē'	then	nc	nc				
 veraa	jjq	0023	ē	CC	nc	nc				
@@ -465,7 +465,7 @@ veraa	jjq	0029	rēv	drag	v:pred	v		pred
 veraa	jjq	0029	lu	through	rv	rv				
 veraa	jjq	0029	=n	=ART	=ln	=ln				
 veraa	jjq	0029	ko	POSS.VES	np:p	np		p	8009	
-veraa	jjq	0029	-de	-1PL.IN	-rn_pro.h:poss	-rn_pro	h	poss	8002	
+veraa	jjq	0029	-de	-1PL.IN	-rn_pro.1:poss	-rn_pro	1	poss	8002	
 veraa	jjq	0030	#	#	##	##				
 veraa	jjq	0030	dir	3PL	pro.h:s	pro	h	s	8002	
 veraa	jjq	0030	=k	=TAM2	=lv	=lv				
@@ -487,7 +487,7 @@ veraa	jjq	0031	lē	LOC	adp	adp
 veraa	jjq	0031	=n	=ART	=ln	=ln				
 veraa	jjq	0031	mē'ērsa	harbour	np:g	np		g	8011	
 veraa	jjq	0031	a	LOC.SP	rn	rn				
-veraa	jjq	0031	Rev	Rev	rn	rn			8004	
+veraa	jjq	0031	Rev	Rev	rn_pn_np	rn_pn_np			8004	
 veraa	jjq	0032	#	#	##	##				
 veraa	jjq	0032	dir	3PL	pro.h:a	pro	h	a	8002	
 veraa	jjq	0032	=k	=TAM1	=lv	=lv				
@@ -546,7 +546,7 @@ veraa	jjq	0034	'ul	drown	v:pred	v		pred
 veraa	jjq	0035	#	#	##	##				
 veraa	jjq	0035	sōw	DISC	other	other				
 veraa	jjq	0035	e	PERS.ART	ln	ln				
-veraa	jjq	0035	Qo'	Qo'	np.h:dt_a	np	h	dt_a	8001	
+veraa	jjq	0035	Qo'	Qo'	pn_np.h:dt_a	pn_np	h	dt_a	8001	
 veraa	jjq	0035	di	3SG	pro.h:a	pro	h	a	8001	
 veraa	jjq	0035	=m	=TAM1	=lv	=lv				
 veraa	jjq	0035	'ar	chop	v:pred	v		pred		
@@ -634,7 +634,7 @@ veraa	jjq	0039	ZERO	ZERO	0:obl	0		obl
 veraa	jjq	0040	#	#	##	##				
 veraa	jjq	0040	so	NC	other	other				
 veraa	jjq	0040	e	PERS.ART	ln	ln				
-veraa	jjq	0040	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0040	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0040	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0040	mulō	go	v:pred	v		pred		
 veraa	jjq	0040	#	#	##	##				
@@ -684,7 +684,7 @@ veraa	jjq	0043	-gi	-3SG	-rn_pro:poss	-rn_pro		poss	8018
 veraa	jjq	0044	#	#	##	##				
 veraa	jjq	0044	maran	daylight	np:other	np		other		
 veraa	jjq	0044	bēne	PRO.OBL	rn	rn				
-veraa	jjq	0044	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0044	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0044	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0044	van	go	v:pred	v		pred		
 veraa	jjq	0044	ma	hither	rv	rv				
@@ -843,7 +843,7 @@ veraa	jjq	0055	=n	=ART	=ln	=ln
 veraa	jjq	0055	nak	canoe	np:p	np		p	8018	
 veraa	jjq	0055	mu-n	POSS.GEN-CS	rn	rn				
 veraa	jjq	0055	e	PERS.ART	rn	rn				
-veraa	jjq	0055	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0055	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0055	ē	DEM3	rn	rn				
 veraa	jjq	0056	#	#	##	##				
 veraa	jjq	0056	lē	LOC	adp	adp				
@@ -913,7 +913,7 @@ veraa	jjq	0057	lēgē	in.vain	rv	rv
 veraa	jjq	0057	ZERO	ZERO	0:p	0		p	8023	
 veraa	jjq	0058	no	1SG	nc	nc				
 veraa	jjq	0058	#	#	##	##				
-veraa	jjq	0058	Qo	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0058	Qo	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0058	=m	=TAM1	=lv	=lv				
 veraa	jjq	0058	mul	go	v:pred	v		pred		
 veraa	jjq	0058	'ō'	carry	rv	rv				
@@ -1097,7 +1097,7 @@ veraa	jjq	0072	lu	through	rv	rv
 veraa	jjq	0072	suwo	thither	rv	rv				
 veraa	jjq	0072	ZERO	ZERO	0:p	0		p	8018	
 veraa	jjq	0073	#	#	##	##				
-veraa	jjq	0073	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0073	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0073	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0073	mul	go	v:pred	v		pred		
 veraa	jjq	0073	den	ABL	adp	adp				
@@ -1141,7 +1141,7 @@ veraa	jjq	0077	'ekē	place	np:s	np		s
 veraa	jjq	0077	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	jjq	0077	ma'ava	morning	v:pred	v		pred		
 veraa	jjq	0077	#	#	##	##				
-veraa	jjq	0077	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0077	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0077	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0077	gengen	RED:eat	v:pred	v		pred		
 veraa	jjq	0077	qē'	finish	rv	rv				
@@ -1233,7 +1233,7 @@ veraa	jjq	0082	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	8001
 veraa	jjq	0082	va'anē	TEMP.DEM1	other	other				
 veraa	jjq	0083	#	#	##	##				
 veraa	jjq	0083	e	PERS.ART	ln	ln				
-veraa	jjq	0083	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0083	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0083	so	QUOT	other:pred	other		pred		
 veraa	jjq	0083	#	#	##ds	##ds				
 veraa	jjq	0083	o	INTERJ	other	other				
@@ -1282,7 +1282,7 @@ veraa	jjq	0086	kalu	exit	v:pred	v		pred
 veraa	jjq	0086	bēn	PRO.OBL	other	other				
 veraa	jjq	0086	siviē	how	other	other				
 veraa	jjq	0087	#	#	##	##				
-veraa	jjq	0087	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0087	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0087	so	QUOT	other:pred	other		pred		
 veraa	jjq	0087	#	#	##ds	##ds				
 veraa	jjq	0087	o	oh	other	other				
@@ -1319,7 +1319,7 @@ veraa	jjq	0089	den	ABL	other	other
 veraa	jjq	0089	e	ART	ln	ln				
 veraa	jjq	0089	raga	people	ln	ln				
 veraa	jjq	0089	'i-'isi	NSG-younger.same.sex.sibling	np.h:s	np	h	s	8002	
-veraa	jjq	0089	-k	-1SG	-rn_pro.h:poss	-rn_pro	h	poss	8001	
+veraa	jjq	0089	-k	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	8001	
 veraa	jjq	0089	ē	DEM3	rn	rn				
 veraa	jjq	0089	'ēn	see	v:pred	v		pred		
 veraa	jjq	0089	ga	STAT	rv	rv				
@@ -1379,7 +1379,7 @@ veraa	jjq	0091	masō-gi	time-3SG	np:other	np		other
 veraa	jjq	0091	=n	=ART	nc	nc				
 veraa	jjq	0091	womarawraw	spider	nc	nc				
 veraa	jjq	0091	n	ART	nc	nc				
-veraa	jjq	0091	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0091	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0091	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0091	=m	=TAM1	=lv	=lv				
 veraa	jjq	0091	van	go	v:pred	v		pred		
@@ -1412,7 +1412,7 @@ veraa	jjq	0093	qē'	finish	rv	rv
 veraa	jjq	0093	=n	=ART	=ln	=ln				
 veraa	jjq	0093	naka	canoe	np:p	np		p	8018	
 veraa	jjq	0094	#	#	##	##				
-veraa	jjq	0094	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0094	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0094	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0094	mulō	go	v:pred	v		pred		
 veraa	jjq	0095	#	#	##	##				
@@ -1421,7 +1421,7 @@ veraa	jjq	0095	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s
 veraa	jjq	0095	'ōg	stay	v:pred	v		pred		
 veraa	jjq	0095	'i	DEL	rv	rv				
 veraa	jjq	0096	#	#	##	##				
-veraa	jjq	0096	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0096	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0096	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0096	=m	=TAM1	=lv	=lv				
 veraa	jjq	0096	mulō	go	v:pred	v		pred		
@@ -1562,12 +1562,12 @@ veraa	jjq	0106	sal	float	v:pred	v		pred
 veraa	jjq	0106	lu	through	rv	rv				
 veraa	jjq	0106	rōw	seawards	rv	rv				
 veraa	jjq	0106	a	LOC.SP	adp	adp				
-veraa	jjq	0106	Rev	Rev	np:g	np		g	8004	
+veraa	jjq	0106	Rev	Rev	pn_np:g	pn_np		g	8004	
 veraa	jjq	0106	lē	LOC	adp	adp				
 veraa	jjq	0106	=n	=ART	=ln	=ln				
 veraa	jjq	0106	mē'ērsa	harbour	np:dt	np		dt	8011	
 veraa	jjq	0106	a	LOC.SP	rn	rn				
-veraa	jjq	0106	Rev	Rev	rn	rn			8004	
+veraa	jjq	0106	Rev	Rev	rn_pn_np	rn_pn_np			8004	
 veraa	jjq	0107	#	#	##	##				
 veraa	jjq	0107	naw	saltwater	nc	nc				
 veraa	jjq	0107	n	ART	ln	ln				
@@ -1634,7 +1634,7 @@ veraa	jjq	0111	ZERO	ZERO	0:s	0		s	8018
 veraa	jjq	0111	=n	=ART	=ln	=ln				
 veraa	jjq	0111	mu-n	POSS.GEN-CS	np:pred	np		pred		
 veraa	jjq	0111	e	PERS.ART	rn	rn				
-veraa	jjq	0111	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0111	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0112	#	#	##	##				
 veraa	jjq	0112	e	PERS.ART	ln	ln				
 veraa	jjq	0112	raga	people	np.h:s	np	h	s		
@@ -1653,7 +1653,7 @@ veraa	jjq	0112	'ar	chop	vother:pred	vother		pred
 veraa	jjq	0112	naka	canoe	rv	rv				
 veraa	jjq	0112	#	#	##ds.neg	##ds.neg				
 veraa	jjq	0112	e	PERS.ART	ln	ln				
-veraa	jjq	0112	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0112	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0112	vanvan	RED:go	v:pred	v		pred		
 veraa	jjq	0112	kēlkēl	RED:back	rv	rv				
 veraa	jjq	0112	rōs	GEN.NEG2	rv	rv				
@@ -1712,7 +1712,7 @@ veraa	jjq	0114	anē	DEM1.A	rn	rn
 veraa	jjq	0114	=n	=ART	=ln	=ln				
 veraa	jjq	0114	ko-n	POSS.VES-CS	np:pred	np		pred		
 veraa	jjq	0114	e	PERS.ART	rn	rn				
-veraa	jjq	0114	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0114	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0115	#	#	##ds	##ds				
 veraa	jjq	0115	'ēkē	oh.dear	other:pred	other		pred		
 veraa	jjq	0115	#	#	##ds	##ds				
@@ -1738,7 +1738,7 @@ veraa	jjq	0116	enei	now	other	other
 veraa	jjq	0116	=n	=ART	=ln	=ln				
 veraa	jjq	0116	ko-n	POSS.VES-CS	np:s	np		s	8018	
 veraa	jjq	0116	e	PERS.ART	rn	rn				
-veraa	jjq	0116	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0116	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0116	ga	STAT	lv	lv				
 veraa	jjq	0116	itok	good	v:pred	v		pred		
 veraa	jjq	0117	#	#	##	##				
@@ -1753,7 +1753,7 @@ veraa	jjq	0117	wal	once	rv	rv
 veraa	jjq	0117	rōs	GEN.NEG1	rv	rv				
 veraa	jjq	0117	#	#	#cc	#cc				
 veraa	jjq	0117	e	PERS.ART	ln	ln				
-veraa	jjq	0117	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0117	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0117	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0117	van	go	v:pred	v		pred		
 veraa	jjq	0117	ma	hither	rv	rv				
@@ -1799,7 +1799,7 @@ veraa	jjq	0120	#	#	#ds_cc	#ds_cc
 veraa	jjq	0120	'ō	INTERJ	other	other				
 veraa	jjq	0120	ko-n	POSS.VES-CS	np:s	np		s	8018	
 veraa	jjq	0120	e	PERS.ART	rn	rn				
-veraa	jjq	0120	Qo	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0120	Qo	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0120	=m	=TAM1	=lv	=lv				
 veraa	jjq	0120	sal	float	v:pred	v		pred		
 veraa	jjq	0121	#	#	##ds	##ds				
@@ -1887,7 +1887,7 @@ veraa	jjq	0128	sag	sit	v:pred	v		pred
 veraa	jjq	0128	serge	together	rv	rv				
 veraa	jjq	0128	segēn	MAN.DEM2	other	other				
 veraa	jjq	0129	#	#	##	##				
-veraa	jjq	0129	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0129	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0129	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0129	tēktēk	RED:speak	v:pred	v		pred		
 veraa	jjq	0129	mē	DAT	adp	adp				
@@ -1905,7 +1905,7 @@ veraa	jjq	0131	=k	=TAM2	=lv	=lv
 veraa	jjq	0131	tēk	speak	v:pred	v		pred		
 veraa	jjq	0131	so	QUOT	other	other				
 veraa	jjq	0131	#	#	##ds	##ds				
-veraa	jjq	0131	Qo'	Qo'	other	other				
+veraa	jjq	0131	Qo'	Qo'	pn_np.h:other	pn_np	h	other	8001	
 veraa	jjq	0131	n	ART	ln	ln				
 veraa	jjq	0131	sava	what	np:s	np		s		
 veraa	jjq	0131	#	#	#ds_rc_rn	#ds_rc_rn				
@@ -2023,7 +2023,7 @@ veraa	jjq	0138	=k	=TAM2	=lv	=lv
 veraa	jjq	0138	tēk	speak	v:pred	v		pred		
 veraa	jjq	0138	mē-n	DAT-CS	adp	adp				
 veraa	jjq	0138	e	PERS.ART	ln	ln				
-veraa	jjq	0138	Qo'	Qo'	np.h:g	np	h	g	8001	
+veraa	jjq	0138	Qo'	Qo'	pn_np.h:g	pn_np	h	g	8001	
 veraa	jjq	0138	va'anē	TEMP.DEM1	other	other				
 veraa	jjq	0139	#	#	##ds	##ds				
 veraa	jjq	0139	'aluwō	tomorrow	other	other				
@@ -2065,7 +2065,7 @@ veraa	jjq	0141	lē	LOC	adp	adp
 veraa	jjq	0141	=n	=ART	=ln	=ln				
 veraa	jjq	0141	tēktēk	RED:speak	np:obl	np		obl		
 veraa	jjq	0141	'a	ASS.SP	rn	rn				
-veraa	jjq	0141	Vera'a	Vera'a	rn	rn				
+veraa	jjq	0141	Vera'a	Vera'a	rn_pn_np	rn_pn_np				
 veraa	jjq	0141	#	#	##	##				
 veraa	jjq	0141	ZERO	ZERO	0:s	0		s		
 veraa	jjq	0141	ga	STAT	lv	lv				
@@ -2094,7 +2094,7 @@ veraa	jjq	0143	sisiē	different	rn	rn
 veraa	jjq	0143	#	#	##	##				
 veraa	jjq	0143	ba	but	other	other				
 veraa	jjq	0143	e	PERS.ART	ln	ln				
-veraa	jjq	0143	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0143	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0143	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0143	=m	=TAM1	=lv	=lv				
 veraa	jjq	0143	rem	climb	v:pred	v		pred		
@@ -2197,7 +2197,7 @@ veraa	jjq	0150	=m	=TAM1	nc	nc
 veraa	jjq	0150	luwō	big	nc	nc				
 veraa	jjq	0150	#	#	##	##				
 veraa	jjq	0150	e	PERS.ART	ln	ln				
-veraa	jjq	0150	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0150	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0150	mas	INABIL1	lv	lv				
 veraa	jjq	0150	gavra	embrace	v:pred	v		pred		
 veraa	jjq	0150	din̄	reach	rv	rv				
@@ -2205,7 +2205,7 @@ veraa	jjq	0150	m̄as	INABIL2	rv	rv
 veraa	jjq	0150	aval-gi	other.side-3SG	other:g	other		g		
 veraa	jjq	0151	#	#	##	##				
 veraa	jjq	0151	e	PERS.ART	ln	ln				
-veraa	jjq	0151	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0151	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0151	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0151	sag	sit	v:pred	v		pred		
 veraa	jjq	0151	rēn	stuck	rv	rv				
@@ -2250,7 +2250,7 @@ veraa	jjq	0155	=k	=TAM2	=lv	=lv
 veraa	jjq	0155	suō	paddle	v:pred	v		pred		
 veraa	jjq	0155	sir	for	adp	adp				
 veraa	jjq	0155	=ēn	=ART	=ln	=ln				
-veraa	jjq	0155	Lōkōno	Lōkōno	np:g	np		g	8045	unused
+veraa	jjq	0155	Lōkōno	Lōkōno	pn_np:g	pn_np		g	8045	unused
 veraa	jjq	0156	#	#	#nc	#nc				
 veraa	jjq	0156	dir	3PL	nc	nc				
 veraa	jjq	0156	=m	=TAM2	nc	nc				
@@ -2266,14 +2266,14 @@ veraa	jjq	0156	man	PFV	lv	lv
 veraa	jjq	0156	mul	go	v:pred	v		pred		
 veraa	jjq	0156	den	ABL	adp	adp				
 veraa	jjq	0156	a	LOC.SP	adp	adp				
-veraa	jjq	0156	Rev	Rev	np:obl	np		obl	8004	
+veraa	jjq	0156	Rev	Rev	pn_np:obl	pn_np		obl	8004	
 veraa	jjq	0156	#	#	##	##				
 veraa	jjq	0156	dir	3PL	pro.h:s	pro	h	s	8046	
 veraa	jjq	0156	=m	=TAM1	=lv	=lv				
 veraa	jjq	0156	mul	go	v:pred	v		pred		
 veraa	jjq	0156	ma	hither	rv	rv				
 veraa	jjq	0156	a	LOC.SP	adp	adp				
-veraa	jjq	0156	Sisiol	Sisiol	np:g	np		g	8047	unused
+veraa	jjq	0156	Sisiol	Sisiol	pn_np:g	pn_np		g	8047	unused
 veraa	jjq	0157	#	#	##	##				
 veraa	jjq	0157	ba	but	other	other				
 veraa	jjq	0157	dir	3PL	pro.h:s	pro	h	s	8046	
@@ -2282,14 +2282,14 @@ veraa	jjq	0157	'ōg	stay	v:pred	v		pred
 veraa	jjq	0157	qēl	descend	rv	rv				
 veraa	jjq	0157	suw	down	rv	rv				
 veraa	jjq	0157	a	LOC.SP	adp	adp				
-veraa	jjq	0157	Sisiol	Sisiol	np:l	np		l	8047	
+veraa	jjq	0157	Sisiol	Sisiol	pn_np:l	pn_np		l	8047	
 veraa	jjq	0157	#	#	##	##				
 veraa	jjq	0157	n	ART	ln	ln				
 veraa	jjq	0157	so	name	np:s	np		s	8048	bridging
 veraa	jjq	0157	'ekē	place	rn_np:poss	rn_np		poss	8049	new
 veraa	jjq	0157	anē	DEM1.A	rn	rn				
 veraa	jjq	0157	a	LOC.SP	adp	adp				
-veraa	jjq	0157	Tatgan	Tatgan	np:pred	np		pred		
+veraa	jjq	0157	Tatgan	Tatgan	pn_np:pred	pn_np		pred		
 veraa	jjq	0158	#	#	##	##				
 veraa	jjq	0158	dir	3PL	pro.h:s	pro	h	s	8046	
 veraa	jjq	0158	ga	STAT	lv	lv				
@@ -2300,15 +2300,15 @@ veraa	jjq	0159	#	#	##	##
 veraa	jjq	0159	n	ART	ln	ln				
 veraa	jjq	0159	vono-n	home-CS	np:dt_p	np		dt_p	8004	
 veraa	jjq	0159	e	PERS.ART	rn	rn				
-veraa	jjq	0159	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0159	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0159	dir	3PL	pro.h:a	pro	h	a		
 veraa	jjq	0159	ga	STAT	lv	lv				
 veraa	jjq	0159	ul	call	v:pred	v		pred		
 veraa	jjq	0159	ZERO	ZERO	0:p	0		p	8004	
 veraa	jjq	0159	so	QUOT	other	other				
-veraa	jjq	0159	Tamlin̄lin̄	Tamlin̄lin̄	np:other	np		other		
+veraa	jjq	0159	Tamlin̄lin̄	Tamlin̄lin̄	pn_np:other	pn_np		other		
 veraa	jjq	0160	a	LOC.SP	adp	adp				
-veraa	jjq	0160	Sisiol	Sisiol	np:dt	np		dt		
+veraa	jjq	0160	Sisiol	Sisiol	pn_np:dt	pn_np		dt		
 veraa	jjq	0160	ba	but	other	other				
 veraa	jjq	0160	van	go	nc	nc				
 veraa	jjq	0160	sur	down	nc	nc				
@@ -2340,7 +2340,7 @@ veraa	jjq	0162	sa	EMPH	other	other
 veraa	jjq	0162	=n	=ART	=ln	=ln				
 veraa	jjq	0162	vono-n	home-CS	np:s	np		s		
 veraa	jjq	0162	e	PERS.ART	rn	rn				
-veraa	jjq	0162	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0162	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0162	ē	DEM3	rn	rn				
 veraa	jjq	0163	#	#	#nc	#nc				
 veraa	jjq	0163	ZERO	ZERO	nc	nc				
@@ -2418,7 +2418,7 @@ veraa	jjq	0168	tēktēk	RED:speak	v:pred	v		pred
 veraa	jjq	0168	qē'	finish	rv	rv				
 veraa	jjq	0168	mē-n	DAT-CS	adp	adp				
 veraa	jjq	0168	e	PERS.ART	ln	ln				
-veraa	jjq	0168	Qo'	Qo'	np.h:g	np	h	g	8001	
+veraa	jjq	0168	Qo'	Qo'	pn_np.h:g	pn_np	h	g	8001	
 veraa	jjq	0168	anē	DEM1.A	other	other				
 veraa	jjq	0169	#	#	##	##				
 veraa	jjq	0169	dir	3PL	pro.h:a	pro	h	a	8002	
@@ -2437,17 +2437,17 @@ veraa	jjq	0169	den	ABL	adp	adp
 veraa	jjq	0169	a	LOC.SP	nc	nc				
 veraa	jjq	0169	mē'ērsa	harbour	np:obl	np		obl	8055	bridging
 veraa	jjq	0169	a	LOC.SP	rn	rn				
-veraa	jjq	0169	Tatgan	Tatgan	rn	rn			8049	
+veraa	jjq	0169	Tatgan	Tatgan	rn_pn_np	rn_pn_np			8049	
 veraa	jjq	0170	#	#	##	##				
 veraa	jjq	0170	dir	3PL	pro.h:s	pro	h	s	8002	
 veraa	jjq	0170	=k	=TAM2	=lv	=lv				
 veraa	jjq	0170	suō	paddle	v:pred	v		pred		
 veraa	jjq	0170	sir	for	adp	adp				
 veraa	jjq	0170	=ēn	=ART	=ln	=ln				
-veraa	jjq	0170	Lōkōno	Lōkōno	np:g	np		g	8045	
+veraa	jjq	0170	Lōkōno	Lōkōno	pn_np:g	pn_np		g	8045	
 veraa	jjq	0171	#	#	##	##				
 veraa	jjq	0171	so	NC	other	other				
-veraa	jjq	0171	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0171	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0171	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0171	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0171	sag	sit	v:pred	v		pred		
@@ -2528,7 +2528,7 @@ veraa	jjq	0175	agēnē	DEM2.A	rn	rn
 veraa	jjq	0175	%	%	%	%				
 veraa	jjq	0175	rekso	like	adp	adp				
 veraa	jjq	0175	e	PERS.ART	ln	ln				
-veraa	jjq	0175	Qo'	Qo'	np.h:pred	np	h	pred	8001	
+veraa	jjq	0175	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred	8001	
 veraa	jjq	0175	ē	DEM3	rn	rn				
 veraa	jjq	0176	#	#	##	##				
 veraa	jjq	0176	di	3SG	pro.d:s	pro	d	s	8020	
@@ -2742,7 +2742,7 @@ veraa	jjq	0193	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s
 veraa	jjq	0193	van	go	v:pred	v		pred		
 veraa	jjq	0193	#	#	##	##				
 veraa	jjq	0193	e	ART	ln	ln				
-veraa	jjq	0193	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0193	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0193	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0193	dam	hang	v:pred	v		pred		
 veraa	jjq	0193	'a-'aga	RED-follow	rv	rv				
@@ -2776,7 +2776,7 @@ veraa	jjq	0194	anē	DEM1.A	rn	rn
 veraa	jjq	0195	#	#	##	##				
 veraa	jjq	0195	maraw--	spider	nc	nc				
 veraa	jjq	0195	e	ART	ln	ln				
-veraa	jjq	0195	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0195	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0195	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0195	dam	hang	v:pred	v		pred		
 veraa	jjq	0195	lisir	move.along	rv	rv				
@@ -2862,7 +2862,7 @@ veraa	jjq	0202	=m	=TAM1	=lv	=lv
 veraa	jjq	0202	van	go	v:pred	v		pred		
 veraa	jjq	0202	sir	for	adp	adp				
 veraa	jjq	0202	ēn	ART	ln	ln				
-veraa	jjq	0202	Lōkōno	Lōkōno	np:g	np		g	8045	
+veraa	jjq	0202	Lōkōno	Lōkōno	pn_np:g	pn_np		g	8045	
 veraa	jjq	0203	#	#	#nc	#nc				
 veraa	jjq	0203	'o	oh	nc	nc				
 veraa	jjq	0203	itok	good	nc	nc				
@@ -2957,7 +2957,7 @@ veraa	jjq	0211	=n	=ART	=ln	=ln
 veraa	jjq	0211	so	name	np:s	np		s	8068	bridging
 veraa	jjq	0211	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8061	
 veraa	jjq	0211	e	PERS.ART	ln	ln				
-veraa	jjq	0211	Rōlē	Rōlē	np:pred	np		pred		
+veraa	jjq	0211	Rōlē	Rōlē	pn_np:pred	pn_np		pred		
 veraa	jjq	0212	#	#	##	##				
 veraa	jjq	0212	masō-gi	time-3SG	np:other	np		other		
 veraa	jjq	0212	duru	3DL	pro.h:s	pro	h	s	8066	
@@ -2995,7 +2995,7 @@ veraa	jjq	0215	wōwen̄	k.o.basket	np:p	np		p	8064
 veraa	jjq	0215	ē	DEM3	rn	rn				
 veraa	jjq	0216	#	#	##	##				
 veraa	jjq	0216	be	but	other	other				
-veraa	jjq	0216	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0216	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0216	man	PFV	lv	lv				
 veraa	jjq	0216	kal	enter	v:pred	v		pred		
 veraa	jjq	0216	lē	LOC	adp	adp				
@@ -3080,7 +3080,7 @@ veraa	jjq	0224	va'al	banana	rn	rn			8065
 veraa	jjq	0224	anē	DEM1	rn	rn				
 veraa	jjq	0224	go-n	POSS.EAT-CS	np:pred	np		pred		
 veraa	jjq	0224	e	PERS.ART	rn	rn				
-veraa	jjq	0224	Qo'	Qo'	rn	rn			8001	
+veraa	jjq	0224	Qo'	Qo'	rn_pn_np	rn_pn_np			8001	
 veraa	jjq	0225	#	#	##	##				
 veraa	jjq	0225	ZERO	ZERO	0.h:s	0	h	s	8002	
 veraa	jjq	0225	so	QUOT	other:pred	other		pred		
@@ -3088,15 +3088,15 @@ veraa	jjq	0225	#	#	##ds	##ds
 veraa	jjq	0225	ei	hey	other	other				
 veraa	jjq	0225	#	#	##ds	##ds				
 veraa	jjq	0225	e	PERS.ART	ln	ln				
-veraa	jjq	0225	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0225	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0225	e	PERS.ART	ln	ln				
-veraa	jjq	0225	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0225	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0225	lu	through	other:pred	other		pred		
 veraa	jjq	0225	ma	hither	rv	rv				
 veraa	jjq	0225	a	LOC.SP	adp	adp				
 veraa	jjq	0225	viē	where	other:l	other		l		
 veraa	jjq	0225	#	#	##ds	##ds				
-veraa	jjq	0225	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0225	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0225	=m	=TAM1	=lv	=lv				
 veraa	jjq	0225	sag	sit	v:pred	v		pred		
 veraa	jjq	0225	ren̄	stuck	rv	rv				
@@ -3117,7 +3117,7 @@ veraa	jjq	0227	suō	paddle	v:pred	v		pred
 veraa	jjq	0228	#	#	##	##				
 veraa	jjq	0228	nei	now	other	other				
 veraa	jjq	0228	e	PERS.ART	ln	ln				
-veraa	jjq	0228	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0228	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0228	man	PFV	lv	lv				
 veraa	jjq	0228	sal	float	v:pred	v		pred		
 veraa	jjq	0228	gala	pass	rv	rv				
@@ -3187,7 +3187,7 @@ veraa	jjq	0232	anē	DEM1.A	rn	rn
 veraa	jjq	0232	=n	=ART	=ln	=ln				
 veraa	jjq	0232	go-n	POSS.EAT-3SG	np:pred	np		pred		
 veraa	jjq	0232	e	PERS.ART	rn	rn				
-veraa	jjq	0232	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0232	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0232	nē	DEM1	other	other				
 veraa	jjq	0233	#	#	##	##				
 veraa	jjq	0233	va'al	banana	np:s	np		s	8065	
@@ -3224,7 +3224,7 @@ veraa	jjq	0234	dir	3PL	pro.h:s	pro	h	s	8002
 veraa	jjq	0234	wo	QUOT	other:pred	other		pred		
 veraa	jjq	0234	#	#	##ds.neg	##ds.neg				
 veraa	jjq	0234	e	PERS.ART	ln	ln				
-veraa	jjq	0234	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0234	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0234	mas	INABIL1	lv	lv				
 veraa	jjq	0234	'isiw	dismount	v:pred	v		pred		
 veraa	jjq	0234	m̄as	INABIL2	rv	rv				
@@ -3253,11 +3253,11 @@ veraa	jjq	0237	'o	'o	nc	nc
 veraa	jjq	0237	nike	2SG=TAM2	nc	nc				
 veraa	jjq	0237	os	NC	nc	nc				
 veraa	jjq	0237	e	PERS.ART	nc	nc				
-veraa	jjq	0237	Qo'	Qo'	nc	nc				
+veraa	jjq	0237	Qo'	Qo'	nc_pn_np.h	nc_pn_np	h		8001	
 veraa	jjq	0237	ne	TAM2	nc	nc				
 veraa	jjq	0237	#	#	##ds	##ds				
 veraa	jjq	0237	e	PERS.ART	ln	ln				
-veraa	jjq	0237	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0237	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0237	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0237	van	go	v:pred	v		pred		
 veraa	jjq	0237	lu	through	rv	rv				
@@ -3319,7 +3319,7 @@ veraa	jjq	0242	anē	DEM1.A	rn	rn
 veraa	jjq	0242	=n	=ART	=ln	=ln				
 veraa	jjq	0242	go-n	POSS.EAT-CS	np:pred	np		pred		
 veraa	jjq	0242	e	PERS.ART	rn	rn				
-veraa	jjq	0242	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0242	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0243	#	#	##	##				
 veraa	jjq	0243	e	ART	ln	ln				
 veraa	jjq	0243	raga	people	ln	ln				
@@ -3330,7 +3330,7 @@ veraa	jjq	0243	#	#	##ds.neg	##ds.neg
 veraa	jjq	0243	ZERO	ZERO	0:s	0		s		
 veraa	jjq	0243	go-n	POSS.EAT-CS	np:pred	np		pred		
 veraa	jjq	0243	e	PERS.ART	rn	rn				
-veraa	jjq	0243	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0243	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0243	rōs	GEN.NEG1	rn	rn				
 veraa	jjq	0244	#	#	##	##				
 veraa	jjq	0244	ba	but	other	other				
@@ -3345,7 +3345,7 @@ veraa	jjq	0244	lē	LOC	adp	adp
 veraa	jjq	0244	=n	=ART	=ln	=ln				
 veraa	jjq	0244	mē'ērsa	harbour	np:g	np		g	8072	bridging
 veraa	jjq	0244	'a	ASS.SP	rn	rn				
-veraa	jjq	0244	Lōkōno	Lōkōno	rn	rn			8045	
+veraa	jjq	0244	Lōkōno	Lōkōno	rn_pn_np	rn_pn_np			8045	
 veraa	jjq	0245	#	#	##	##				
 veraa	jjq	0245	dir	3PL	pro.h:s	pro	h	s	8063	
 veraa	jjq	0245	=k	=TAM2	=lv	=lv				
@@ -3356,7 +3356,7 @@ veraa	jjq	0245	sir	for	adp	adp
 veraa	jjq	0245	ēn	ART	ln	ln				
 veraa	jjq	0245	mē'ērsa	harbour	np:g	np		g	8072	
 veraa	jjq	0245	'a	ASS.SP	rn	rn				
-veraa	jjq	0245	Lōkōno	Lōkōno	rn	rn			8045	
+veraa	jjq	0245	Lōkōno	Lōkōno	rn_pn_np	rn_pn_np			8045	
 veraa	jjq	0246	#	#	##	##				
 veraa	jjq	0246	dir	3PL	pro.h:a	pro	h	a	8063	
 veraa	jjq	0246	=k	=TAM2	=lv	=lv				
@@ -3402,15 +3402,15 @@ veraa	jjq	0249	eh	HES	nc	nc
 veraa	jjq	0249	ēn	ART	ln	ln				
 veraa	jjq	0249	gunu-n	spouse-CS	np.h:s	np	h	s	8038	
 veraa	jjq	0249	e	PERS.ART	rn	rn				
-veraa	jjq	0249	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0249	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0249	so	QUOT	other:pred	other		pred		
 veraa	jjq	0250	#	#	##ds	##ds				
 veraa	jjq	0250	ZERO	ZERO	0.h:s	0	h	s	8001	
 veraa	jjq	0250	e	PERS.ART	ln	ln				
-veraa	jjq	0250	Qo'	Qo'	np.h:pred	np	h	pred	8001	
+veraa	jjq	0250	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred	8001	
 veraa	jjq	0250	nē	DEM1	other	other				
 veraa	jjq	0250	#	#	##ds	##ds				
-veraa	jjq	0250	Qo'	Qo'	np.h:pred	np	h	pred	8001	
+veraa	jjq	0250	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred	8001	
 veraa	jjq	0250	sa	EMPH?	rn	rn				
 veraa	jjq	0250	#	#	#ds_rc:s	#ds_rc		s	8001	
 veraa	jjq	0250	ZERO	ZERO	0.h:s	0	h	s	8001	
@@ -3427,15 +3427,15 @@ veraa	jjq	0250	so	QUOT	other:pred	other		pred
 veraa	jjq	0251	#	#	##ds	##ds				
 veraa	jjq	0251	'e	INTERJ	other	other				
 veraa	jjq	0251	e	PERS.ART	ln	ln				
-veraa	jjq	0251	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0251	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0251	e	PERS.ART	ln	ln				
-veraa	jjq	0251	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0251	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0251	lu	through	other:pred	other		pred		
 veraa	jjq	0251	ma	hither	rv	rv				
 veraa	jjq	0251	a	LOC.SP	adp	adp				
 veraa	jjq	0251	viē	where	other:obl	other		obl		
 veraa	jjq	0252	#	#	##ds	##ds				
-veraa	jjq	0252	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0252	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0252	=m	=TAM1	=lv	=lv				
 veraa	jjq	0252	sag	sit	v:pred	v		pred		
 veraa	jjq	0252	ren̄	stuck	rv	rv				
@@ -3465,7 +3465,7 @@ veraa	jjq	0253	'irōr	true	np:pred	np		pred
 veraa	jjq	0254	#	#	##ds	##ds				
 veraa	jjq	0254	ZERO	ZERO	0.h:s	0	h	s	8001	
 veraa	jjq	0254	e	PERS.ART	ln	ln				
-veraa	jjq	0254	Qo'	Qo'	np.h:pred	np	h	pred	8001	
+veraa	jjq	0254	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred	8001	
 veraa	jjq	0255	#	#	#nc	#nc				
 veraa	jjq	0255	so	CPL	nc	nc				
 veraa	jjq	0255	e	DISC	nc	nc				
@@ -3493,7 +3493,7 @@ veraa	jjq	0256	ma	hither	rv	rv
 veraa	jjq	0256	=n	=ART	=ln	=ln				
 veraa	jjq	0256	sava	what	np:p	np		p		
 veraa	jjq	0256	#	#	##	##				
-veraa	jjq	0256	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0256	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0256	=s	=SIM	=lv	=lv				
 veraa	jjq	0256	'ir	stand	v:pred	v		pred		
 veraa	jjq	0256	'i	DEL	other	other				
@@ -3509,7 +3509,7 @@ veraa	jjq	0257	ma	hither	rv	rv
 veraa	jjq	0257	anē	DEM1.A	other	other				
 veraa	jjq	0257	#	#	##	##				
 veraa	jjq	0257	e	PERS.ART	ln	ln				
-veraa	jjq	0257	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0257	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0257	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0257	lan̄	beat	nc	nc				
 veraa	jjq	0257	wal	once	nc	nc				
@@ -3544,7 +3544,7 @@ veraa	jjq	0259	=n	=ART	=ln	=ln
 veraa	jjq	0259	lōlō	inside	ln	ln				
 veraa	jjq	0259	vunu	village	np:l	np		l	8045	
 veraa	jjq	0259	'a	ASS.SP	rn	rn				
-veraa	jjq	0259	Lokon	Lokon	rn	rn			8045	
+veraa	jjq	0259	Lokon	Lokon	rn_pn_np	rn_pn_np			8045	
 veraa	jjq	0259	anē	DEM1.A	rn	rn				
 veraa	jjq	0260	#	#	#nc	#nc				
 veraa	jjq	0260	lē	LOC	nc	nc				
@@ -3572,7 +3572,7 @@ veraa	jjq	0261	#	#	##	##
 veraa	jjq	0261	ba	but	other	other				
 veraa	jjq	0261	=n	=ART	=ln	=ln				
 veraa	jjq	0261	so	name	np:dt_s	np		dt_s	8075	bridging
-veraa	jjq	0261	'ekē	place	rn	rn			8076	bridging
+veraa	jjq	0261	'ekē	place	rn_np	rn_np			8076	bridging
 veraa	jjq	0261	anē	DEM1.A	rn	rn				
 veraa	jjq	0261	n	=ART	nc	nc				
 veraa	jjq	0261	so	QUOT	nc	nc				
@@ -3580,10 +3580,10 @@ veraa	jjq	0261	mō--	fast	nc	nc
 veraa	jjq	0261	=n	=ART	=ln	=ln				
 veraa	jjq	0261	so	name	np:s	np		s	8075	
 veraa	jjq	0261	vunuō	village	rn	rn				
-veraa	jjq	0261	Lebot	Lebot	other:pred	other		pred	8076	
+veraa	jjq	0261	Lebot	Lebot	pn_np:pred	pn_np		pred		
 veraa	jjq	0262	#	#	#nc	#nc				
 veraa	jjq	0262	a	LOC.SP	nc	nc				
-veraa	jjq	0262	Lebot	Lebot	nc	nc				
+veraa	jjq	0262	Lebot	Lebot	nc_pn_np	nc_pn_np			8076	
 veraa	jjq	0262	'an	LOC.SP=ART	nc	nc				
 veraa	jjq	0262	valgi	valgi	nc	nc				
 veraa	jjq	0262	kēl	back	nc	nc				
@@ -3603,9 +3603,9 @@ veraa	jjq	0263	vono-n	home-CS	np:pred	np		pred
 veraa	jjq	0263	e	PERS.ART	rn	rn				
 veraa	jjq	0263	Q--	NC	nc	nc				
 veraa	jjq	0263	eh	HES	nc	nc				
-veraa	jjq	0263	Tumeren	Tumeren	rn_np.d:poss	rn_np	d	poss	8077	new
+veraa	jjq	0263	Tumeren	Tumeren	rn_pn_np.d:poss	rn_pn_np	d	poss	8077	new
 veraa	jjq	0264	#	#	##	##				
-veraa	jjq	0264	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0264	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0264	ga	STAT	lv	lv				
 veraa	jjq	0264	'ōg'ōg	RED:stay	v:pred	v		pred		
 veraa	jjq	0264	'ekēnē	LOC.DEM1	other:l	other		l	8076	
@@ -3645,7 +3645,7 @@ veraa	jjq	0268	van̄an	feed	v:pred	v		pred
 veraa	jjq	0268	ēn	ART	ln	ln				
 veraa	jjq	0268	qō	pig	np:p	np		p	8079	new
 veraa	jjq	0268	#	#	##	##				
-veraa	jjq	0268	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0268	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0268	ē	DEM3	rn	rn				
 veraa	jjq	0268	ga	STAT	lv	lv				
 veraa	jjq	0268	'ōg	stay	v:pred	v		pred		
@@ -3667,7 +3667,7 @@ veraa	jjq	0269	kal	upwards	rv	rv
 veraa	jjq	0269	sar	inland	rv	rv				
 veraa	jjq	0269	ma	hither	rv	rv				
 veraa	jjq	0270	#	#	##	##				
-veraa	jjq	0270	Tumeren	Tumeren	np.d:a	np	d	a	8077	
+veraa	jjq	0270	Tumeren	Tumeren	pn_np.d:a	pn_np	d	a	8077	
 veraa	jjq	0270	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	jjq	0270	'ēn	see	v:pred	v		pred		
 veraa	jjq	0270	dirē	3PL	pro.h:p	pro	h	p	8074	
@@ -3742,7 +3742,7 @@ veraa	jjq	0276	van	go	v:pred	v		pred
 veraa	jjq	0276	ma	hither	rv	rv				
 veraa	jjq	0276	den	ABL	adp	adp				
 veraa	jjq	0276	a	LOC.SP	adp	adp				
-veraa	jjq	0276	Vunu	Vunu	np:obl	np		obl	8081	new
+veraa	jjq	0276	Vunu	Vunu	pn_np:obl	pn_np		obl	8081	new
 veraa	jjq	0276	Lava	Lava	rn	rn				
 veraa	jjq	0277	#	#	##ds	##ds				
 veraa	jjq	0277	nikē	2SG	pro.2:s	pro	2	s	8001	
@@ -3752,7 +3752,7 @@ veraa	jjq	0277	#	#	##ds	##ds
 veraa	jjq	0277	no	1SG	pro.1:dt_s	pro	1	dt_s	8001	
 veraa	jjq	0277	no	1SG	pro.1:s	pro	1	s	8001	
 veraa	jjq	0277	e	PERS.ART	ln	ln				
-veraa	jjq	0277	Qo'	Qo'	np.h:pred	np	h	pred		
+veraa	jjq	0277	Qo'	Qo'	pn_np.h:pred	pn_np	h	pred		
 veraa	jjq	0277	#	#	##ds	##ds				
 veraa	jjq	0277	enei	now	other	other				
 veraa	jjq	0277	e	PERS.ART	ln	ln				
@@ -3803,9 +3803,9 @@ veraa	jjq	0281	#	#	##	##
 veraa	jjq	0281	so	name	np:s	np		s	8083	bridging
 veraa	jjq	0281	-gi	-3SG	-rn_pro.h:poss	-rn_pro	h	poss		
 veraa	jjq	0281	e	PERS.ART	ln	ln				
-veraa	jjq	0281	Wōqōn̄qōn̄	Wōqōn̄qōn̄	np.h:pred	np	h	pred		
+veraa	jjq	0281	Wōqōn̄qōn̄	Wōqōn̄qōn̄	pn_np.h:pred	pn_np	h	pred		
 veraa	jjq	0282	#	#	##	##				
-veraa	jjq	0282	Wōqōn̄qōn̄	Wōqōn̄qōn̄	np.h:dt_s	np	h	dt_s	8082	
+veraa	jjq	0282	Wōqōn̄qōn̄	Wōqōn̄qōn̄	pn_np.h:dt_s	pn_np	h	dt_s	8082	
 veraa	jjq	0282	di	reach	pro.h:s	pro	h	s	8082	
 veraa	jjq	0282	=n	=ART	nc	nc				
 veraa	jjq	0282	n	ART	ln	ln				
@@ -3901,7 +3901,7 @@ veraa	jjq	0290	=m	=TAM1	=lv	=lv
 veraa	jjq	0290	qōn̄	night	v:pred	v		pred		
 veraa	jjq	0290	lu-luwo	RED-big	rv	rv				
 veraa	jjq	0291	#	#	##	##				
-veraa	jjq	0291	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0291	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0291	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0291	da	do	v:pred	v		pred		
 veraa	jjq	0291	dirē	3PL	pro.h:p	pro	h	p	8063	
@@ -3936,7 +3936,7 @@ veraa	jjq	0292	qē'	finish	rn	rn
 veraa	jjq	0292	wal	once	rn	rn				
 veraa	jjq	0292	birin̄	with	rn	rn				
 veraa	jjq	0292	e	PERS.ART	rn	rn				
-veraa	jjq	0292	Qo'	Qo'	rn	rn			8001	
+veraa	jjq	0292	Qo'	Qo'	rn_pn_np.h	rn_pn_np	h		8001	
 veraa	jjq	0292	dir	3PL	pro.h:s	pro	h	s	8074	
 veraa	jjq	0292	=k	=TAM2	=lv	=lv				
 veraa	jjq	0292	van	go	v:pred	v		pred		
@@ -3977,12 +3977,12 @@ veraa	jjq	0294	'eno	try	v:pred	v		pred
 veraa	jjq	0294	'ēn	see	rv	rv				
 veraa	jjq	0294	dirē	3PL	pro.h:p	pro	h	p	8074	
 veraa	jjq	0295	#	#	##	##				
-veraa	jjq	0295	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0295	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0295	=s	=SIM	=lv	=lv				
 veraa	jjq	0295	van	go	v:pred	v		pred		
 veraa	jjq	0295	ma	hither	rv	rv				
 veraa	jjq	0295	#	#	##neg	##neg				
-veraa	jjq	0295	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0295	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0295	van	go	v:pred	v		pred		
 veraa	jjq	0295	rōs	GEN.NEG2	rv	rv				
 veraa	jjq	0295	ma	hither	rv	rv				
@@ -3992,14 +3992,14 @@ veraa	jjq	0295	dōdōmia	thought	np:other	np		other
 veraa	jjq	0295	ga	STAT	rn	rn				
 veraa	jjq	0295	wē	good	rn	rn				
 veraa	jjq	0296	#	#	##	##				
-veraa	jjq	0296	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0296	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0296	=m	=TAM1	=lv	=lv				
 veraa	jjq	0296	van	go	v:pred	v		pred		
 veraa	jjq	0296	ma	hither	rv	rv				
 veraa	jjq	0296	sir	for	adp	adp				
 veraa	jjq	0296	#	#	#cc:obl	#cc		obl		
 veraa	jjq	0296	'amēn	ASS	other	other				
-veraa	jjq	0296	di	3SG	pro.h:a	pro	h	a	8077	
+veraa	jjq	0296	di	3SG	pro.d:a	pro	d	a	8077	
 veraa	jjq	0296	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	jjq	0296	kur	devour	v:pred	v		pred		
 veraa	jjq	0296	sa	EMPH	other	other				
@@ -4008,7 +4008,7 @@ veraa	jjq	0296	raga	people	np.h:p	np	h	p	8074
 veraa	jjq	0296	ē	DEM3	rn	rn				
 veraa	jjq	0297	#	#	##	##				
 veraa	jjq	0297	ba	but	other	other				
-veraa	jjq	0297	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0297	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0297	=m	=TAM1	=lv	=lv				
 veraa	jjq	0297	van	go	v:pred	v		pred		
 veraa	jjq	0297	din̄	reach	rv	rv				
@@ -4018,14 +4018,14 @@ veraa	jjq	0297	=n	=ART	=ln	=ln
 veraa	jjq	0297	lōlō	inside	ln	ln				
 veraa	jjq	0297	im̄ē	house	np:g	np		g	8080	
 veraa	jjq	0297	#	#	##	##				
-veraa	jjq	0297	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0297	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0297	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0297	kal	enter	v:pred	v		pred		
 veraa	jjq	0297	ba'a	into	rv	rv				
 veraa	jjq	0297	sar	in	rv	rv				
 veraa	jjq	0297	ZERO	ZERO	0:g	0		g	8080	
 veraa	jjq	0298	#	#	##	##				
-veraa	jjq	0298	di	3SG	pro.h:a	pro	h	a	8077	
+veraa	jjq	0298	di	3SG	pro.d:a	pro	d	a	8077	
 veraa	jjq	0298	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	jjq	0298	sik	search	v:pred	v		pred		
 veraa	jjq	0298	dirē	3PL	pro.h:p	pro	h	p	8074	
@@ -4060,7 +4060,7 @@ veraa	jjq	0299	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s
 veraa	jjq	0299	kalu	exit	v:pred	v		pred		
 veraa	jjq	0299	kēl	back	rv	rv				
 veraa	jjq	0300	#	#	##	##				
-veraa	jjq	0300	di	3SG	pro.h:s	pro	h	s	8077	
+veraa	jjq	0300	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0300	=m	=TAM1	=lv	=lv				
 veraa	jjq	0300	mulo	go	v:pred	v		pred		
 veraa	jjq	0300	#	#	##	##				
@@ -4096,7 +4096,7 @@ veraa	jjq	0304	kēl	back	v:pred	v		pred
 veraa	jjq	0304	ma	hither	rv	rv				
 veraa	jjq	0305	#	#	##ds	##ds				
 veraa	jjq	0305	'ei	INTERJ	other	other				
-veraa	jjq	0305	Qo'	Qo'	np.h:voc	np	h	voc	8001	
+veraa	jjq	0305	Qo'	Qo'	pn_np.h:voc	pn_np	h	voc	8001	
 veraa	jjq	0306	no	1SG	pro.1:s	pro	1	s	8077	
 veraa	jjq	0306	=m	=TAM1	=lv	=lv				
 veraa	jjq	0306	van	go	v:pred	v		pred		
@@ -4142,18 +4142,18 @@ veraa	jjq	0307	kēnei	LOC.DEM4	other:l	other		l	8080
 veraa	jjq	0308	#	#	#nc	#nc				
 veraa	jjq	0308	nē	DEM1	nc	nc				
 veraa	jjq	0308	e	PERS.ART	nc	nc				
-veraa	jjq	0308	Qo'	Qo'	nc	nc				
+veraa	jjq	0308	Qo'	Qo'	nc_pn_np.h	nc_pn_np	h		8001	
 veraa	jjq	0308	#	#	##	##				
 veraa	jjq	0308	nē	DEM1	dem_pro:s	dem_pro		s		
 veraa	jjq	0308	=n	=ART	=ln	=ln				
 veraa	jjq	0308	tēktēk	RED:speak	np:pred	np		pred	8088	bridging
 veraa	jjq	0308	mu-n	POSS.GEN-CS	rn	rn				
 veraa	jjq	0308	e	PERS.ART	rn	rn				
-veraa	jjq	0308	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0308	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0309	#	#	##	##				
 veraa	jjq	0309	ba	but	other	other				
 veraa	jjq	0309	taga--	NC	nc	nc				
-veraa	jjq	0309	Tagar	Tagar	np.h:s	np	h	s	8082	
+veraa	jjq	0309	Tagar	Tagar	pn_np.h:s	pn_np	h	s	8082	
 veraa	jjq	0309	lōlqōn̄	dark.minded	rn	rn				
 veraa	jjq	0309	ē	DEM3	rn	rn				
 veraa	jjq	0309	=s	=SIM	=lv	=lv				
@@ -4238,7 +4238,7 @@ veraa	jjq	0317	=k	=TAM2	=lv	=lv
 veraa	jjq	0317	gengen	RED-eat	v:pred	v		pred		
 veraa	jjq	0317	qē'	finish	rv	rv				
 veraa	jjq	0318	#	#	##	##				
-veraa	jjq	0318	Tumeren	Tumeren	np.d:s_ds	np	d	s_ds	8077	
+veraa	jjq	0318	Tumeren	Tumeren	pn_np.d:s_ds	pn_np	d	s_ds	8077	
 veraa	jjq	0318	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	jjq	0318	tēk	speak	v:pred	v		pred		
 veraa	jjq	0318	mē	DAT	adp	adp				
@@ -4280,7 +4280,7 @@ veraa	jjq	0323	nē	DEM1	dem_pro:s	dem_pro		s
 veraa	jjq	0323	tēktēk	RED:speak	np:pred	np		pred	8089	bridging
 veraa	jjq	0323	mu-n	POSS.GEN-CS	rn	rn				
 veraa	jjq	0323	e	PERS.ART	rn	rn				
-veraa	jjq	0323	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0323	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0323	nē	DEM1	other	other				
 veraa	jjq	0324	#	#	##	##				
 veraa	jjq	0324	di	3SG	pro.d:s	pro	d	s	8077	
@@ -4314,7 +4314,7 @@ veraa	jjq	0325	anē	DEM1	rn	rn
 veraa	jjq	0326	#	#	##	##				
 veraa	jjq	0326	wo	and	other	other				
 veraa	jjq	0326	e	PERS.ART	ln	ln				
-veraa	jjq	0326	Qo'	Qo'	np.h:s_ds	np	h	s_ds	8001	
+veraa	jjq	0326	Qo'	Qo'	pn_np.h:s_ds	pn_np	h	s_ds	8001	
 veraa	jjq	0326	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	jjq	0326	tēk	speak	v:pred	v		pred		
 veraa	jjq	0326	mē	DAT	adp	adp				
@@ -4355,7 +4355,7 @@ veraa	jjq	0330	'alē	ASS	rn	rn
 veraa	jjq	0330	=n	=ART	rn	rn				
 veraa	jjq	0330	nim̄ē	house	rn_np	rn_np			8080	
 veraa	jjq	0331	#	#	##	##				
-veraa	jjq	0331	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0331	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0331	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0331	din̄	flick	v:pred	v		pred		
 veraa	jjq	0331	wōr	shatter	rv	rv				
@@ -4401,7 +4401,7 @@ veraa	jjq	0334	di	3SG	pro.d:s	pro	d	s	8077
 veraa	jjq	0334	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0334	kēl	back	v:pred	v		pred		
 veraa	jjq	0334	ma	hither	rv	rv				
-veraa	jjq	0334	Tumeren	Tumeren	np.d:dt_s	np	d	dt_s	8077	
+veraa	jjq	0334	Tumeren	Tumeren	pn_np.d:dt_s	pn_np	d	dt_s	8077	
 veraa	jjq	0334	nē	DEM1	other	other				
 veraa	jjq	0335	#	#	##	##				
 veraa	jjq	0335	ZERO	ZERO	0.d:s	0	d	s	8077	
@@ -4522,7 +4522,7 @@ veraa	jjq	0345	wal	once	rn	rn
 veraa	jjq	0345	va'i	still	rn	rn				
 veraa	jjq	0345	nē	DEM1	other	other				
 veraa	jjq	0345	e	PERS.ART	ln	ln				
-veraa	jjq	0345	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0345	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0345	dirē	3PL	pro.h:appos	pro	h	appos	8074	
 veraa	jjq	0345	man	PFV	lv	lv				
 veraa	jjq	0345	'ēqēl	descend	v:pred	v		pred		
@@ -4552,7 +4552,7 @@ veraa	jjq	0347	misin	long.time	v:pred	v		pred
 veraa	jjq	0347	rōs	GEN.NEG2	rv	rv				
 veraa	jjq	0347	#	#	#cc	#cc				
 veraa	jjq	0347	e	PERS.ART	ln	ln				
-veraa	jjq	0347	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0347	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0347	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0347	kēl	back	v:pred	v		pred		
 veraa	jjq	0347	ma	hither	rv	rv				
@@ -4635,7 +4635,7 @@ veraa	jjq	0352	kimi	2PL	pro.2:s	pro	2	s	8074
 veraa	jjq	0352	gitag	not.exist	other:pred	other		pred		
 veraa	jjq	0352	ZERO	ZERO	0:l	0		l	8086	
 veraa	jjq	0353	#	#	##	##				
-veraa	jjq	0353	Tagarlōlqōn̄	Tagarlōlqōn̄	np.h:s	np	h	s	8082	
+veraa	jjq	0353	Tagarlōlqōn̄	Tagarlōlqōn̄	pn_np.h:s	pn_np	h	s	8082	
 veraa	jjq	0353	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0353	sag	sit	v:pred	v		pred		
 veraa	jjq	0353	'i	DEL	rv	rv				
@@ -4658,7 +4658,7 @@ veraa	jjq	0355	=n	=ART	=ln	=ln
 veraa	jjq	0355	wōruqruqō	struts	np:l	np		l	8090	
 veraa	jjq	0356	#	#	##	##				
 veraa	jjq	0356	e	PERS.ART	ln	ln				
-veraa	jjq	0356	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0356	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0356	so	QUOT	other:pred	other		pred		
 veraa	jjq	0356	#	#	##ds	##ds				
 veraa	jjq	0356	'ekē	oh.dear	other:pred	other		pred		
@@ -4672,7 +4672,7 @@ veraa	jjq	0357	lik	more	other	other
 veraa	jjq	0358	#	#	##	##				
 veraa	jjq	0358	ba	but	other	other				
 veraa	jjq	0358	e	PERS.ART	ln	ln				
-veraa	jjq	0358	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0358	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0358	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0358	ga	STAT	lv	lv				
 veraa	jjq	0358	lama'i	know	v:pred	v		pred		
@@ -4716,7 +4716,7 @@ veraa	jjq	0360	va-va-van	RED-RED-go	other	other
 veraa	jjq	0360	#	#	##	##				
 veraa	jjq	0360	revrev	evening	other:pred	other		pred		
 veraa	jjq	0361	#	#	##	##				
-veraa	jjq	0361	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0361	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0361	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0361	rōw	skip	v:pred	v		pred		
 veraa	jjq	0361	lu	through	rv	rv				
@@ -4734,13 +4734,13 @@ veraa	jjq	0362	=m	=TAM1	=lv	=lv
 veraa	jjq	0362	gengen	RED:eat	v:pred	v		pred		
 veraa	jjq	0362	qē'	finish	rv	rv				
 veraa	jjq	0363	#	#	##	##				
-veraa	jjq	0363	di	3SG	pro.h:s_ds	pro	h	s_ds	8077	
+veraa	jjq	0363	di	3SG	pro.d:s_ds	pro	d	s_ds	8077	
 veraa	jjq	0363	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	jjq	0363	tēk	speak	v:pred	v		pred		
 veraa	jjq	0363	kēl	back	rv	rv				
 veraa	jjq	0363	mē-n	DAT-CS	adp	adp				
 veraa	jjq	0363	e	PERS.ART	ln	ln				
-veraa	jjq	0363	Qo'	Qo'	np.h:g	np	h	g	8001	
+veraa	jjq	0363	Qo'	Qo'	pn_np.h:g	pn_np	h	g	8001	
 veraa	jjq	0363	so	QUOT	other	other				
 veraa	jjq	0364	#	#	##ds	##ds				
 veraa	jjq	0364	o	INTERJ	other	other				
@@ -4793,12 +4793,12 @@ veraa	jjq	0368	dir	3PL	pro.h:s	pro	h	s	8074
 veraa	jjq	0368	=k	=TAM2	=lv	=lv				
 veraa	jjq	0368	'ōg	stay	v:pred	v		pred		
 veraa	jjq	0368	a	LOC.SP	adp	adp				
-veraa	jjq	0368	Lōkōno	Lōkōno	np:l	np		l	8045	
+veraa	jjq	0368	Lōkōno	Lōkōno	pn_np:l	pn_np		l	8045	
 veraa	jjq	0369	#	#	##	##				
 veraa	jjq	0369	dōdōmia	thought	np:s	np		s	8096	new
 veraa	jjq	0369	mu-n	POSS.GEN-CS	rn	rn				
 veraa	jjq	0369	e	PERS.ART	rn	rn				
-veraa	jjq	0369	Qo'	Qo'	rn_np.h:poss	rn_np	h	poss	8001	
+veraa	jjq	0369	Qo'	Qo'	rn_pn_np.h:poss	rn_pn_np	h	poss	8001	
 veraa	jjq	0369	#	#	#cc:pred	#cc		pred		
 veraa	jjq	0369	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0369	ga	STAT	lv	lv				
@@ -4825,7 +4825,7 @@ veraa	jjq	0371	=m	=TAM1	=lv	=lv
 veraa	jjq	0371	gengen	RED:eat	v:pred	v		pred		
 veraa	jjq	0371	qē'	finish	rv	rv				
 veraa	jjq	0372	#	#	##	##				
-veraa	jjq	0372	Tumeren	Tumeren	np.h:s	np	h	s	8077	
+veraa	jjq	0372	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0372	so	QUOT	other:pred	other		pred		
 veraa	jjq	0373	#	#	##ds	##ds				
 veraa	jjq	0373	itok	good	v:pred	v		pred		
@@ -4874,7 +4874,7 @@ veraa	jjq	0375	ga	STAT	lv	lv
 veraa	jjq	0375	itok	good	v:pred	v		pred		
 veraa	jjq	0376	#	#	##	##				
 veraa	jjq	0376	dir=k	3PL=TAM1	nc	nc				
-veraa	jjq	0376	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0376	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0376	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0376	kalu	exit	v:pred	v		pred		
 veraa	jjq	0376	#	#	##	##				
@@ -4889,7 +4889,7 @@ veraa	jjq	0377	anē	DEM1.A	other	other
 veraa	jjq	0378	#	#	##	##				
 veraa	jjq	0378	sōwē	DISC	other	other				
 veraa	jjq	0378	e	PERS.ART	ln	ln				
-veraa	jjq	0378	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0378	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0378	so	QUOT	other:pred	other		pred		
 veraa	jjq	0379	#	#	##ds	##ds				
 veraa	jjq	0379	sava	what	np:dt_p	np		dt_p		
@@ -5008,7 +5008,7 @@ veraa	jjq	0388	'ekē	place	np:s	np		s
 veraa	jjq	0388	ne	TAM2:3SG	lv-pro_s	lv-pro_s				
 veraa	jjq	0388	maran	daylight	v:pred	v		pred		
 veraa	jjq	0389	#	#	##	##				
-veraa	jjq	0389	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0389	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0389	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	jjq	0389	kēl	back	v:pred	v		pred		
 veraa	jjq	0389	ma	hither	rv	rv				
@@ -5054,7 +5054,7 @@ veraa	jjq	0394	wal	once	other	other
 veraa	jjq	0394	sa	EMPH	other	other				
 veraa	jjq	0394	kēnei	LOC.DEM4	other:l	other		l	8080	
 veraa	jjq	0395	#	#	##	##				
-veraa	jjq	0395	Qo'	Qo'	np.h:s_ds	np	h	s_ds	8001	
+veraa	jjq	0395	Qo'	Qo'	pn_np.h:s_ds	pn_np	h	s_ds	8001	
 veraa	jjq	0395	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	jjq	0395	'aram	tell	nc	nc				
 veraa	jjq	0395	mē	DAT	nc	nc				
@@ -5089,7 +5089,7 @@ veraa	jjq	0397	-mam	-1PL.EX	-rn_pro.1:poss	-rn_pro	1	poss	8074
 veraa	jjq	0397	anē	DEM1.A	rn	rn				
 veraa	jjq	0398	#	#	##	##				
 veraa	jjq	0398	eh	HES	nc	nc				
-veraa	jjq	0398	Tagarlōlqōn̄	Tagarlōlqōn̄	np.h:s	np	h	s	8082	
+veraa	jjq	0398	Tagarlōlqōn̄	Tagarlōlqōn̄	pn_np.h:s	pn_np	h	s	8082	
 veraa	jjq	0398	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0398	sag	sit	v:pred	v		pred		
 veraa	jjq	0398	'i	DEL	rv	rv				
@@ -5255,20 +5255,20 @@ veraa	jjq	0408	e	PERS.ART	ln	ln
 veraa	jjq	0408	raga	people	np.h:g	np	h	g	8074	
 veraa	jjq	0408	ē	DEM3	rn	rn				
 veraa	jjq	0408	#	#	##	##				
-veraa	jjq	0408	di	3SG	pro.h:a	pro	h	a	8077	
+veraa	jjq	0408	di	3SG	pro.d:a	pro	d	a	8077	
 veraa	jjq	0408	ga	STAT	lv	lv				
 veraa	jjq	0408	gis	hold	v:pred	v		pred		
 veraa	jjq	0408	rō-rōn̄	RED-feel	rv	rv				
 veraa	jjq	0408	ZERO	ZERO	0:p	0		p	8098	
 veraa	jjq	0408	#	#	##	##				
 veraa	jjq	0408	ba	but	other	other				
-veraa	jjq	0408	Qo'	Qo'	np.h:dt_a	np	h	dt_a	8001	
+veraa	jjq	0408	Qo'	Qo'	pn_np.h:dt_a	pn_np	h	dt_a	8001	
 veraa	jjq	0408	di	3SG	pro.h:a	pro	h	a	8001	
 veraa	jjq	0408	ga	STAT	lv	lv				
 veraa	jjq	0408	galgal	RED:lie	v:pred	v		pred		
 veraa	jjq	0408	diē	3SG	pro.d:p	pro	d	p	8077	
 veraa	jjq	0409	#	#	##	##				
-veraa	jjq	0409	Qo'	Qo'	np.h:dt_a	np	h	dt_a	8001	
+veraa	jjq	0409	Qo'	Qo'	pn_np.h:dt_a	pn_np	h	dt_a	8001	
 veraa	jjq	0409	di	3SG	pro.h:a	pro	h	a	8001	
 veraa	jjq	0409	ga	STAT	lv	lv				
 veraa	jjq	0409	galgal	RED:lie	v:pred	v		pred		
@@ -5345,7 +5345,7 @@ veraa	jjq	0416	=m	=TAM1	=lv	=lv
 veraa	jjq	0416	ma'ava	morning	v:pred	v		pred		
 veraa	jjq	0417	#	#	##	##				
 veraa	jjq	0417	masō-gi	time-3SG	np:other	np		other		
-veraa	jjq	0417	Tumeren	Tumeren	np.d:dt_s	np	d	dt_s	8077	
+veraa	jjq	0417	Tumeren	Tumeren	pn_np.d:dt_s	pn_np	d	dt_s	8077	
 veraa	jjq	0417	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0417	=m	=TAM1	=lv	=lv				
 veraa	jjq	0417	rōw	skip	v:pred	v		pred		
@@ -5381,13 +5381,13 @@ veraa	jjq	0419	'i	DEL	rv	rv
 veraa	jjq	0420	#	#	##	##				
 veraa	jjq	0420	masō-gi	time-3SG	np:other	np		other		
 veraa	jjq	0420	e	PERS.ART	ln	ln				
-veraa	jjq	0420	Tumeren	Tumeren	np.d:dt_s	np	d	dt_s	8077	
+veraa	jjq	0420	Tumeren	Tumeren	pn_np.d:dt_s	pn_np	d	dt_s	8077	
 veraa	jjq	0420	di	3SG	pro.d:s	pro	d	s	8077	
 veraa	jjq	0420	=m	=TAM1	=lv	=lv				
 veraa	jjq	0420	kēl	back	v:pred	v		pred		
 veraa	jjq	0420	ma	hither	rv	rv				
 veraa	jjq	0420	#	#	##	##				
-veraa	jjq	0420	di	3SG	pro.h:a	pro	h	a	8077	
+veraa	jjq	0420	di	3SG	pro.d:a	pro	d	a	8077	
 veraa	jjq	0420	=m	=TAM1	=lv	=lv				
 veraa	jjq	0420	'ēn	see	v:pred	v		pred		
 veraa	jjq	0420	kēl	back	rv	rv				
@@ -5486,7 +5486,7 @@ veraa	jjq	0427	kimi	2PL	pro.2:p	pro	2	p	8074
 veraa	jjq	0428	#	#	##	##				
 veraa	jjq	0428	wo	and	other	other				
 veraa	jjq	0428	e	PERS.ART	ln	ln				
-veraa	jjq	0428	Tagarlōlqōn̄	Tagarlōlqōn̄	np.h:s	np	h	s	8082	
+veraa	jjq	0428	Tagarlōlqōn̄	Tagarlōlqōn̄	pn_np.h:s	pn_np	h	s	8082	
 veraa	jjq	0428	m	TAM1	lv	lv				
 veraa	jjq	0428	sag	sit	v:pred	v		pred		
 veraa	jjq	0428	'i	DEL	rv	rv				
@@ -5528,7 +5528,7 @@ veraa	jjq	0430	so	QUOT	other:pred	other		pred
 veraa	jjq	0430	#	#	##ds	##ds				
 veraa	jjq	0430	itok	good	v:pred	v		pred		
 veraa	jjq	0431	#	#	##ds	##ds				
-veraa	jjq	0431	ZERO	ZERO	pro.1:s	pro	1	s	8077	
+veraa	jjq	0431	ZERO	ZERO	0.1:s	0	1	s	8077	
 veraa	jjq	0431	wo	and	other	other				
 veraa	jjq	0431	=m	=TAM1	=lv	=lv				
 veraa	jjq	0431	dada	RED:do	v:pred	v		pred		
@@ -5553,7 +5553,7 @@ veraa	jjq	0432	kal	upwards	rv	rv
 veraa	jjq	0432	ma	hither	rv	rv				
 veraa	jjq	0432	bēne	PRO.OBL	other:l	other		l	8072	
 veraa	jjq	0432	%	%	%	%				
-veraa	jjq	0433	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0433	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0433	=m	=TAM1	=lv	=lv				
 veraa	jjq	0433	riv	plant	v:pred	v		pred		
 veraa	jjq	0433	ēn	ART	ln	ln				
@@ -5590,7 +5590,7 @@ veraa	jjq	0435	=n	=ART	=ln	=ln
 veraa	jjq	0435	mē'ērsa	harbour	np:g	np		g	8072	
 veraa	jjq	0435	anē	DEM1.A	rn	rn				
 veraa	jjq	0436	#	#	##	##				
-veraa	jjq	0436	Qo'	Qo'	np.h:s_ds	np	h	s_ds	8001	
+veraa	jjq	0436	Qo'	Qo'	pn_np.h:s_ds	pn_np	h	s_ds	8001	
 veraa	jjq	0436	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	jjq	0436	tēk	speak	v:pred	v		pred		
 veraa	jjq	0436	mē-n	DAT-CS	adp	adp				
@@ -5670,8 +5670,8 @@ veraa	jjq	0442	'erē	PL	ln	ln
 veraa	jjq	0442	m̄ōm̄ōglēge	thing	np:dt	np		dt	8104	new
 veraa	jjq	0442	mu-n	POSS.GEN-CS	rn	rn				
 veraa	jjq	0442	e	PERS.ART	rn	rn				
-veraa	jjq	0442	Tumeren	Tumeren	rn_np.d:poss	rn_np	d	poss	8077	
-veraa	jjq	0443	Tumeren	Tumeren	np.d:a	np	d	a	8077	
+veraa	jjq	0442	Tumeren	Tumeren	rn_pn_np.d:poss	rn_pn_np	d	poss	8077	
+veraa	jjq	0443	Tumeren	Tumeren	pn_np.d:a	pn_np	d	a	8077	
 veraa	jjq	0443	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	jjq	0443	vus	hit	v:pred	v		pred		
 veraa	jjq	0443	se-se'	RED-bad	rv	rv				
@@ -5688,7 +5688,7 @@ veraa	jjq	0444	lōlō	inside	ln	ln
 veraa	jjq	0444	qō	pig	np:g	np		g	8106	new
 veraa	jjq	0444	#	#	##	##				
 veraa	jjq	0444	e	PERS.ART	ln	ln				
-veraa	jjq	0445	Tumeren	Tumeren	np.d:a	np	d	a	8077	
+veraa	jjq	0445	Tumeren	Tumeren	pn_np.d:a	pn_np	d	a	8077	
 veraa	jjq	0445	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
 veraa	jjq	0445	vus	kill	v:pred	v		pred		
 veraa	jjq	0445	ZERO	ZERO	0:p	0		p	8106	
@@ -5705,7 +5705,7 @@ veraa	jjq	0445	'ibiē	platter	np:dt_g	np		dt_g	8107	new
 veraa	jjq	0445	luwo	big	rn	rn				
 veraa	jjq	0445	senē	MAN.DEM1	rn	rn				
 veraa	jjq	0446	#	#	##	##				
-veraa	jjq	0446	Tumeren	Tumeren	np.d:a	np	d	a	8077	
+veraa	jjq	0446	Tumeren	Tumeren	pn_np.d:a	pn_np	d	a	8077	
 veraa	jjq	0446	ne	TAM2:3SG	nc	nc				
 veraa	jjq	0446	w--	NC	nc	nc				
 veraa	jjq	0446	ne	TAM2:3SG	lv-pro_d_a	lv-pro_d_a				
@@ -5719,7 +5719,7 @@ veraa	jjq	0447	=m	=TAM1	=lv	=lv
 veraa	jjq	0447	durug	betray	v:pred	v		pred		
 veraa	jjq	0447	kēlkēl	RED:back	rv	rv				
 veraa	jjq	0447	e	PERS.ART	ln	ln				
-veraa	jjq	0447	Tumeren	Tumeren	np.d:p	np	d	p	8077	
+veraa	jjq	0447	Tumeren	Tumeren	pn_np.d:p	pn_np	d	p	8077	
 veraa	jjq	0447	#	#	##	##				
 veraa	jjq	0447	van	go	v:pred	v		pred		
 veraa	jjq	0447	asenē	MAN.DEM1.A	other	other				
@@ -5755,16 +5755,16 @@ veraa	jjq	0449	nō-ruō	POSS.DOM-3DL	rn	rn			8118
 veraa	jjq	0449	#	#	#cc	#cc				
 veraa	jjq	0449	'amēn	ASS	other	other				
 veraa	jjq	0449	e	PERS.ART	ln	ln				
-veraa	jjq	0449	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0449	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0449	nē	DEM1	rn	rn				
 veraa	jjq	0449	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0449	rōw	skip	v:pred	v		pred		
 veraa	jjq	0449	lu	through	rv	rv				
 veraa	jjq	0449	den	ABL	adp	adp				
 veraa	jjq	0449	e	PERS.ART	ln	ln				
-veraa	jjq	0449	Tumeren	Tumeren	np.d:obl	np	d	obl	8077	
+veraa	jjq	0449	Tumeren	Tumeren	pn_np.d:obl	pn_np	d	obl	8077	
 veraa	jjq	0450	#	#	##	##				
-veraa	jjq	0450	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0450	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0450	so	QUOT	other:pred	other		pred		
 veraa	jjq	0450	#	#	##ds	##ds				
 veraa	jjq	0450	suqo'	<spell>	other:pred	other		pred		
@@ -5775,7 +5775,7 @@ veraa	jjq	0451	=n	=ART	=ln	=ln
 veraa	jjq	0451	ner	seaoak	np:pred	np		pred	8103	
 veraa	jjq	0452	#	#	##	##				
 veraa	jjq	0452	masō-gi	time-3SG	np:other	np		other		
-veraa	jjq	0452	di	3SG	pro.h:a	pro	h	a	8077	
+veraa	jjq	0452	di	3SG	pro.d:a	pro	d	a	8077	
 veraa	jjq	0452	=m	=TAM1	=lv	=lv				
 veraa	jjq	0452	tēk	speak	v:pred	v		pred		
 veraa	jjq	0452	ēn	ART	ln	ln				
@@ -5809,7 +5809,7 @@ veraa	jjq	0454	di	3SG	pro.h:p	pro	h	p	8001
 veraa	jjq	0454	#	#	#nc	#nc				
 veraa	jjq	0454	ba	but	nc	nc				
 veraa	jjq	0454	e	PERS.ART	nc	nc				
-veraa	jjq	0454	Qo'	Qo'	nc_np.h	nc_np	h		8001	
+veraa	jjq	0454	Qo'	Qo'	nc_pn_np.h	nc_pn_np	h		8001	
 veraa	jjq	0454	nēs	NC	nc	nc				
 veraa	jjq	0454	va'a	already	nc	nc				
 veraa	jjq	0454	sagē	upwind	nc	nc				
@@ -5838,14 +5838,14 @@ veraa	jjq	0456	rem	climb	nc	nc
 veraa	jjq	0457	#	#	#nc	#nc				
 veraa	jjq	0457	e	CC	nc	nc				
 veraa	jjq	0457	wo	and	nc	nc				
-veraa	jjq	0457	Qo'	Qo'	nc_np.h	nc_np	h		8001	
+veraa	jjq	0457	Qo'	Qo'	nc_pn_np.h	nc_pn_np	h		8001	
 veraa	jjq	0457	ne	TAM2	nc	nc				
 veraa	jjq	0457	vetren̄	send	nc	nc				
 veraa	jjq	0457	so	CPL	nc	nc				
 veraa	jjq	0458	#	#	##	##				
 veraa	jjq	0458	eh	HES	nc	nc				
 veraa	jjq	0458	e	PERS.ART	ln	ln				
-veraa	jjq	0458	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0458	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0458	ē	DEM3	rn	rn				
 veraa	jjq	0458	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0458	rōn̄	feel	v:pred	v		pred		
@@ -5888,7 +5888,7 @@ veraa	jjq	0460	qe'an	ground	np:p	np		p	8112	bridging
 veraa	jjq	0461	#	#	##	##				
 veraa	jjq	0461	wo	and	other	other				
 veraa	jjq	0461	e	PERS.ART	ln	ln				
-veraa	jjq	0461	Qo'	Qo'	np.h:s	np	h	s	8074	
+veraa	jjq	0461	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8074	
 veraa	jjq	0461	dirē	3PL	pro.h:appos	pro	h	appos		
 veraa	jjq	0461	=k	=TAM2	lv	lv				
 veraa	jjq	0461	remrem	RED:climb	v:pred	v		pred		
@@ -5900,7 +5900,7 @@ veraa	jjq	0461	n	ART	nc	nc
 veraa	jjq	0461	ner	seaoak	np:dt_g	np		dt_g	8103	
 veraa	jjq	0461	ē	DEM3	rn	rn				
 veraa	jjq	0461	di=ne	3SG=TAM2	nc	nc				
-veraa	jjq	0461	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0461	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0461	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	jjq	0461	tēktēk	RED:speak	v:pred	v		pred		
 veraa	jjq	0461	mē	DAT	adp	adp				
@@ -5949,7 +5949,7 @@ veraa	jjq	0464	ZERO	ZERO	0:p	0		p	8103
 veraa	jjq	0464	birin̄	with	adp	adp				
 veraa	jjq	0464	wal	once	other	other				
 veraa	jjq	0464	e	PERS.ART	ln	ln				
-veraa	jjq	0464	Qo'	Qo'	np.h:obl	np	h	obl	8001	
+veraa	jjq	0464	Qo'	Qo'	pn_np.h:obl	pn_np	h	obl	8001	
 veraa	jjq	0464	qēqē	last	np:dt_obl	np		dt_obl		
 veraa	jjq	0464	na	ORD	rn	rn				
 veraa	jjq	0464	'an̄sar	person	rn	rn				
@@ -5982,7 +5982,7 @@ veraa	jjq	0465	dirē	3PL	pro.h:p	pro	h	p	8074
 veraa	jjq	0465	#	#	##	##				
 veraa	jjq	0465	wo	and	other	other				
 veraa	jjq	0465	di--	3SG	nc	nc				
-veraa	jjq	0465	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0465	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0465	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0465	vetren̄	send	v:pred	v		pred		
 veraa	jjq	0465	ēn	ART	ln	ln				
@@ -5993,7 +5993,7 @@ veraa	jjq	0466	magal	ant	np:a	np		a	8113
 veraa	jjq	0466	'i'in	hot	rn	rn				
 veraa	jjq	0466	ne	TAM2:3SG	lv-pro_a	lv-pro_a				
 veraa	jjq	0466	sak	grab	v:pred	v		pred		
-veraa	jjq	0466	di	3SG	pro.h:p	pro	h	p	8077	
+veraa	jjq	0466	di	3SG	pro.d:p	pro	d	p	8077	
 veraa	jjq	0466	#	#	##	##				
 veraa	jjq	0466	wo	and	other	other				
 veraa	jjq	0466	di	3SG	pro.d:s	pro	d	s	8077	
@@ -6013,7 +6013,7 @@ veraa	jjq	0467	#	#	##	##
 veraa	jjq	0467	sow	DISC	other	other				
 veraa	jjq	0467	e	PERS.ART	ln	ln				
 veraa	jjq	0467	Tume--	NC	nc	nc				
-veraa	jjq	0467	Tumeren	Tumeren	np.d:s	np	d	s	8077	
+veraa	jjq	0467	Tumeren	Tumeren	pn_np.d:s	pn_np	d	s	8077	
 veraa	jjq	0467	wo	QUOT	other:pred	other		pred		
 veraa	jjq	0467	#	#	##ds	##ds				
 veraa	jjq	0467	nik	2SG	pro.2:s	pro	2	s	8001	
@@ -6052,7 +6052,7 @@ veraa	jjq	0469	di	3SG=TAM1	nc	nc
 veraa	jjq	0469	ne	NC	nc	nc				
 veraa	jjq	0469	te--	NC	nc	nc				
 veraa	jjq	0469	e	PERS.ART	ln	ln				
-veraa	jjq	0469	Qo'	Qo'	np.h:s_ds	np	h	s_ds	8001	
+veraa	jjq	0469	Qo'	Qo'	pn_np.h:s_ds	pn_np	h	s_ds	8001	
 veraa	jjq	0469	ne	TAM2:3SG	lv-pro_h_s_ds	lv-pro_h_s_ds				
 veraa	jjq	0469	tēk	speak	v:pred	v		pred		
 veraa	jjq	0469	mē	DAT	adp	adp				
@@ -6091,7 +6091,7 @@ veraa	jjq	0471	kēl	back	rv	rv
 veraa	jjq	0471	wal	once	rv	rv				
 veraa	jjq	0471	ma	hither	rv	rv				
 veraa	jjq	0471	a	LOC.SP	adp	adp				
-veraa	jjq	0471	Vunu Lava	Vanua.Lava	np:g	np		g	8081	
+veraa	jjq	0471	Vunu Lava	Vanua.Lava	pn_np:g	pn_np		g	8081	
 veraa	jjq	0472	#	#	##	##				
 veraa	jjq	0472	e	PERS.ART	ln	ln				
 veraa	jjq	0472	raga	people	ln	ln				
@@ -6123,7 +6123,7 @@ veraa	jjq	0474	'ēqēl	descend	nc	nc
 veraa	jjq	0474	'ēqēl	descend	nc	nc				
 veraa	jjq	0474	'ēqēl	descend	nc	nc				
 veraa	jjq	0475	#	#	##	##				
-veraa	jjq	0475	Qo'	Qo'	np.h:s	np	h	s	8001	
+veraa	jjq	0475	Qo'	Qo'	pn_np.h:s	pn_np	h	s	8001	
 veraa	jjq	0475	=n	=ART	=ln	=ln				
 veraa	jjq	0475	qēqē	last	np:pred	np		pred		
 veraa	jjq	0475	na	ORD	rn	rn				
@@ -6144,7 +6144,7 @@ veraa	jjq	0477	vavan	RED-go	v:pred	v		pred
 veraa	jjq	0477	ma	hither	rv	rv				
 veraa	jjq	0477	#	#	##	##				
 veraa	jjq	0477	wo	and	other	other				
-veraa	jjq	0477	Qo'	Qo'	np.h:dt_s	np	h	dt_s	8001	
+veraa	jjq	0477	Qo'	Qo'	pn_np.h:dt_s	pn_np	h	dt_s	8001	
 veraa	jjq	0477	di	3SG	pro.h:s	pro	h	s	8001	
 veraa	jjq	0477	=m	=TAM1	=lv	=lv				
 veraa	jjq	0477	rōw	skip	v:pred	v		pred		
@@ -6223,7 +6223,7 @@ veraa	jjq	0481	vidir	jump.up	v:pred	v		pred
 veraa	jjq	0481	suw	thither	rv	rv				
 veraa	jjq	0481	#	#	##	##				
 veraa	jjq	0481	wo	and	other	other				
-veraa	jjq	0481	Qo'	Qo'	np.h:a	np	h	a	8001	
+veraa	jjq	0481	Qo'	Qo'	pn_np.h:a	pn_np	h	a	8001	
 veraa	jjq	0481	ne	TAM2:3SG	lv-pro_h_a	lv-pro_h_a				
 veraa	jjq	0481	'an̄	hand.move	v:pred	v		pred		
 veraa	jjq	0481	vē'ē	off	rv	rv				

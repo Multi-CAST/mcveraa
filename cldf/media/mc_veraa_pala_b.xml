@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="pala" annotators="Stefan Schnell" speaker="VR10">
-            <file f_name="mc_veraa_pala_b" audio="mc_veraa_pala_b.wav" updated="2019-05-26">
+            <file f_name="mc_veraa_pala_b" audio="mc_veraa_pala_b.wav" updated="2020-09-14">
                 <unit uid="0098" start_time="0" end_time="9081">
                     <utterance_id>veraa_pala_0098</utterance_id>
                     <utterance>dērōlēm s dērōlēm susuō rekso dērōl man suō galan ēn n n̄ērsigi vōwal</utterance>
@@ -2059,7 +2059,7 @@
                         <segment>
                             <gword>maru</gword>
                             <gloss>uncle</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>10006</refind>
                         </segment>
                         <segment>
@@ -2481,7 +2481,7 @@
                         <segment>
                             <gword>ne</gword>
                             <gloss>TAM2:3SG</gloss>
-                            <graid>ln_pro.h:s</graid>
+                            <graid>lv-pro_h_s</graid>
                         </segment>
                         <segment>
                             <gword>'an̄</gword>
@@ -2722,7 +2722,7 @@
                         <segment>
                             <gword>gidu</gword>
                             <gloss>1.PL.IN</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.1:s</graid>
                             <refind>10005</refind>
                         </segment>
                         <segment>

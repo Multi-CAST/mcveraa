@@ -25,14 +25,14 @@ veraa	as1	0003	duru	3DL	pro.h:s	pro	h	s	2002
 veraa	as1	0003	ga	STAT	lv	lv				
 veraa	as1	0003	'ōg	stay	v:pred	v		pred		
 veraa	as1	0003	a	LOC.SP	adp	adp				
-veraa	as1	0003	Lēmērig	Lēmērig	np:l	np		l	2004	new
+veraa	as1	0003	Lēmērig	Lēmērig	pn_np:l	pn_np		l	2004	new
 veraa	as1	0004	#	#	##	##				
 veraa	as1	0004	duru	3DL	pro.h:s	pro	h	s	2002	
 veraa	as1	0004	=m	=TAM1	=lv	=lv				
 veraa	as1	0004	'ōg	stay	v:pred	v		pred		
 veraa	as1	0004	van	go	other	other				
 veraa	as1	0004	a	LOC.SP	adp	adp				
-veraa	as1	0004	Lēmērig	Lēmērig	np:l	np		l	2004	
+veraa	as1	0004	Lēmērig	Lēmērig	pn_np:l	pn_np		l	2004	
 veraa	as1	0005	#	#	##	##				
 veraa	as1	0005	duru	3DL	pro.h:a	pro	h	a	2002	
 veraa	as1	0005	ga	STAT	lv	lv				
@@ -56,7 +56,7 @@ veraa	as1	0007	=k	=TAM2	=lv	=lv
 veraa	as1	0007	van	go	v:pred	v		pred		
 veraa	as1	0007	walē	NC	nc	nc				
 veraa	as1	0007	a	LOC.SP	adp	adp				
-veraa	as1	0007	Vatov	Vatov	np:g	np		g	2005	new
+veraa	as1	0007	Vatov	Vatov	pn_np:g	pn_np		g	2005	new
 veraa	as1	0007	ē	DEM3	rn	rn				
 veraa	as1	0008	#	#	##	##				
 veraa	as1	0008	ZERO	ZERO	0.h:s	0	h	s	2002	
@@ -64,7 +64,7 @@ veraa	as1	0008	van	go	v:pred	v		pred
 veraa	as1	0008	din̄	reach	rv	rv				
 veraa	as1	0008	ma	hither	rv	rv				
 veraa	as1	0008	a	LOC.SP	adp	adp				
-veraa	as1	0008	Vatov	Vatov	np:g	np		g	2005	
+veraa	as1	0008	Vatov	Vatov	pn_np:g	pn_np		g	2005	
 veraa	as1	0009	#	#	##	##				
 veraa	as1	0009	duru	3DL	pro.h:s	pro	h	s	2002	
 veraa	as1	0009	=k	=TAM2	=lv	=lv				
@@ -80,7 +80,7 @@ veraa	as1	0010	ma	hither	rv	rv
 veraa	as1	0010	'ēnē	DEM1?	other	other				
 veraa	as1	0010	#	#	##	##				
 veraa	as1	0010	e	PERS.ART	ln	ln				
-veraa	as1	0010	Dōl	Dōl	np.d:s	np	d	s	2006	new
+veraa	as1	0010	Dōl	Dōl	pn_np.d:s	pn_np	d	s	2006	new
 veraa	as1	0010	sag	sit	v:pred	v		pred		
 veraa	as1	0010	'i	DEL	rv	rv				
 veraa	as1	0011	#	#	##	##				
@@ -221,7 +221,7 @@ veraa	as1	0019	ma	hither	rv	rv
 veraa	as1	0019	anē	DEM1.A	other	other				
 veraa	as1	0020	#	#	##	##				
 veraa	as1	0020	e	ART	ln	ln				
-veraa	as1	0020	Dōl	Dōl	np.d:s_ds	np	d	s_ds	2006	
+veraa	as1	0020	Dōl	Dōl	pn_np.d:s_ds	pn_np	d	s_ds	2006	
 veraa	as1	0020	ne	TAM2:3SG	lv-pro_d_s_ds	lv-pro_d_s_ds				
 veraa	as1	0020	tēk	speak	v:pred	v		pred		
 veraa	as1	0020	mē	DAT	adp	adp				
@@ -357,7 +357,7 @@ veraa	as1	0033	van	go	other	other
 veraa	as1	0033	e	ART	nc	nc				
 veraa	as1	0033	La(WA)	NC	nc	nc				
 veraa	as1	0033	e	PERS.ART	ln	ln				
-veraa	as1	0033	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0033	Dōl	Dōl	pn_np.d:s_ds	pn_np	d	s_ds	2006	
 veraa	as1	0033	so	QUOT	other:pred	other		pred		
 veraa	as1	0034	#	#	##ds	##ds				
 veraa	as1	0034	kumru	2DL	pro.2:dt	pro	2	dt	2002	
@@ -431,7 +431,7 @@ veraa	as1	0039	va-van	RED-go	other	other
 veraa	as1	0039	anē	DEM1.A	other	other				
 veraa	as1	0040	#	#	##	##				
 veraa	as1	0040	e	PERS.ART	ln	ln				
-veraa	as1	0040	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0040	Dōl	Dōl	pn_np.d:s_ds	pn_np	d	s_ds	2006	
 veraa	as1	0040	so	QUOT	other:pred	other		pred		
 veraa	as1	0040	#	#	##ds	##ds				
 veraa	as1	0040	o	INTERJ	other	other				
@@ -476,7 +476,7 @@ veraa	as1	0043	lē	LOC	adp	adp
 veraa	as1	0043	=n	=ART	=ln	=ln				
 veraa	as1	0043	qōn̄	night	np:other	np		other	2018	
 veraa	as1	0044	e	PERS.ART	ln	ln				
-veraa	as1	0044	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0044	Dōl	Dōl	pn_np.d:s	pn_np	d	s	2006	
 veraa	as1	0044	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	as1	0044	kalaka	get.up	v:pred	v		pred		
 veraa	as1	0045	#	#	##	##				
@@ -726,7 +726,7 @@ veraa	as1	0061	'i	DEL	rv	rv
 veraa	as1	0061	anē	DEM1.A	other	other				
 veraa	as1	0061	#	#	##	##				
 veraa	as1	0061	e	PERS.ART	ln	ln				
-veraa	as1	0061	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0061	Dōl	Dōl	pn_np.d:s_ds	pn_np	d	s_ds	2006	
 veraa	as1	0061	so	QUOT	other:pred	other		pred		
 veraa	as1	0061	#	#	##ds	##ds				
 veraa	as1	0061	o	INTERJ	other	other				
@@ -813,7 +813,7 @@ veraa	as1	0069	#	#	##ds	##ds
 veraa	as1	0069	ga	STAT	lv	lv				
 veraa	as1	0069	itōk	good	v:pred	v		pred		
 veraa	as1	0069	e	PERS.ART	ln	ln				
-veraa	as1	0069	Dōl	Dōl	np.d:voc	np	d	voc	2006	
+veraa	as1	0069	Dōl	Dōl	pn_np.d:voc	pn_np	d	voc	2006	
 veraa	as1	0069	#	#	##ds	##ds				
 veraa	as1	0069	kadu	1DL.EX	wpro.1:s	wpro	1	s	2002	
 veraa	as1	0069	=k	=TAM2	=lv	=lv				
@@ -850,7 +850,7 @@ veraa	as1	0071	van	go	v:pred	v		pred
 veraa	as1	0071	kēl	back	rv	rv				
 veraa	as1	0071	sir	for	adp	adp				
 veraa	as1	0071	a	LOC	adp	adp				
-veraa	as1	0071	Lēmērig	Lēmērig	np:g	np		g	2004	
+veraa	as1	0071	Lēmērig	Lēmērig	pn_np:g	pn_np		g	2004	
 veraa	as1	0071	va'anē'	TEMP.DEM1	other	other				
 veraa	as1	0071	#	#	##	##				
 veraa	as1	0071	ZERO	ZERO	0.h:s	0	h	s	2002	
@@ -868,7 +868,7 @@ veraa	as1	0072	=n	=ART	=ln	=ln
 veraa	as1	0072	so	name	np:s	np		s	2025	new
 veraa	as1	0072	-gi	-3SG	-rn_pro:poss	-rn_pro		poss	2024	
 veraa	as1	0072	=n	=ART	=ln	=ln				
-veraa	as1	0073	Bē'elmamgin	Bē'elmamgin	np:pred	np		pred		
+veraa	as1	0073	Bē'elmamgin	Bē'elmamgin	pn_np:pred	pn_np		pred		
 veraa	as1	0074	#	#	##	##				
 veraa	as1	0074	duru	3DL	pro.h:s	pro	h	s	2002	
 veraa	as1	0074	=k	=TAM2	=lv	=lv				
@@ -907,7 +907,7 @@ veraa	as1	0076	'ēn	see	v:pred	v		pred
 veraa	as1	0076	sarē	up	other:g	other		g		
 veraa	as1	0076	#	#	##	##				
 veraa	as1	0076	e	PERS.ART	ln	ln				
-veraa	as1	0076	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0076	Dōl	Dōl	pn_np.d:s	pn_np	d	s	2006	
 veraa	as1	0076	man	PFV	lv	lv				
 veraa	as1	0076	lies	change	v:pred	v		pred		
 veraa	as1	0076	nōgō	face	rv	rv				
@@ -1080,7 +1080,7 @@ veraa	as1	0089	so	QUOT	other	other
 veraa	as1	0089	#	#	##ds	##ds				
 veraa	as1	0089	'o	INTERJ	other	other				
 veraa	as1	0089	e	PERS.ART	ln	ln				
-veraa	as1	0089	Dōl	Dōl	np.d:a	np	d	a	2006	
+veraa	as1	0089	Dōl	Dōl	pn_np.d:a	pn_np	d	a	2006	
 veraa	as1	0089	=m	=TAM1	=lv	=lv				
 veraa	as1	0089	'al	tie	v:pred	v		pred		
 veraa	as1	0089	ēn	ART	ln	ln				
@@ -1120,7 +1120,7 @@ veraa	as1	0091	van	go	v:pred	v		pred
 veraa	as1	0091	rōv-rōv'e	RED-close	rv	rv				
 veraa	as1	0091	ma	hither	rv	rv				
 veraa	as1	0091	e	PERS.ART	ln	ln				
-veraa	as1	0091	Dōl	Dōl	np.d:p	np	d	p	2006	
+veraa	as1	0091	Dōl	Dōl	pn_np.d:p	pn_np	d	p	2006	
 veraa	as1	0091	va'anē	TEMP.DEM1	other	other				
 veraa	as1	0091	#	#	##	##				
 veraa	as1	0091	alē	alright	other	other				
@@ -1214,7 +1214,7 @@ veraa	as1	0096	so	QUOT	nc	nc
 veraa	as1	0097	'en	NC	nc	nc				
 veraa	as1	0097	[CR]	NC	nc	nc				
 veraa	as1	0097	'e	NC	nc	nc				
-veraa	as1	0097	Dōl	Dōl	nc_np.d	nc_np	d		2006	
+veraa	as1	0097	Dōl	Dōl	nc_pn_np.d	nc_pn_np	d		2006	
 veraa	as1	0097	[CR]	NC	nc	nc				
 veraa	as1	0097	'e	NC	nc	nc				
 veraa	as1	0097	sok	NC	nc	nc				
@@ -1236,9 +1236,9 @@ veraa	as1	0098	tēk	speak	nc	nc
 veraa	as1	0098	mē=n	DAT=ART	nc	nc				
 veraa	as1	0098	#	#	##	##				
 veraa	as1	0098	e	PERS.ART	ln	ln				
-veraa	as1	0098	Dōl	Dōl	np.d:dt_s	np	d	dt_s	2006	
+veraa	as1	0098	Dōl	Dōl	pn_np.d:dt_s	pn_np	d	dt_s	2006	
 veraa	as1	0098	e	PERS.ART	ln	ln				
-veraa	as1	0098	Dōl	Dōl	np.d:a	np	d	a	2006	
+veraa	as1	0098	Dōl	Dōl	pn_np.d:a	pn_np	d	a	2006	
 veraa	as1	0098	=m	=TAM1	=lv	=lv				
 veraa	as1	0098	lies	change	v:pred	v		pred		
 veraa	as1	0098	ēn	ART	ln	ln				
@@ -1332,7 +1332,7 @@ veraa	as1	0108	raw	hermaphrodite.pig	np:p	np		p	2008
 veraa	as1	0108	ē	DEM3	rn	rn				
 veraa	as1	0108	mē-n	DAT-CS	adp	adp				
 veraa	as1	0108	e	PERS.ART	ln	ln				
-veraa	as1	0108	Dōl	Dōl	np.d:g	np	d	g	2006	
+veraa	as1	0108	Dōl	Dōl	pn_np.d:g	pn_np	d	g	2006	
 veraa	as1	0108	va'anē	TEMP.DEM1	other	other				
 veraa	as1	0109	#	#	##	##				
 veraa	as1	0109	ZERO	ZERO	0.h:a	0	h	a	2002	
@@ -1388,7 +1388,7 @@ veraa	as1	0112	#	#	##	##
 veraa	as1	0112	wo	and	other	other				
 veraa	as1	0112	eh	HES	nc	nc				
 veraa	as1	0113	e	PERS.ART	ln	ln				
-veraa	as1	0113	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0113	Dōl	Dōl	pn_np.d:s	pn_np	d	s	2006	
 veraa	as1	0113	ē	DEM3	rn	rn				
 veraa	as1	0113	ne	TAM2:3SG	nc	nc				
 veraa	as1	0113	[CR]	NC	nc	nc				
@@ -1424,7 +1424,7 @@ veraa	as1	0115	lama'i	know	v:pred	v		pred
 veraa	as1	0115	rōs	GEN.NEG2	rv	rv				
 veraa	as1	0115	#	#	#cc	#cc				
 veraa	as1	0115	e	PERS.ART	ln	ln				
-veraa	as1	0115	Dōl	Dōl	np.d:pred	np	d	pred	2006	
+veraa	as1	0115	Dōl	Dōl	pn_np.d:pred	pn_np	d	pred	2006	
 veraa	as1	0115	nē	DEM1.A	dem1_other	dem1_other				
 veraa	as1	0115	#	#	#ac	#ac				
 veraa	as1	0115	sirē	because	other	other				
@@ -1476,7 +1476,7 @@ veraa	as1	0118	ZERO	ZERO	0.h:s	0	h	s	2002
 veraa	as1	0118	mu-mu-mulō	RED-go	v:pred	v		pred		
 veraa	as1	0118	#	#	##	##				
 veraa	as1	0118	e	PERS.ART	ln	ln				
-veraa	as1	0118	Dōl	Dōl	np.d:s	np	d	s	2006	
+veraa	as1	0118	Dōl	Dōl	pn_np.d:s	pn_np	d	s	2006	
 veraa	as1	0118	ne	TAM2:3SG	lv-pro_d_s	lv-pro_d_s				
 veraa	as1	0118	van	go	nc	nc				
 veraa	as1	0118	kēl	back	nc	nc				
@@ -1485,7 +1485,7 @@ veraa	as1	0118	[CR]	NC	nc	nc
 veraa	as1	0119	van	go	v:pred	v		pred		
 veraa	as1	0119	sir	for	adp	adp				
 veraa	as1	0119	a	LOC.SP	adp	adp				
-veraa	as1	0119	Vatov	Vatov	np:g	np		g	2005	
+veraa	as1	0119	Vatov	Vatov	pn_np:g	pn_np		g	2005	
 veraa	as1	0119	#	#	##	##				
 veraa	as1	0119	wo	and	other	other				
 veraa	as1	0119	dine	3SG=TAM2:3SG	nc_pro.h	nc_pro	h		2006	
@@ -1505,7 +1505,7 @@ veraa	as1	0121	mul	go	v:pred	v		pred
 veraa	as1	0121	kēl	back	rv	rv				
 veraa	as1	0121	ma	hither	rv	rv				
 veraa	as1	0121	a	LOC.SP	adp	adp				
-veraa	as1	0121	Lēmērig	Lēmērig	np:g	np		g	2004	
+veraa	as1	0121	Lēmērig	Lēmērig	pn_np:g	pn_np		g	2004	
 veraa	as1	0122	#	#	##	##				
 veraa	as1	0122	so	NC	nc	nc				
 veraa	as1	0122	wunva	probably	other	other				

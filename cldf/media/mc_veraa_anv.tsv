@@ -368,7 +368,7 @@ veraa	anv	0026	#	#	##	##
 veraa	anv	0026	ZERO	ZERO	0.h:a	0	h	a	1015	
 veraa	anv	0026	men̄men̄	RED:clean	v:pred	v		pred		
 veraa	anv	0026	menteg	well	rv	rv				
-veraa	anv	0026	duruō	3DL	rn_pro.h:p	rn_pro	h	p	1009	
+veraa	anv	0026	duruō	3DL	pro.h:p	pro	h	p	1009	
 veraa	anv	0027	#	#	#nc	#nc				
 veraa	anv	0027	duru	3DL	nc_pro.h	nc_pro	h		1009	
 veraa	anv	0027	=k	=TAM2	nc	nc				
@@ -1054,7 +1054,7 @@ veraa	anv	0073	#	#	##	##
 veraa	anv	0073	ZERO	ZERO	0.h:s	0	h	s	1029	
 veraa	anv	0073	=m	=TAM1	=lv	=lv				
 veraa	anv	0073	mestem	fail	v:pred	v		pred		
-veraa	anv	0073	di	3SG	0:p	0		p	1029	
+veraa	anv	0073	di	3SG	pro:p	pro		p	1029	
 veraa	anv	0073	anē	DEM1.A	rn	rn				
 veraa	anv	0074	#	#	##	##				
 veraa	anv	0074	ZERO	ZERO	0.h:s	0	h	s	1029	

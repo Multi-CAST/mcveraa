@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-05-08T08:14:12+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-11-08T16:12:18+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_veraa_as1.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d078bd55-4411-4d32-9ccb-308ad56d561c</PROPERTY>
@@ -16823,7 +16823,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13713" ANNOTATION_REF="a12212">
-                <ANNOTATION_VALUE>np:l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16858,7 +16858,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13720" ANNOTATION_REF="a12219">
-                <ANNOTATION_VALUE>np:l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16978,7 +16978,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13743" ANNOTATION_REF="a12242">
-                <ANNOTATION_VALUE>np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17018,7 +17018,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13751" ANNOTATION_REF="a12250">
-                <ANNOTATION_VALUE>np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17098,7 +17098,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13767" ANNOTATION_REF="a12266">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17803,7 +17803,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13906" ANNOTATION_REF="a12405">
-                <ANNOTATION_VALUE>np.d:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18483,7 +18483,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14043" ANNOTATION_REF="a12542">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18853,7 +18853,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14113" ANNOTATION_REF="a12612">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19078,7 +19078,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14158" ANNOTATION_REF="a12657">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20328,7 +20328,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14403" ANNOTATION_REF="a12902">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20763,7 +20763,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14489" ANNOTATION_REF="a12988">
-                <ANNOTATION_VALUE>np.d:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:voc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20948,7 +20948,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14525" ANNOTATION_REF="a13024">
-                <ANNOTATION_VALUE>np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21038,7 +21038,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14542" ANNOTATION_REF="a13041">
-                <ANNOTATION_VALUE>np:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21233,7 +21233,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14581" ANNOTATION_REF="a13080">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22098,7 +22098,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14753" ANNOTATION_REF="a13252">
-                <ANNOTATION_VALUE>np.d:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22298,7 +22298,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14793" ANNOTATION_REF="a13292">
-                <ANNOTATION_VALUE>np.d:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22768,7 +22768,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14886" ANNOTATION_REF="a13385">
-                <ANNOTATION_VALUE>nc_np.d</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pn_np.d</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22878,7 +22878,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14908" ANNOTATION_REF="a13407">
-                <ANNOTATION_VALUE>np.d:dt_s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:dt_s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22888,7 +22888,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14910" ANNOTATION_REF="a13409">
-                <ANNOTATION_VALUE>np.d:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23358,7 +23358,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15001" ANNOTATION_REF="a13500">
-                <ANNOTATION_VALUE>np.d:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23638,7 +23638,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15057" ANNOTATION_REF="a13556">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23818,7 +23818,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15093" ANNOTATION_REF="a13592">
-                <ANNOTATION_VALUE>np.d:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24078,7 +24078,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15145" ANNOTATION_REF="a13644">
-                <ANNOTATION_VALUE>np.d:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.d:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24123,7 +24123,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15154" ANNOTATION_REF="a13653">
-                <ANNOTATION_VALUE>np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24223,7 +24223,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15174" ANNOTATION_REF="a13673">
-                <ANNOTATION_VALUE>np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26234,7 +26234,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16131" ANNOTATION_REF="a10586">
-                <ANNOTATION_VALUE>They pulled some taro and pinched off some cabage,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They pulled some taro and pinched off some cabbage,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

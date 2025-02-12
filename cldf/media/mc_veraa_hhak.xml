@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2101">
     <corpus c_name="veraa">
         <text t_name="hhak" annotators="Stefan Schnell" speaker="VR05">
-            <file f_name="mc_veraa_hhak" audio="mc_veraa_hhak.wav" updated="2019-05-08">
+            <file f_name="mc_veraa_hhak" audio="mc_veraa_hhak.wav" updated="2020-06-18">
                 <unit uid="0001" start_time="0" end_time="5123">
                     <utterance_id>veraa_hhak_0001</utterance_id>
                     <utterance>qōn̄ ne vōwal 'ama' kurkur</utterance>
@@ -129,7 +129,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>5003</refind>
                             <isnref>unused</isnref>
                         </segment>
@@ -1858,7 +1858,7 @@
                         <segment>
                             <gword>Rōu</gword>
                             <gloss>Rōu</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>5014</refind>
                         </segment>
                     </annotations>
@@ -1897,7 +1897,7 @@
                         <segment>
                             <gword>Rōu</gword>
                             <gloss>Rōu</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>5014</refind>
                         </segment>
                     </annotations>
@@ -5048,7 +5048,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>5003</refind>
                         </segment>
                         <segment>
@@ -5102,7 +5102,7 @@
                         <segment>
                             <gword>Ruō</gword>
                             <gloss>Ruō</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>5014</refind>
                         </segment>
                     </annotations>
@@ -5462,7 +5462,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                             <refind>5003</refind>
                         </segment>
                         <segment>
@@ -6504,7 +6504,7 @@
                         <segment>
                             <gword>Mulēmulēo</gword>
                             <gloss>Mulēmulēo</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6544,7 +6544,7 @@
                         <segment>
                             <gword>Mulēmulēmarinō</gword>
                             <gloss>Mulēmulēmarinō</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -7203,7 +7203,7 @@
                         <segment>
                             <gword>Marino</gword>
                             <gloss>Marino</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>5041</refind>
                         </segment>
                         <segment>
@@ -7397,7 +7397,7 @@
                         <segment>
                             <gword>Mulēo</gword>
                             <gloss>Mulēo</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                         </segment>
                         <segment>
                             <gword>so</gword>
@@ -7454,7 +7454,7 @@
                         <segment>
                             <gword>Marino</gword>
                             <gloss>Marino</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>5041</refind>
                         </segment>
                         <segment>
@@ -7873,7 +7873,7 @@
                         <segment>
                             <gword>Mulēmulēo</gword>
                             <gloss>Mulēmulēo</gloss>
-                            <graid>np.h:s_ds</graid>
+                            <graid>pn_np.h:s_ds</graid>
                             <refind>5039</refind>
                         </segment>
                         <segment>
@@ -7899,7 +7899,7 @@
                         <segment>
                             <gword>Mulēmarino</gword>
                             <gloss>Mulēmarino</gloss>
-                            <graid>np.h:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>5041</refind>
                         </segment>
                         <segment>
@@ -7922,7 +7922,7 @@
                         <segment>
                             <gword>Marino</gword>
                             <gloss>Marino</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>5041</refind>
                         </segment>
                         <segment>
@@ -8210,7 +8210,7 @@
                         <segment>
                             <gword>Mulēo</gword>
                             <gloss>Mulēo</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                             <refind>5039</refind>
                         </segment>
                         <segment>
@@ -10301,7 +10301,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>5003</refind>
                         </segment>
                         <segment>
@@ -11921,7 +11921,7 @@
                         <segment>
                             <gword>Rōw</gword>
                             <gloss>Rōw</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>5014</refind>
                         </segment>
                         <segment>
@@ -11971,7 +11971,7 @@
                         <segment>
                             <gword>Vunu</gword>
                             <gloss>Vunu</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>5003</refind>
                         </segment>
                         <segment>
@@ -13902,7 +13902,7 @@
                         <segment>
                             <gword>Ruō</gword>
                             <gloss>Ruō</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>5014</refind>
                         </segment>
                     </annotations>
@@ -14531,7 +14531,7 @@
                         <segment>
                             <gword>Ruō</gword>
                             <gloss>Ruō</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>5014</refind>
                         </segment>
                         <segment>

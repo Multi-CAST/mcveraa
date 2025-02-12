@@ -339,7 +339,7 @@ veraa	pala	0136	=n	=ART	=ln	=ln
 veraa	pala	0136	tēktēk	RED:speak	np:obl	np		obl	10013	
 veraa	pala	0136	mu-n	POSS.GEN-CS	rn	rn				
 veraa	pala	0136	e	PERS.ART	rn	rn				
-veraa	pala	0136	maru	uncle	np.h:poss	np	h	poss	10006	
+veraa	pala	0136	maru	uncle	rn_np.h:poss	rn_np	h	poss	10006	
 veraa	pala	0136	-ruō	-3DL	-rn_pro.h:poss	-rn_pro	h	poss	10005	
 veraa	pala	0136	#	#	#rc_rn	#rc_rn				
 veraa	pala	0136	a	REL	other	other				
@@ -413,7 +413,7 @@ veraa	pala	0141	'ama'	spirit	np:p	np		p	10016
 veraa	pala	0141	ē	DEM3	rn	rn				
 veraa	pala	0141	#	#	##	##				
 veraa	pala	0141	ZERO	ZERO	0.h:s	0	h	s	10004	
-veraa	pala	0141	ne	TAM2:3SG	ln_pro.h:s	ln_pro	h	s		
+veraa	pala	0141	ne	TAM2:3SG	lv-pro_h_s	lv-pro_h_s				
 veraa	pala	0141	'an̄	hand.move	v:pred	v		pred		
 veraa	pala	0141	kēl	back	rv	rv				
 veraa	pala	0141	wōl	DIR<wōl>	rv	rv				
@@ -454,7 +454,7 @@ veraa	pala	0144	ZERO	ZERO	0.2:s	0	2	s	10003
 veraa	pala	0144	kalrak	get.up	v:pred	v		pred		
 veraa	pala	0144	m̄ō	fast	rv	rv				
 veraa	pala	0145	#	#	##ds	##ds				
-veraa	pala	0145	gidu	1.PL.IN	pro.h:s	pro	h	s	10005	
+veraa	pala	0145	gidu	1.PL.IN	pro.1:s	pro	1	s	10005	
 veraa	pala	0145	=k	=TAM2	=lv	=lv				
 veraa	pala	0145	eh	HES	nc	nc				
 veraa	pala	0145	mulō	go	v:pred	v		pred		
