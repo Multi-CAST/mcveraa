@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1505">
+<multicast version="1606">
     <corpus c_name="veraa">
         <text t_name="pala" annotators="Stefan Schnell" speaker="VR10">
-            <file f_name="mc_veraa_palab" audio="mc_veraa_pala_b.wav" updated="2019-04-28">
+            <file f_name="mc_veraa_pala_b" audio="mc_veraa_pala_b.wav" updated="2019-04-28">
                 <unit uid="0098" start_time="0" end_time="9081">
                     <utterance_id>veraa_pala_0098</utterance_id>
                     <utterance>dērōlēm s dērōlēm susuō rekso dērōl man suō galan ēn n n̄ērsigi vōwal</utterance>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1505">
+<multicast version="1606">
     <corpus c_name="veraa">
         <text t_name="pala" annotators="Stefan Schnell" speaker="VR10">
-            <file f_name="mc_veraa_palaa" audio="mc_veraa_pala_a.wav" updated="2017-05-14">
+            <file f_name="mc_veraa_pala_a" audio="mc_veraa_pala_a.wav" updated="2019-04-28">
                 <unit uid="0001" start_time="2035" end_time="4409">
                     <utterance_id>veraa_pala_0001</utterance_id>
                     <utterance>qōn̄ ne vōwal e ruwa mē gunuruō</utterance>

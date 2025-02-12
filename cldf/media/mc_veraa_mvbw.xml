@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1505">
+<multicast version="1606">
     <corpus c_name="veraa">
         <text t_name="mvbw" annotators="Stefan Schnell" speaker="VR09">
             <file f_name="mc_veraa_mvbw" audio="mc_veraa_mvbw.wav" updated="2016-05-14">

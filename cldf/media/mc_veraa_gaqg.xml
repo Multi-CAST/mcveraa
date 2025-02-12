@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1505">
+<multicast version="1606">
     <corpus c_name="veraa">
         <text t_name="gaqg" annotators="Stefan Schnell" speaker="VR04">
             <file f_name="mc_veraa_gaqg" audio="mc_veraa_gaqg.wav" updated="2016-05-12">
