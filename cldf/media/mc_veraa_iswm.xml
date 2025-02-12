@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="veraa">
   <text t_name="iswm" annotators="Stefan Schnell" speaker="VR07">
-   <file f_name="mc_veraa_iswm" audio="mc_veraa_iswm.wav" updated="2022-07-25">
+   <file f_name="mc_veraa_iswm" audio="mc_veraa_iswm.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="7750">
      <utterance_id>veraa_iswm_0001</utterance_id>
      <utterance>itok nēn tēk ... kaka ... nok kakan neln̄o vu' 'agēnē</utterance>
@@ -15905,7 +15905,7 @@
       <segment>
        <gword>#</gword>
        <gloss>#</gloss>
-       <graid>#ds.ac</graid>
+       <graid>#ds_ac</graid>
       </segment>
       <segment>
        <gword>mana-gi</gword>
